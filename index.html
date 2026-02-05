@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diatessaron-TB Web Reader</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <header class="mobile-header">
+        <h1>Diatessaron-TB</h1>
+        <button id="menu-toggle">☰ Chapters</button>
+    </header>
+
+    <div class="container">
+        <!-- Sidebar Navigation -->
+        <nav id="chapter-nav">
+            <h2>Chapters</h2>
+            <ul id="chapter-list">
+                <!-- Chapter links will be injected here -->
+            </ul>
+        </nav>
+
+        <!-- Main Text View -->
+        <main>
+            <div id="sticky-header" class="hidden">
+                <span id="current-ref">Select a verse</span>
+            </div>
+            <div id="reader-view">
+                <!-- Text stream will be injected here -->
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

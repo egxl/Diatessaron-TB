@@ -1,0 +1,29 @@
+{
+  "chapters": [
+    {
+      "title": "BAB I",
+      "verses": [
+        {
+          "id": 6,
+          "ref": "Luke 1:5",
+          "text": "Pada zaman Herodes, raja Yudea, adalah seorang imam yang bernama Zakharia dari rombongan Abia. Isterinya juga berasal dari keturunan Harun, namanya Elisabet."
+        },
+        {
+          "id": 7,
+          "ref": "Luke 1:6",
+          "text": "Keduanya adalah benar di hadapan Allah dan hidup menurut segala perintah dan ketetapan Tuhan dengan tidak bercacat."
+        }
+      ]
+    },
+    {
+      "title": "BAB II",
+      "verses": [
+        {
+          "id": 8,
+          "ref": "Luke 1:7",
+          "text": "Tetapi mereka tidak mempunyai anak, sebab Elisabet mandul dan keduanya telah lanjut umurnya."
+        }
+      ]
+    }
+  ]
+}
