@@ -1,0 +1,14 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "title": "BAB I",
+      "file": "bab_1.json"
+    },
+    {
+      "id": 2,
+      "title": "BAB II",
+      "file": "bab_2.json"
+    }
+  ]
+}

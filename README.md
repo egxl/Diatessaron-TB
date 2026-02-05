@@ -6,18 +6,21 @@ A static web reader for the Diatessaron (Gospel Harmony) in Indonesian (Terjemah
 
 - **Continuous text stream** for immersive reading
 - **Chapter navigation** via sidebar (desktop) or dropdown (mobile)
+- **Lazy loading** - chapters load on demand
 - **Verse highlighting** on click with sticky header showing reference
-- **Responsive design** with serif typography for book-like readability
+- **Responsive design** with serif typography
 
 ## File Structure
 
 ```
 Diatessaron-TB/
-├── data.json        # Parsed text data
-├── parser.py        # Python script to parse raw text
-├── index.html       # Main HTML file
-├── styles.css       # Stylesheet
-├── script.js        # Frontend logic
+├── data/              # Chapter JSON files (generated)
+│   ├── index.json
+│   ├── bab_1.json
+│   └── ...
+├── index.html
+├── styles.css
+├── script.js
 └── README.md
 ```
 
@@ -39,14 +42,22 @@ BAB II
 ### 2. Run the Parser
 
 ```bash
+cd tools
 python parser.py your_text_file.txt
 ```
 
-This generates/overwrites `data.json`.
+This generates files in `data/` folder.
 
 ### 3. Open the Reader
 
-Open `index.html` in your browser to view the content.
+Open `index.html` in your browser (requires a local server for fetch to work).
+
+```bash
+# Simple Python server
+python -m http.server 8000
+```
+
+Then visit `http://localhost:8000`
 
 ## License
 
