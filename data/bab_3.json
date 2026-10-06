@@ -1,0 +1,658 @@
+{
+  "id": 3,
+  "title": "BAB 3",
+  "source_post_id": "p51078",
+  "canonical_books": [
+    "John",
+    "Luke",
+    "Matthew"
+  ],
+  "total_segments": 92,
+  "diatessaron_verse_range": "1, 2 - 56",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1, 2",
+      "ref": "Matthew 2:1[b",
+      "arabic_page": null,
+      "text": "datanglah orang-orang majus dari Timur ke Yerusalem,"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "1, 2",
+      "ref": "Matthew 2:2",
+      "arabic_page": null,
+      "text": "dan bertanya-tanya: \"Di manakah Dia, raja orang Yahudi yang baru dilahirkan itu? Kami telah melihat bintang-Nya di Timur dan kami datang"
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 2:2",
+      "arabic_page": null,
+      "text": "untuk menyembah Dia.\""
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 2:3",
+      "arabic_page": null,
+      "text": "Ketika raja Herodes mendengar hal itu terkejutlah ia beserta seluruh"
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 2:3",
+      "arabic_page": null,
+      "text": "Yerusalem."
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 2:4",
+      "arabic_page": null,
+      "text": "Maka dikumpulkannya semua imam kepala dan ahli Taurat"
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 2:4",
+      "arabic_page": null,
+      "text": "bangsa Yahudi, lalu dimintanya keterangan dari mereka, di mana Mesias akan dilahirkan."
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 2:5",
+      "arabic_page": null,
+      "text": "Mereka berkata kepadanya: \"Di Betlehem di tanah Yudea, karena demikianlah ada tertulis dalam kitab nabi:"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "6",
+      "ref": "Matthew 2:6",
+      "arabic_page": null,
+      "text": "Dan engkau Betlehem, tanah Yehuda, engkau sekali-kali bukanlah yang terkecil di antara mereka yang memerintah Yehuda, karena dari padamulah akan bangkit seorang pemimpin, yang akan menggembalakan umat-Ku Israel.\""
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "7",
+      "ref": "Matthew 2:7",
+      "arabic_page": null,
+      "text": "Lalu dengan diam-diam Herodes memanggil orang-orang majus itu dan dengan teliti bertanya kepada mereka, bilamana"
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 2:7",
+      "arabic_page": null,
+      "text": "bintang itu nampak."
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 2:8",
+      "arabic_page": null,
+      "text": "Kemudian ia menyuruh mereka ke Betlehem, katanya: \"Pergi dan selidikilah dengan seksama hal-hal mengenai Anak itu dan segera sesudah kamu menemukan Dia,"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 2:8",
+      "arabic_page": null,
+      "text": "kabarkanlah kepadaku supaya akupun datang menyembah Dia.\""
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 2:9",
+      "arabic_page": 11,
+      "text": "Setelah mendengar kata-kata raja itu, berangkatlah mereka. Dan lihatlah, bintang yang mereka lihat di Timur itu mendahului mereka hingga tiba dan berhenti di atas tempat, di mana Anak itu"
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "10, 11",
+      "ref": "Matthew 2:9",
+      "arabic_page": 11,
+      "text": "berada."
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "10, 11",
+      "ref": "Matthew 2:10",
+      "arabic_page": 11,
+      "text": "Ketika mereka melihat bintang itu, sangat bersukacitalah mereka."
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "10, 11",
+      "ref": "Matthew 2:11",
+      "arabic_page": 11,
+      "text": "Maka masuklah mereka ke dalam rumah itu dan melihat Anak itu bersama Maria, ibu-Nya, lalu sujud menyembah Dia. Merekapun membuka tempat harta bendanya dan mempersembahkan persembahan kepada-Nya, yaitu emas,"
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "12",
+      "ref": "Matthew 2:11",
+      "arabic_page": 11,
+      "text": "kemenyan dan mur."
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "12",
+      "ref": "Matthew 2:12",
+      "arabic_page": 11,
+      "text": "Dan karena diperingatkan dalam mimpi, supaya jangan kembali kepada Herodes, maka pulanglah mereka ke negerinya melalui jalan lain."
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "13",
+      "ref": "Matthew 2:13",
+      "arabic_page": 11,
+      "text": "Setelah orang-orang majus itu berangkat, nampaklah malaikat Tuhan kepada Yusuf dalam mimpi dan berkata: \"Bangunlah, ambillah Anak itu serta ibu-Nya, larilah ke Mesir dan tinggallah di sana sampai Aku berfirman kepadamu, karena Herodes akan mencari Anak itu"
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "14",
+      "ref": "Matthew 2:13",
+      "arabic_page": 11,
+      "text": "untuk membunuh Dia.\"."
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "14",
+      "ref": "Matthew 2:14",
+      "arabic_page": 11,
+      "text": "Maka Yusufpun bangunlah, diambilnya Anak itu serta ibu-Nya malam itu juga, lalu"
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "15",
+      "ref": "Matthew 2:14",
+      "arabic_page": 11,
+      "text": "menyingkir ke Mesir,"
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "15",
+      "ref": "Matthew 2:15",
+      "arabic_page": 11,
+      "text": "dan tinggal di sana hingga Herodes mati. Hal itu terjadi supaya genaplah yang difirmankan Tuhan oleh nabi: \"Dari"
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "16",
+      "ref": "Matthew 2:15",
+      "arabic_page": 11,
+      "text": "Mesir Kupanggil Anak-Ku.\""
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "16",
+      "ref": "Matthew 2:16",
+      "arabic_page": 11,
+      "text": "Ketika Herodes tahu, bahwa ia telah diperdayakan oleh orang-orang majus itu, ia sangat marah. Lalu ia menyuruh membunuh semua anak di Betlehem dan sekitarnya, yaitu anak-anak yang berumur dua tahun ke bawah, sesuai dengan waktu"
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "17",
+      "ref": "Matthew 2:16",
+      "arabic_page": 11,
+      "text": "yang dapat diketahuinya dari orang-orang majus itu."
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "17",
+      "ref": "Matthew 2:17",
+      "arabic_page": 11,
+      "text": "Dengan demikian genaplah firman yang disampaikan oleh nabi Yeremia:"
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "18",
+      "ref": "Matthew 2:18",
+      "arabic_page": 11,
+      "text": "\"Terdengarlah suara di Rama, tangis dan ratap yang amat sedih; Rahel menangisi anak-anaknya dan ia tidak mau dihibur, sebab mereka tidak ada lagi.\""
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "19",
+      "ref": "Matthew 2:19",
+      "arabic_page": 11,
+      "text": "Setelah Herodes mati, nampaklah malaikat Tuhan kepada"
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "20",
+      "ref": "Matthew 2:19",
+      "arabic_page": 11,
+      "text": "Yusuf dalam mimpi di Mesir, katanya:"
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "20",
+      "ref": "Matthew 2:20",
+      "arabic_page": 12,
+      "text": "\"Bangunlah, ambillah Anak itu serta ibu-Nya dan berangkatlah ke tanah Israel, karena mereka yang hendak membunuh Anak itu, sudah mati.\""
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "21",
+      "ref": "Matthew 2:21",
+      "arabic_page": 12,
+      "text": "Lalu Yusufpun bangunlah, diambilnya Anak itu serta ibu-Nya dan pergi ke tanah"
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "22",
+      "ref": "Matthew 2:21",
+      "arabic_page": 12,
+      "text": "Israel."
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "22",
+      "ref": "Matthew 2:22",
+      "arabic_page": 12,
+      "text": "Tetapi setelah didengarnya, bahwa Arkhelaus menjadi raja di Yudea menggantikan Herodes, ayahnya, ia takut ke sana. Karena dinasihati dalam mimpi,"
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "23",
+      "ref": "Matthew 2:22",
+      "arabic_page": 12,
+      "text": "pergilah Yusuf ke daerah Galilea."
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "23",
+      "ref": "Matthew 2:23",
+      "arabic_page": 12,
+      "text": "Setibanya di sana iapun tinggal di sebuah kota yang bernama Nazaret. Hal itu terjadi supaya genaplah firman yang disampaikan oleh nabi-nabi, bahwa Ia akan disebut: Orang Nazaret."
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "24",
+      "ref": "Luke 2:40",
+      "arabic_page": 12,
+      "text": "Anak itu bertambah besar dan menjadi kuat, penuh hikmat, dan kasih karunia Allah ada pada-Nya."
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "25",
+      "ref": "Luke 2:41",
+      "arabic_page": 12,
+      "text": "Tiap-tiap tahun orang tua Yesus pergi ke Yerusalem pada hari raya Paskah."
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "26",
+      "ref": "Luke 2:42",
+      "arabic_page": 12,
+      "text": "Ketika Yesus telah berumur dua belas tahun pergilah mereka ke Yerusalem seperti yang lazim"
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "27",
+      "ref": "Luke 2:42",
+      "arabic_page": 12,
+      "text": "pada hari raya itu."
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "27",
+      "ref": "Luke 2:43",
+      "arabic_page": 12,
+      "text": "Sehabis hari-hari perayaan itu, ketika mereka berjalan pulang,"
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "28",
+      "ref": "Luke 2:43",
+      "arabic_page": 12,
+      "text": "tinggallah Yesus di Yerusalem tanpa diketahui orang tua-Nya."
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "28",
+      "ref": "Luke 2:44",
+      "arabic_page": 12,
+      "text": "Karena mereka menyangka bahwa Ia ada di antara orang-orang seperjalanan mereka, berjalanlah mereka sehari perjalanan jauhnya, lalu mencari Dia di antara kaum keluarga dan kenalan mereka."
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "29",
+      "ref": "Luke 2:45",
+      "arabic_page": 12,
+      "text": "Karena mereka tidak menemukan Dia, kembalilah mereka ke Yerusalem sambil terus mencari Dia."
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "30",
+      "ref": "Luke 2:46",
+      "arabic_page": 12,
+      "text": "Sesudah tiga hari mereka menemukan Dia dalam Bait Allah; Ia sedang duduk di tengah-tengah alim ulama,"
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "31",
+      "ref": "Luke 2:46",
+      "arabic_page": 12,
+      "text": "sambil mendengarkan mereka dan mengajukan pertanyaan-pertanyaan kepada mereka."
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "31",
+      "ref": "Luke 2:47",
+      "arabic_page": 12,
+      "text": "Dan semua orang yang mendengar Dia sangat heran akan"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "32",
+      "ref": "Luke 2:47",
+      "arabic_page": 12,
+      "text": "kecerdasan-Nya dan segala jawab yang diberikan-Nya."
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "32",
+      "ref": "Luke 2:48",
+      "arabic_page": 12,
+      "text": "Dan ketika orang tua-Nya melihat Dia, tercenganglah mereka, lalu kata ibu-Nya kepada-Nya: \"Nak, mengapakah Engkau berbuat demikian terhadap kami? Bapa-Mu dan aku"
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "33",
+      "ref": "Luke 2:48",
+      "arabic_page": 12,
+      "text": "dengan cemas mencari Engkau.\""
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "33",
+      "ref": "Luke 2:49",
+      "arabic_page": 12,
+      "text": "Jawab-Nya kepada mereka: \"Mengapa"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "34",
+      "ref": "Luke 2:49",
+      "arabic_page": 12,
+      "text": "kamu mencari Aku? Tidakkah kamu tahu, bahwa Aku harus berada di dalam rumah Bapa-Ku?\""
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "34",
+      "ref": "Luke 2:50",
+      "arabic_page": 12,
+      "text": "Tetapi mereka"
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "35",
+      "ref": "Luke 2:50",
+      "arabic_page": 12,
+      "text": "tidak mengerti apa yang dikatakan-Nya kepada mereka."
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "35",
+      "ref": "Luke 2:51",
+      "arabic_page": 12,
+      "text": "Lalu Ia pulang bersama-sama mereka ke Nazaret; dan Ia tetap hidup dalam asuhan mereka. Dan ibu-Nya menyimpan semua perkara itu di dalam hatinya."
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "36",
+      "ref": "Luke 2:52",
+      "arabic_page": 13,
+      "text": "Dan Yesus makin bertambah besar dan bertambah hikmat-Nya dan besar-Nya, dan makin dikasihi oleh Allah dan manusia."
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "37",
+      "ref": "Luke 3:1",
+      "arabic_page": 13,
+      "text": "Dalam tahun kelima belas dari pemerintahan Kaisar Tiberius, ketika Pontius Pilatus menjadi wali negeri Yudea, dan Herodes raja wilayah Galilea, Filipus, saudaranya, raja wilayah Iturea dan Trakhonitis, dan"
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "38",
+      "ref": "Luke 3:1",
+      "arabic_page": 13,
+      "text": "Lisanias raja wilayah Abilene,"
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "38",
+      "ref": "Luke 3:2",
+      "arabic_page": 13,
+      "text": "pada waktu Hanas dan Kayafas menjadi Imam Besar, datanglah firman Allah kepada Yohanes, anak Zakharia, di"
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "39",
+      "ref": "Luke 3:2",
+      "arabic_page": 13,
+      "text": "padang gurun."
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "39",
+      "ref": "Luke 3:3",
+      "arabic_page": 13,
+      "text": "Maka datanglah Yohanes ke seluruh daerah Yordan dan menyerukan: \"Bertobatlah dan berilah dirimu"
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "40",
+      "ref": "Luke 3:3",
+      "arabic_page": 13,
+      "text": "dibaptis dan Allah akan mengampuni dosamu."
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "40",
+      "ref": "Matthew 3:1[b",
+      "arabic_page": 13,
+      "text": "Tampillah Yohanes Pembaptis"
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "41",
+      "ref": "Matthew 3:1[b",
+      "arabic_page": 13,
+      "text": "di padang gurun Yudea dan memberitakan:"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "41",
+      "ref": "Matthew 3:2",
+      "arabic_page": 13,
+      "text": "\"Bertobatlah, sebab Kerajaan Sorga sudah dekat!\""
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "42",
+      "ref": "Matthew 3:3[a",
+      "arabic_page": 13,
+      "text": "Sesungguhnya dialah yang dimaksudkan nabi Yesaya ketika ia berkata:"
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "42",
+      "ref": "Matthew 3:3[a",
+      "arabic_page": 13,
+      "text": "\"Ada suara orang yang berseru-seru di padang gurun:"
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "43",
+      "ref": "Luke 3:4[b",
+      "arabic_page": 13,
+      "text": "Persiapkanlah jalan untuk Tuhan, luruskanlah jalan bagi-Nya."
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "44",
+      "ref": "Luke 3:5",
+      "arabic_page": 13,
+      "text": "Setiap lembah akan ditimbun dan setiap gunung dan bukit akan menjadi rata, yang berliku-liku akan diluruskan, yang berlekuk-lekuk akan diratakan,"
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "45",
+      "ref": "Luke 3:6",
+      "arabic_page": 13,
+      "text": "dan semua orang akan melihat keselamatan yang dari Tuhan.\""
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "46",
+      "ref": "John 1:7",
+      "arabic_page": 13,
+      "text": "ia datang sebagai saksi untuk memberi kesaksian tentang terang itu,"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "47",
+      "ref": "John 1:7",
+      "arabic_page": 13,
+      "text": "supaya oleh dia semua orang menjadi percaya."
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "47",
+      "ref": "John 1:8",
+      "arabic_page": 13,
+      "text": "Ia bukan terang itu, tetapi ia"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "48",
+      "ref": "John 1:8",
+      "arabic_page": 13,
+      "text": "harus memberi kesaksian tentang terang itu."
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "48",
+      "ref": "John 1:9",
+      "arabic_page": 13,
+      "text": "Terang yang sesungguhnya, yang menerangi"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "49",
+      "ref": "John 1:9",
+      "arabic_page": 13,
+      "text": "setiap orang, sedang datang ke dalam dunia."
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "49",
+      "ref": "John 1:10",
+      "arabic_page": 13,
+      "text": "Ia telah ada di dalam dunia dan dunia dijadikan"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "50",
+      "ref": "John 1:10",
+      "arabic_page": 13,
+      "text": "oleh-Nya, tetapi dunia"
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "51",
+      "ref": "John 1:10",
+      "arabic_page": 13,
+      "text": "tidak mengenal-Nya."
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "51",
+      "ref": "John 1:11",
+      "arabic_page": 13,
+      "text": "Ia datang kepada milik kepunyaan-Nya, tetapi orang-orang kepunyaan-Nya itu tidak menerima-Nya."
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "51",
+      "ref": "John 1:12",
+      "arabic_page": 13,
+      "text": "Tetapi semua orang yang menerima-Nya diberi-Nya kuasa supaya"
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "52",
+      "ref": "John 1:12",
+      "arabic_page": 13,
+      "text": "menjadi anak-anak Allah, yaitu mereka yang percaya dalam nama-Nya;"
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "52",
+      "ref": "John 1:13",
+      "arabic_page": 13,
+      "text": "orang-orang yang diperanakkan bukan dari darah atau dari daging,"
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "53",
+      "ref": "John 1:13",
+      "arabic_page": 13,
+      "text": "bukan pula secara jasmani oleh keinginan seorang laki-laki, melainkan dari Allah."
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "53",
+      "ref": "John 1:14",
+      "arabic_page": 13,
+      "text": "Firman itu telah menjadi manusia, dan diam di antara kita, dan kita telah melihat kemuliaan-Nya, yaitu kemuliaan yang diberikan kepada-Nya"
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "54",
+      "ref": "John 1:14",
+      "arabic_page": 13,
+      "text": "sebagai Anak Tunggal Bapa, penuh kasih karunia dan kebenaran."
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "54",
+      "ref": "John 1:15",
+      "arabic_page": 14,
+      "text": "Yohanes memberi kesaksian tentang Dia dan berseru, katanya: \"Inilah Dia, yang kumaksudkan ketika aku berkata: Kemudian dari padaku akan datang Dia"
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "55",
+      "ref": "John 1:15",
+      "arabic_page": 14,
+      "text": "yang telah mendahului aku, sebab Dia telah ada sebelum aku.\""
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "55",
+      "ref": "John 1:16",
+      "arabic_page": 14,
+      "text": "Karena dari kepenuhan-Nya kita semua"
+    },
+    {
+      "id": 91,
+      "diatessaron_verse": "56",
+      "ref": "John 1:16",
+      "arabic_page": 14,
+      "text": "telah menerima kasih karunia demi kasih karunia;"
+    },
+    {
+      "id": 92,
+      "diatessaron_verse": "56",
+      "ref": "John 1:17",
+      "arabic_page": 14,
+      "text": "sebab hukum Taurat diberikan oleh Musa, tetapi kasih karunia dan kebenaran datang oleh Yesus Kristus."
+    }
+  ]
+}

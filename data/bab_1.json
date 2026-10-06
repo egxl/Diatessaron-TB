@@ -1,15 +1,888 @@
 {
-  "title": "BAB I",
+  "id": 1,
+  "title": "BAB 1",
+  "source_post_id": "p51041",
+  "canonical_books": [
+    "John",
+    "Luke"
+  ],
+  "total_segments": 125,
+  "diatessaron_verse_range": "1 - 81",
   "verses": [
     {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "John 1:1",
+      "arabic_page": null,
+      "text": "Pada mulanya adalah Firman; Firman itu bersama-sama dengan Allah dan"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2,3",
+      "ref": "John 1:1",
+      "arabic_page": null,
+      "text": "Firman itu adalah Allah."
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2,3",
+      "ref": "John 1:2",
+      "arabic_page": null,
+      "text": "Ia pada mulanya bersama-sama dengan Allah."
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "2,3",
+      "ref": "John 1:3",
+      "arabic_page": null,
+      "text": "Segala sesuatu dijadikan oleh Dia, dan"
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "4",
+      "ref": "John 1:3",
+      "arabic_page": null,
+      "text": "tanpa Dia tidak ada suatupun yang telah jadi dari segala yang telah dijadikan."
+    },
+    {
       "id": 6,
-      "ref": "Luke 1:5",
-      "text": "Pada zaman Herodes, raja Yudea, adalah seorang imam yang bernama Zakharia dari rombongan Abia. Isterinya juga berasal dari keturunan Harun, namanya Elisabet."
+      "diatessaron_verse": "4",
+      "ref": "John 1:4",
+      "arabic_page": null,
+      "text": "Dalam Dia ada hidup, dan hidup itu"
     },
     {
       "id": 7,
+      "diatessaron_verse": "5",
+      "ref": "John 1:4",
+      "arabic_page": null,
+      "text": "adalah terang manusia."
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "John 1:5",
+      "arabic_page": null,
+      "text": "Terang itu bercahaya di dalam kegelapan dan kegelapan itu tidak menguasainya."
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "6",
+      "ref": "Luke 1:5",
+      "arabic_page": null,
+      "text": "Pada zaman Herodes, raja Yudea, adalah seorang imam yang bernama Zakharia dari rombongan Abia. Isterinya juga berasal dari keturunan Harun, namanya"
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "7",
+      "ref": "Luke 1:5",
+      "arabic_page": null,
+      "text": "Elisabet."
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "7",
       "ref": "Luke 1:6",
-      "text": "Keduanya adalah benar di hadapan Allah dan hidup menurut segala perintah dan ketetapan Tuhan dengan tidak bercacat."
+      "arabic_page": null,
+      "text": "Keduanya adalah benar di hadapan Allah dan hidup menurut segala perintah,"
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "8",
+      "ref": "Luke 1:6",
+      "arabic_page": null,
+      "text": "dan ketetapan Tuhan dengan tidak bercacat."
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "8",
+      "ref": "Luke 1:7",
+      "arabic_page": null,
+      "text": "Tetapi mereka tidak mempunyai anak, sebab"
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "9",
+      "ref": "Luke 1:7",
+      "arabic_page": null,
+      "text": "Elisabet mandul dan keduanya telah lanjut umurnya."
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9",
+      "ref": "Luke 1:8",
+      "arabic_page": null,
+      "text": "Pada suatu kali, waktu tiba giliran rombongannya, Zakharia melakukan"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "10",
+      "ref": "Luke 1:8",
+      "arabic_page": 2,
+      "text": "tugas keimaman di hadapan Tuhan,"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "10",
+      "ref": "Luke 1:9",
+      "arabic_page": 2,
+      "text": "Sebab ketika diundi, sebagaimana lazimnya, untuk menentukan imam yang bertugas, dialah yang ditunjuk untuk masuk ke dalam"
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "11",
+      "ref": "Luke 1:9",
+      "arabic_page": 2,
+      "text": "Bait Suci dan membakar ukupan di situ."
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "11",
+      "ref": "Luke 1:10",
+      "arabic_page": 2,
+      "text": "Sementara itu seluruh umat berkumpul di luar dan sembahyang. Waktu itu adalah"
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "12",
+      "ref": "Luke 1:10",
+      "arabic_page": 2,
+      "text": "waktu pembakaran ukupan."
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "12",
+      "ref": "Luke 1:11",
+      "arabic_page": 2,
+      "text": "Maka tampaklah kepada Zakharia seorang malaikat Tuhan berdiri"
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "13",
+      "ref": "Luke 1:11",
+      "arabic_page": 2,
+      "text": "di sebelah kanan mezbah pembakaran ukupan."
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "13",
+      "ref": "Luke 1:12",
+      "arabic_page": 2,
+      "text": "Melihat hal itu ia terkejut"
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "14",
+      "ref": "Luke 1:12",
+      "arabic_page": 2,
+      "text": "dan menjadi takut."
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "14",
+      "ref": "Luke 1:13",
+      "arabic_page": 2,
+      "text": "Tetapi malaikat itu berkata kepadanya: \"Jangan takut, hai Zakharia, sebab doamu telah dikabulkan dan Elisabet, isterimu, akan melahirkan seorang anak laki-laki bagimu dan haruslah engkau"
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "15",
+      "ref": "Luke 1:13",
+      "arabic_page": 2,
+      "text": "menamai dia Yohanes."
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "15",
+      "ref": "Luke 1:14",
+      "arabic_page": 2,
+      "text": "Engkau akan bersukacita dan bergembira, bahkan banyak orang akan bersukacita"
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "16",
+      "ref": "Luke 1:14",
+      "arabic_page": 2,
+      "text": "atas kelahirannya itu."
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "16",
+      "ref": "Luke 1:15",
+      "arabic_page": 2,
+      "text": "Sebab ia akan besar di hadapan Tuhan dan ia tidak akan minum anggur atau minuman keras dan ia akan penuh dengan Roh Kudus mulai dari"
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "17",
+      "ref": "Luke 1:15",
+      "arabic_page": 2,
+      "text": "rahim ibunya;"
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "17",
+      "ref": "Luke 1:16",
+      "arabic_page": 2,
+      "text": "ia akan membuat banyak orang Israel berbalik kepada Tuhan,"
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "18",
+      "ref": "Luke 1:16",
+      "arabic_page": 2,
+      "text": "Allah mereka,"
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "18",
+      "ref": "Luke 1:17",
+      "arabic_page": 2,
+      "text": "dan ia akan berjalan mendahului Tuhan dalam roh dan kuasa Elia untuk membuat hati bapa-bapa berbalik kepada anak-anaknya dan hati orang-orang durhaka kepada pikiran orang-orang benar dan dengan demikian menyiapkan bagi Tuhan suatu umat yang layak bagi-Nya.\""
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "19",
+      "ref": "Luke 1:18",
+      "arabic_page": 2,
+      "text": "Lalu kata Zakharia kepada malaikat itu: \"Bagaimanakah aku tahu, bahwa hal ini akan terjadi? Sebab aku sudah tua"
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "20",
+      "ref": "Luke 1:18",
+      "arabic_page": 2,
+      "text": "dan isteriku sudah lanjut umurnya.\""
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "20",
+      "ref": "Luke 1:19",
+      "arabic_page": 2,
+      "text": "Jawab malaikat itu kepadanya: \"Akulah Gabriel yang melayani Allah dan aku telah diutus untuk berbicara dengan engkau dan untuk menyampaikan"
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "21",
+      "ref": "Luke 1:19",
+      "arabic_page": 2,
+      "text": "kabar baik ini kepadamu."
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "21",
+      "ref": "Luke 1:20",
+      "arabic_page": 2,
+      "text": "Sesungguhnya engkau akan menjadi bisu dan tidak dapat berkata-kata sampai kepada hari, di mana semuanya ini terjadi, karena engkau tidak percaya"
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "22",
+      "ref": "Luke 1:20",
+      "arabic_page": 2,
+      "text": "akan perkataanku yang akan nyata kebenarannya pada waktunya.\""
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "22",
+      "ref": "Luke 1:21",
+      "arabic_page": 3,
+      "text": "Sementara itu orang banyak menanti-nantikan Zakharia. Mereka menjadi heran, bahwa ia begitu lama berada dalam Bait Suci."
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "23",
+      "ref": "Luke 1:22",
+      "arabic_page": 3,
+      "text": "Ketika ia keluar, ia tidak dapat berkata-kata kepada mereka dan mengertilah mereka, bahwa ia telah melihat suatu penglihatan di dalam Bait Suci. Lalu ia memberi isyarat kepada mereka,"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "24",
+      "ref": "Luke 1:22",
+      "arabic_page": 3,
+      "text": "sebab ia tetap bisu."
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "24",
+      "ref": "Luke 1:23",
+      "arabic_page": 3,
+      "text": "Ketika selesai jangka waktu tugas jabatannya, ia pulang ke rumah."
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "25",
+      "ref": "Luke 1:24",
+      "arabic_page": 3,
+      "text": "Beberapa lama kemudian Elisabet, isterinya, mengandung dan selama lima"
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "26",
+      "ref": "Luke 1:24",
+      "arabic_page": 3,
+      "text": "bulan ia tidak menampakkan diri, katanya:"
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "26",
+      "ref": "Luke 1:25",
+      "arabic_page": 3,
+      "text": "\"Inilah suatu perbuatan Tuhan bagiku, dan sekarang Ia berkenan menghapuskan aibku di depan orang.\""
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "27",
+      "ref": "Luke 1:26",
+      "arabic_page": 3,
+      "text": "Dalam bulan yang keenam Allah menyuruh malaikat Gabriel pergi ke sebuah kota"
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "28",
+      "ref": "Luke 1:26",
+      "arabic_page": 3,
+      "text": "di Galilea bernama Nazaret,"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "28",
+      "ref": "Luke 1:27",
+      "arabic_page": 3,
+      "text": "kepada seorang perawan yang bertunangan dengan seorang bernama Yusuf dari"
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "29",
+      "ref": "Luke 1:27",
+      "arabic_page": 3,
+      "text": "keluarga Daud; nama perawan itu Maria."
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "29",
+      "ref": "Luke 1:28",
+      "arabic_page": 3,
+      "text": "Ketika malaikat itu masuk ke rumah Maria, ia berkata: \"Salam, hai engkau yang dikaruniai, Tuhan"
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "30",
+      "ref": "Luke 1:28",
+      "arabic_page": 3,
+      "text": "menyertai engkau.\""
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "30",
+      "ref": "Luke 1:29",
+      "arabic_page": 3,
+      "text": "Maria terkejut mendengar perkataan itu, lalu bertanya"
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "31",
+      "ref": "Luke 1:29",
+      "arabic_page": 3,
+      "text": "di dalam hatinya, apakah arti salam itu."
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "31",
+      "ref": "Luke 1:30",
+      "arabic_page": 3,
+      "text": "Kata malaikat itu"
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "32",
+      "ref": "Luke 1:30",
+      "arabic_page": 3,
+      "text": "kepadanya:\"Jangan takut, hai Maria, sebab engkau beroleh kasih karunia di hadapan Allah."
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "32",
+      "ref": "Luke 1:31",
+      "arabic_page": 3,
+      "text": "Sesungguhnya engkau akan mengandung"
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "33",
+      "ref": "Luke 1:31",
+      "arabic_page": 3,
+      "text": "dan akan melahirkan seorang anak laki-laki dan hendaklah engkau menamai Dia Yesus."
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "33",
+      "ref": "Luke 1:32",
+      "arabic_page": 3,
+      "text": "Ia akan menjadi besar dan akan disebut Anak Allah Yang Mahatinggi. Dan Tuhan Allah akan mengaruniakan kepada-Nya takhta"
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "34",
+      "ref": "Luke 1:32",
+      "arabic_page": 3,
+      "text": "Daud, bapa leluhur-Nya,"
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "34",
+      "ref": "Luke 1:33",
+      "arabic_page": 3,
+      "text": "dan Ia akan menjadi raja atas kaum keturunan Yakub sampai selama-lamanya dan Kerajaan-Nya"
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "35",
+      "ref": "Luke 1:33",
+      "arabic_page": 3,
+      "text": "tidak akan berkesudahan.\""
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "35",
+      "ref": "Luke 1:34",
+      "arabic_page": 3,
+      "text": "Kata Maria kepada malaikat itu: \"Bagaimana hal itu mungkin terjadi,"
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "36",
+      "ref": "Luke 1:34",
+      "arabic_page": 3,
+      "text": "karena aku belum bersuami?\""
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "36",
+      "ref": "Luke 1:35",
+      "arabic_page": 4,
+      "text": "Jawab malaikat itu kepadanya: \"Roh Kudus akan turun atasmu dan kuasa Allah Yang Mahatinggi akan menaungi engkau; sebab itu anak yang akan kaulahirkan itu akan disebut kudus,"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "37",
+      "ref": "Luke 1:35",
+      "arabic_page": 4,
+      "text": "Anak Allah."
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "37",
+      "ref": "Luke 1:36",
+      "arabic_page": 4,
+      "text": "Dan sesungguhnya, Elisabet, sanakmu itu, iapun sedang mengandung seorang anak laki-laki pada hari"
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "38",
+      "ref": "Luke 1:36",
+      "arabic_page": 4,
+      "text": "tuanya dan inilah bulan yang keenam bagi dia, yang disebut mandul itu."
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "38",
+      "ref": "Luke 1:37",
+      "arabic_page": 4,
+      "text": "Sebab bagi Allah"
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "39",
+      "ref": "Luke 1:37",
+      "arabic_page": 4,
+      "text": "tidak ada yang mustahil.\""
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "39",
+      "ref": "Luke 1:38",
+      "arabic_page": 4,
+      "text": "Kata Maria: \"Sesungguhnya aku ini adalah hamba Tuhan; jadilah padaku menurut perkataanmu itu.\" Lalu malaikat itu meninggalkan dia."
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "40",
+      "ref": "Luke 1:39",
+      "arabic_page": 4,
+      "text": "Beberapa waktu kemudian berangkatlah Maria dan langsung berjalan ke pegunungan menuju sebuah"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "41",
+      "ref": "Luke 1:39",
+      "arabic_page": 4,
+      "text": "kota di Yehuda."
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "41",
+      "ref": "Luke 1:40",
+      "arabic_page": 4,
+      "text": "Di situ ia masuk ke rumah Zakharia dan memberi salam kepada"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "42",
+      "ref": "Luke 1:40",
+      "arabic_page": 4,
+      "text": "Elisabet."
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "42",
+      "ref": "Luke 1:41",
+      "arabic_page": 4,
+      "text": "Dan ketika Elisabet mendengar salam Maria, melonjaklah anak yang di dalam"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "43",
+      "ref": "Luke 1:41",
+      "arabic_page": 4,
+      "text": "rahimnya dan Elisabetpun penuh dengan Roh Kudus,"
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "43",
+      "ref": "Luke 1:42",
+      "arabic_page": 4,
+      "text": "lalu berseru dengan suara nyaring: \"Diberkatilah engkau di antara semua perempuan dan diberkatilah"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "44",
+      "ref": "Luke 1:42",
+      "arabic_page": 4,
+      "text": "buah rahimmu."
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "44",
+      "ref": "Luke 1:43",
+      "arabic_page": 4,
+      "text": "Siapakah aku ini sampai ibu Tuhanku"
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "45",
+      "ref": "Luke 1:43",
+      "arabic_page": 4,
+      "text": "datang mengunjungi aku?"
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "45",
+      "ref": "Luke 1:44",
+      "arabic_page": 4,
+      "text": "Sebab sesungguhnya, ketika salammu sampai kepada telingaku,"
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "46",
+      "ref": "Luke 1:44",
+      "arabic_page": 4,
+      "text": "anak yang di dalam rahimku melonjak kegirangan."
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "46",
+      "ref": "Luke 1:45",
+      "arabic_page": 4,
+      "text": "Dan berbahagialah ia, yang telah percaya,"
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "47",
+      "ref": "Luke 1:45",
+      "arabic_page": 4,
+      "text": "sebab apa yang dikatakan kepadanya dari Tuhan, akan terlaksana.\""
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "47",
+      "ref": "Luke 1:46",
+      "arabic_page": 4,
+      "text": "Lalu kata Maria:"
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "47",
+      "ref": "Luke 1:46",
+      "arabic_page": 4,
+      "text": "\"Jiwaku memuliakan Tuhan,"
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "48",
+      "ref": "Luke 1:47",
+      "arabic_page": 4,
+      "text": "dan hatiku bergembira karena Allah, Juruselamatku,"
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "49",
+      "ref": "Luke 1:48",
+      "arabic_page": 4,
+      "text": "sebab Ia telah memperhatikan kerendahan hamba-Nya. Sesungguhnya, mulai dari sekarang segala keturunan akan menyebut aku berbahagia,"
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "50",
+      "ref": "Luke 1:49",
+      "arabic_page": 4,
+      "text": "karena Yang Mahakuasa telah melakukan perbuatan-perbuatan besar kepadaku dan nama-Nya adalah kudus."
+    },
+    {
+      "id": 91,
+      "diatessaron_verse": "51",
+      "ref": "Luke 1:50",
+      "arabic_page": 4,
+      "text": "Dan rahmat-Nya turun-temurun atas orang yang takut akan Dia."
+    },
+    {
+      "id": 92,
+      "diatessaron_verse": "52",
+      "ref": "Luke 1:51",
+      "arabic_page": 5,
+      "text": "Ia memperlihatkan kuasa-Nya dengan perbuatan tangan-Nya dan mencerai-beraikan orang-orang yang congkak hatinya;"
+    },
+    {
+      "id": 93,
+      "diatessaron_verse": "53",
+      "ref": "Luke 1:52",
+      "arabic_page": 5,
+      "text": "Ia menurunkan orang-orang yang berkuasa dari takhtanya dan meninggikan orang-orang yang rendah;"
+    },
+    {
+      "id": 94,
+      "diatessaron_verse": "54",
+      "ref": "Luke 1:53",
+      "arabic_page": 5,
+      "text": "Ia melimpahkan segala yang baik kepada orang yang lapar, dan menyuruh orang yang kaya pergi dengan tangan hampa;"
+    },
+    {
+      "id": 95,
+      "diatessaron_verse": "55",
+      "ref": "Luke 1:54",
+      "arabic_page": 5,
+      "text": "Ia menolong Israel, hamba-Nya, karena Ia mengingat rahmat-Nya,"
+    },
+    {
+      "id": 96,
+      "diatessaron_verse": "56",
+      "ref": "Luke 1:55",
+      "arabic_page": 5,
+      "text": "seperti yang dijanjikan-Nya kepada nenek moyang kita, kepada Abraham dan keturunannya untuk selama-lamanya.\""
+    },
+    {
+      "id": 97,
+      "diatessaron_verse": "57",
+      "ref": "Luke 1:56",
+      "arabic_page": 5,
+      "text": "Dan Maria tinggal kira-kira tiga bulan lamanya bersama dengan Elisabet, lalu pulang kembali ke rumahnya."
+    },
+    {
+      "id": 98,
+      "diatessaron_verse": "58, 59",
+      "ref": "Luke 1:57",
+      "arabic_page": 5,
+      "text": "Kemudian genaplah bulannya bagi Elisabet untuk bersalin dan iapun melahirkan seorang anak laki-laki."
+    },
+    {
+      "id": 99,
+      "diatessaron_verse": "58, 59",
+      "ref": "Luke 1:58",
+      "arabic_page": 5,
+      "text": "Ketika tetangga-tetangganya serta sanak saudaranya mendengar, bahwa Tuhan telah menunjukkan rahmat-Nya yang begitu besar kepadanya,"
+    },
+    {
+      "id": 100,
+      "diatessaron_verse": "60",
+      "ref": "Luke 1:58",
+      "arabic_page": 5,
+      "text": "bersukacitalah mereka bersama-sama dengan dia."
+    },
+    {
+      "id": 101,
+      "diatessaron_verse": "60",
+      "ref": "Luke 1:59",
+      "arabic_page": 5,
+      "text": "Maka datanglah mereka pada hari yang kedelapan untuk menyunatkan anak itu dan mereka hendak menamai dia Zakharia menurut nama bapanya,"
+    },
+    {
+      "id": 102,
+      "diatessaron_verse": "61",
+      "ref": "Luke 1:60",
+      "arabic_page": 5,
+      "text": "tetapi ibunya berkata: \"Jangan, ia harus dinamai Yohanes.\""
+    },
+    {
+      "id": 103,
+      "diatessaron_verse": "62",
+      "ref": "Luke 1:61",
+      "arabic_page": 5,
+      "text": "Kata mereka kepadanya: \"Tidak ada di antara sanak saudaramu yang bernama demikian.\""
+    },
+    {
+      "id": 104,
+      "diatessaron_verse": "63, 64",
+      "ref": "Luke 1:62",
+      "arabic_page": 5,
+      "text": "Lalu mereka memberi isyarat kepada bapanya untuk bertanya nama apa yang hendak diberikannya kepada anaknya itu."
+    },
+    {
+      "id": 105,
+      "diatessaron_verse": "63, 64",
+      "ref": "Luke 1:63",
+      "arabic_page": 5,
+      "text": "Ia meminta batu tulis, lalu menuliskan kata-kata ini: \"Namanya adalah Yohanes.\" Dan merekapun heran semuanya."
+    },
+    {
+      "id": 106,
+      "diatessaron_verse": "65",
+      "ref": "Luke 1:64",
+      "arabic_page": 5,
+      "text": "Dan seketika itu juga terbukalah mulutnya dan terlepaslah lidahnya, lalu ia berkata-kata dan"
+    },
+    {
+      "id": 107,
+      "diatessaron_verse": "66",
+      "ref": "Luke 1:64",
+      "arabic_page": 5,
+      "text": "memuji Allah."
+    },
+    {
+      "id": 108,
+      "diatessaron_verse": "66",
+      "ref": "Luke 1:65",
+      "arabic_page": 5,
+      "text": "Maka ketakutanlah semua orang yang tinggal di sekitarnya, dan segala peristiwa itu menjadi buah tutur di seluruh"
+    },
+    {
+      "id": 109,
+      "diatessaron_verse": "67",
+      "ref": "Luke 1:65",
+      "arabic_page": 5,
+      "text": "pegunungan Yudea."
+    },
+    {
+      "id": 110,
+      "diatessaron_verse": "67",
+      "ref": "Luke 1:66",
+      "arabic_page": 5,
+      "text": "Dan semua orang, yang mendengarnya, merenungkannya dan berkata: \"Menjadi apakah anak ini nanti?\" Sebab tangan Tuhan menyertai dia."
+    },
+    {
+      "id": 111,
+      "diatessaron_verse": "68",
+      "ref": "Luke 1:67",
+      "arabic_page": 5,
+      "text": "Dan Zakharia, ayahnya, penuh dengan Roh Kudus, lalu bernubuat, katanya:"
+    },
+    {
+      "id": 112,
+      "diatessaron_verse": "69",
+      "ref": "Luke 1:68",
+      "arabic_page": 5,
+      "text": "\"Terpujilah Tuhan, Allah Israel, sebab Ia melawat umat-Nya dan membawa kelepasan baginya,"
+    },
+    {
+      "id": 113,
+      "diatessaron_verse": "70",
+      "ref": "Luke 1:69",
+      "arabic_page": 5,
+      "text": "Ia menumbuhkan sebuah tanduk keselamatan"
+    },
+    {
+      "id": 114,
+      "diatessaron_verse": "70",
+      "ref": "Luke 1:69",
+      "arabic_page": 6,
+      "text": "bagi kita di dalam keturunan Daud, hamba-Nya itu,"
+    },
+    {
+      "id": 115,
+      "diatessaron_verse": "71",
+      "ref": "Luke 1:70",
+      "arabic_page": 6,
+      "text": "--seperti yang telah difirmankan-Nya sejak purbakala oleh mulut nabi-nabi-Nya yang kudus--"
+    },
+    {
+      "id": 116,
+      "diatessaron_verse": "72",
+      "ref": "Luke 1:71",
+      "arabic_page": 6,
+      "text": "untuk melepaskan kita dari musuh-musuh kita dan dari tangan semua orang yang membenci kita,"
+    },
+    {
+      "id": 117,
+      "diatessaron_verse": "73",
+      "ref": "Luke 1:72",
+      "arabic_page": 6,
+      "text": "untuk menunjukkan rahmat-Nya kepada nenek moyang kita dan mengingat akan perjanjian-Nya yang kudus,"
+    },
+    {
+      "id": 118,
+      "diatessaron_verse": "74",
+      "ref": "Luke 1:73",
+      "arabic_page": 6,
+      "text": "yaitu sumpah yang diucapkan-Nya kepada Abraham, bapa leluhur kita, bahwa Ia mengaruniai kita,"
+    },
+    {
+      "id": 119,
+      "diatessaron_verse": "75",
+      "ref": "Luke 1:74",
+      "arabic_page": 6,
+      "text": "supaya kita, terlepas dari tangan musuh, dapat beribadah kepada-Nya tanpa takut,"
+    },
+    {
+      "id": 120,
+      "diatessaron_verse": "76",
+      "ref": "Luke 1:75",
+      "arabic_page": 6,
+      "text": "dalam kekudusan dan kebenaran di hadapan-Nya seumur hidup kita."
+    },
+    {
+      "id": 121,
+      "diatessaron_verse": "77",
+      "ref": "Luke 1:76",
+      "arabic_page": 6,
+      "text": "Dan engkau, hai anakku, akan disebut nabi Allah Yang Mahatinggi; karena engkau akan berjalan mendahului Tuhan untuk mempersiapkan jalan bagi-Nya,"
+    },
+    {
+      "id": 122,
+      "diatessaron_verse": "78",
+      "ref": "Luke 1:77",
+      "arabic_page": 6,
+      "text": "untuk memberikan kepada umat-Nya pengertian akan keselamatan yang berdasarkan pengampunan dosa-dosa mereka,"
+    },
+    {
+      "id": 123,
+      "diatessaron_verse": "79",
+      "ref": "Luke 1:78",
+      "arabic_page": 6,
+      "text": "oleh rahmat dan belas kasihan dari Allah kita, dengan mana Ia akan melawat kita, Surya pagi dari tempat yang tinggi,"
+    },
+    {
+      "id": 124,
+      "diatessaron_verse": "80",
+      "ref": "Luke 1:79",
+      "arabic_page": 6,
+      "text": "untuk menyinari mereka yang diam dalam kegelapan dan dalam naungan maut untuk mengarahkan kaki kita kepada jalan damai sejahtera.\""
+    },
+    {
+      "id": 125,
+      "diatessaron_verse": "81",
+      "ref": "Luke 1:80",
+      "arabic_page": 6,
+      "text": "Adapun anak itu bertambah besar dan makin kuat rohnya. Dan ia tinggal di padang gurun sampai kepada hari ia harus menampakkan diri kepada Israel."
     }
   ]
 }

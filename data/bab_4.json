@@ -1,0 +1,652 @@
+{
+  "id": 4,
+  "title": "BAB 4",
+  "source_post_id": "p51091",
+  "canonical_books": [
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "total_segments": 91,
+  "diatessaron_verse_range": "1 - Catatan kaki:",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "John 1:18",
+      "arabic_page": null,
+      "text": "Tidak seorangpun yang pernah melihat Allah; tetapi Anak Tunggal Allah, yang ada di pangkuan Bapa, Dialah yang menyatakan-Nya."
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "John 1:19",
+      "arabic_page": null,
+      "text": "Dan inilah kesaksian Yohanes ketika orang Yahudi dari Yerusalem mengutus beberapa imam"
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "3",
+      "ref": "John 1:19",
+      "arabic_page": null,
+      "text": "dan orang-orang Lewi kepadanya untuk menanyakan dia: \"Siapakah engkau?\""
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "John 1:20",
+      "arabic_page": null,
+      "text": "Ia mengaku"
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "4",
+      "ref": "John 1:20",
+      "arabic_page": null,
+      "text": "dan tidak berdusta, katanya: \"Aku bukan Mesias.\""
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "John 1:21",
+      "arabic_page": null,
+      "text": "Lalu mereka bertanya kepadanya: \"Kalau begitu, siapakah engkau? Elia?\" Dan ia menjawab: \"Bukan!\" \"Engkaukah nabi yang akan datang?\" Dan ia"
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "5",
+      "ref": "John 1:21",
+      "arabic_page": null,
+      "text": "menjawab: \"Bukan!\""
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "John 1:22",
+      "arabic_page": null,
+      "text": "Maka kata mereka kepadanya: \"Siapakah engkau? Sebab kami harus memberi jawab kepada mereka"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "6",
+      "ref": "John 1:22",
+      "arabic_page": null,
+      "text": "yang mengutus kami. Apakah katamu tentang dirimu sendiri?\""
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "6",
+      "ref": "John 1:23",
+      "arabic_page": null,
+      "text": "Jawabnya: \"Akulah suara orang yang berseru-seru di"
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "7",
+      "ref": "John 1:23",
+      "arabic_page": null,
+      "text": "padang gurun: Luruskanlah jalan Tuhan! seperti yang telah dikatakan nabi Yesaya.\""
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "7",
+      "ref": "John 1:24",
+      "arabic_page": null,
+      "text": "Dan di antara orang-orang"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "8",
+      "ref": "John 1:24",
+      "arabic_page": null,
+      "text": "yang diutus itu ada beberapa orang Farisi."
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "8",
+      "ref": "John 1:25",
+      "arabic_page": null,
+      "text": "Mereka bertanya kepadanya, katanya: \"Mengapakah engkau membaptis, jikalau engkau bukan Mesias, bukan Elia, dan bukan nabi yang akan datang?\""
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9",
+      "ref": "John 1:26",
+      "arabic_page": null,
+      "text": "Yohanes menjawab mereka, katanya: \"Aku membaptis dengan air; tetapi di tengah-tengah kamu berdiri"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "10",
+      "ref": "John 1:26",
+      "arabic_page": null,
+      "text": "Dia yang tidak kamu kenal,"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "10",
+      "ref": "John 1:27",
+      "arabic_page": null,
+      "text": "yaitu Dia, yang datang kemudian dari"
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "11",
+      "ref": "John 1:27",
+      "arabic_page": null,
+      "text": "padaku. Membuka tali kasut-Nyapun aku tidak layak.\""
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "11",
+      "ref": "John 1:28",
+      "arabic_page": null,
+      "text": "Hal itu terjadi di Betania yang di seberang sungai Yordan, di mana Yohanes membaptis."
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "12",
+      "ref": "Matthew 3:4",
+      "arabic_page": null,
+      "text": "Yohanes memakai jubah bulu unta dan ikat pinggang kulit, dan makanannya"
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "13",
+      "ref": "Matthew 3:4",
+      "arabic_page": 15,
+      "text": "belalang dan madu hutan."
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "13",
+      "ref": "Matthew 3:5",
+      "arabic_page": 15,
+      "text": "Maka datanglah kepadanya penduduk dari Yerusalem, dari seluruh Yudea dan dari seluruh daerah sekitar"
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "14, 15",
+      "ref": "Matthew 3:5",
+      "arabic_page": 15,
+      "text": "Yordan."
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "14, 15",
+      "ref": "Matthew 3:6",
+      "arabic_page": 15,
+      "text": "Lalu sambil mengaku dosanya mereka dibaptis oleh Yohanes di sungai Yordan."
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "14, 15",
+      "ref": "Matthew 3:7",
+      "arabic_page": 15,
+      "text": "Tetapi waktu ia melihat banyak orang Farisi dan orang Saduki datang untuk dibaptis, berkatalah ia kepada mereka: \"Hai kamu keturunan ular beludak. Siapakah yang mengatakan kepada kamu, bahwa kamu dapat melarikan diri dari murka yang akan datang?"
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "16, 17",
+      "ref": "Matthew 3:8",
+      "arabic_page": 15,
+      "text": "Jadi hasilkanlah buah yang sesuai dengan pertobatan."
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "16, 17",
+      "ref": "Matthew 3:9",
+      "arabic_page": 15,
+      "text": "Dan janganlah mengira, bahwa kamu dapat berkata dalam hatimu: Abraham adalah bapa kami! Karena aku berkata kepadamu: Allah dapat"
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "18",
+      "ref": "Matthew 3:9",
+      "arabic_page": 15,
+      "text": "menjadikan anak-anak bagi Abraham dari batu-batu ini!"
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "18",
+      "ref": "Matthew 3:10",
+      "arabic_page": 15,
+      "text": "Kapak sudah tersedia pada akar pohon dan setiap pohon yang tidak menghasilkan buah yang baik, pasti ditebang dan"
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "19",
+      "ref": "Matthew 3:10",
+      "arabic_page": 15,
+      "text": "dibuang ke dalam api."
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "19",
+      "ref": "Luke 3:10",
+      "arabic_page": 15,
+      "text": "Orang banyak bertanya kepadanya: \"Jika demikian, apakah yang harus kami perbuat?\""
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "20",
+      "ref": "Luke 3:11",
+      "arabic_page": 15,
+      "text": "Jawabnya: \"Barangsiapa mempunyai dua helai baju, hendaklah ia membaginya dengan yang"
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "21",
+      "ref": "Luke 3:11",
+      "arabic_page": 15,
+      "text": "tidak punya, dan barangsiapa mempunyai makanan, hendaklah ia berbuat juga demikian.\""
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "21",
+      "ref": "Luke 3:12",
+      "arabic_page": 15,
+      "text": "Ada datang juga pemungut-pemungut cukai"
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "22",
+      "ref": "Luke 3:12",
+      "arabic_page": 15,
+      "text": "untuk dibaptis dan mereka bertanya kepadanya: \"Guru, apakah yang harus kami perbuat?\""
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "22",
+      "ref": "Luke 3:13",
+      "arabic_page": 15,
+      "text": "Jawabnya:"
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "23",
+      "ref": "Luke 3:13",
+      "arabic_page": 15,
+      "text": "\"Jangan menagih lebih banyak dari pada yang telah ditentukan bagimu.\""
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "23",
+      "ref": "Luke 3:14",
+      "arabic_page": 15,
+      "text": "Dan prajurit-prajurit bertanya juga kepadanya: \"Dan kami, apakah yang harus kami perbuat?\" Jawab Yohanes kepada mereka: \"Jangan merampas dan jangan memeras dan cukupkanlah dirimu dengan gajimu.\""
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "24",
+      "ref": "Luke 3:14",
+      "arabic_page": 15,
+      "text": "Tetapi karena orang banyak sedang menanti dan berharap, dan semuanya bertanya"
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "25",
+      "ref": "Luke 3:14",
+      "arabic_page": 15,
+      "text": "dalam hatinya tentang Yohanes, kalau-kalau ia adalah Mesias,"
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "25",
+      "ref": "Luke 3:16",
+      "arabic_page": 15,
+      "text": "Yohanes menjawab dan berkata kepada semua orang itu: \"Aku membaptis kamu dengan air, tetapi Ia yang lebih berkuasa dari padaku akan datang dan membuka tali kasut-Nyapun aku tidak layak. Ia akan membaptis kamu dengan"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "26",
+      "ref": "Luke 3:16",
+      "arabic_page": 16,
+      "text": "Roh Kudus dan dengan api. Alat penampi sudah di tangan-Nya untuk membersihkan tempat pengirikan-Nya dan untuk mengumpulkan gandum-Nya ke dalam lumbung-Nya, tetapi debu jerami itu akan dibakar-Nya dalam api yang tidak terpadamkan.\""
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "27",
+      "ref": "Luke 3:18",
+      "arabic_page": 16,
+      "text": "Dengan banyak nasihat lain Yohanes memberitakan Injil kepada orang banyak."
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "28",
+      "ref": "Matthew 3:13",
+      "arabic_page": 16,
+      "text": "Maka datanglah Yesus dari Galilea ke Yordan kepada Yohanes untuk dibaptis olehnya."
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "29",
+      "ref": "Luke 3:23[a",
+      "arabic_page": 16,
+      "text": "Ketika Yesus memulai pekerjaan-Nya, Ia berumur kira-kira tiga puluh tahun dan menurut anggapan orang, Ia adalah anak"
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "30",
+      "ref": "Luke 3:23[a",
+      "arabic_page": 16,
+      "text": "Yusuf ."
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "30",
+      "ref": "John 1:29",
+      "arabic_page": 16,
+      "text": "Pada keesokan harinya Yohanes melihat Yesus datang kepadanya dan ia berkata: \"Lihatlah Anak domba"
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "31",
+      "ref": "John 1:29",
+      "arabic_page": 16,
+      "text": "Allah, yang menghapus dosa dunia."
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "31",
+      "ref": "John 1:30",
+      "arabic_page": 16,
+      "text": "Dialah yang kumaksud ketika kukatakan: Kemudian dari padaku akan datang seorang, yang telah mendahului aku, sebab Dia telah ada"
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "32",
+      "ref": "John 1:30",
+      "arabic_page": 16,
+      "text": "sebelum aku."
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "32",
+      "ref": "John 1:31",
+      "arabic_page": 16,
+      "text": "Dan aku sendiripun mula-mula tidak mengenal Dia, tetapi untuk"
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "33",
+      "ref": "John 1:31",
+      "arabic_page": 16,
+      "text": "itulah aku datang dan membaptis dengan air, supaya Ia dinyatakan kepada Israel.\""
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "33",
+      "ref": "Matthew 3:14",
+      "arabic_page": 16,
+      "text": "Tetapi Yohanes mencegah Dia,"
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "34",
+      "ref": "Matthew 3:14",
+      "arabic_page": 16,
+      "text": "katanya: \"Akulah yang perlu dibaptis oleh-Mu, dan Engkau yang datang kepadaku?\""
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "34",
+      "ref": "Matthew 3:15",
+      "arabic_page": 16,
+      "text": "Lalu Yesus menjawab, kata-Nya kepadanya: \"Biarlah hal itu terjadi, karena demikianlah sepatutnya kita menggenapkan seluruh kehendak Allah.\""
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 3:15",
+      "arabic_page": 16,
+      "text": "Dan Yohanespun menuruti-Nya."
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "35",
+      "ref": "Luke 3:21[b",
+      "arabic_page": 16,
+      "text": "dan ketika Yesus juga"
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "36",
+      "ref": "Luke 3:21[b",
+      "arabic_page": 16,
+      "text": "dibaptis."
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "36",
+      "ref": "Matthew 3:16[b",
+      "arabic_page": 16,
+      "text": "Yesus segera keluar dari air dan pada waktu itu juga langit terbuka"
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "37",
+      "ref": "Matthew 3:16[b",
+      "arabic_page": 17,
+      "text": ","
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "37",
+      "ref": "Luke 3:22[a",
+      "arabic_page": 17,
+      "text": "dan turunlah Roh Kudus dalam"
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "38",
+      "ref": "Luke 3:22[a",
+      "arabic_page": 17,
+      "text": "rupa burung merpati ke atas-Nya."
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "38",
+      "ref": "Matthew 3:17",
+      "arabic_page": 17,
+      "text": "lalu terdengarlah suara dari sorga yang mengatakan: \"Inilah"
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "39",
+      "ref": "Matthew 3:17",
+      "arabic_page": 17,
+      "text": "Anak-Ku yang Kukasihi, kepada-Nyalah Aku berkenan.\""
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "39",
+      "ref": "John 1:32",
+      "arabic_page": 17,
+      "text": "Dan Yohanes memberi kesaksian, katanya: \"Aku telah melihat"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "40",
+      "ref": "John 1:32",
+      "arabic_page": 17,
+      "text": "Roh turun dari langit seperti merpati, dan Ia tinggal di atas-Nya."
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "40",
+      "ref": "John 1:33",
+      "arabic_page": 17,
+      "text": "Dan akupun tidak mengenal-Nya, tetapi Dia, yang mengutus aku untuk membaptis dengan air, telah berfirman kepadaku: Jikalau engkau melihat Roh itu turun [bercahaya] ke atas seseorang dan tinggal di atas-Nya, Dialah itu yang akan"
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "41",
+      "ref": "John 1:33",
+      "arabic_page": 17,
+      "text": "membaptis dengan Roh Kudus."
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "41",
+      "ref": "John 1:34",
+      "arabic_page": 17,
+      "text": "Dan aku telah melihat-Nya dan memberi kesaksian: Ia inilah Anak Allah.\""
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "42, 43",
+      "ref": "Luke 4:1[a",
+      "arabic_page": 17,
+      "text": "Yesus, yang penuh dengan Roh Kudus, kembali dari sungai Yordan,"
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "42, 43",
+      "ref": "Mark 1:12",
+      "arabic_page": 17,
+      "text": "Segera sesudah itu Roh memimpin Dia ke padang gurun."
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "42, 43",
+      "ref": "Mark 1:13[b",
+      "arabic_page": 17,
+      "text": "Ia berada di sana"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "44",
+      "ref": "Mark 1:13[b",
+      "arabic_page": 17,
+      "text": "di antara binatang-binatang liar."
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "44",
+      "ref": "Matthew 4:2[a",
+      "arabic_page": 17,
+      "text": "Dan setelah berpuasa empat puluh hari dan empat puluh malam,"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "44",
+      "ref": "Luke 4:2[b",
+      "arabic_page": 17,
+      "text": "Selama di situ Ia tidak makan apa-apa"
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "45",
+      "ref": "Luke 4:2[b",
+      "arabic_page": 17,
+      "text": "dan sesudah waktu itu Ia lapar. Lalu berkatalah Iblis kepada-Nya: \"Jika Engkau Anak Allah, suruhlah batu ini menjadi"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "46",
+      "ref": "Luke 4:2[b",
+      "arabic_page": 17,
+      "text": "roti.\""
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "46",
+      "ref": "Matthew 4:4",
+      "arabic_page": 17,
+      "text": "Tetapi Yesus menjawab: \"Ada tertulis: Manusia hidup bukan dari roti saja,"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "47",
+      "ref": "Matthew 4:4",
+      "arabic_page": 17,
+      "text": "tetapi dari setiap firman yang keluar dari mulut Allah.\""
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "47",
+      "ref": "Matthew 4:5",
+      "arabic_page": 17,
+      "text": "Kemudian Iblis membawa-Nya"
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "48",
+      "ref": "Matthew 4:5",
+      "arabic_page": 17,
+      "text": "ke Kota Suci dan menempatkan Dia di bubungan Bait Allah,"
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "48",
+      "ref": "Matthew 4:6",
+      "arabic_page": 17,
+      "text": "lalu berkata kepada-Nya: \"Jika Engkau Anak Allah, jatuhkanlah diri-Mu ke bawah, sebab ada tertulis:"
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "48",
+      "ref": "Matthew 4:6",
+      "arabic_page": 17,
+      "text": "Mengenai Engkau Ia akan memerintahkan malaikat-malaikat-Nya dan mereka akan menatang Engkau di atas tangannya, supaya kaki-Mu jangan terantuk kepada batu.\""
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "49",
+      "ref": "Matthew 4:7",
+      "arabic_page": 17,
+      "text": "Yesus berkata kepadanya: \"Ada pula tertulis: Janganlah engkau mencobai Tuhan,"
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "50",
+      "ref": "Matthew 4:7",
+      "arabic_page": 17,
+      "text": "Allahmu!\"."
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "50",
+      "ref": "Luke 4:5",
+      "arabic_page": 17,
+      "text": "Kemudian ia membawa Yesus ke suatu tempat yang tinggi dan dalam sekejap mata ia memperlihatkan kepada-Nya"
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "51",
+      "ref": "Luke 4:5",
+      "arabic_page": 18,
+      "text": "semua kerajaan dunia."
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "51",
+      "ref": "Luke 4:6",
+      "arabic_page": 18,
+      "text": "Kata Iblis kepada-Nya: \"Segala kuasa itu serta kemuliaannya akan kuberikan kepada-Mu, sebab semuanya itu telah diserahkan"
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "52",
+      "ref": "Luke 4:6",
+      "arabic_page": 18,
+      "text": "kepadaku dan aku memberikannya kepada siapa saja yang kukehendaki."
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "52",
+      "ref": "Luke 4:7",
+      "arabic_page": 18,
+      "text": "Jadi jikalau Engkau menyembah aku, seluruhnya itu akan menjadi milik-Mu.\""
+    },
+    {
+      "id": 91,
+      "diatessaron_verse": "Catatan kaki:",
+      "ref": "Luke 4:7",
+      "arabic_page": 18,
+      "text": "Kata \"bercahaya\" pada ayat John 1:33 tidak terdapat dalam dalam manuscript UBS/Westcott and Hort yang digunakan oleh terjemahan LAI TB dan juga dalam manuscript Textus Receptus (TR) yang digunakan oleh terjemahan MILT (2008) tetapi ada dalam manuscript Diatessaron. Kata ini (\"bercahaya\") agaknya mengacu pada manuscript lain atau merupakan kata yg dipahami secara paralel dengan kata \"bercahaya\" pada ayat John 1:5 yg mencatat \"Terang itu bercahaya....\""
+    }
+  ]
+}

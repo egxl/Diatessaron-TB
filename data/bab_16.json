@@ -1,0 +1,616 @@
+{
+  "id": 16,
+  "title": "BAB 16",
+  "source_post_id": "p52291",
+  "canonical_books": [
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "total_segments": 86,
+  "diatessaron_verse_range": "1 - 52",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "Matthew 12:38",
+      "arabic_page": null,
+      "text": "Pada waktu itu berkatalah beberapa ahli Taurat dan orang Farisi kepada Yesus:"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 12:38",
+      "arabic_page": null,
+      "text": "\"Guru, kami ingin melihat suatu tanda dari pada-Mu.\""
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 12:39",
+      "arabic_page": null,
+      "text": "Tetapi jawab-Nya kepada mereka: \"Angkatan yang jahat dan tidak setia ini menuntut suatu tanda. Tetapi kepada mereka tidak akan diberikan"
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 12:39",
+      "arabic_page": null,
+      "text": "tanda selain tanda nabi Yunus."
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "3",
+      "ref": "Luke 11:30",
+      "arabic_page": null,
+      "text": "Sebab seperti Yunus menjadi tanda untuk"
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "Luke 11:30",
+      "arabic_page": null,
+      "text": "orang-orang Niniwe, demikian pulalah Anak Manusia akan menjadi tanda untuk angkatan ini."
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 12:40",
+      "arabic_page": null,
+      "text": "Sebab seperti Yunus tinggal di dalam perut ikan tiga hari tiga malam, demikian juga Anak Manusia"
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 12:40",
+      "arabic_page": null,
+      "text": "akan tinggal di dalam rahim bumi tiga hari tiga malam."
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "5",
+      "ref": "Luke 11:31",
+      "arabic_page": null,
+      "text": "Pada waktu penghakiman, ratu dari Selatan itu akan bangkit bersama orang dari angkatan ini dan ia akan menghukum mereka. Sebab ratu ini datang dari ujung bumi untuk mendengarkan hikmat Salomo,"
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "6",
+      "ref": "Luke 11:31",
+      "arabic_page": 62,
+      "text": "dan sesungguhnya yang ada di sini lebih dari pada Salomo!"
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "6",
+      "ref": "Matthew 12:41",
+      "arabic_page": 62,
+      "text": "Pada waktu penghakiman, orang-orang Niniwe akan bangkit bersama angkatan ini dan menghukumnya juga. Sebab orang-orang Niniwe itu bertobat setelah mendengar"
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "7",
+      "ref": "Matthew 12:41",
+      "arabic_page": 62,
+      "text": "pemberitaan Yunus, dan sesungguhnya yang ada di sini lebih dari pada Yunus!"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "7",
+      "ref": "Luke 11:24",
+      "arabic_page": 62,
+      "text": "\"Apabila roh jahat keluar dari manusia, iapun mengembara ke tempat-tempat yang tandus mencari perhentian, dan karena ia tidak mendapatnya,"
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "8",
+      "ref": "Luke 11:24",
+      "arabic_page": 62,
+      "text": "ia berkata: Aku akan kembali ke rumah yang telah kutinggalkan itu."
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "8",
+      "ref": "Luke 11:25",
+      "arabic_page": 62,
+      "text": "Maka pergilah ia dan mendapati rumah itu"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "9",
+      "ref": "Luke 11:25",
+      "arabic_page": 62,
+      "text": "bersih tersapu dan rapih teratur."
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "9",
+      "ref": "Luke 11:26",
+      "arabic_page": 62,
+      "text": "Lalu ia keluar dan mengajak tujuh roh lain yang lebih jahat dari padanya, dan mereka masuk dan berdiam di situ. Maka akhirnya keadaan orang itu"
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "10",
+      "ref": "Luke 11:26",
+      "arabic_page": 62,
+      "text": "lebih buruk dari pada keadaannya semula.\""
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "10",
+      "ref": "Matthew 12:45b",
+      "arabic_page": 62,
+      "text": "Demikian juga akan berlaku atas angkatan yang jahat ini.\""
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "11",
+      "ref": "Luke 11:27",
+      "arabic_page": 62,
+      "text": "Ketika Yesus masih berbicara, berserulah seorang perempuan dari antara orang banyak dan berkata kepada-Nya: \"Berbahagialah ibu yang telah mengandung Engkau dan susu yang telah"
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "12",
+      "ref": "Luke 11:27",
+      "arabic_page": 62,
+      "text": "menyusui Engkau.\""
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "12",
+      "ref": "Luke 11:28",
+      "arabic_page": 62,
+      "text": "Tetapi Ia berkata: \"Yang berbahagia ialah mereka yang mendengarkan firman Allah dan yang memeliharanya.\""
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "13",
+      "ref": "Matthew 12:46",
+      "arabic_page": 62,
+      "text": "Ketika Yesus masih berbicara dengan orang banyak itu, ibu-Nya dan"
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "14",
+      "ref": "Matthew 12:46",
+      "arabic_page": 62,
+      "text": "saudara-saudara-Nya berdiri di luar dan berusaha menemui Dia."
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "14",
+      "ref": "Luke 8:19",
+      "arabic_page": 62,
+      "text": "Ibu dan saudara-saudara Yesus datang kepada-Nya, tetapi mereka tidak dapat mencapai Dia karena orang banyak."
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "15",
+      "ref": "Mark 3:31",
+      "arabic_page": 62,
+      "text": "Sementara mereka berdiri di luar, mereka menyuruh orang memanggil Dia."
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "15",
+      "ref": "Matthew 12:47",
+      "arabic_page": 62,
+      "text": "Maka seorang berkata kepada-Nya: \"Lihatlah, ibu-Mu dan saudara-saudara-Mu ada di luar dan berusaha"
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "16",
+      "ref": "Matthew 12:47",
+      "arabic_page": 62,
+      "text": "menemui Engkau.\""
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "16",
+      "ref": "Matthew 12:48",
+      "arabic_page": 62,
+      "text": "Tetapi jawab Yesus kepada orang yang menyampaikan berita itu kepada-Nya:"
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "17",
+      "ref": "Matthew 12:48",
+      "arabic_page": 62,
+      "text": "\"Siapa ibu-Ku? Dan siapa saudara-saudara-Ku?\""
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "17",
+      "ref": "Matthew 22:49",
+      "arabic_page": 62,
+      "text": "Lalu kata-Nya, sambil menunjuk ke arah murid-murid-Nya: \"Ini ibu-Ku dan saudara-saudara-Ku!"
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "18",
+      "ref": "Matthew 12:50",
+      "arabic_page": 62,
+      "text": "Sebab siapapun yang melakukan kehendak Bapa-Ku di sorga, dialah saudara-Ku laki-laki, dialah saudara-Ku perempuan, dialah ibu-Ku.\""
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "19",
+      "ref": "Luke 8:1",
+      "arabic_page": 63,
+      "text": "Tidak lama sesudah itu Yesus berjalan berkeliling dari kota ke kota dan dari desa ke desa memberitakan Injil Kerajaan Allah. Kedua belas murid-Nya bersama-sama dengan Dia,"
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "20",
+      "ref": "Luke 8:2",
+      "arabic_page": 63,
+      "text": "dan juga beberapa orang perempuan yang telah disembuhkan dari roh-roh jahat atau berbagai penyakit,"
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "21",
+      "ref": "Luke 8:2",
+      "arabic_page": 63,
+      "text": "yaitu Maria yang disebut Magdalena, yang telah dibebaskan dari tujuh roh jahat,"
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "21",
+      "ref": "Luke 8:3",
+      "arabic_page": 63,
+      "text": "Yohana isteri Khuza bendahara Herodes, Susana dan banyak perempuan lain. Perempuan-perempuan ini melayani rombongan itu dengan kekayaan mereka."
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "22",
+      "ref": "Matthew 13:1",
+      "arabic_page": 63,
+      "text": "Pada hari itu keluarlah Yesus dari rumah itu dan duduk di tepi danau."
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "22",
+      "ref": "Matthew 13:2",
+      "arabic_page": 63,
+      "text": "Maka datanglah orang banyak"
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "23",
+      "ref": "Matthew 13:2",
+      "arabic_page": 63,
+      "text": "berbondong-bondong lalu mengerumuni Dia, sehingga Ia naik ke perahu dan duduk di situ, sedangkan orang banyak semuanya berdiri"
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "24",
+      "ref": "Matthew 13:2",
+      "arabic_page": 63,
+      "text": "di pantai."
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "24",
+      "ref": "Matthew 13:3",
+      "arabic_page": 63,
+      "text": "Dan Ia mengucapkan banyak hal dalam perumpamaan kepada mereka. Kata-Nya: \"Adalah seorang penabur"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "25",
+      "ref": "Matthew 13:3",
+      "arabic_page": 63,
+      "text": "keluar untuk menabur."
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "25",
+      "ref": "Matthew 13:4",
+      "arabic_page": 63,
+      "text": "Pada waktu ia menabur, sebagian benih itu jatuh di pinggir jalan,"
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "26",
+      "ref": "Matthew 13:4",
+      "arabic_page": 63,
+      "text": "lalu datanglah burung dan memakannya sampai habis."
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "26",
+      "ref": "Matthew 13:5",
+      "arabic_page": 63,
+      "text": "Sebagian jatuh di tanah yang berbatu-batu, yang tidak banyak tanahnya, lalu benih itupun segera tumbuh, karena"
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "27",
+      "ref": "Matthew 13:5",
+      "arabic_page": 63,
+      "text": "tanahnya tipis."
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "27",
+      "ref": "Matthew 13:6",
+      "arabic_page": 63,
+      "text": "Tetapi sesudah matahari terbit, layulah ia dan menjadi kering karena tidak berakar."
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "28",
+      "ref": "Matthew 13:7",
+      "arabic_page": 63,
+      "text": "Sebagian lagi jatuh di tengah semak duri, lalu makin besarlah semak itu"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "29",
+      "ref": "Matthew 13:7",
+      "arabic_page": 63,
+      "text": "dan menghimpitnya sampai mati."
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "29",
+      "ref": "Matthew 13:8",
+      "arabic_page": 63,
+      "text": "Dan sebagian jatuh di tanah yang baik lalu berbuah: ada yang seratus kali lipat, ada yang enam puluh kali lipat, ada yang tiga puluh kali lipat."
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "30",
+      "ref": "Luke 8:8c",
+      "arabic_page": 63,
+      "text": "Setelah berkata demikian Yesus berseru: \"Siapa mempunyai telinga untuk mendengar, hendaklah ia mendengar!\""
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "31",
+      "ref": "Matthew 13:10",
+      "arabic_page": 63,
+      "text": "Maka datanglah murid-murid-Nya dan bertanya kepada-Nya:"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "32",
+      "ref": "Matthew 13:10",
+      "arabic_page": 63,
+      "text": "\"Mengapa Engkau berkata-kata kepada mereka dalam perumpamaan?\""
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "32",
+      "ref": "Matthew 13:11",
+      "arabic_page": 64,
+      "text": "Jawab Yesus: \"Kepadamu diberi karunia untuk mengetahui rahasia Kerajaan Sorga, tetapi kepada mereka tidak."
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "33",
+      "ref": "Matthew 13:12",
+      "arabic_page": 64,
+      "text": "Karena siapa yang mempunyai, kepadanya akan diberi, sehingga ia berkelimpahan; tetapi siapa yang tidak mempunyai,"
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "34",
+      "ref": "Matthew 13:12",
+      "arabic_page": 64,
+      "text": "apapun juga yang ada padanya akan diambil dari padanya."
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "34",
+      "ref": "Matthew 13:13",
+      "arabic_page": 64,
+      "text": "Itulah sebabnya Aku berkata-kata dalam perumpamaan kepada mereka; karena sekalipun melihat, mereka tidak melihat dan sekalipun mendengar, mereka tidak mendengar"
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 13:13",
+      "arabic_page": 64,
+      "text": "dan tidak mengerti."
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 13:14",
+      "arabic_page": 64,
+      "text": "Maka pada mereka genaplah nubuat Yesaya, yang berbunyi:"
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 13:14",
+      "arabic_page": 64,
+      "text": "Kamu akan mendengar dan mendengar, namun tidak mengerti, kamu akan melihat dan melihat, namun tidak menanggap."
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "36",
+      "ref": "Matthew 13:15",
+      "arabic_page": 64,
+      "text": "Sebab hati bangsa ini telah menebal, dan telinganya berat mendengar, dan matanya melekat tertutup; supaya jangan mereka melihat dengan matanya dan mendengar dengan telinganya dan mengerti dengan hatinya, lalu berbalik sehingga Aku menyembuhkan mereka."
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "37, 38",
+      "ref": "Matthew 13:16",
+      "arabic_page": 64,
+      "text": "Tetapi berbahagialah matamu karena melihat dan telingamu karena mendengar."
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "37, 38",
+      "ref": "Luke 10:23b",
+      "arabic_page": 64,
+      "text": "\"Berbahagialah mata yang melihat"
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "39",
+      "ref": "Luke 10:23b",
+      "arabic_page": 64,
+      "text": "apa yang kamu lihat."
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "39",
+      "ref": "Matthew 13:17",
+      "arabic_page": 64,
+      "text": "Sebab Aku berkata kepadamu: Sesungguhnya banyak nabi dan orang benar ingin melihat apa yang kamu lihat, tetapi tidak melihatnya, dan ingin mendengar apa yang kamu dengar,"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "40",
+      "ref": "Matthew 13:17",
+      "arabic_page": 64,
+      "text": "tetapi tidak mendengarnya."
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "40",
+      "ref": "Mark 4:13b",
+      "arabic_page": 64,
+      "text": "\"Tidakkah kamu mengerti perumpamaan ini? Kalau demikian bagaimana kamu dapat memahami semua perumpamaan yang lain?"
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "41, 42",
+      "ref": "Matthew 13:18",
+      "arabic_page": 64,
+      "text": "Karena itu, dengarlah arti perumpamaan penabur itu."
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "41, 42",
+      "ref": "Mark 4:14",
+      "arabic_page": 64,
+      "text": "Penabur itu menaburkan firman."
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "43",
+      "ref": "Matthew 13:19",
+      "arabic_page": 64,
+      "text": "Kepada setiap orang yang mendengar firman tentang Kerajaan Sorga, tetapi tidak mengertinya, datanglah si jahat dan merampas yang ditaburkan"
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "44",
+      "ref": "Matthew 13:19",
+      "arabic_page": 64,
+      "text": "dalam hati orang itu; itulah benih yang ditaburkan di pinggir jalan."
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "44",
+      "ref": "Matthew 13:20",
+      "arabic_page": 64,
+      "text": "Benih yang ditaburkan di tanah yang berbatu-batu ialah orang yang mendengar firman itu dan segera"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "45, 46",
+      "ref": "Matthew 13:20",
+      "arabic_page": 65,
+      "text": "menerimanya dengan gembira."
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "45, 46",
+      "ref": "Matthew 13:21",
+      "arabic_page": 65,
+      "text": "Tetapi ia tidak berakar dan tahan sebentar saja. Apabila datang penindasan atau penganiayaan karena firman itu, orang itupun"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "47",
+      "ref": "Matthew 13:21",
+      "arabic_page": 65,
+      "text": "segera murtad."
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "47",
+      "ref": "Matthew 13:22a",
+      "arabic_page": 65,
+      "text": "Yang ditaburkan di tengah semak duri ialah orang yang mendengar firman itu,"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "47",
+      "ref": "Mark 4:19b",
+      "arabic_page": 65,
+      "text": "lalu kekuatiran dunia ini dan tipu daya kekayaan dan"
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "48",
+      "ref": "Mark 4:19b",
+      "arabic_page": 65,
+      "text": "keinginan-keinginan akan hal yang lain masuklah menghimpit firman itu sehingga tidak berbuah."
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "48",
+      "ref": "Luke 8:15",
+      "arabic_page": 65,
+      "text": "Yang jatuh di tanah yang baik itu ialah orang, yang setelah mendengar firman itu, menyimpannya dalam hati yang baik dan mengeluarkan buah dalam ketekunan.\""
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "48",
+      "ref": "Matthew 13:23b",
+      "arabic_page": 65,
+      "text": "ada yang enam puluh kali lipat, ada yang tiga puluh kali lipat.\""
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "49",
+      "ref": "Mark 4:26",
+      "arabic_page": 65,
+      "text": "Lalu kata Yesus: \"Beginilah hal Kerajaan Allah itu: seumpama orang yang menaburkan benih di tanah,"
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "50",
+      "ref": "Mark 4:26",
+      "arabic_page": 65,
+      "text": "[Mark 4:27] lalu pada malam hari ia tidur dan pada siang hari ia bangun, dan benih itu mengeluarkan tunas dan tunas itu makin tinggi,"
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "51",
+      "ref": "Mark 4:26",
+      "arabic_page": 65,
+      "text": "bagaimana terjadinya tidak diketahui orang itu."
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "51",
+      "ref": "Mark 4:28",
+      "arabic_page": 65,
+      "text": "Bumi dengan sendirinya mengeluarkan buah,"
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "52",
+      "ref": "Mark 4:28",
+      "arabic_page": 65,
+      "text": "mula-mula tangkainya, lalu bulirnya, kemudian butir-butir yang penuh isinya dalam bulir itu."
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "52",
+      "ref": "Mark 4:29",
+      "arabic_page": 65,
+      "text": "Apabila buah itu sudah cukup masak, orang itu segera menyabit, sebab musim menuai sudah tiba.\""
+    }
+  ]
+}

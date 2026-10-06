@@ -50,7 +50,19 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    function updateActiveNav(chapterId) {
+        document.querySelectorAll('#chapter-list a').forEach(a => {
+            if (a.dataset.chapterId == chapterId) {
+                a.classList.add('active');
+            } else {
+                a.classList.remove('active');
+            }
+        });
+    }
+
     function loadChapter(chapter) {
+        updateActiveNav(chapter.id);
+
         // Check if already loaded
         const existingDiv = document.getElementById(`chapter-${chapter.id}`);
         if (existingDiv) {
@@ -85,7 +97,11 @@ document.addEventListener('DOMContentLoaded', () => {
         chapterDiv.className = 'chapter-container';
 
         const chapterTitle = document.createElement('h3');
-        chapterTitle.textContent = chapterData.title;
+        let titleText = chapterData.title;
+        if (chapterData.canonical_books && chapterData.canonical_books.length > 0) {
+            titleText += ` (${chapterData.canonical_books.join(', ')})`;
+        }
+        chapterTitle.textContent = titleText;
         chapterDiv.appendChild(chapterTitle);
 
         const versesContainer = document.createElement('div');
@@ -94,12 +110,22 @@ document.addEventListener('DOMContentLoaded', () => {
         chapterData.verses.forEach(verse => {
             const verseSpan = document.createElement('span');
             verseSpan.className = 'verse';
-            verseSpan.dataset.ref = verse.ref;
+            verseSpan.dataset.ref = verse.ref || '';
             verseSpan.dataset.id = verse.id;
+            verseSpan.dataset.diatessaronVerse = verse.diatessaron_verse || '';
+            verseSpan.dataset.arabicPage = verse.arabic_page || '';
             verseSpan.textContent = ` ${verse.text} `;
 
             verseSpan.addEventListener('click', () => handleVerseClick(verseSpan));
-            verseSpan.title = verse.ref; // Tooltip on hover
+
+            let tooltip = verse.ref || '';
+            if (verse.diatessaron_verse) {
+                tooltip += ` (Diatessaron §${chapterId}:${verse.diatessaron_verse})`;
+            }
+            if (verse.arabic_page) {
+                tooltip += ` [Hal. Arab ${verse.arabic_page}]`;
+            }
+            verseSpan.title = tooltip;
 
             versesContainer.appendChild(verseSpan);
         });
@@ -113,11 +139,27 @@ document.addEventListener('DOMContentLoaded', () => {
             el.classList.remove('highlight');
         });
         element.classList.add('highlight');
-        showRef(element.dataset.ref);
+        showRef(element);
     }
 
-    function showRef(ref) {
-        currentRefDisplay.textContent = ref;
+    function showRef(element) {
+        const ref = element.dataset.ref;
+        const dVerse = element.dataset.diatessaronVerse;
+        const page = element.dataset.arabicPage;
+        const chId = element.closest('.chapter-container')?.id?.replace('chapter-', '') || '';
+
+        let html = '';
+        if (ref) {
+            html += `<span class="ref-title">${ref}</span>`;
+        }
+        if (dVerse) {
+            html += `<span class="badge badge-diatessaron">Diatessaron §${chId}:${dVerse}</span>`;
+        }
+        if (page) {
+            html += `<span class="badge badge-page">Hal. Arab ${page}</span>`;
+        }
+
+        currentRefDisplay.innerHTML = html || 'Ayat terpilih';
         stickyHeader.classList.remove('hidden');
     }
 

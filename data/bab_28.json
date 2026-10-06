@@ -1,0 +1,681 @@
+{
+  "id": 28,
+  "title": "BAB 28",
+  "source_post_id": "p62543",
+  "canonical_books": [
+    "John",
+    "Luke",
+    "Mark",
+    "Mathhew",
+    "Matthew"
+  ],
+  "total_segments": 95,
+  "diatessaron_verse_range": "1, 2 - 51",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1, 2",
+      "ref": "John 7:2",
+      "arabic_page": 107,
+      "text": "Ketika itu sudah dekat hari raya orang Yahudi, yaitu hari raya Pondok Daun."
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "1, 2",
+      "ref": "John 7:3",
+      "arabic_page": 107,
+      "text": "Maka kata saudara-saudara Yesus kepada-Nya: \"Berangkatlah dari sini dan pergi ke Yudea, supaya"
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "3",
+      "ref": "John 7:3",
+      "arabic_page": 107,
+      "text": "murid-murid-Mu juga melihat perbuatan-perbuatan yang Engkau lakukan."
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "John 7:4",
+      "arabic_page": 107,
+      "text": "Sebab tidak seorangpun berbuat sesuatu di tempat tersembunyi,"
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "4",
+      "ref": "John 7:4",
+      "arabic_page": 107,
+      "text": "jika ia mau diakui di muka umum. Jikalau Engkau berbuat hal-hal yang demikian, tampakkanlah diri-Mu kepada dunia.\""
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "5",
+      "ref": "John 7:5",
+      "arabic_page": 107,
+      "text": "Sebab saudara-saudara-Nya sendiripun tidak percaya kepada-Nya."
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "5",
+      "ref": "John 7:6",
+      "arabic_page": 107,
+      "text": "Maka jawab Yesus kepada mereka: \"Waktu-Ku belum tiba, tetapi bagi kamu selalu ada waktu."
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "6",
+      "ref": "John 7:7",
+      "arabic_page": 107,
+      "text": "Dunia tidak dapat membenci kamu, tetapi ia membenci Aku, sebab Aku"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "7",
+      "ref": "John 7:7",
+      "arabic_page": 107,
+      "text": "bersaksi tentang dia, bahwa pekerjaan-pekerjaannya jahat."
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "7",
+      "ref": "John 7:8",
+      "arabic_page": 107,
+      "text": "Pergilah kamu ke pesta itu. Aku"
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "8",
+      "ref": "John 7:8",
+      "arabic_page": 107,
+      "text": "belum pergi ke situ, karena waktu-Ku belum genap.\""
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "8",
+      "ref": "John 7:9",
+      "arabic_page": 107,
+      "text": "Demikianlah kata-Nya kepada mereka, dan Iapun tinggal di Galilea."
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "9",
+      "ref": "John 7:10a",
+      "arabic_page": 107,
+      "text": "Tetapi sesudah saudara-saudara Yesus berangkat ke pesta itu,"
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 19:1",
+      "arabic_page": 107,
+      "text": "berangkatlah Ia dari Galilea dan"
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "10",
+      "ref": "Matthew 19:1",
+      "arabic_page": 107,
+      "text": "tiba di daerah Yudea yang di seberang sungai Yordan."
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "10",
+      "ref": "Matthew 19:2",
+      "arabic_page": 107,
+      "text": "Orang banyak berbondong-bondong mengikuti"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "11",
+      "ref": "Matthew 19:2",
+      "arabic_page": 107,
+      "text": "Dia dan Iapun menyembuhkan mereka di sana."
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "11",
+      "ref": "John 7:10b",
+      "arabic_page": 107,
+      "text": "Iapun pergi juga"
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "12",
+      "ref": "John 7:10b",
+      "arabic_page": 107,
+      "text": "ke situ, tidak terang-terangan tetapi diam-diam."
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "12",
+      "ref": "John 7:11",
+      "arabic_page": 107,
+      "text": "Orang-orang Yahudi mencari Dia"
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "13",
+      "ref": "John 7:11",
+      "arabic_page": 107,
+      "text": "di pesta itu dan berkata: \"Di manakah Ia?\""
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "13",
+      "ref": "John 7:12",
+      "arabic_page": 107,
+      "text": "Dan banyak terdengar bisikan di antara orang banyak tentang Dia."
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "14",
+      "ref": "John 7:12",
+      "arabic_page": 107,
+      "text": "Ada yang berkata: \"Ia orang baik.\" Ada pula yang berkata: \"Tidak, Ia menyesatkan rakyat.\""
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "14",
+      "ref": "John 7:13",
+      "arabic_page": 107,
+      "text": "Tetapi tidak seorangpun yang berani berkata terang-terangan tentang Dia karena takut terhadap orang-orang Yahudi."
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "15",
+      "ref": "John 7:14",
+      "arabic_page": 108,
+      "text": "Waktu pesta itu sedang berlangsung, Yesus masuk"
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "16",
+      "ref": "John 7:14",
+      "arabic_page": 108,
+      "text": "ke Bait Allah lalu mengajar di situ."
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "16",
+      "ref": "John 7:15",
+      "arabic_page": 108,
+      "text": "Maka heranlah orang-orang Yahudi dan berkata: \"Bagaimanakah"
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "17",
+      "ref": "John 7:15",
+      "arabic_page": 108,
+      "text": "orang ini mempunyai pengetahuan demikian tanpa belajar!\""
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "17",
+      "ref": "John 7:16",
+      "arabic_page": 108,
+      "text": "Jawab Yesus kepada mereka: \"Ajaran-Ku"
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "18",
+      "ref": "John 7:16",
+      "arabic_page": 108,
+      "text": "tidak berasal dari diri-Ku sendiri, tetapi dari Dia yang telah mengutus Aku."
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "18",
+      "ref": "John 7:17",
+      "arabic_page": 108,
+      "text": "Barangsiapa mau melakukan kehendak-Nya, ia akan tahu entah ajaran-Ku ini berasal dari Allah, entah Aku berkata-kata dari diri-Ku sendiri."
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "19",
+      "ref": "John 7:18",
+      "arabic_page": 108,
+      "text": "Barangsiapa berkata-kata dari dirinya sendiri, ia mencari hormat bagi dirinya sendiri, tetapi barangsiapa mencari hormat bagi Dia yang mengutusnya, ia benar dan"
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "20",
+      "ref": "John 7:18",
+      "arabic_page": 108,
+      "text": "tidak ada ketidakbenaran padanya."
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "20",
+      "ref": "John 7:19",
+      "arabic_page": 108,
+      "text": "Bukankah Musa yang telah memberikan hukum Taurat kepadamu? Namun tidak seorangpun di antara kamu yang melakukan"
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "21",
+      "ref": "John 7:19",
+      "arabic_page": 108,
+      "text": "hukum Taurat itu. Mengapa kamu berusaha membunuh Aku?\""
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "21",
+      "ref": "John 7:20",
+      "arabic_page": 108,
+      "text": "Orang banyak itu menjawab: \"Engkau"
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "22",
+      "ref": "John 7:20",
+      "arabic_page": 108,
+      "text": "kerasukan setan; siapakah yang berusaha membunuh Engkau?\""
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "22",
+      "ref": "John 7:21",
+      "arabic_page": 108,
+      "text": "Jawab Yesus kepada mereka: \"Hanya"
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "23",
+      "ref": "John 7:21",
+      "arabic_page": 108,
+      "text": "satu perbuatan yang Kulakukan dan kamu semua telah heran."
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "23",
+      "ref": "John 7:22",
+      "arabic_page": 108,
+      "text": "Jadi: Musa menetapkan supaya kamu bersunat--sebenarnya sunat itu tidak berasal dari Musa, tetapi dari nenek moyang kita--dan kamu"
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "24",
+      "ref": "John 7:22",
+      "arabic_page": 108,
+      "text": "menyunat orang pada hari Sabat!"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "24",
+      "ref": "John 7:23",
+      "arabic_page": 108,
+      "text": "Jikalau seorang menerima sunat pada hari Sabat, supaya jangan melanggar hukum Musa, mengapa kamu marah kepada-Ku, karena Aku menyembuhkan seluruh"
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "25",
+      "ref": "John 7:23",
+      "arabic_page": 108,
+      "text": "tubuh seorang manusia pada hari Sabat."
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "25",
+      "ref": "John 7:24",
+      "arabic_page": 108,
+      "text": "Janganlah menghakimi menurut apa yang nampak, tetapi hakimilah dengan adil.\""
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "26",
+      "ref": "John 7:25",
+      "arabic_page": 108,
+      "text": "Beberapa orang Yerusalem berkata: \"Bukankah Dia ini yang mereka mau bunuh?"
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "27",
+      "ref": "John 7:26",
+      "arabic_page": 108,
+      "text": "Dan lihatlah, Ia berbicara dengan leluasa dan mereka tidak mengatakan apa-apa kepada-Nya."
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "28",
+      "ref": "John 7:26",
+      "arabic_page": 108,
+      "text": "Mungkinkah pemimpin kita benar-benar sudah tahu, bahwa Ia adalah Kristus?"
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "28",
+      "ref": "John 7:27",
+      "arabic_page": 108,
+      "text": "Tetapi tentang orang ini kita tahu dari mana asal-Nya, tetapi bilamana Kristus datang, tidak ada seorangpun yang tahu"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "29",
+      "ref": "John 7:27",
+      "arabic_page": 108,
+      "text": "dari mana asal-Nya.\""
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "29",
+      "ref": "John 7:28",
+      "arabic_page": 108,
+      "text": "Waktu Yesus mengajar di Bait Allah, Ia berseru: \"Memang Aku kamu kenal dan kamu tahu dari mana asal-Ku; namun Aku datang bukan atas kehendak-Ku sendiri, tetapi"
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "30",
+      "ref": "John 7:28",
+      "arabic_page": 109,
+      "text": "Aku diutus oleh Dia yang benar yang tidak kamu kenal."
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "30",
+      "ref": "John 7:29",
+      "arabic_page": 109,
+      "text": "Aku kenal Dia, sebab Aku"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "31",
+      "ref": "John 7:29",
+      "arabic_page": 109,
+      "text": "datang dari Dia dan Dialah yang mengutus Aku.\""
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "31",
+      "ref": "John 7:30",
+      "arabic_page": 109,
+      "text": "Mereka berusaha menangkap Dia, tetapi tidak ada seorangpun"
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "32",
+      "ref": "John 7:30",
+      "arabic_page": 109,
+      "text": "yang menyentuh Dia, sebab saat-Nya belum tiba."
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "32",
+      "ref": "John 7:31",
+      "arabic_page": 109,
+      "text": "Tetapi di antara orang banyak itu ada banyak yang percaya kepada-Nya dan mereka berkata: \"Apabila Kristus datang, mungkinkah Ia akan mengadakan lebih banyak mujizat dari pada yang telah diadakan oleh Dia ini?\""
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "33",
+      "ref": "Luke 12:13",
+      "arabic_page": 109,
+      "text": "Seorang dari orang banyak itu berkata kepada Yesus: \"Guru, katakanlah kepada saudaraku"
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "34",
+      "ref": "Luke 12:13",
+      "arabic_page": 109,
+      "text": "supaya ia berbagi warisan dengan aku.\""
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "34",
+      "ref": "Luke 12:14",
+      "arabic_page": 109,
+      "text": "Tetapi Yesus berkata kepadanya: \"Saudara, siapakah yang"
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "35",
+      "ref": "Luke 12:14",
+      "arabic_page": 109,
+      "text": "telah mengangkat Aku menjadi hakim atau pengantara atas kamu?\""
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "35",
+      "ref": "Luke 12:15",
+      "arabic_page": 109,
+      "text": "Kata-Nya lagi kepada mereka: \"Berjaga-jagalah dan waspadalah terhadap segala ketamakan, sebab walaupun seorang berlimpah-limpah"
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "36",
+      "ref": "Luke 12:15",
+      "arabic_page": 109,
+      "text": "hartanya, hidupnya tidaklah tergantung dari pada kekayaannya itu.\""
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "36",
+      "ref": "Luke 12:16",
+      "arabic_page": 109,
+      "text": "Kemudian Ia mengatakan kepada mereka suatu perumpamaan, kata-Nya: \"Ada seorang kaya,"
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "37",
+      "ref": "Luke 12:16",
+      "arabic_page": 109,
+      "text": "tanahnya berlimpah-limpah hasilnya."
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "37",
+      "ref": "Luke 12:17",
+      "arabic_page": 109,
+      "text": "Ia"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "38",
+      "ref": "Luke 12:17",
+      "arabic_page": 109,
+      "text": "bertanya dalam hatinya: Apakah yang harus aku perbuat, sebab aku tidak mempunyai tempat di mana aku dapat menyimpan hasil tanahku."
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "38",
+      "ref": "Luke 12:18",
+      "arabic_page": 109,
+      "text": "Lalu katanya: Inilah yang akan aku perbuat; aku akan merombak lumbung-lumbungku dan aku akan"
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "39",
+      "ref": "Luke 12:18",
+      "arabic_page": 109,
+      "text": "mendirikan yang lebih besar dan aku akan menyimpan di dalamnya segala gandum dan barang-barangku."
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "39",
+      "ref": "Luke 12:19",
+      "arabic_page": 109,
+      "text": "Sesudah itu aku akan berkata kepada jiwaku: Jiwaku, ada padamu banyak barang, tertimbun untuk bertahun-tahun lamanya; beristirahatlah, makanlah,"
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "40",
+      "ref": "Luke 12:19",
+      "arabic_page": 109,
+      "text": "minumlah dan bersenang-senanglah!"
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "40",
+      "ref": "Luke 12:20",
+      "arabic_page": 109,
+      "text": "Tetapi firman Allah kepadanya: Hai engkau orang bodoh, pada malam ini juga jiwamu akan diambil dari padamu, dan apa yang telah kausediakan, untuk siapakah itu"
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "41",
+      "ref": "Luke 12:20",
+      "arabic_page": 109,
+      "text": "nanti?"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "41",
+      "ref": "Luke 12:21",
+      "arabic_page": 109,
+      "text": "Demikianlah jadinya dengan orang yang mengumpulkan harta bagi dirinya sendiri, jikalau ia tidak kaya di hadapan Allah.\""
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "42",
+      "ref": "Mark 10:17",
+      "arabic_page": 109,
+      "text": "Pada waktu Yesus berangkat untuk meneruskan perjalanan-Nya, datanglah seorang berlari-lari mendapatkan Dia dan sambil bertelut di hadapan-Nya ia bertanya: \"Guru yang baik, apa"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "43",
+      "ref": "Mark 10:17",
+      "arabic_page": 109,
+      "text": "yang harus kuperbuat untuk memperoleh hidup yang kekal?\""
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "43",
+      "ref": "Mark 10:18",
+      "arabic_page": 109,
+      "text": "Jawab Yesus: \"Mengapa kaukatakan"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "44",
+      "ref": "Mark 10:18",
+      "arabic_page": 109,
+      "text": "Aku baik? Tak seorangpun yang baik selain dari pada Allah saja."
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "44",
+      "ref": "Mark 10:19a",
+      "arabic_page": 109,
+      "text": "Engkau tentu mengetahui segala perintah Allah:"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "45",
+      "ref": "Matthew 19:17b",
+      "arabic_page": 109,
+      "text": "Tetapi jikalau engkau ingin masuk ke dalam hidup, turutilah segala perintah Allah.\""
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "45",
+      "ref": "Matthew 19:18",
+      "arabic_page": 110,
+      "text": "Kata orang itu kepada-Nya: \"Perintah yang mana?\" Kata Yesus:"
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "46",
+      "ref": "Mark 10:19b",
+      "arabic_page": 110,
+      "text": "Jangan membunuh, jangan berzinah, jangan mencuri, jangan mengucapkan saksi dusta, jangan mengurangi hak orang, hormatilah ayahmu"
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "47",
+      "ref": "Mark 10:19b",
+      "arabic_page": 110,
+      "text": "dan ibumu!\""
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "47",
+      "ref": "Mathhew 19;19b",
+      "arabic_page": 110,
+      "text": "dan kasihilah sesamamu manusia seperti dirimu sendiri.\""
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "47",
+      "ref": "Matthew 19:20a",
+      "arabic_page": 110,
+      "text": "Kata orang muda itu"
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "48",
+      "ref": "Matthew 19:20a",
+      "arabic_page": 110,
+      "text": "kepada-Nya:"
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "48",
+      "ref": "Luke 18:21b",
+      "arabic_page": 110,
+      "text": "\"Semuanya itu telah kuturuti sejak masa mudaku."
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "48",
+      "ref": "Matthew 19:20b",
+      "arabic_page": 110,
+      "text": "apa lagi yang masih kurang?\""
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "48",
+      "ref": "Mark 10:21a",
+      "arabic_page": 110,
+      "text": "Tetapi Yesus"
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "49",
+      "ref": "Mark 10:21a",
+      "arabic_page": 110,
+      "text": "memandang dia dan menaruh kasih kepadanya, lalu berkata kepadanya:"
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "49",
+      "ref": "Matthew 19:21b",
+      "arabic_page": 110,
+      "text": "\"Jikalau engkau hendak sempurna, pergilah, juallah segala milikmu dan berikanlah itu kepada orang-orang miskin, maka engkau akan beroleh harta di sorga, kemudian"
+    },
+    {
+      "id": 91,
+      "diatessaron_verse": "50",
+      "ref": "Matthew 19:21b",
+      "arabic_page": 110,
+      "text": "datanglah ke mari dan ikutlah Aku.\""
+    },
+    {
+      "id": 92,
+      "diatessaron_verse": "50",
+      "ref": "Mark 10:22",
+      "arabic_page": 110,
+      "text": "Mendengar perkataan itu ia menjadi kecewa, lalu pergi"
+    },
+    {
+      "id": 93,
+      "diatessaron_verse": "51",
+      "ref": "Mark 10:22",
+      "arabic_page": 110,
+      "text": "dengan sedih, sebab banyak hartanya."
+    },
+    {
+      "id": 94,
+      "diatessaron_verse": "51",
+      "ref": "Luke 18:24a",
+      "arabic_page": 110,
+      "text": "Lalu Yesus memandang dia,"
+    },
+    {
+      "id": 95,
+      "diatessaron_verse": "51",
+      "ref": "Mark 10:23",
+      "arabic_page": 110,
+      "text": "Yesus memandang murid-murid-Nya di sekeliling-Nya dan berkata kepada mereka: \"Alangkah sukarnya orang yang beruang masuk ke dalam Kerajaan Allah.\""
+    }
+  ]
+}

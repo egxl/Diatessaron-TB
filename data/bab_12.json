@@ -1,0 +1,645 @@
+{
+  "id": 12,
+  "title": "BAB 12",
+  "source_post_id": "p51400",
+  "canonical_books": [
+    "Luke",
+    "Mark",
+    "Matthew",
+    "a"
+  ],
+  "total_segments": 90,
+  "diatessaron_verse_range": "1 - 55",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "a",
+      "arabic_page": null,
+      "text": "Lalu seluruh penduduk daerah Gerasa meminta kepada Yesus, supaya Ia meninggalkan mereka, sebab mereka sangat ketakutan."
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2, 3",
+      "ref": "Matthew 9:1",
+      "arabic_page": null,
+      "text": "Sesudah itu naiklah Yesus ke dalam perahu lalu menyeberang. Kemudian sampailah Ia ke kota-Nya sendiri."
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2, 3",
+      "ref": "Luke 8:38",
+      "arabic_page": null,
+      "text": "Dan orang yang telah ditinggalkan setan-setan itu meminta supaya ia diperkenankan menyertai-Nya."
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "4",
+      "ref": "Luke 8:38",
+      "arabic_page": null,
+      "text": "Tetapi Yesus menyuruh dia pergi, kata-Nya:"
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "4",
+      "ref": "Luke 8:39[a",
+      "arabic_page": null,
+      "text": "\"Pulanglah ke rumahmu dan ceriterakanlah segala sesuatu"
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "5",
+      "ref": "Luke 8:39[a",
+      "arabic_page": null,
+      "text": "yang telah diperbuat Allah atasmu.\""
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "5",
+      "ref": "Mark 5:20",
+      "arabic_page": null,
+      "text": "Orang itupun pergilah dan mulai memberitakan di daerah Dekapolis segala apa yang telah diperbuat Yesus atas dirinya dan mereka semua menjadi heran."
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "6",
+      "ref": "Mark 5:21a",
+      "arabic_page": null,
+      "text": "Sesudah Yesus menyeberang lagi dengan perahu,[Luke 8:40b] orang banyak menyambut Dia"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "7",
+      "ref": "Mark 5:21a",
+      "arabic_page": null,
+      "text": "sebab mereka semua menanti-nantikan Dia."
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "7",
+      "ref": "Luke 8:41[a",
+      "arabic_page": null,
+      "text": "Maka datanglah seorang yang bernama Yairus. Ia adalah kepala rumah ibadat."
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "8",
+      "ref": "Luke 8:41[a",
+      "arabic_page": null,
+      "text": "Sambil tersungkur di depan kaki Yesus ia memohon kepada-Nya, supaya Yesus datang ke rumahnya,"
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "8",
+      "ref": "Mark 5:23[a",
+      "arabic_page": null,
+      "text": "dan memohon dengan sangat kepada-Nya: \"Anakku perempuan sedang sakit, hampir mati,"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 9:18[b",
+      "arabic_page": null,
+      "text": "tetapi datanglah dan letakkanlah"
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 9:18[b",
+      "arabic_page": null,
+      "text": "tangan-Mu atasnya, maka ia akan hidup.\""
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 9:19",
+      "arabic_page": null,
+      "text": "Lalu Yesuspun bangunlah dan mengikuti orang itu bersama-sama"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "10",
+      "ref": "Matthew 9:19",
+      "arabic_page": null,
+      "text": "dengan murid-murid-Nya."
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "10",
+      "ref": "Mark 5:24[b",
+      "arabic_page": null,
+      "text": "Orang banyak berbondong-bondong mengikuti Dia dan berdesak-desakan di dekat-Nya."
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "11, 12",
+      "ref": "Mark 5:25",
+      "arabic_page": null,
+      "text": "Adalah di situ seorang perempuan yang sudah dua belas tahun lamanya menderita pendarahan."
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "11, 12",
+      "ref": "Mark 5:26",
+      "arabic_page": null,
+      "text": "Ia telah berulang-ulang diobati oleh berbagai tabib, sehingga telah dihabiskannya semua yang ada padanya, namun sama sekali tidak ada faedahnya malah sebaliknya"
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "13",
+      "ref": "Mark 5:26",
+      "arabic_page": null,
+      "text": "keadaannya makin memburuk."
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "13",
+      "ref": "Mark 5:27",
+      "arabic_page": null,
+      "text": "Dia sudah mendengar berita-berita tentang Yesus, maka di tengah-tengah orang banyak itu ia"
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "14",
+      "ref": "Mark 5:27",
+      "arabic_page": 47,
+      "text": "mendekati Yesus dari belakang dan menjamah jubah-Nya."
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "14",
+      "ref": "Mark 5:28",
+      "arabic_page": 47,
+      "text": "Sebab katanya:"
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "15",
+      "ref": "Mark 5:28",
+      "arabic_page": 47,
+      "text": "\"Asal kujamah saja jubah-Nya, aku akan sembuh.\""
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "15",
+      "ref": "Mark 5:29",
+      "arabic_page": 47,
+      "text": "Seketika itu juga berhentilah pendarahannya dan ia merasa, bahwa badannya sudah"
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "16",
+      "ref": "Mark 5:29",
+      "arabic_page": 47,
+      "text": "sembuh dari penyakitnya."
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "16",
+      "ref": "Mark 5:30",
+      "arabic_page": 47,
+      "text": "Pada ketika itu juga Yesus mengetahui, bahwa ada tenaga yang keluar dari diri-Nya, lalu Ia berpaling di tengah orang banyak dan bertanya: \"Siapa yang menjamah jubah-Ku?\""
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "17",
+      "ref": "Luke 8:45[b",
+      "arabic_page": 47,
+      "text": "Dan karena tidak ada yang mengakuinya, berkatalah Petrus: \"Guru, orang banyak mengerumuni dan"
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "18",
+      "ref": "Luke 8:45[b",
+      "arabic_page": 47,
+      "text": "mendesak Engkau.\""
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "18",
+      "ref": "Luke 8:46",
+      "arabic_page": 47,
+      "text": "Tetapi Yesus berkata: \"Ada seorang yang menjamah Aku, sebab Aku merasa ada"
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "19",
+      "ref": "Luke 8:46",
+      "arabic_page": 47,
+      "text": "kuasa keluar dari diri-Ku.\""
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "19",
+      "ref": "Luke 8:47",
+      "arabic_page": 47,
+      "text": "Ketika perempuan itu melihat, bahwa perbuatannya itu ketahuan,"
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "20",
+      "ref": "Luke 8:47",
+      "arabic_page": 47,
+      "text": "ia datang dengan gemetar, tersungkur di depan-Nya dan menceriterakan kepada orang banyak"
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "21",
+      "ref": "Luke 8:47",
+      "arabic_page": 47,
+      "text": "apa sebabnya ia menjamah Dia dan bahwa ia seketika itu juga menjadi sembuh. [Luke 8:48] Maka kata-Nya kepada perempuan itu: \"Hai anak-Ku, imanmu telah menyelamatkan engkau, pergilah dengan selamat!\""
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "22",
+      "ref": "Luke 8:49",
+      "arabic_page": 47,
+      "text": "Ketika Yesus masih berbicara, datanglah seorang dari keluarga kepala rumah ibadat itu dan berkata: \"Anakmu sudah mati, jangan lagi engkau menyusah-nyusahkan"
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "23",
+      "ref": "Luke 8:49",
+      "arabic_page": 47,
+      "text": "Guru!\""
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "23",
+      "ref": "Luke 8:50",
+      "arabic_page": 47,
+      "text": "Tetapi Yesus mendengarnya dan berkata kepada Yairus: \"Jangan takut,"
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "24",
+      "ref": "Luke 8:50",
+      "arabic_page": 47,
+      "text": "percaya saja, dan anakmu akan selamat.\""
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "24",
+      "ref": "Mark 5:37",
+      "arabic_page": 47,
+      "text": "Lalu Yesus tidak memperbolehkan seorangpun ikut serta, kecuali"
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "25",
+      "ref": "Mark 5:37",
+      "arabic_page": 47,
+      "text": "Petrus, Yakobus dan Yohanes, saudara Yakobus."
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "25",
+      "ref": "Mark 5:38",
+      "arabic_page": 47,
+      "text": "Mereka tiba di rumah kepala rumah ibadat, dan di sana dilihat-Nya orang-orang ribut, menangis dan meratap dengan suara nyaring."
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "26",
+      "ref": "Mark 5:39",
+      "arabic_page": 47,
+      "text": "Sesudah Ia masuk Ia berkata kepada orang-orang itu: \"Mengapa kamu ribut dan menangis?"
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "27",
+      "ref": "Mark 5:39",
+      "arabic_page": 48,
+      "text": "Anak ini tidak mati, tetapi tidur!\""
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "27",
+      "ref": "Luke 8:53",
+      "arabic_page": 48,
+      "text": "Mereka menertawakan Dia,"
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "28",
+      "ref": "Luke 8:53",
+      "arabic_page": 48,
+      "text": "karena mereka tahu bahwa anak itu telah mati."
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "28",
+      "ref": "Mark 5:40[b",
+      "arabic_page": 48,
+      "text": "Maka diusir-Nya semua orang itu, lalu dibawa-Nya ayah dan ibu anak itu dan mereka yang bersama-sama dengan Dia"
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "29",
+      "ref": "Mark 5:40[b",
+      "arabic_page": 48,
+      "text": "masuk ke kamar anak itu."
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "29",
+      "ref": "Mark 5:41",
+      "arabic_page": 48,
+      "text": "Lalu dipegang-Nya tangan anak itu, kata-Nya: \"Talita kum,\"* yang berarti: \"Hai anak, Aku berkata kepadamu, bangunlah!\""
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "29",
+      "ref": "Luke 8:55[a",
+      "arabic_page": 48,
+      "text": "Maka kembalilah roh anak itu dan seketika itu juga"
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "30",
+      "ref": "Luke 8:55[a",
+      "arabic_page": 48,
+      "text": "ia bangkit berdiri."
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "30",
+      "ref": "Mark 5:42[b",
+      "arabic_page": 48,
+      "text": "Sebab umurnya sudah dua belas tahun."
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "30",
+      "ref": "Luke 8:55[b",
+      "arabic_page": 48,
+      "text": "Lalu Yesus menyuruh mereka"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "31",
+      "ref": "Luke 8:55[b",
+      "arabic_page": 48,
+      "text": "memberi anak itu makan."
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "31",
+      "ref": "Luke 8:56",
+      "arabic_page": 48,
+      "text": "Dan takjublah orang tua anak itu,"
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "32",
+      "ref": "Luke 8:56",
+      "arabic_page": 48,
+      "text": "tetapi Yesus melarang mereka memberitahukan kepada siapapun juga apa yang terjadi itu."
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "33",
+      "ref": "Matthew 9:27",
+      "arabic_page": 48,
+      "text": "Ketika Yesus meneruskan perjalanan-Nya dari sana, dua orang buta mengikuti-Nya sambil"
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "34",
+      "ref": "Matthew 9:27",
+      "arabic_page": 48,
+      "text": "berseru-seru dan berkata: \"Kasihanilah kami, hai Anak Daud.\""
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "34",
+      "ref": "Matthew 9:28",
+      "arabic_page": 48,
+      "text": "Setelah Yesus masuk ke dalam sebuah rumah, datanglah kedua orang buta itu kepada-Nya dan Yesus berkata kepada mereka: \"Percayakah kamu,"
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 9:28",
+      "arabic_page": 48,
+      "text": "bahwa Aku dapat melakukannya?\" Mereka menjawab: \"Ya Tuhan, kami percaya.\""
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 9:29",
+      "arabic_page": 48,
+      "text": "Lalu Yesus"
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "36",
+      "ref": "Matthew 9:29",
+      "arabic_page": 48,
+      "text": "menjamah mata mereka sambil berkata: \"Jadilah kepadamu menurut imanmu.\""
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "36",
+      "ref": "Matthew 9:30",
+      "arabic_page": 48,
+      "text": "Maka meleklah mata mereka. Dan Yesuspun dengan tegas berpesan kepada mereka, kata-Nya: \"Jagalah supaya jangan seorangpun mengetahui hal ini.\""
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "37",
+      "ref": "Matthew 9:31",
+      "arabic_page": 48,
+      "text": "Tetapi mereka keluar dan memasyhurkan Dia ke seluruh daerah itu."
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "38",
+      "ref": "Matthew 9:32",
+      "arabic_page": 48,
+      "text": "Sedang kedua orang buta itu keluar, dibawalah kepada Yesus seorang bisu yang kerasukan setan."
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "39",
+      "ref": "Matthew 9:33",
+      "arabic_page": 48,
+      "text": "Dan setelah setan itu diusir, dapatlah orang bisu itu berkata-kata. Maka heranlah orang banyak, katanya: \"Yang demikian belum pernah dilihat orang di Israel.\""
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "40",
+      "ref": "Matthew 9:35",
+      "arabic_page": 48,
+      "text": "Demikianlah Yesus berkeliling ke semua kota dan desa; Ia mengajar dalam rumah-rumah ibadat dan memberitakan Injil Kerajaan Sorga serta melenyapkan segala penyakit dan kelemahan."
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "41",
+      "ref": "Matthew 12:15b",
+      "arabic_page": 49,
+      "text": "Banyak orang mengikuti Yesus."
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "41",
+      "ref": "Matthew 9:36",
+      "arabic_page": 49,
+      "text": "Melihat orang banyak itu, tergeraklah hati Yesus oleh belas kasihan kepada mereka, karena mereka lelah dan terlantar seperti domba"
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "42",
+      "ref": "Matthew 9:36",
+      "arabic_page": 49,
+      "text": "yang tidak bergembala."
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "42",
+      "ref": "Luke 9:1",
+      "arabic_page": 49,
+      "text": "Maka Yesus memanggil kedua belas murid-Nya, lalu memberikan tenaga dan"
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "43",
+      "ref": "Luke 9:1",
+      "arabic_page": 49,
+      "text": "kuasa kepada mereka untuk menguasai setan-setan dan untuk menyembuhkan penyakit-penyakit."
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "43",
+      "ref": "Luke 9:2",
+      "arabic_page": 49,
+      "text": "Dan Ia mengutus mereka"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "44",
+      "ref": "Luke 9:2",
+      "arabic_page": 49,
+      "text": "untuk memberitakan Kerajaan Allah dan untuk menyembuhkan orang,"
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "44",
+      "ref": "Matthew 10:5",
+      "arabic_page": 49,
+      "text": "Kedua belas murid itu diutus oleh Yesus dan Ia berpesan kepada mereka: \"Janganlah kamu menyimpang ke jalan bangsa lain atau masuk ke dalam kota orang Samaria,"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "45, 46",
+      "ref": "Matthew 10:6",
+      "arabic_page": 49,
+      "text": "melainkan pergilah kepada domba-domba yang hilang dari umat Israel."
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "45, 46",
+      "ref": "Matthew 10:7",
+      "arabic_page": 49,
+      "text": "Pergilah dan"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "47",
+      "ref": "Matthew 10:7",
+      "arabic_page": 49,
+      "text": "beritakanlah: Kerajaan Sorga sudah dekat."
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "47",
+      "ref": "Matthew 10:8",
+      "arabic_page": 49,
+      "text": "Sembuhkanlah orang sakit; bangkitkanlah orang mati; tahirkanlah orang kusta; usirlah setan-setan. Kamu telah memperolehnya dengan cuma-cuma, karena itu berikanlah pula"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "48, 49",
+      "ref": "Matthew 10:8",
+      "arabic_page": 49,
+      "text": "dengan cuma-cuma."
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "48, 49",
+      "ref": "Matthew 10:9",
+      "arabic_page": 49,
+      "text": "Janganlah kamu membawa emas atau perak atau tembaga dalam ikat pinggangmu."
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "48, 49",
+      "ref": "Matthew 10:10",
+      "arabic_page": 49,
+      "text": "Janganlah kamu membawa bekal dalam perjalanan, janganlah kamu membawa baju dua helai,"
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "50",
+      "ref": "Matthew 10:10",
+      "arabic_page": 49,
+      "text": "kasut atau tongkat, sebab seorang pekerja patut mendapat upahnya."
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "51",
+      "ref": "Matthew 10:11",
+      "arabic_page": 49,
+      "text": "Apabila kamu masuk kota atau desa, carilah di situ seorang yang layak dan tinggallah padanya sampai"
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "52, 53",
+      "ref": "Matthew 10:11",
+      "arabic_page": 49,
+      "text": "kamu berangkat."
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "52, 53",
+      "ref": "Matthew 10:12",
+      "arabic_page": 49,
+      "text": "Apabila kamu masuk rumah orang, berilah salam kepada mereka."
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "52, 53",
+      "ref": "Matthew 10:13",
+      "arabic_page": 49,
+      "text": "Jika mereka layak menerimanya,"
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "54",
+      "ref": "Matthew 10:13",
+      "arabic_page": 49,
+      "text": "salammu itu turun ke atasnya, jika tidak, salammu itu kembali kepadamu."
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "54",
+      "ref": "Matthew 10:14",
+      "arabic_page": 49,
+      "text": "Dan apabila seorang tidak menerima kamu dan tidak mendengar perkataanmu, keluarlah dan tinggalkanlah rumah atau kota itu"
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "55",
+      "ref": "Matthew 10:14",
+      "arabic_page": 50,
+      "text": "dan kebaskanlah debunya dari kakimu."
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "55",
+      "ref": "Matthew 10:15",
+      "arabic_page": 50,
+      "text": "Aku berkata kepadamu: Sesungguhnya pada hari penghakiman tanah Sodom dan Gomora akan lebih ringan tanggungannya dari pada kota itu.\""
+    }
+  ]
+}

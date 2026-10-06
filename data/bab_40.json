@@ -1,0 +1,722 @@
+{
+  "id": 40,
+  "title": "BAB 40",
+  "source_post_id": "p64897",
+  "canonical_books": [
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "total_segments": 101,
+  "diatessaron_verse_range": "1 - 65",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "Matthew 21:14",
+      "arabic_page": 150,
+      "text": "Maka datanglah orang-orang buta dan"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 21:14",
+      "arabic_page": 150,
+      "text": "orang-orang timpang kepada-Nya dalam Bait Allah itu dan mereka disembuhkan-Nya."
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 21:15",
+      "arabic_page": 150,
+      "text": "Tetapi ketika imam-imam kepala dan ahli-ahli Taurat melihat mujizat-mujizat yang dibuat-Nya itu dan anak-anak"
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 21:15",
+      "arabic_page": 150,
+      "text": "yang berseru dalam Bait Allah: \"Hosana bagi Anak Daud!\" hati mereka sangat jengkel,"
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 21:16",
+      "arabic_page": 150,
+      "text": "lalu mereka berkata kepada-Nya: \"Engkau dengar apa yang dikatakan anak-anak ini?\" Kata Yesus kepada mereka: \"Aku dengar; belum pernahkah kamu baca: Dari"
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 21:16",
+      "arabic_page": 150,
+      "text": "mulut bayi-bayi dan anak-anak yang menyusu Engkau telah menyediakan puji-pujian?\""
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "4",
+      "ref": "John 12:19",
+      "arabic_page": 150,
+      "text": "Maka kata orang-orang Farisi seorang kepada yang lain: \"Kamu lihat sendiri, bahwa kamu sama sekali tidak berhasil, lihatlah, seluruh dunia datang mengikuti Dia.\""
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "John 12:20",
+      "arabic_page": 150,
+      "text": "Di antara mereka yang berangkat untuk beribadah"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "6",
+      "ref": "John 12:20",
+      "arabic_page": 150,
+      "text": "pada hari raya itu, terdapat beberapa orang Yunani."
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "6",
+      "ref": "John 12:21",
+      "arabic_page": 150,
+      "text": "Orang-orang itu pergi kepada Filipus, yang berasal dari Betsaida di Galilea,"
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "7",
+      "ref": "John 12:21",
+      "arabic_page": 150,
+      "text": "lalu berkata kepadanya: \"Tuan, kami ingin bertemu dengan Yesus.\""
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "7",
+      "ref": "John 12:22",
+      "arabic_page": 150,
+      "text": "Filipus"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "8",
+      "ref": "John 12:22",
+      "arabic_page": 150,
+      "text": "pergi memberitahukannya kepada Andreas; Andreas dan Filipus menyampaikannya pula kepada Yesus."
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "8",
+      "ref": "John 12:23",
+      "arabic_page": 150,
+      "text": "Tetapi Yesus menjawab mereka, kata-Nya: \"Telah tiba saatnya Anak Manusia dimuliakan."
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9",
+      "ref": "John 12:24",
+      "arabic_page": 150,
+      "text": "Aku berkata kepadamu: Sesungguhnya jikalau biji gandum tidak jatuh ke dalam"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "10",
+      "ref": "John 12:24",
+      "arabic_page": 150,
+      "text": "tanah dan mati, ia tetap satu biji saja; tetapi jika ia mati, ia akan menghasilkan banyak buah."
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "10",
+      "ref": "John 12:25",
+      "arabic_page": 150,
+      "text": "Barangsiapa mencintai nyawanya, ia akan kehilangan nyawanya, tetapi barangsiapa tidak mencintai nyawanya di dunia ini, ia akan memeliharanya untuk hidup yang kekal."
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "11",
+      "ref": "John 12:26",
+      "arabic_page": 150,
+      "text": "Barangsiapa melayani Aku, ia harus mengikut Aku dan di mana Aku berada, di situpun pelayan-Ku akan"
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "12",
+      "ref": "John 12:26",
+      "arabic_page": 150,
+      "text": "berada. Barangsiapa melayani Aku, ia akan dihormati Bapa."
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "12",
+      "ref": "John 12:27",
+      "arabic_page": 151,
+      "text": "Sekarang jiwa-Ku terharu dan apakah yang akan Kukatakan? Bapa, selamatkanlah Aku dari saat ini? Tidak,"
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "13",
+      "ref": "John 12:27",
+      "arabic_page": 151,
+      "text": "sebab untuk itulah Aku datang ke dalam saat ini."
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "13",
+      "ref": "John 12:28",
+      "arabic_page": 151,
+      "text": "Bapa, muliakanlah nama-Mu!\" Maka terdengarlah"
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "14",
+      "ref": "John 12:28",
+      "arabic_page": 151,
+      "text": "suara dari sorga: \"Aku telah memuliakan-Nya, dan Aku akan memuliakan-Nya lagi!\""
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "14",
+      "ref": "John 12:29",
+      "arabic_page": 151,
+      "text": "Orang banyak yang berdiri di situ dan mendengarkannya berkata, bahwa itu bunyi guntur. Ada pula yang berkata:"
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "15",
+      "ref": "John 12:29",
+      "arabic_page": 151,
+      "text": "\"Seorang malaikat telah berbicara dengan Dia.\""
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "15",
+      "ref": "John 12:30",
+      "arabic_page": 151,
+      "text": "Jawab Yesus: \"Suara itu telah terdengar bukan oleh karena Aku,"
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "16",
+      "ref": "John 12:30",
+      "arabic_page": 151,
+      "text": "melainkan oleh karena kamu."
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "16",
+      "ref": "John 12:31",
+      "arabic_page": 151,
+      "text": "Sekarang berlangsung penghakiman atas dunia ini: sekarang juga"
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "17",
+      "ref": "John 12:31",
+      "arabic_page": 151,
+      "text": "penguasa dunia ini akan dilemparkan ke luar;"
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "17",
+      "ref": "John 12:32",
+      "arabic_page": 151,
+      "text": "dan Aku, apabila Aku ditinggikan dari"
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "18",
+      "ref": "John 12:32",
+      "arabic_page": 151,
+      "text": "bumi, Aku akan menarik semua orang datang kepada-Ku.\""
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "18",
+      "ref": "John 12:33",
+      "arabic_page": 151,
+      "text": "Ini dikatakan-Nya untuk menyatakan"
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "19",
+      "ref": "John 12:33",
+      "arabic_page": 151,
+      "text": "bagaimana caranya Ia akan mati."
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "19",
+      "ref": "John 12:34",
+      "arabic_page": 151,
+      "text": "Lalu jawab orang banyak itu: \"Kami telah mendengar dari hukum Taurat, bahwa Mesias tetap hidup selama-lamanya; bagaimana mungkin Engkau mengatakan, bahwa Anak"
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "20",
+      "ref": "John 12:34",
+      "arabic_page": 151,
+      "text": "Manusia harus ditinggikan? Siapakah Anak Manusia itu?\""
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "20",
+      "ref": "John 12:35",
+      "arabic_page": 151,
+      "text": "Kata Yesus kepada mereka: \"Hanya sedikit waktu lagi terang ada di antara kamu. Selama terang itu ada padamu, percayalah kepadanya, supaya kegelapan jangan menguasai kamu; barangsiapa berjalan dalam kegelapan, ia tidak tahu ke mana ia pergi."
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "21",
+      "ref": "John 12:36",
+      "arabic_page": 151,
+      "text": "Percayalah kepada terang itu, selama terang itu ada padamu, supaya kamu menjadi anak-anak terang.\" Sesudah berkata demikian, Yesus pergi bersembunyi dari antara mereka."
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "22",
+      "ref": "Luke 17:20",
+      "arabic_page": 151,
+      "text": "Atas pertanyaan orang-orang Farisi, apabila Kerajaan Allah akan datang, Yesus menjawab, kata-Nya: \"Kerajaan Allah datang tanpa"
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "23",
+      "ref": "Luke 17:20",
+      "arabic_page": 151,
+      "text": "tanda-tanda lahiriah,"
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "23",
+      "ref": "Luke 17:21",
+      "arabic_page": 151,
+      "text": "juga orang tidak dapat mengatakan: Lihat, ia ada di sini atau ia ada di sana! Sebab sesungguhnya Kerajaan Allah ada di antara kamu.\""
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "24",
+      "ref": "Luke 21:37",
+      "arabic_page": 151,
+      "text": "Pada siang hari Yesus mengajar di Bait Allah dan pada malam hari Ia"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "25",
+      "ref": "Luke 21:37",
+      "arabic_page": 151,
+      "text": "keluar dan bermalam di gunung yang bernama Bukit Zaitun."
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "25",
+      "ref": "Luke 21:38",
+      "arabic_page": 151,
+      "text": "Dan pagi-pagi semua orang banyak datang kepada-Nya di dalam Bait Allah untuk mendengarkan Dia."
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "26, 27",
+      "ref": "Matthew 23:1",
+      "arabic_page": 151,
+      "text": "Maka berkatalah Yesus kepada orang banyak dan kepada murid-murid-Nya, kata-Nya:"
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "28",
+      "ref": "Matthew 23:2",
+      "arabic_page": 152,
+      "text": "\"Ahli-ahli Taurat dan orang-orang Farisi telah menduduki kursi Musa."
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "28",
+      "ref": "Matthew 23:3",
+      "arabic_page": 152,
+      "text": "Sebab itu turutilah dan lakukanlah segala sesuatu yang mereka ajarkan kepadamu, tetapi janganlah kamu turuti"
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "29",
+      "ref": "Matthew 23:3",
+      "arabic_page": 152,
+      "text": "perbuatan-perbuatan mereka, karena mereka mengajarkannya tetapi tidak melakukannya."
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "29",
+      "ref": "Matthew 23:4",
+      "arabic_page": 152,
+      "text": "Mereka mengikat beban-beban berat, lalu meletakkannya di atas bahu orang, tetapi mereka sendiri tidak mau"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "30, 31",
+      "ref": "Matthew 23:4",
+      "arabic_page": 152,
+      "text": "menyentuhnya."
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "30, 31",
+      "ref": "Matthew 23:5a",
+      "arabic_page": 152,
+      "text": "Semua pekerjaan yang mereka lakukan hanya dimaksud supaya dilihat orang;"
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "30, 31",
+      "ref": "Mark 12:37b",
+      "arabic_page": 152,
+      "text": "Orang banyak yang besar jumlahnya mendengarkan Dia dengan penuh minat."
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "32",
+      "ref": "Mark 12:38",
+      "arabic_page": 152,
+      "text": "Dalam pengajaran-Nya Yesus berkata: \"Hati-hatilah terhadap"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "33",
+      "ref": "Mark 12:38",
+      "arabic_page": 152,
+      "text": "ahli-ahli Taurat yang suka berjalan-jalan memakai jubah panjang dan suka menerima penghormatan di pasar,"
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "33",
+      "ref": "Mark 12:39",
+      "arabic_page": 152,
+      "text": "yang suka duduk di tempat terdepan di rumah ibadat dan di tempat terhormat dalam"
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "34",
+      "ref": "Mark 12:39",
+      "arabic_page": 152,
+      "text": "perjamuan,"
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "34",
+      "ref": "Matthew 23:5b",
+      "arabic_page": 152,
+      "text": "mereka memakai tali sembahyang yang lebar dan jumbai yang panjang;"
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 23:7",
+      "arabic_page": 152,
+      "text": "mereka suka menerima penghormatan di pasar dan suka dipanggil Rabi."
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "35",
+      "ref": "Mark 12:40",
+      "arabic_page": 152,
+      "text": "yang menelan rumah janda-janda, sedang mereka mengelabui mata orang dengan doa yang panjang-panjang. Mereka ini pasti akan menerima hukuman yang lebih berat.\""
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "36",
+      "ref": "Matthew 23:8",
+      "arabic_page": 152,
+      "text": "Tetapi kamu, janganlah kamu disebut Rabi; karena hanya satu Rabimu dan kamu semua adalah saudara."
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "37",
+      "ref": "Matthew 23:9",
+      "arabic_page": 152,
+      "text": "Dan janganlah kamu menyebut siapapun bapa di bumi ini, karena hanya satu Bapamu, yaitu Dia yang"
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "38",
+      "ref": "Matthew 23:9",
+      "arabic_page": 152,
+      "text": "di sorga."
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "38",
+      "ref": "Matthew 23:10",
+      "arabic_page": 152,
+      "text": "Janganlah pula kamu disebut pemimpin, karena hanya satu Pemimpinmu, yaitu Mesias."
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "39, 40",
+      "ref": "Matthew 23:11",
+      "arabic_page": 152,
+      "text": "Barangsiapa terbesar di antara kamu, hendaklah ia menjadi pelayanmu."
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "39, 40",
+      "ref": "Matthew 23:12",
+      "arabic_page": 152,
+      "text": "Dan barangsiapa meninggikan diri, ia akan direndahkan dan barangsiapa merendahkan diri, ia akan ditinggikan."
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "41",
+      "ref": "Luke 11:43",
+      "arabic_page": 152,
+      "text": "Celakalah kamu, hai orang-orang Farisi, sebab kamu suka duduk di tempat terdepan di rumah ibadat dan suka menerima penghormatan di pasar."
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "42",
+      "ref": "Matthew 23:14",
+      "arabic_page": 152,
+      "text": "Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab kamu menelan rumah janda-janda sedang kamu mengelabui mata orang dengan doa yang panjang-panjang. Sebab itu kamu pasti akan menerima hukuman yang lebih berat."
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "43",
+      "ref": "Matthew 23:13a",
+      "arabic_page": 152,
+      "text": "Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, karena kamu menutup pintu-pintu Kerajaan Sorga di depan orang."
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "44",
+      "ref": "Luke 11:52a",
+      "arabic_page": 153,
+      "text": "Celakalah kamu, hai ahli-ahli Taurat, sebab kamu telah mengambil kunci pengetahuan;"
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "44",
+      "ref": "Matthew 23:13b",
+      "arabic_page": 153,
+      "text": "Sebab kamu sendiri tidak masuk dan kamu merintangi mereka yang berusaha untuk masuk."
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "45",
+      "ref": "Matthew 23:15",
+      "arabic_page": 153,
+      "text": "Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab kamu mengarungi lautan dan menjelajah daratan, untuk mentobatkan satu orang saja menjadi penganut agamamu dan sesudah ia bertobat, kamu menjadikan dia orang neraka, yang dua kali lebih jahat dari pada kamu sendiri."
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "46",
+      "ref": "Matthew 23:16",
+      "arabic_page": 153,
+      "text": "Celakalah kamu, hai pemimpin-pemimpin buta, yang berkata: Bersumpah demi Bait Suci, sumpah itu tidak sah; tetapi bersumpah demi emas Bait Suci, sumpah itu"
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "47",
+      "ref": "Matthew 23:16",
+      "arabic_page": 153,
+      "text": "mengikat."
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "47",
+      "ref": "Matthew 23:17",
+      "arabic_page": 153,
+      "text": "Hai kamu orang-orang bodoh dan orang-orang buta, apakah yang lebih penting, emas atau"
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "48",
+      "ref": "Matthew 23:17",
+      "arabic_page": 153,
+      "text": "Bait Suci yang menguduskan emas itu?"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "48",
+      "ref": "Matthew 23:18",
+      "arabic_page": 153,
+      "text": "Bersumpah demi mezbah, sumpah itu tidak sah; tetapi bersumpah demi persembahan yang ada di atasnya, sumpah itu mengikat."
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "49",
+      "ref": "Matthew 23:19",
+      "arabic_page": 153,
+      "text": "Hai kamu orang-orang buta, apakah yang lebih penting, persembahan atau mezbah yang menguduskan"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "50",
+      "ref": "Matthew 23:19",
+      "arabic_page": 153,
+      "text": "persembahan itu?"
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "50",
+      "ref": "Matthew 23:20",
+      "arabic_page": 153,
+      "text": "Karena itu barangsiapa bersumpah demi mezbah, ia bersumpah demi mezbah dan juga demi segala"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "51",
+      "ref": "Matthew 23:20",
+      "arabic_page": 153,
+      "text": "sesuatu yang terletak di atasnya."
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "51",
+      "ref": "Matthew 23:21",
+      "arabic_page": 153,
+      "text": "Dan barangsiapa bersumpah demi Bait Suci, ia bersumpah demi Bait Suci dan juga demi"
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "52",
+      "ref": "Matthew 23:21",
+      "arabic_page": 153,
+      "text": "Dia, yang diam di situ."
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "52",
+      "ref": "Matthew 23:22",
+      "arabic_page": 153,
+      "text": "Dan barangsiapa bersumpah demi sorga, ia bersumpah demi takhta Allah dan juga demi Dia, yang bersemayam di atasnya."
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "53",
+      "ref": "Matthew 23:23",
+      "arabic_page": 153,
+      "text": "Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab persepuluhan dari selasih, adas manis dan jintan kamu bayar, tetapi yang terpenting dalam hukum Taurat kamu abaikan, yaitu: keadilan dan belas kasihan dan kesetiaan. Yang satu harus dilakukan dan"
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "54",
+      "ref": "Matthew 23:23",
+      "arabic_page": 153,
+      "text": "yang lain jangan diabaikan."
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "54",
+      "ref": "Matthew 23:24",
+      "arabic_page": 153,
+      "text": "Hai kamu pemimpin-pemimpin buta, nyamuk kamu tapiskan dari dalam minumanmu, tetapi unta yang di dalamnya kamu telan."
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "55",
+      "ref": "Matthew 23:25",
+      "arabic_page": 153,
+      "text": "Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab cawan dan pinggan kamu bersihkan sebelah luarnya, tetapi sebelah dalamnya penuh rampasan dan kerakusan."
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "56",
+      "ref": "Matthew 23:26",
+      "arabic_page": 153,
+      "text": "Hai orang Farisi yang buta, bersihkanlah dahulu sebelah dalam cawan itu, maka sebelah luarnya juga akan bersih."
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "57",
+      "ref": "Matthew 23:27",
+      "arabic_page": 154,
+      "text": "Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab kamu sama seperti kuburan yang dilabur putih, yang sebelah luarnya memang bersih tampaknya, tetapi yang sebelah dalamnya"
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "58",
+      "ref": "Matthew 23:27",
+      "arabic_page": 154,
+      "text": "penuh tulang belulang dan pelbagai jenis kotoran."
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "58",
+      "ref": "Matthew 23:28",
+      "arabic_page": 154,
+      "text": "Demikian jugalah kamu, di sebelah luar kamu tampaknya benar di mata orang, tetapi di sebelah dalam kamu penuh kemunafikan dan kedurjanaan."
+    },
+    {
+      "id": 91,
+      "diatessaron_verse": "59",
+      "ref": "Luke 11:45",
+      "arabic_page": 154,
+      "text": "Seorang dari antara ahli-ahli Taurat itu menjawab dan berkata kepada-Nya: \"Guru, dengan berkata demikian,"
+    },
+    {
+      "id": 92,
+      "diatessaron_verse": "60",
+      "ref": "Luke 11:45",
+      "arabic_page": 154,
+      "text": "Engkau menghina kami juga.\""
+    },
+    {
+      "id": 93,
+      "diatessaron_verse": "60",
+      "ref": "Luke 11:46",
+      "arabic_page": 154,
+      "text": "Tetapi Ia menjawab: \"Celakalah kamu juga, hai ahli-ahli Taurat, sebab kamu meletakkan beban-beban yang tak terpikul pada orang, tetapi kamu sendiri tidak menyentuh beban itu dengan satu jaripun."
+    },
+    {
+      "id": 94,
+      "diatessaron_verse": "61",
+      "ref": "Matthew 23:29",
+      "arabic_page": 154,
+      "text": "Celakalah kamu, hai ahli-ahli Taurat dan orang-orang Farisi, hai kamu orang-orang munafik, sebab kamu membangun makam nabi-nabi dan memperindah tugu orang-orang saleh"
+    },
+    {
+      "id": 95,
+      "diatessaron_verse": "62",
+      "ref": "Matthew 23:30",
+      "arabic_page": 154,
+      "text": "dan berkata: Jika kami hidup di zaman nenek moyang kita, tentulah kami"
+    },
+    {
+      "id": 96,
+      "diatessaron_verse": "63",
+      "ref": "Matthew 23:30",
+      "arabic_page": 154,
+      "text": "tidak ikut dengan mereka dalam pembunuhan nabi-nabi itu."
+    },
+    {
+      "id": 97,
+      "diatessaron_verse": "63",
+      "ref": "Matthew 23:31",
+      "arabic_page": 154,
+      "text": "Tetapi dengan demikian kamu bersaksi terhadap"
+    },
+    {
+      "id": 98,
+      "diatessaron_verse": "64",
+      "ref": "Matthew 23:31",
+      "arabic_page": 154,
+      "text": "diri kamu sendiri, bahwa kamu adalah keturunan pembunuh nabi-nabi itu."
+    },
+    {
+      "id": 99,
+      "diatessaron_verse": "64",
+      "ref": "Matthew 23:32",
+      "arabic_page": 154,
+      "text": "Jadi,"
+    },
+    {
+      "id": 100,
+      "diatessaron_verse": "65",
+      "ref": "Matthew 23:32",
+      "arabic_page": 154,
+      "text": "penuhilah juga takaran nenek moyangmu!"
+    },
+    {
+      "id": 101,
+      "diatessaron_verse": "65",
+      "ref": "Matthew 23:33",
+      "arabic_page": 154,
+      "text": "Hai kamu ular-ular, hai kamu keturunan ular beludak! Bagaimanakah mungkin kamu dapat meluputkan diri dari hukuman neraka?"
+    }
+  ]
+}

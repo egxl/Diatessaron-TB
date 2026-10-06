@@ -1,0 +1,602 @@
+{
+  "id": 14,
+  "title": "BAB 14",
+  "source_post_id": "p51865",
+  "canonical_books": [
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "total_segments": 84,
+  "diatessaron_verse_range": "1 - 48",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "Matthew 11:11",
+      "arabic_page": null,
+      "text": "Aku berkata kepadamu: Sesungguhnya di antara mereka yang dilahirkan oleh perempuan tidak pernah tampil seorang yang lebih besar dari pada Yohanes Pembaptis, namun yang terkecil dalam Kerajaan Sorga lebih besar dari padanya."
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "Luke 7:29",
+      "arabic_page": 54,
+      "text": "Seluruh orang banyak yang mendengar perkataan-Nya, termasuk para pemungut cukai, mengakui kebenaran Allah, karena"
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "3",
+      "ref": "Luke 7:29",
+      "arabic_page": 54,
+      "text": "mereka telah memberi diri dibaptis oleh Yohanes."
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "Luke 7:30",
+      "arabic_page": 54,
+      "text": "Tetapi orang-orang Farisi dan ahli-ahli Taurat menolak maksud Allah terhadap diri mereka, karena mereka tidak mau dibaptis oleh"
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "4",
+      "ref": "Luke 7:30",
+      "arabic_page": 54,
+      "text": "Yohanes."
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 11:12[a",
+      "arabic_page": 54,
+      "text": "Sejak tampilnya Yohanes Pembaptis hingga sekarang,"
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 11:12[a",
+      "arabic_page": 54,
+      "text": "Kerajaan Sorga diserong"
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "Luke 16:16",
+      "arabic_page": 54,
+      "text": "Hukum Taurat dan kitab para nabi berlaku sampai kepada zaman Yohanes; dan sejak waktu itu Kerajaan Allah diberitakan dan setiap orang menggagahinya berebut memasukinya."
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 11:12[b",
+      "arabic_page": 54,
+      "text": "dan orang yang menyerongnya mencoba"
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "6, 7",
+      "ref": "Matthew 11:12[b",
+      "arabic_page": 54,
+      "text": "menguasainya."
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "6, 7",
+      "ref": "Matthew 11:13",
+      "arabic_page": 54,
+      "text": "Sebab semua nabi dan kitab Taurat bernubuat hingga tampilnya Yohanes"
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "6, 7",
+      "ref": "Matthew 11:14",
+      "arabic_page": 54,
+      "text": "dan--jika"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 11:14",
+      "arabic_page": 54,
+      "text": "kamu mau menerimanya--ialah Elia yang akan datang itu."
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 11:15",
+      "arabic_page": 54,
+      "text": "Siapa bertelinga,"
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 11:15",
+      "arabic_page": 54,
+      "text": "hendaklah ia mendengar!"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "9",
+      "ref": "Luke 16:17",
+      "arabic_page": 54,
+      "text": "Lebih mudah langit dan bumi lenyap dari pada"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "10",
+      "ref": "Luke 16:17",
+      "arabic_page": 54,
+      "text": "satu titik dari hukum Taurat batal."
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "10",
+      "ref": "Luke 7:31[b",
+      "arabic_page": 54,
+      "text": "\"Dengan apakah akan Kuumpamakan orang-orang dari angkatan ini dan"
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "11",
+      "ref": "Luke 7:31[b",
+      "arabic_page": 54,
+      "text": "dengan apakah mereka itu sama?"
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "11",
+      "ref": "Luke 7:32",
+      "arabic_page": 54,
+      "text": "Mereka itu seumpama anak-anak yang duduk di pasar dan yang saling menyerukan: Kami meniup seruling bagimu, tetapi kamu tidak menari, kami menyanyikan kidung duka,"
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "12",
+      "ref": "Luke 7:32",
+      "arabic_page": 54,
+      "text": "tetapi kamu tidak menangis."
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "12",
+      "ref": "Luke 7:33",
+      "arabic_page": 54,
+      "text": "Karena Yohanes Pembaptis datang, ia tidak makan roti dan tidak minum anggur,"
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "13",
+      "ref": "Luke 7:33",
+      "arabic_page": 54,
+      "text": "dan kamu berkata: Ia kerasukan setan."
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "13",
+      "ref": "Luke 7:34",
+      "arabic_page": 54,
+      "text": "Kemudian Anak Manusia datang, Ia makan dan minum, dan kamu berkata: Lihatlah, Ia seorang pelahap dan peminum, sahabat pemungut cukai"
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "14, 15",
+      "ref": "Luke 7:34",
+      "arabic_page": 54,
+      "text": "dan orang berdosa."
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "14, 15",
+      "ref": "Luke 7:35",
+      "arabic_page": 54,
+      "text": "Tetapi hikmat dibenarkan oleh semua orang yang menerimanya.\""
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "14, 15",
+      "ref": "Mark 3:20",
+      "arabic_page": 54,
+      "text": "Kemudian Yesus masuk ke sebuah rumah. Maka datanglah orang banyak berkerumun pula,"
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "16",
+      "ref": "Mark 3:20",
+      "arabic_page": 54,
+      "text": "sehingga makanpun mereka tidak dapat."
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "16",
+      "ref": "Luke 11:14",
+      "arabic_page": 54,
+      "text": "Pada suatu kali Yesus mengusir dari seorang suatu setan yang membisukan. Ketika setan itu keluar, orang bisu itu dapat berkata-kata."
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "17",
+      "ref": "Luke 11:14",
+      "arabic_page": 55,
+      "text": "Maka heranlah orang banyak."
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "17",
+      "ref": "Matthew 12:24",
+      "arabic_page": 55,
+      "text": "Tetapi ketika orang Farisi mendengarnya, mereka berkata: \"Dengan Beelzebul, penghulu setan, Ia mengusir setan.\""
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "18, 19",
+      "ref": "Luke 11:16",
+      "arabic_page": 55,
+      "text": "Ada pula yang meminta suatu tanda dari sorga kepada-Nya, untuk mencobai Dia."
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "18, 19",
+      "ref": "Matthew 12:25",
+      "arabic_page": 55,
+      "text": "Tetapi Yesus mengetahui pikiran mereka lalu berkata kepada mereka: \"Setiap kerajaan yang terpecah-pecah pasti binasa dan setiap kota atau rumah tangga yang terpecah-pecah tidak dapat"
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "20",
+      "ref": "Matthew 12:25",
+      "arabic_page": 55,
+      "text": "bertahan."
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "20",
+      "ref": "Matthew 12:26[a",
+      "arabic_page": 55,
+      "text": "Demikianlah juga kalau Iblis mengusir Iblis,"
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "21",
+      "ref": "Matthew 12:26[a",
+      "arabic_page": 55,
+      "text": "iapun terbagi-bagi dan melawan dirinya sendiri;"
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "21",
+      "ref": "Luke 11:18b",
+      "arabic_page": 55,
+      "text": "bagaimanakah kerajaannya dapat bertahan? Sebab"
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "22",
+      "ref": "Luke 11:18b",
+      "arabic_page": 55,
+      "text": "kamu berkata, bahwa Aku mengusir setan dengan kuasa Beelzebul."
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "22",
+      "ref": "Luke 11:19",
+      "arabic_page": 55,
+      "text": "Jadi jika Aku mengusir setan dengan kuasa Beelzebul, dengan kuasa apakah pengikut-pengikutmu mengusirnya? Sebab itu merekalah"
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "23",
+      "ref": "Luke 11:19",
+      "arabic_page": 55,
+      "text": "yang akan menjadi hakimmu."
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "23",
+      "ref": "Matthew 12:28",
+      "arabic_page": 55,
+      "text": "Tetapi jika Aku mengusir setan dengan kuasa Roh Allah, maka sesungguhnya"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "24",
+      "ref": "Matthew 12:28",
+      "arabic_page": 55,
+      "text": "Kerajaan Allah sudah datang kepadamu."
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "24",
+      "ref": "Matthew 12:29",
+      "arabic_page": 55,
+      "text": "Atau bagaimanakah orang dapat memasuki rumah seorang yang kuat dan merampas harta bendanya apabila tidak diikatnya dahulu"
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "25",
+      "ref": "Matthew 12:29",
+      "arabic_page": 55,
+      "text": "orang kuat itu? Sesudah diikatnya barulah dapat ia merampok rumah itu."
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "25",
+      "ref": "Luke 11:21",
+      "arabic_page": 55,
+      "text": "Apabila seorang yang kuat dan yang lengkap"
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "26",
+      "ref": "Luke 11:21",
+      "arabic_page": 55,
+      "text": "bersenjata menjaga rumahnya sendiri, maka amanlah segala miliknya."
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "26",
+      "ref": "Luke 11:22",
+      "arabic_page": 55,
+      "text": "Tetapi jika seorang yang lebih kuat dari padanya menyerang dan mengalahkannya, maka orang itu akan merampas perlengkapan senjata,"
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "27",
+      "ref": "Luke 11:22",
+      "arabic_page": 55,
+      "text": "yang diandalkannya, dan akan membagi-bagikan rampasannya."
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "27",
+      "ref": "Luke 11:23",
+      "arabic_page": 55,
+      "text": "Siapa tidak bersama Aku, ia melawan Aku dan"
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "28",
+      "ref": "Luke 11:23",
+      "arabic_page": 55,
+      "text": "siapa tidak mengumpulkan bersama Aku, ia mencerai-beraikan.\""
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "28",
+      "ref": "Mark 3:28",
+      "arabic_page": 56,
+      "text": "Aku berkata kepadamu: Sesungguhnya semua dosa dan hujat anak-anak manusia akan diampuni, ya, semua hujat yang mereka ucapkan."
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "29",
+      "ref": "Mark 3:29",
+      "arabic_page": 56,
+      "text": "Tetapi apabila seorang menghujat Roh Kudus, ia tidak mendapat"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "30",
+      "ref": "Mark 3:29",
+      "arabic_page": 56,
+      "text": "ampun selama-lamanya, melainkan bersalah karena berbuat dosa kekal.\""
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "30",
+      "ref": "Mark 3:30",
+      "arabic_page": 56,
+      "text": "Ia berkata demikian karena mereka"
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "31",
+      "ref": "Mark 3:30",
+      "arabic_page": 56,
+      "text": "katakan bahwa Ia kerasukan roh jahat."
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "31",
+      "ref": "Matthew 12:32",
+      "arabic_page": 56,
+      "text": "Apabila seorang mengucapkan sesuatu menentang Anak Manusia, ia akan diampuni, tetapi jika ia menentang Roh Kudus, ia tidak akan diampuni, di dunia ini tidak, dan di dunia yang akan datangpun tidak."
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "32",
+      "ref": "Matthew 12:33",
+      "arabic_page": 56,
+      "text": "Jikalau suatu pohon kamu katakan baik, maka baik pula buahnya; jikalau suatu pohon kamu katakan"
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "33",
+      "ref": "Matthew 12:33",
+      "arabic_page": 56,
+      "text": "tidak baik, maka tidak baik pula buahnya. Sebab dari buahnya pohon itu dikenal."
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "33",
+      "ref": "Matthew 12:34",
+      "arabic_page": 56,
+      "text": "Hai kamu keturunan ular beludak, bagaimanakah kamu dapat mengucapkan hal-hal yang baik, sedangkan kamu sendiri jahat? Karena yang diucapkan mulut meluap dari hati."
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "34",
+      "ref": "Luke 6:45[a",
+      "arabic_page": 56,
+      "text": "Orang yang baik mengeluarkan barang yang baik dari perbendaharaan hatinya yang baik dan orang yang jahat mengeluarkan barang"
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "35",
+      "ref": "Luke 6:45[a",
+      "arabic_page": 56,
+      "text": "yang jahat dari perbendaharaannya yang jahat."
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 12:36",
+      "arabic_page": 56,
+      "text": "Tetapi Aku berkata kepadamu: Setiap kata sia-sia"
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "36",
+      "ref": "Matthew 12:36",
+      "arabic_page": 56,
+      "text": "yang diucapkan orang harus dipertanggungjawabkannya pada hari penghakiman."
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "36",
+      "ref": "Matthew 12:37",
+      "arabic_page": 56,
+      "text": "Karena menurut ucapanmu engkau akan dibenarkan, dan menurut ucapanmu pula engkau akan dihukum.\""
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "37",
+      "ref": "Luke 12:54",
+      "arabic_page": 56,
+      "text": "Yesus berkata pula kepada orang banyak: \"Apabila kamu melihat awan naik di sebelah barat,"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "38",
+      "ref": "Luke 12:54",
+      "arabic_page": 56,
+      "text": "segera kamu berkata: Akan datang hujan, dan hal itu memang terjadi."
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "38",
+      "ref": "Luke 12:55",
+      "arabic_page": 56,
+      "text": "Dan apabila kamu melihat."
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "39",
+      "ref": "Luke 12:55",
+      "arabic_page": 56,
+      "text": "angin selatan bertiup, kamu berkata: Hari akan panas terik, dan hal itu memang terjadi."
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "39",
+      "ref": "Matthew 16:2[b",
+      "arabic_page": 56,
+      "text": "\"Pada petang hari karena langit merah, kamu berkata:"
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "40",
+      "ref": "Matthew 16:2[b",
+      "arabic_page": 56,
+      "text": "Hari akan cerah,"
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "40",
+      "ref": "Matthew 16:3",
+      "arabic_page": 57,
+      "text": "dan pada pagi hari, karena langit merah dan redup, kamu berkata: Hari buruk. Rupa langit kamu tahu membedakannya tetapi tanda-tanda zaman tidak."
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "40",
+      "ref": "Luke 12:56",
+      "arabic_page": 57,
+      "text": "Hai orang-orang munafik, rupa bumi dan langit kamu tahu menilainya, mengapakah kamu tidak dapat menilai zaman ini?"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "41",
+      "ref": "Matthew 12:22",
+      "arabic_page": 57,
+      "text": "Kemudian dibawalah kepada Yesus seorang yang kerasukan setan. Orang itu buta dan bisu, lalu Yesus"
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "42",
+      "ref": "Matthew 12:22",
+      "arabic_page": 57,
+      "text": "menyembuhkannya, sehingga si bisu itu berkata-kata dan melihat."
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "42",
+      "ref": "Matthew 12:23",
+      "arabic_page": 57,
+      "text": "Maka takjublah sekalian orang banyak itu, katanya: \"Ia ini agaknya Anak Daud.\""
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "43",
+      "ref": "Mark 6:30",
+      "arabic_page": 57,
+      "text": "Kemudian rasul-rasul itu kembali berkumpul dengan Yesus dan memberitahukan kepada-Nya semua yang mereka"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "44",
+      "ref": "Mark 6:30",
+      "arabic_page": 57,
+      "text": "kerjakan dan ajarkan."
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "44",
+      "ref": "Mark 6:31",
+      "arabic_page": 57,
+      "text": "Lalu Ia berkata kepada mereka: \"Marilah ke tempat yang sunyi, supaya kita sendirian, dan beristirahatlah seketika!\" Sebab memang begitu banyaknya orang yang datang dan yang pergi, sehingga makanpun mereka tidak sempat."
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "45",
+      "ref": "Luke 7:36",
+      "arabic_page": 57,
+      "text": "Seorang Farisi mengundang Yesus untuk datang makan di rumahnya. Yesus datang ke rumah orang Farisi itu, lalu"
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "46",
+      "ref": "Luke 7:36",
+      "arabic_page": 57,
+      "text": "duduk makan."
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "46",
+      "ref": "Luke 7:37",
+      "arabic_page": 57,
+      "text": "Di kota itu ada seorang perempuan yang terkenal sebagai seorang berdosa. Ketika perempuan itu mendengar, bahwa Yesus sedang makan di rumah orang Farisi itu, datanglah ia membawa sebuah buli-buli pualam berisi minyak wangi."
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "47",
+      "ref": "Luke 7:38",
+      "arabic_page": 57,
+      "text": "Sambil menangis ia pergi berdiri di belakang Yesus dekat kaki-Nya, lalu membasahi kaki-Nya itu dengan air matanya dan menyekanya dengan rambutnya,"
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "48",
+      "ref": "Luke 7:38",
+      "arabic_page": 57,
+      "text": "kemudian ia mencium kaki-Nya dan meminyakinya dengan minyak wangi itu."
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "48",
+      "ref": "Luke 7:39",
+      "arabic_page": 57,
+      "text": "Ketika orang Farisi yang mengundang Yesus melihat hal itu, ia berkata dalam hatinya: \"Jika Ia ini nabi, tentu Ia tahu, siapakah dan orang apakah perempuan yang menjamah-Nya ini; tentu Ia tahu, bahwa perempuan itu adalah seorang berdosa.\""
+    }
+  ]
+}

@@ -1,10 +1,559 @@
 {
-  "title": "BAB II",
+  "id": 2,
+  "title": "BAB 2",
+  "source_post_id": "p51076",
+  "canonical_books": [
+    "Luke",
+    "Matthew"
+  ],
+  "total_segments": 78,
+  "diatessaron_verse_range": "1 - 47",
   "verses": [
     {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "Matthew 1:18",
+      "arabic_page": 7,
+      "text": "Kelahiran Yesus Kristus adalah seperti berikut: Pada waktu Maria, ibu-Nya, bertunangan dengan Yusuf,"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 1:18",
+      "arabic_page": 7,
+      "text": "ternyata ia mengandung dari Roh Kudus, sebelum mereka hidup sebagai suami isteri."
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 1:19",
+      "arabic_page": 7,
+      "text": "Karena Yusuf suaminya, seorang yang tulus hati dan tidak mau mencemarkan nama isterinya di muka umum, ia bermaksud menceraikannya dengan diam-diam."
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 1:20",
+      "arabic_page": 7,
+      "text": "Tetapi ketika ia mempertimbangkan maksud itu, malaikat Tuhan nampak kepadanya dalam mimpi dan berkata: \"Yusuf, anak Daud, janganlah engkau takut mengambil Maria sebagai isterimu, sebab"
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 1:20",
+      "arabic_page": 7,
+      "text": "anak yang di dalam kandungannya adalah dari Roh Kudus."
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 1:21",
+      "arabic_page": 7,
+      "text": "Ia akan melahirkan anak laki-laki dan engkau akan"
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 1:21",
+      "arabic_page": 7,
+      "text": "menamakan Dia Yesus, karena Dialah yang akan menyelamatkan umat-Nya dari dosa mereka.\""
+    },
+    {
       "id": 8,
-      "ref": "Luke 1:7",
-      "text": "Tetapi mereka tidak mempunyai anak, sebab Elisabet mandul dan keduanya telah lanjut umurnya."
+      "diatessaron_verse": "5",
+      "ref": "Matthew 1:22",
+      "arabic_page": 7,
+      "text": "Hal itu terjadi supaya genaplah yang difirmankan Tuhan oleh nabi:"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "6",
+      "ref": "Matthew 1:23",
+      "arabic_page": 7,
+      "text": "\"Sesungguhnya, anak dara itu akan mengandung dan melahirkan seorang anak laki-laki, dan mereka akan menamakan Dia Imanuel\""
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "7",
+      "ref": "Matthew 1:23",
+      "arabic_page": 7,
+      "text": "--yang berarti: Allah menyertai kita."
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "7",
+      "ref": "Matthew 1:24",
+      "arabic_page": 7,
+      "text": "Sesudah bangun dari tidurnya,"
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 1:24",
+      "arabic_page": 7,
+      "text": "Yusuf berbuat seperti yang diperintahkan malaikat Tuhan itu kepadanya. Ia mengambil Maria sebagai isterinya,"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 1:25[a",
+      "arabic_page": 7,
+      "text": "tetapi tidak bersetubuh dengan dia sampai ia melahirkan anaknya laki-laki."
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "9",
+      "ref": "Luke 2:1",
+      "arabic_page": 7,
+      "text": "Pada waktu itu Kaisar Agustus mengeluarkan suatu perintah,"
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "10",
+      "ref": "Luke 2:1",
+      "arabic_page": 7,
+      "text": "menyuruh mendaftarkan semua orang di seluruh dunia."
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "10",
+      "ref": "Luke 2:2",
+      "arabic_page": 7,
+      "text": "Inilah pendaftaran yang pertama kali diadakan sewaktu Kirenius"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "11, 12",
+      "ref": "Luke 2:2",
+      "arabic_page": 7,
+      "text": "menjadi wali negeri di Siria."
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "11, 12",
+      "ref": "Luke 2:3",
+      "arabic_page": 7,
+      "text": "Maka pergilah semua orang mendaftarkan diri, masing-masing di kotanya sendiri."
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "11, 12",
+      "ref": "Luke 2:4",
+      "arabic_page": 7,
+      "text": "Demikian juga Yusuf pergi dari kota Nazaret di Galilea ke Yudea, ke kota Daud"
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "13",
+      "ref": "Luke 2:4",
+      "arabic_page": 7,
+      "text": "yang bernama Betlehem, --karena ia berasal dari keluarga dan keturunan Daud--"
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "13",
+      "ref": "Luke 2:5",
+      "arabic_page": 7,
+      "text": "supaya"
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "14",
+      "ref": "Luke 2:5",
+      "arabic_page": 8,
+      "text": "didaftarkan bersama-sama dengan Maria, tunangannya, yang sedang mengandung."
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "14",
+      "ref": "Luke 2:6",
+      "arabic_page": 8,
+      "text": "Ketika"
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "15",
+      "ref": "Luke 2:6",
+      "arabic_page": 8,
+      "text": "mereka di situ tibalah waktunya bagi Maria untuk bersalin,"
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "15",
+      "ref": "Luke 2:7",
+      "arabic_page": 8,
+      "text": "dan ia melahirkan seorang anak laki-laki, anaknya yang sulung, lalu dibungkusnya dengan lampin dan dibaringkannya di dalam palungan, karena tidak ada tempat bagi mereka di rumah penginapan."
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "16",
+      "ref": "Luke 2:8",
+      "arabic_page": 8,
+      "text": "Di daerah itu ada gembala-gembala yang tinggal di padang menjaga kawanan ternak mereka"
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "17",
+      "ref": "Luke 2:8",
+      "arabic_page": 8,
+      "text": "pada waktu malam."
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "17",
+      "ref": "Luke 2:9",
+      "arabic_page": 8,
+      "text": "Tiba-tiba berdirilah seorang malaikat Tuhan di dekat mereka dan kemuliaan"
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "18",
+      "ref": "Luke 2:9",
+      "arabic_page": 8,
+      "text": "Tuhan bersinar meliputi mereka dan mereka sangat ketakutan."
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "18",
+      "ref": "Luke 2:10",
+      "arabic_page": 8,
+      "text": "Lalu kata malaikat itu kepada mereka: \"Jangan takut, sebab sesungguhnya aku memberitakan kepadamu kesukaan besar untuk"
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "19",
+      "ref": "Luke 2:10",
+      "arabic_page": 8,
+      "text": "seluruh bangsa:"
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "19",
+      "ref": "Luke 2:11",
+      "arabic_page": 8,
+      "text": "Hari ini telah lahir bagimu Juruselamat, yaitu Kristus, Tuhan,"
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "20",
+      "ref": "Luke 2:11",
+      "arabic_page": 8,
+      "text": "di kota Daud."
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "20",
+      "ref": "Luke 2:12",
+      "arabic_page": 8,
+      "text": "Dan inilah tandanya bagimu: Kamu akan menjumpai seorang bayi dibungkus"
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "21",
+      "ref": "Luke 2:12",
+      "arabic_page": 8,
+      "text": "dengan lampin dan terbaring di dalam palungan.\""
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "21",
+      "ref": "Luke 2:13",
+      "arabic_page": 8,
+      "text": "Dan tiba-tiba tampaklah bersama-sama dengan malaikat itu sejumlah besar bala tentara sorga yang memuji Allah, katanya:"
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "22",
+      "ref": "Luke 2:14",
+      "arabic_page": 8,
+      "text": "\"Kemuliaan bagi Allah di tempat yang mahatinggi dan damai sejahtera di bumi di antara manusia yang berkenan kepada-Nya.\""
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "23",
+      "ref": "Luke 2:15",
+      "arabic_page": 8,
+      "text": "Setelah malaikat-malaikat itu meninggalkan mereka dan kembali ke sorga, gembala-gembala itu berkata seorang kepada yang lain: \"Marilah kita pergi ke Betlehem untuk melihat apa yang terjadi di sana, seperti"
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "24",
+      "ref": "Luke 2:15",
+      "arabic_page": 8,
+      "text": "yang diberitahukan Tuhan kepada kita.\""
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "24",
+      "ref": "Luke 2:16",
+      "arabic_page": 8,
+      "text": "Lalu mereka cepat-cepat berangkat dan menjumpai Maria dan"
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "25",
+      "ref": "Luke 2:16",
+      "arabic_page": 8,
+      "text": "Yusuf dan bayi itu, yang sedang berbaring di dalam palungan."
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "25",
+      "ref": "Luke 2:17",
+      "arabic_page": 8,
+      "text": "Dan ketika mereka melihat-Nya, mereka memberitahukan apa"
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "26",
+      "ref": "Luke 2:17",
+      "arabic_page": 8,
+      "text": "yang telah dikatakan kepada mereka tentang Anak itu"
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "26",
+      "ref": "Luke 2:18",
+      "arabic_page": 8,
+      "text": "Dan semua orang yang mendengarnya heran tentang"
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "27",
+      "ref": "Luke 2:18",
+      "arabic_page": 8,
+      "text": "apa yang dikatakan gembala-gembala itu kepada mereka."
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "27",
+      "ref": "Luke 2:19",
+      "arabic_page": 8,
+      "text": "Tetapi Maria menyimpan segala perkara itu"
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "28",
+      "ref": "Luke 2:19",
+      "arabic_page": 8,
+      "text": "di dalam hatinya dan merenungkannya."
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "28",
+      "ref": "Luke 2:20",
+      "arabic_page": 8,
+      "text": "Maka kembalilah gembala-gembala itu sambil memuji dan memuliakan Allah karena segala sesuatu yang mereka dengar dan mereka lihat, semuanya sesuai dengan apa yang telah dikatakan kepada mereka."
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "29",
+      "ref": "Luke 2:21",
+      "arabic_page": 9,
+      "text": "Dan ketika genap delapan hari dan Ia harus disunatkan, Ia diberi nama Yesus, yaitu nama yang disebut oleh malaikat sebelum Ia dikandung ibu-Nya."
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "30",
+      "ref": "Luke 2:22",
+      "arabic_page": 9,
+      "text": "Dan ketika genap waktu pentahiran, menurut hukum Taurat Musa,"
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "31",
+      "ref": "Luke 2:22",
+      "arabic_page": 9,
+      "text": "mereka membawa Dia ke Yerusalem untuk menyerahkan-Nya kepada Tuhan,"
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "31",
+      "ref": "Luke 2:23",
+      "arabic_page": 9,
+      "text": "seperti ada tertulis dalam hukum Tuhan: \"Semua anak laki-laki sulung harus"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "32",
+      "ref": "Luke 2:23",
+      "arabic_page": 9,
+      "text": "dikuduskan bagi Allah\","
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "32",
+      "ref": "Luke 2:24",
+      "arabic_page": 9,
+      "text": "dan untuk mempersembahkan korban menurut apa yang difirmankan dalam hukum"
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "33",
+      "ref": "Luke 2:24",
+      "arabic_page": 9,
+      "text": "Tuhan, yaitu sepasang burung tekukur atau dua ekor anak burung merpati."
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "33",
+      "ref": "Luke 2:25",
+      "arabic_page": 9,
+      "text": "Adalah di Yerusalem seorang bernama Simeon. Ia seorang yang benar dan saleh yang menantikan"
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "34",
+      "ref": "Luke 2:25",
+      "arabic_page": 9,
+      "text": "penghiburan bagi Israel. Roh Kudus ada di atasnya,"
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "34",
+      "ref": "Luke 2:26",
+      "arabic_page": 9,
+      "text": "dan kepadanya telah dinyatakan oleh Roh Kudus, bahwa ia tidak akan mati sebelum ia melihat"
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "35",
+      "ref": "Luke 2:26",
+      "arabic_page": 9,
+      "text": "Mesias, yaitu Dia yang diurapi Tuhan."
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "35",
+      "ref": "Luke 2:27",
+      "arabic_page": 9,
+      "text": "Ia datang ke Bait Allah oleh Roh Kudus. Ketika Yesus, Anak itu, dibawa masuk oleh orang tua-Nya untuk"
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "36",
+      "ref": "Luke 2:27",
+      "arabic_page": 9,
+      "text": "melakukan kepada-Nya apa yang ditentukan hukum Taurat,"
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "36",
+      "ref": "Luke 2:28",
+      "arabic_page": 9,
+      "text": "ia menyambut Anak itu dan menatang-Nya sambil memuji Allah, katanya:"
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "37",
+      "ref": "Luke 2:29",
+      "arabic_page": 9,
+      "text": "\"Sekarang, Tuhan, biarkanlah hamba-Mu ini pergi dalam damai sejahtera, sesuai dengan firman-Mu,"
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "38",
+      "ref": "Luke 2:30",
+      "arabic_page": 9,
+      "text": "sebab mataku telah melihat keselamatan yang dari pada-Mu,"
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "39",
+      "ref": "Luke 2:31",
+      "arabic_page": 9,
+      "text": "yang telah Engkau sediakan di hadapan segala bangsa,"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "40",
+      "ref": "Luke 2:32",
+      "arabic_page": 9,
+      "text": "yaitu terang yang menjadi penyataan bagi bangsa-bangsa lain dan menjadi kemuliaan bagi umat-Mu, Israel.\""
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "41",
+      "ref": "Luke 2:33",
+      "arabic_page": 9,
+      "text": "Dan bapa serta ibu-Nya amat heran akan segala apa yang dikatakan"
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "42",
+      "ref": "Luke 2:33",
+      "arabic_page": 9,
+      "text": "tentang Dia."
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "42",
+      "ref": "Luke 2:34",
+      "arabic_page": 9,
+      "text": "Lalu Simeon memberkati mereka dan berkata kepada Maria, ibu Anak itu: \"Sesungguhnya Anak ini ditentukan untuk menjatuhkan atau membangkitkan banyak orang di Israel dan untuk menjadi suatu tanda yang menimbulkan perbantahan"
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "43",
+      "ref": "Luke 2:35",
+      "arabic_page": 9,
+      "text": "--dan suatu pedang akan menembus jiwamu sendiri--,"
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "44",
+      "ref": "Luke 2:35",
+      "arabic_page": 10,
+      "text": "supaya menjadi nyata pikiran hati banyak orang.\""
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "44",
+      "ref": "Luke 2:36",
+      "arabic_page": 10,
+      "text": "Lagipula di situ ada Hana, seorang nabi perempuan, anak Fanuel dari suku Asyer. Ia sudah sangat lanjut umurnya. Sesudah kawin ia hidup"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "45",
+      "ref": "Luke 2:36",
+      "arabic_page": 10,
+      "text": "tujuh tahun lamanya bersama suaminya,"
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "45",
+      "ref": "Luke 2:37",
+      "arabic_page": 10,
+      "text": "dan sekarang ia janda dan berumur delapan puluh empat tahun. Ia tidak pernah meninggalkan Bait Allah dan siang malam"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "46",
+      "ref": "Luke 2:37",
+      "arabic_page": 10,
+      "text": "beribadah dengan berpuasa dan berdoa."
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "46",
+      "ref": "Luke 2:38",
+      "arabic_page": 10,
+      "text": "Dan pada ketika itu juga datanglah ia ke situ dan mengucap syukur kepada Allah dan"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "47",
+      "ref": "Luke 2:38",
+      "arabic_page": 10,
+      "text": "berbicara tentang Anak itu kepada semua orang yang menantikan kelepasan untuk Yerusalem."
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "47",
+      "ref": "Luke 2:39",
+      "arabic_page": 10,
+      "text": "Dan setelah selesai semua yang harus dilakukan menurut hukum Tuhan, kembalilah mereka ke kota kediamannya, yaitu kota Nazaret di Galilea."
     }
   ]
 }

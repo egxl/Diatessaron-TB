@@ -1,0 +1,736 @@
+{
+  "id": 49,
+  "title": "BAB 49",
+  "source_post_id": "p65265",
+  "canonical_books": [
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "total_segments": 103,
+  "diatessaron_verse_range": "1, 2 - Catatan kaki",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1, 2",
+      "ref": "John 18:19",
+      "arabic_page": null,
+      "text": "Maka mulailah Imam Besar menanyai Yesus tentang murid-murid-Nya dan tentang ajaran-Nya."
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "1, 2",
+      "ref": "John 18:20",
+      "arabic_page": null,
+      "text": "Jawab Yesus kepadanya: \"Aku berbicara terus terang kepada dunia: Aku selalu mengajar di rumah-rumah ibadat dan di Bait Allah, tempat semua orang Yahudi berkumpul; Aku tidak pernah berbicara"
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "3",
+      "ref": "John 18:20",
+      "arabic_page": 185,
+      "text": "sembunyi-sembunyi."
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "John 18:21",
+      "arabic_page": 185,
+      "text": "Mengapakah engkau menanyai Aku? Tanyailah mereka, yang telah mendengar apa yang Kukatakan kepada"
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "4",
+      "ref": "John 18:21",
+      "arabic_page": 185,
+      "text": "mereka; sungguh, mereka tahu apa yang telah Kukatakan.\""
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "John 18:22",
+      "arabic_page": 185,
+      "text": "Ketika Ia mengatakan hal itu, seorang penjaga yang berdiri di situ, menampar muka-Nya sambil berkata:"
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "5",
+      "ref": "John 18:22",
+      "arabic_page": 185,
+      "text": "\"Begitukah jawab-Mu kepada Imam Besar?\""
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "John 18:23",
+      "arabic_page": 185,
+      "text": "Jawab Yesus kepadanya: \"Jikalau kata-Ku"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "6",
+      "ref": "John 18:23",
+      "arabic_page": 185,
+      "text": "itu salah, tunjukkanlah salahnya, tetapi jikalau kata-Ku itu benar, mengapakah engkau menampar Aku?\""
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "6",
+      "ref": "John 18:24",
+      "arabic_page": 185,
+      "text": "Maka Hanas mengirim Dia terbelenggu kepada Kayafas, Imam Besar itu."
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "7",
+      "ref": "John 18:25",
+      "arabic_page": 185,
+      "text": "a Simon Petrus masih berdiri"
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "8",
+      "ref": "John 18:25",
+      "arabic_page": 185,
+      "text": "berdiang."
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "8",
+      "ref": "Mark 14:69a",
+      "arabic_page": 185,
+      "text": "Ketika hamba perempuan itu melihat Petrus lagi, berkatalah ia pula kepada orang-orang yang ada"
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "9",
+      "ref": "Mark 14:69a",
+      "arabic_page": 185,
+      "text": "di situ:"
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 26:71b",
+      "arabic_page": 185,
+      "text": "\"Orang ini bersama-sama dengan Yesus, orang Nazaret itu.\""
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "9",
+      "ref": "John 18:25b",
+      "arabic_page": 185,
+      "text": "Kata orang-orang di situ"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "10",
+      "ref": "John 18:25b",
+      "arabic_page": 185,
+      "text": "kepadanya: \"Bukankah engkau juga seorang murid-Nya?\""
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "10",
+      "ref": "Matthew 26:72",
+      "arabic_page": 185,
+      "text": "Dan ia"
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "11",
+      "ref": "Matthew 26:72",
+      "arabic_page": 185,
+      "text": "menyangkalnya pula dengan bersumpah: \"Aku tidak kenal orang itu.\""
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "11",
+      "ref": "Luke 22:58a",
+      "arabic_page": 185,
+      "text": "Tidak berapa lama kemudian"
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "11",
+      "ref": "John 18:26b",
+      "arabic_page": 185,
+      "text": "seorang hamba Imam Besar, seorang keluarga dari hamba yang telinganya dipotong Petrus,"
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "11",
+      "ref": "Luke 22:58a",
+      "arabic_page": 185,
+      "text": "melihat dia lalu"
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "12",
+      "ref": "Luke 22:58a",
+      "arabic_page": 185,
+      "text": "berkata:"
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "12",
+      "ref": "Luke 22:59b",
+      "arabic_page": 185,
+      "text": "\"Sungguh, orang ini juga bersama-sama dengan Dia, sebab ia juga orang Galilea.\""
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "13",
+      "ref": "Matthew 26:73",
+      "arabic_page": 185,
+      "text": "itu nyata dari bahasamu.\""
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "13",
+      "ref": "Matthew 22:73a",
+      "arabic_page": 185,
+      "text": "dan berkata:"
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "13",
+      "ref": "John 18:26c",
+      "arabic_page": 185,
+      "text": "\"Bukankah engkau kulihat"
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "14",
+      "ref": "John 18:26c",
+      "arabic_page": 185,
+      "text": "di taman itu bersama-sama dengan Dia?\""
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "14",
+      "ref": "Mark 14:71",
+      "arabic_page": 185,
+      "text": "Maka mulailah Petrus mengutuk dan bersumpah: \"Aku tidak kenal orang"
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "15",
+      "ref": "Mark 14:71",
+      "arabic_page": 185,
+      "text": "yang kamu sebut-sebut ini!\""
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "15",
+      "ref": "Luke 22:60b",
+      "arabic_page": 185,
+      "text": "Seketika itu juga, sementara ia berkata,"
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "15",
+      "ref": "Mark 14: 72a",
+      "arabic_page": 185,
+      "text": "berkokoklah ayam untuk"
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "16",
+      "ref": "Mark 14: 72a",
+      "arabic_page": 185,
+      "text": "kedua kalinya."
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "16",
+      "ref": "Luke 22:61a",
+      "arabic_page": 185,
+      "text": "Lalu berpalinglah Tuhan memandang Petrus."
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "16",
+      "ref": "Mark 14:72b",
+      "arabic_page": 185,
+      "text": "Maka teringatlah Petrus, bahwa Yesus telah berkata kepadanya:"
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "17, 18",
+      "ref": "Mark 14:72b",
+      "arabic_page": 185,
+      "text": "\"Sebelum ayam berkokok dua kali, engkau telah menyangkal Aku tiga kali.\""
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "17, 18",
+      "ref": "Luke 22:62",
+      "arabic_page": 185,
+      "text": "Lalu ia pergi ke luar dan menangis dengan sedihnya."
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "19",
+      "ref": "Luke 22:66a",
+      "arabic_page": 186,
+      "text": "Dan setelah hari siang berkumpullah sidang para tua-tua bangsa Yahudi dan imam-imam kepala dan ahli-ahli Taurat,"
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "20, 21",
+      "ref": "Mark 15:1",
+      "arabic_page": 186,
+      "text": "sudah bulat mupakatnya."
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "20, 21",
+      "ref": "Matthew 27:1b",
+      "arabic_page": 186,
+      "text": "dan mengambil keputusan untuk membunuh Yesus"
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "20, 21",
+      "ref": "Matthew 26:59b",
+      "arabic_page": 186,
+      "text": "malah seluruh Mahkamah Agama mencari kesaksian palsu terhadap Yesus, supaya Ia dapat dihukum"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "22, 23",
+      "ref": "Matthew 26:59b",
+      "arabic_page": 186,
+      "text": "mati,"
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "22, 23",
+      "ref": "Matthew 26:60a",
+      "arabic_page": 186,
+      "text": "tetapi mereka tidak memperolehnya, walaupun tampil banyak saksi dusta."
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "22, 23",
+      "ref": "Mark 14:56",
+      "arabic_page": 186,
+      "text": "tetapi kesaksian-kesaksian itu"
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "24, 25",
+      "ref": "Mark 14:56",
+      "arabic_page": 186,
+      "text": "tidak sesuai yang satu dengan yang lain."
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "24, 25",
+      "ref": "Matthew 26:60c",
+      "arabic_page": 186,
+      "text": "Tetapi akhirnya tampillah dua orang,"
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "24, 25",
+      "ref": "Matthew 26:61a",
+      "arabic_page": 186,
+      "text": "yang mengatakan:"
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "24, 25",
+      "ref": "Mark 14:58",
+      "arabic_page": 186,
+      "text": "\"Kami sudah mendengar orang ini berkata: Aku akan merubuhkan Bait Suci buatan tangan manusia ini dan dalam tiga hari akan Kudirikan yang lain, yang bukan"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "26, 27",
+      "ref": "Mark 14:58",
+      "arabic_page": 186,
+      "text": "buatan tangan manusia.\""
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "26, 27",
+      "ref": "Mark 14: 59",
+      "arabic_page": 186,
+      "text": "Dalam hal inipun kesaksian mereka tidak sesuai yang satu dengan yang lain."
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "26, 27",
+      "ref": "Matthew 26:63a",
+      "arabic_page": 186,
+      "text": "Tetapi Yesus tetap diam."
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "26, 27",
+      "ref": "Mark 14:60a",
+      "arabic_page": 186,
+      "text": "Maka Imam Besar bangkit berdiri di tengah-tengah sidang dan bertanya kepada Yesus, katanya:"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "28",
+      "ref": "Matthew 26:62b",
+      "arabic_page": 186,
+      "text": "\"Tidakkah Engkau memberi jawab atas tuduhan-tuduhan saksi-saksi ini terhadap"
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "29, 30",
+      "ref": "Matthew 26:62b",
+      "arabic_page": 186,
+      "text": "Engkau?\""
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "29, 30",
+      "ref": "Mark 14:61a",
+      "arabic_page": 186,
+      "text": "Tetapi Ia tetap diam dan tidak menjawab apa-apa."
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "29, 30",
+      "ref": "Luke 22:66b",
+      "arabic_page": 186,
+      "text": "lalu mereka menghadapkan Dia"
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "31",
+      "ref": "Luke 22:66b",
+      "arabic_page": 186,
+      "text": "ke Mahkamah Agama mereka,"
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "31",
+      "ref": "Luke 22:67",
+      "arabic_page": 186,
+      "text": "katanya: \"Jikalau Engkau adalah Mesias, katakanlah kepada kami.\""
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "32",
+      "ref": "Luke 22:67",
+      "arabic_page": 186,
+      "text": "Jawab Yesus: \"Sekalipun Aku mengatakannya kepada kamu, namun kamu tidak akan percaya;"
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "32",
+      "ref": "Luke 22:68",
+      "arabic_page": 186,
+      "text": "dan sekalipun Aku bertanya sesuatu kepada kamu, namun kamu tidak akan"
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "33",
+      "ref": "Luke 22:68",
+      "arabic_page": 186,
+      "text": "menjawab [ataupun membiarkan pergi.]"
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "33",
+      "ref": "Matthew 26:63b",
+      "arabic_page": 186,
+      "text": "Lalu kata Imam Besar itu kepada-Nya: \"Demi Allah yang hidup, katakanlah kepada kami, apakah Engkau Mesias,"
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "34, 35",
+      "ref": "Matthew 26:63b",
+      "arabic_page": 186,
+      "text": "Anak Allah, atau tidak.\""
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "34, 35",
+      "ref": "Matthew 26:64a",
+      "arabic_page": 186,
+      "text": "Jawab Yesus: \"Engkau telah mengatakannya."
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "34, 35",
+      "ref": "Luke 22:70",
+      "arabic_page": 186,
+      "text": "Kata mereka semua: \"Kalau begitu, Engkau ini Anak Allah?\" Jawab Yesus: \"Kamu sendiri"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "36",
+      "ref": "Luke 22:70",
+      "arabic_page": 186,
+      "text": "mengatakan, bahwa Akulah Anak Allah.\""
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "36",
+      "ref": "Matthew 26:64b",
+      "arabic_page": 186,
+      "text": "Akan tetapi, Aku berkata kepadamu, mulai sekarang kamu akan melihat Anak Manusia duduk"
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "37",
+      "ref": "Matthew 26:64b",
+      "arabic_page": 187,
+      "text": "di sebelah kanan Yang Mahakuasa dan datang di atas awan-awan di langit.\""
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "37",
+      "ref": "Matthew 26: 65a",
+      "arabic_page": 187,
+      "text": "Maka"
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "38",
+      "ref": "Matthew 26: 65a",
+      "arabic_page": 187,
+      "text": "Imam Besar itu mengoyakkan pakaiannya dan berkata: \"Ia menghujat Allah."
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "38",
+      "ref": "Luke 22:71",
+      "arabic_page": 187,
+      "text": "Lalu kata mereka: \"Untuk apa kita perlu kesaksian lagi? Kita ini telah mendengarnya dari mulut-Nya sendiri.\""
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "39, 40",
+      "ref": "Matthew 26:66",
+      "arabic_page": 187,
+      "text": "Bagaimana pendapat kamu?\" Mereka menjawab dan berkata: \"Ia harus dihukum mati!\""
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "39, 40",
+      "ref": "Mark 14:65a",
+      "arabic_page": 187,
+      "text": "Lalu mulailah beberapa orang meludahi Dia dan menutupi muka-Nya dan meninju-Nya"
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "41",
+      "ref": "Mark 14;65b",
+      "arabic_page": 187,
+      "text": "Malah para pengawalpun memukul Dia."
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "41",
+      "ref": "Matthew 26:68",
+      "arabic_page": 187,
+      "text": "dan berkata: \"Cobalah katakan kepada kami, hai Mesias,"
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "42",
+      "ref": "Matthew 26:68",
+      "arabic_page": 187,
+      "text": "siapakah yang memukul Engkau?\""
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "42",
+      "ref": "Luke 22:65",
+      "arabic_page": 187,
+      "text": "Dan banyak lagi hujat yang diucapkan mereka kepada-Nya."
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "43",
+      "ref": "Luke 23:1a",
+      "arabic_page": 187,
+      "text": "Lalu bangkitlah seluruh sidang itu"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "43",
+      "ref": "Mark 15:1b",
+      "arabic_page": 187,
+      "text": "Mereka membelenggu Yesus lalu membawa-Nya"
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "43",
+      "ref": "John 18:28a",
+      "arabic_page": 187,
+      "text": "ke"
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "44",
+      "ref": "John 18:28a",
+      "arabic_page": 187,
+      "text": "gedung pengadilan,"
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "44",
+      "ref": "Matthew 27:2",
+      "arabic_page": 187,
+      "text": "dan menyerahkan-Nya kepada Pilatus, wali negeri itu."
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "44",
+      "ref": "John 18:28c",
+      "arabic_page": 187,
+      "text": "Mereka sendiri tidak masuk ke gedung pengadilan itu, supaya jangan menajiskan diri, sebab mereka hendak makan Paskah."
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "45",
+      "ref": "Matthew 27:11a",
+      "arabic_page": 187,
+      "text": "Lalu Yesus dihadapkan kepada wali negeri."
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "45",
+      "ref": "John 18:29",
+      "arabic_page": 187,
+      "text": "Sebab itu Pilatus keluar mendapatkan mereka dan"
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "46",
+      "ref": "John 18:29",
+      "arabic_page": 187,
+      "text": "berkata: \"Apakah tuduhan kamu terhadap orang ini?\""
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "46",
+      "ref": "John 18:30",
+      "arabic_page": 187,
+      "text": "Jawab mereka kepadanya: \"Jikalau Ia bukan seorang penjahat, kami tidak menyerahkan-Nya"
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "47",
+      "ref": "John 18:30",
+      "arabic_page": 187,
+      "text": "kepadamu!\""
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "47",
+      "ref": "Luke 23:2b",
+      "arabic_page": 187,
+      "text": "\"Telah kedapatan oleh kami, bahwa orang ini menyesatkan bangsa kami, dan melarang membayar pajak kepada Kaisar, dan tentang diri-Nya Ia mengatakan, bahwa Ia adalah Kristus, yaitu Raja.\""
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "48",
+      "ref": "John 18:31",
+      "arabic_page": 188,
+      "text": "Kata Pilatus kepada mereka: \"Ambillah Dia dan hakimilah Dia menurut hukum Tauratmu.\" Kata orang-orang Yahudi itu: \"Kami tidak diperbolehkan membunuh seseorang.\""
+    },
+    {
+      "id": 91,
+      "diatessaron_verse": "49",
+      "ref": "John 18:32",
+      "arabic_page": 188,
+      "text": "Demikian hendaknya supaya genaplah firman Yesus, yang dikatakan-Nya untuk menyatakan bagaimana caranya Ia akan mati."
+    },
+    {
+      "id": 92,
+      "diatessaron_verse": "50",
+      "ref": "John 18:33",
+      "arabic_page": 188,
+      "text": "Maka kembalilah Pilatus ke dalam gedung pengadilan, lalu memanggil Yesus dan bertanya kepada-Nya:"
+    },
+    {
+      "id": 93,
+      "diatessaron_verse": "51",
+      "ref": "John 18:33",
+      "arabic_page": 188,
+      "text": "\"Engkau inikah raja orang Yahudi?\""
+    },
+    {
+      "id": 94,
+      "diatessaron_verse": "51",
+      "ref": "John 18:34",
+      "arabic_page": 188,
+      "text": "Jawab Yesus: \"Apakah engkau katakan hal itu dari hatimu sendiri, atau"
+    },
+    {
+      "id": 95,
+      "diatessaron_verse": "52",
+      "ref": "John 18:34",
+      "arabic_page": 188,
+      "text": "adakah orang lain yang mengatakannya kepadamu tentang Aku?\""
+    },
+    {
+      "id": 96,
+      "diatessaron_verse": "52",
+      "ref": "John 18:35",
+      "arabic_page": 188,
+      "text": "Kata Pilatus: \"Apakah aku seorang Yahudi? Bangsa-Mu sendiri dan imam-imam kepala yang telah menyerahkan Engkau kepadaku; apakah"
+    },
+    {
+      "id": 97,
+      "diatessaron_verse": "53",
+      "ref": "John 18:35",
+      "arabic_page": 188,
+      "text": "yang telah Engkau perbuat?\""
+    },
+    {
+      "id": 98,
+      "diatessaron_verse": "53",
+      "ref": "John 18:36",
+      "arabic_page": 188,
+      "text": "Jawab Yesus: \"Kerajaan-Ku bukan dari dunia ini; jika Kerajaan-Ku dari dunia ini, pasti hamba-hamba-Ku telah melawan, supaya Aku jangan"
+    },
+    {
+      "id": 99,
+      "diatessaron_verse": "54",
+      "ref": "John 18:36",
+      "arabic_page": 188,
+      "text": "diserahkan kepada orang Yahudi, akan tetapi Kerajaan-Ku bukan dari sini.\""
+    },
+    {
+      "id": 100,
+      "diatessaron_verse": "54",
+      "ref": "John 18:37",
+      "arabic_page": 188,
+      "text": "Maka kata Pilatus kepada-Nya: \"Jadi Engkau adalah raja?\" Jawab Yesus: \"Engkau mengatakan, bahwa Aku adalah raja. Untuk itulah Aku lahir dan untuk itulah Aku datang ke dalam dunia ini, supaya Aku memberi kesaksian tentang"
+    },
+    {
+      "id": 101,
+      "diatessaron_verse": "55",
+      "ref": "John 18:37",
+      "arabic_page": 188,
+      "text": "kebenaran; setiap orang yang berasal dari kebenaran mendengarkan suara-Ku.\""
+    },
+    {
+      "id": 102,
+      "diatessaron_verse": "55",
+      "ref": "John 18:38a",
+      "arabic_page": 188,
+      "text": "Kata Pilatus kepada-Nya: \"Apakah kebenaran itu?\" (18-38b) Sesudah mengatakan demikian, keluarlah Pilatus lagi mendapatkan orang-orang Yahudi"
+    },
+    {
+      "id": 103,
+      "diatessaron_verse": "Catatan kaki",
+      "ref": "John 18:38a",
+      "arabic_page": 188,
+      "text": ": Frasa \"...ataupun membiarkan pergi\" pada ayat Luke 22:68 tidak terdapat dalam manuscript UBS/Westcott and Hort yang digunakan oleh terjemahan LAI TB tetapi terdapat dalam Diatessaron serta manuscript Textus Receptus (TR) yang digunakan oleh terjemahan MILT (2008)"
+    }
+  ]
+}

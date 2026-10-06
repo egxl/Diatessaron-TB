@@ -1,0 +1,581 @@
+{
+  "id": 13,
+  "title": "BAB 13",
+  "source_post_id": "p51445",
+  "canonical_books": [
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "total_segments": 81,
+  "diatessaron_verse_range": "1 - 47",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "Matthew 10:16",
+      "arabic_page": null,
+      "text": "\"Lihat, Aku mengutus kamu seperti domba ke tengah-tengah serigala, sebab itu hendaklah kamu cerdik seperti ular dan"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 10:16",
+      "arabic_page": null,
+      "text": "tulus seperti merpati."
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 10:17",
+      "arabic_page": null,
+      "text": "Tetapi waspadalah terhadap semua orang; karena ada yang akan menyerahkan kamu kepada"
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 10:17",
+      "arabic_page": null,
+      "text": "majelis agama dan mereka akan menyesah kamu di rumah ibadatnya."
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 10:18",
+      "arabic_page": null,
+      "text": "Dan karena Aku, kamu akan digiring ke muka penguasa-penguasa dan raja-raja sebagai suatu kesaksian bagi mereka dan bagi orang-orang yang tidak mengenal Allah."
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 10:19",
+      "arabic_page": null,
+      "text": "Apabila mereka menyerahkan kamu, janganlah kamu kuatir akan bagaimana dan akan apa yang harus"
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 10:19",
+      "arabic_page": null,
+      "text": "kamu katakan, karena semuanya itu akan dikaruniakan kepadamu pada saat itu juga."
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 10:20",
+      "arabic_page": null,
+      "text": "Karena bukan kamu"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "6",
+      "ref": "Matthew 10:20",
+      "arabic_page": null,
+      "text": "yang berkata-kata, melainkan Roh Bapamu; Dia yang akan berkata-kata di dalam kamu."
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "6",
+      "ref": "Matthew 10:21",
+      "arabic_page": null,
+      "text": "Orang akan menyerahkan saudaranya untuk dibunuh, demikian juga seorang ayah akan anaknya. Dan anak-anak akan memberontak terhadap"
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "7",
+      "ref": "Matthew 10:21",
+      "arabic_page": null,
+      "text": "orang tuanya dan akan membunuh mereka."
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "7",
+      "ref": "Matthew 10:22",
+      "arabic_page": null,
+      "text": "Dan kamu akan dibenci semua orang oleh karena"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 10:22",
+      "arabic_page": null,
+      "text": "nama-Ku; tetapi orang yang bertahan sampai pada kesudahannya akan selamat."
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 10:23",
+      "arabic_page": null,
+      "text": "Apabila mereka menganiaya kamu dalam kota yang satu, larilah ke kota yang lain; karena Aku berkata kepadamu: Sesungguhnya sebelum kamu selesai mengunjungi kota-kota Israel, Anak Manusia sudah datang."
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9, 10",
+      "ref": "Matthew 10:24",
+      "arabic_page": null,
+      "text": "Seorang murid tidak lebih dari pada gurunya, atau seorang hamba dari pada tuannya."
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "9, 10",
+      "ref": "Matthew 10:25",
+      "arabic_page": null,
+      "text": "Cukuplah bagi seorang murid jika ia menjadi sama seperti gurunya dan bagi seorang hamba jika ia menjadi sama seperti tuannya. Jika tuan rumah disebut Beelzebul, apalagi"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "11",
+      "ref": "Matthew 10:25",
+      "arabic_page": null,
+      "text": "seisi rumahnya."
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "11",
+      "ref": "Matthew 10:26",
+      "arabic_page": null,
+      "text": "Jadi janganlah kamu takut terhadap mereka, karena tidak ada sesuatupun yang tertutup"
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "12",
+      "ref": "Matthew 10:26",
+      "arabic_page": 51,
+      "text": "yang tidak akan dibuka dan tidak ada sesuatupun yang tersembunyi yang tidak akan diketahui."
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "12",
+      "ref": "Matthew 10:27",
+      "arabic_page": 51,
+      "text": "Apa yang Kukatakan kepadamu dalam gelap, katakanlah itu dalam terang; dan apa yang"
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "13",
+      "ref": "Matthew 10:27",
+      "arabic_page": 51,
+      "text": "dibisikkan ke telingamu, beritakanlah itu dari atas atap rumah."
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "13",
+      "ref": "Luke 12:4",
+      "arabic_page": 51,
+      "text": "Aku berkata kepadamu, hai sahabat-sahabat-Ku,"
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "13",
+      "ref": "Matthew 10:28",
+      "arabic_page": 51,
+      "text": "janganlah kamu takut kepada mereka yang dapat membunuh tubuh, tetapi yang tidak"
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "14",
+      "ref": "Matthew 10:28",
+      "arabic_page": 51,
+      "text": "berkuasa membunuh jiwa;"
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "14",
+      "ref": "Luke 12:5",
+      "arabic_page": 51,
+      "text": "Aku akan menunjukkan kepada kamu siapakah yang harus kamu takuti."
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "14",
+      "ref": "Matthew 10:28b",
+      "arabic_page": 51,
+      "text": "takutlah terutama kepada Dia yang berkuasa membinasakan baik"
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "15",
+      "ref": "Matthew 10:28b",
+      "arabic_page": 51,
+      "text": "jiwa maupun tubuh di dalam neraka."
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "15",
+      "ref": "Matthew 10:29",
+      "arabic_page": 51,
+      "text": "Bukankah burung pipit dijual dua ekor seduit? Namun seekorpun dari padanya tidak akan jatuh ke"
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "16",
+      "ref": "Matthew 10:29",
+      "arabic_page": 51,
+      "text": "bumi di luar kehendak Bapamu."
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "16",
+      "ref": "Matthew 10:30",
+      "arabic_page": 51,
+      "text": "Dan kamu, rambut kepalamupun"
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "17, 18",
+      "ref": "Matthew 10:30",
+      "arabic_page": 51,
+      "text": "terhitung semuanya"
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "17, 18",
+      "ref": "Matthew 10:31",
+      "arabic_page": 51,
+      "text": "Sebab itu janganlah kamu takut, karena kamu lebih berharga dari pada banyak burung pipit."
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "17, 18",
+      "ref": "Matthew 10:32",
+      "arabic_page": 51,
+      "text": "Setiap orang yang mengakui Aku di depan manusia, Aku juga akan mengakuinya di depan Bapa-Ku"
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "19",
+      "ref": "Matthew 10:32",
+      "arabic_page": 51,
+      "text": "yang di sorga."
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "19",
+      "ref": "Matthew 10:33",
+      "arabic_page": 51,
+      "text": "Tetapi barangsiapa menyangkal Aku di depan manusia, Aku juga akan menyangkalnya di depan Bapa-Ku yang di sorga.\""
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "20",
+      "ref": "Luke 12:51",
+      "arabic_page": 51,
+      "text": "Kamu menyangka, bahwa Aku datang untuk membawa damai di atas bumi? Bukan, kata-Ku kepadamu, bukan damai,"
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "21",
+      "ref": "Luke 12:51",
+      "arabic_page": 51,
+      "text": "melainkan pertentangan."
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "21",
+      "ref": "Luke 12:52",
+      "arabic_page": 51,
+      "text": "Karena mulai dari sekarang akan ada pertentangan antara lima orang di dalam satu rumah,"
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "22",
+      "ref": "Luke 12:52",
+      "arabic_page": 51,
+      "text": "tiga melawan dua dan dua melawan tiga."
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "22",
+      "ref": "Luke 12:53",
+      "arabic_page": 51,
+      "text": "Mereka akan saling bertentangan, ayah melawan anaknya laki-laki dan anak laki-laki melawan ayahnya, ibu melawan anaknya perempuan, dan anak perempuan melawan ibunya, ibu mertua melawan menantunya perempuan dan"
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "23",
+      "ref": "Luke 12:53",
+      "arabic_page": 51,
+      "text": "menantu perempuan melawan ibu mertuanya.\""
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "23",
+      "ref": "Matthew 10:36",
+      "arabic_page": 51,
+      "text": "dan musuh orang ialah orang-orang seisi rumahnya."
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "24",
+      "ref": "Matthew 10:37",
+      "arabic_page": 52,
+      "text": "Barangsiapa mengasihi bapa atau ibunya lebih dari pada-Ku, ia tidak layak bagi-Ku; dan barangsiapa mengasihi anaknya laki-laki atau perempuan lebih dari pada-Ku, ia tidak layak bagi-Ku."
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "25",
+      "ref": "Matthew 10:38",
+      "arabic_page": 52,
+      "text": "Barangsiapa tidak memikul salibnya dan mengikut Aku, ia tidak layak"
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "26",
+      "ref": "Matthew 10:38",
+      "arabic_page": 52,
+      "text": "bagi-Ku."
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "26",
+      "ref": "Matthew 10:39",
+      "arabic_page": 52,
+      "text": "Barangsiapa mempertahankan nyawanya, ia akan kehilangan nyawanya, dan barangsiapa kehilangan nyawanya karena Aku, ia akan memperolehnya."
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "27",
+      "ref": "Matthew 10:40",
+      "arabic_page": 52,
+      "text": "Barangsiapa menyambut kamu, ia menyambut Aku, dan barangsiapa menyambut Aku, ia menyambut"
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "28",
+      "ref": "Matthew 10:40",
+      "arabic_page": 52,
+      "text": "Dia yang mengutus Aku."
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "28",
+      "ref": "Matthew 10:41",
+      "arabic_page": 52,
+      "text": "Barangsiapa menyambut seorang nabi sebagai nabi, ia akan menerima upah nabi, dan barangsiapa menyambut seorang benar"
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "29",
+      "ref": "Matthew 10:41",
+      "arabic_page": 52,
+      "text": "sebagai orang benar, ia akan menerima upah orang benar."
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "29",
+      "ref": "Matthew 10:42",
+      "arabic_page": 52,
+      "text": "Dan barangsiapa memberi air sejuk secangkir sajapun kepada salah seorang yang kecil ini, karena ia murid-Ku, Aku berkata kepadamu: Sesungguhnya ia tidak akan kehilangan upahnya dari padanya.\""
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "30",
+      "ref": "Matthew 11:1",
+      "arabic_page": 52,
+      "text": "Setelah Yesus selesai berpesan kepada kedua belas murid-Nya, pergilah Ia dari sana untuk"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "31",
+      "ref": "Matthew 11:1",
+      "arabic_page": 52,
+      "text": "mengajar dan memberitakan Injil di dalam kota-kota mereka."
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "31",
+      "ref": "Luke 10:38",
+      "arabic_page": 52,
+      "text": "Ketika Yesus dan murid-murid-Nya dalam perjalanan, tibalah Ia di sebuah kampung. Seorang perempuan yang bernama Marta menerima Dia di rumahnya."
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "32",
+      "ref": "Luke 10:39",
+      "arabic_page": 52,
+      "text": "Perempuan itu mempunyai seorang saudara yang bernama Maria. Maria ini duduk dekat kaki Tuhan"
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "33",
+      "ref": "Luke 10:39",
+      "arabic_page": 52,
+      "text": "dan terus mendengarkan perkataan-Nya,"
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "33",
+      "ref": "Luke 10:40",
+      "arabic_page": 52,
+      "text": "sedang Marta sibuk sekali melayani. Ia mendekati Yesus dan berkata: \"Tuhan, tidakkah Engkau peduli, bahwa saudaraku membiarkan aku"
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "34",
+      "ref": "Luke 10:40",
+      "arabic_page": 52,
+      "text": "melayani seorang diri? Suruhlah dia membantu aku.\""
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "34",
+      "ref": "Luke 10:41",
+      "arabic_page": 52,
+      "text": "Tetapi Tuhan menjawabnya: \"Marta,"
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "35",
+      "ref": "Luke 10:41",
+      "arabic_page": 52,
+      "text": "Marta, engkau kuatir dan menyusahkan diri dengan banyak perkara,"
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "35",
+      "ref": "Luke 10:42",
+      "arabic_page": 52,
+      "text": "tetapi hanya satu saja yang perlu: Maria telah memilih bagian yang terbaik, yang tidak akan diambil dari padanya.\""
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "36",
+      "ref": "Mark 6:12",
+      "arabic_page": 52,
+      "text": "Lalu pergilah mereka memberitakan bahwa orang harus bertobat,"
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "37",
+      "ref": "Mark 6:13",
+      "arabic_page": 52,
+      "text": "dan mereka mengusir banyak setan, dan mengoles banyak orang sakit dengan minyak dan menyembuhkan mereka."
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "38, 39",
+      "ref": "Luke 7:18",
+      "arabic_page": 52,
+      "text": "Ketika Yohanes mendapat kabar tentang segala peristiwa itu dari murid-muridnya."
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "38, 39",
+      "ref": "Matthew 11:2",
+      "arabic_page": 53,
+      "text": "Di dalam penjara Yohanes mendengar tentang pekerjaan Kristus, [Luke 7:19] ia memanggil dua orang dari antaranya dan menyuruh mereka bertanya kepada Tuhan: \"Engkaukah yang akan datang itu atau haruskah kami menantikan"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "40",
+      "ref": "Matthew 11:2",
+      "arabic_page": 53,
+      "text": "seorang lain?\""
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "40",
+      "ref": "Luke 7:20",
+      "arabic_page": 53,
+      "text": "Ketika kedua orang itu sampai kepada Yesus,"
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "41",
+      "ref": "Luke 7:20",
+      "arabic_page": 53,
+      "text": "mereka berkata: \"Yohanes Pembaptis menyuruh kami bertanya kepada-Mu: Engkaukah yang akan datang itu atau haruskah kami menantikan seorang lain?\""
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "41",
+      "ref": "Luke 7:21",
+      "arabic_page": 53,
+      "text": "Pada saat itu Yesus menyembuhkan banyak orang dari segala penyakit dan penderitaan dan dari roh-roh jahat, dan Ia mengaruniakan penglihatan"
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "42",
+      "ref": "Luke 7:21",
+      "arabic_page": 53,
+      "text": "kepada banyak orang buta."
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "42",
+      "ref": "Luke 7:22",
+      "arabic_page": 53,
+      "text": "Dan Yesus menjawab mereka: \"Pergilah, dan katakanlah kepada Yohanes apa yang kamu lihat dan kamu dengar: Orang buta melihat, orang lumpuh berjalan, orang kusta menjadi tahir, orang tuli mendengar, orang mati dibangkitkan dan"
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "43",
+      "ref": "Luke 7:22",
+      "arabic_page": 53,
+      "text": "kepada orang miskin diberitakan kabar baik."
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "43",
+      "ref": "Luke 7:23",
+      "arabic_page": 53,
+      "text": "Dan berbahagialah orang yang tidak menjadi kecewa dan menolak Aku.\""
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "44",
+      "ref": "Luke 7:24",
+      "arabic_page": 53,
+      "text": "Setelah suruhan Yohanes itu pergi, mulailah Yesus berbicara kepada orang banyak itu tentang Yohanes: \"Untuk apakah kamu pergi ke padang gurun? Melihat buluh yang digoyangkan"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "45",
+      "ref": "Luke 7:24",
+      "arabic_page": 53,
+      "text": "angin kian ke mari?"
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "45",
+      "ref": "Luke 7:25",
+      "arabic_page": 53,
+      "text": "Atau untuk apakah kamu pergi? Melihat orang yang berpakaian halus? Orang yang berpakaian indah dan yang hidup mewah, tempatnya di istana"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "46",
+      "ref": "Luke 7:25",
+      "arabic_page": 53,
+      "text": "raja."
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "46",
+      "ref": "Luke 7:26",
+      "arabic_page": 53,
+      "text": "Jadi untuk apakah kamu pergi? Melihat nabi? Benar, dan Aku berkata"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "47",
+      "ref": "Luke 7:26",
+      "arabic_page": 53,
+      "text": "kepadamu, bahkan lebih dari pada nabi."
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "47",
+      "ref": "Luke 7:27",
+      "arabic_page": 53,
+      "text": "Karena tentang dia ada tertulis:"
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "47",
+      "ref": "Luke 7:27",
+      "arabic_page": 53,
+      "text": "Lihatlah, Aku menyuruh utusan-Ku mendahului Engkau, ia akan mempersiapkan jalan-Mu di hadapan-Mu."
+    }
+  ]
+}

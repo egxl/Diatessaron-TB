@@ -1,0 +1,713 @@
+{
+  "id": 37,
+  "title": "BAB 37",
+  "source_post_id": "p64340",
+  "canonical_books": [
+    "John",
+    "ohn"
+  ],
+  "total_segments": 100,
+  "diatessaron_verse_range": "1 - 61",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "John 9:39",
+      "arabic_page": null,
+      "text": "Kata Yesus: \"Aku datang ke dalam dunia untuk menghakimi, supaya barangsiapa yang tidak"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "John 9:39",
+      "arabic_page": null,
+      "text": "melihat, dapat melihat, dan supaya barangsiapa yang dapat melihat, menjadi buta.\""
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "John 9:40",
+      "arabic_page": null,
+      "text": "Kata-kata itu didengar oleh beberapa orang Farisi yang berada"
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "John 9:40",
+      "arabic_page": null,
+      "text": "di situ dan mereka berkata kepada-Nya: \"Apakah itu berarti bahwa kami juga buta?\""
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "3",
+      "ref": "John 9:41",
+      "arabic_page": null,
+      "text": "Jawab Yesus kepada mereka: \"Sekiranya kamu buta, kamu tidak berdosa, tetapi karena kamu berkata: Kami melihat, maka tetaplah dosamu.\""
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "John 10:1",
+      "arabic_page": 140,
+      "text": "Aku berkata kepadamu: Sesungguhnya siapa yang masuk ke dalam kandang domba dengan tidak melalui pintu, tetapi dengan memanjat tembok, ia adalah seorang pencuri dan seorang"
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "5, 6",
+      "ref": "John 10:1",
+      "arabic_page": 140,
+      "text": "perampok;"
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5, 6",
+      "ref": "John 10:2",
+      "arabic_page": 140,
+      "text": "tetapi siapa yang masuk melalui pintu, ia adalah gembala domba."
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "5, 6",
+      "ref": "John 10:3",
+      "arabic_page": 140,
+      "text": "Untuk dia penjaga membuka pintu dan domba-domba mendengarkan suaranya"
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "7",
+      "ref": "John 10:3",
+      "arabic_page": 140,
+      "text": "dan ia memanggil domba-dombanya masing-masing menurut namanya dan menuntunnya ke luar."
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "7",
+      "ref": "John 10:4",
+      "arabic_page": 140,
+      "text": "Jika semua dombanya telah dibawanya ke luar, ia berjalan di depan mereka dan domba-domba itu mengikuti dia, karena"
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "8",
+      "ref": "John 10:4",
+      "arabic_page": 140,
+      "text": "mereka mengenal suaranya."
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "8",
+      "ref": "John 10:5",
+      "arabic_page": 140,
+      "text": "Tetapi seorang asing pasti tidak mereka ikuti, malah mereka lari dari"
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "9",
+      "ref": "John 10:5",
+      "arabic_page": 140,
+      "text": "padanya, karena suara orang-orang asing tidak mereka kenal.\""
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9",
+      "ref": "John 10:6",
+      "arabic_page": 140,
+      "text": "Itulah yang dikatakan Yesus dalam perumpamaan kepada mereka, tetapi mereka tidak mengerti apa maksudnya Ia berkata demikian kepada mereka."
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "10",
+      "ref": "John 10:7",
+      "arabic_page": 140,
+      "text": "Maka kata Yesus sekali lagi: \"Aku berkata kepadamu, sesungguhnya Akulah pintu ke"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "11",
+      "ref": "John 10:7",
+      "arabic_page": 140,
+      "text": "domba-domba itu."
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "11",
+      "ref": "John 10:8",
+      "arabic_page": 140,
+      "text": "Semua orang yang datang sebelum Aku, adalah pencuri dan perampok, dan domba-domba itu tidak mendengarkan mereka."
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "12",
+      "ref": "John 10:9",
+      "arabic_page": 140,
+      "text": "Akulah pintu; barangsiapa masuk melalui Aku, ia akan selamat dan ia akan masuk dan keluar"
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "13",
+      "ref": "John 10:9",
+      "arabic_page": 140,
+      "text": "dan menemukan padang rumput."
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "13",
+      "ref": "John 10:10",
+      "arabic_page": 140,
+      "text": "Pencuri datang hanya untuk mencuri dan membunuh dan membinasakan; Aku datang, supaya mereka mempunyai hidup, dan"
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "14",
+      "ref": "John 10:10",
+      "arabic_page": 140,
+      "text": "mempunyainya dalam segala kelimpahan."
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "14",
+      "ref": "John 10:11",
+      "arabic_page": 140,
+      "text": "Akulah gembala yang baik. Gembala yang baik memberikan"
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "15",
+      "ref": "John 10:11",
+      "arabic_page": 140,
+      "text": "nyawanya bagi domba-dombanya;"
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "15",
+      "ref": "John 10:12",
+      "arabic_page": 140,
+      "text": "sedangkan seorang upahan yang bukan gembala, dan yang bukan pemilik domba-domba itu sendiri,"
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "16",
+      "ref": "John 10:12",
+      "arabic_page": 140,
+      "text": "ketika melihat serigala datang, meninggalkan domba-domba itu lalu lari, sehingga serigala itu menerkam dan mencerai-beraikan domba-domba itu."
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "16",
+      "ref": "John 10:13",
+      "arabic_page": 140,
+      "text": "Ia"
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "17",
+      "ref": "John 10:13",
+      "arabic_page": 140,
+      "text": "lari karena ia seorang upahan dan tidak memperhatikan domba-domba itu."
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "17",
+      "ref": "John 10:14",
+      "arabic_page": 140,
+      "text": "Akulah"
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "18",
+      "ref": "John 10:14",
+      "arabic_page": 140,
+      "text": "gembala yang baik dan Aku mengenal domba-domba-Ku dan domba-domba-Ku mengenal Aku"
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "18",
+      "ref": "John 10:15",
+      "arabic_page": 140,
+      "text": "sama seperti Bapa mengenal Aku dan Aku mengenal Bapa, dan Aku memberikan nyawa-Ku bagi domba-domba-Ku."
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "19",
+      "ref": "John 10:16",
+      "arabic_page": 140,
+      "text": "Ada lagi pada-Ku domba-domba lain, yang bukan dari kandang ini; domba-domba itu harus Kutuntun juga dan mereka akan mendengarkan suara-Ku dan mereka akan menjadi satu kawanan dengan satu gembala."
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "20",
+      "ref": "John 10:17",
+      "arabic_page": 141,
+      "text": "Bapa mengasihi Aku, oleh karena Aku memberikan nyawa-Ku"
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "21",
+      "ref": "John 10:17",
+      "arabic_page": 141,
+      "text": "untuk menerimanya kembali."
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "21",
+      "ref": "John 10:18",
+      "arabic_page": 141,
+      "text": "Tidak seorangpun mengambilnya dari pada-Ku, melainkan Aku memberikannya menurut kehendak-Ku sendiri. Aku berkuasa memberikannya dan berkuasa mengambilnya kembali. Inilah tugas yang Kuterima dari Bapa-Ku.\""
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "22",
+      "ref": "John 10:19",
+      "arabic_page": 141,
+      "text": "Maka timbullah pula pertentangan di antara orang-orang Yahudi karena perkataan itu. Banyak di antara mereka berkata:"
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "23",
+      "ref": "John 10:20",
+      "arabic_page": 141,
+      "text": "\"Ia kerasukan setan dan gila; mengapa"
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "24",
+      "ref": "John 10:20",
+      "arabic_page": 141,
+      "text": "kamu mendengarkan Dia?\""
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "24",
+      "ref": "John 10:21",
+      "arabic_page": 141,
+      "text": "Yang lain berkata: \"Itu bukan perkataan orang yang kerasukan setan; dapatkah setan memelekkan mata orang-orang buta?\""
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "25, 26",
+      "ref": "John 10:22",
+      "arabic_page": 141,
+      "text": "Tidak lama kemudian tibalah hari raya Pentahbisan Bait Allah di Yerusalem; ketika itu musim dingin."
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "25, 26",
+      "ref": "John 10:23",
+      "arabic_page": 141,
+      "text": "Dan"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "27",
+      "ref": "John 10:23",
+      "arabic_page": 141,
+      "text": "Yesus berjalan-jalan di Bait Allah, di serambi Salomo."
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "27",
+      "ref": "John 10:24",
+      "arabic_page": 141,
+      "text": "Maka orang-orang Yahudi mengelilingi Dia dan berkata kepada-Nya: \"Berapa lama lagi Engkau membiarkan kami hidup dalam kebimbangan? Jikalau Engkau Mesias, katakanlah terus terang kepada kami.\""
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "28",
+      "ref": "John 10:25",
+      "arabic_page": 141,
+      "text": "Yesus menjawab mereka: \"Aku telah mengatakannya kepada kamu, tetapi kamu tidak percaya; pekerjaan-pekerjaan yang Kulakukan dalam nama Bapa-Ku, itulah yang memberikan kesaksian"
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "29, 30",
+      "ref": "John 10:25",
+      "arabic_page": 141,
+      "text": "tentang Aku,"
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "29, 30",
+      "ref": "John 10:26",
+      "arabic_page": 141,
+      "text": "tetapi kamu tidak percaya, karena kamu tidak termasuk domba-domba-Ku."
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "31",
+      "ref": "John 10:27",
+      "arabic_page": 141,
+      "text": "Domba-domba-Ku mendengarkan suara-Ku dan Aku mengenal mereka dan mereka mengikut Aku,"
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "31",
+      "ref": "John 10:28",
+      "arabic_page": 141,
+      "text": "dan Aku memberikan hidup yang kekal kepada mereka dan mereka pasti tidak akan binasa sampai selama-lamanya dan seorangpun"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "32",
+      "ref": "John 10:28",
+      "arabic_page": 141,
+      "text": "tidak akan merebut mereka dari tangan-Ku."
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "32",
+      "ref": "John 10:29",
+      "arabic_page": 141,
+      "text": "Bapa-Ku, yang memberikan mereka kepada-Ku, lebih besar"
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "33",
+      "ref": "John 10:29",
+      "arabic_page": 141,
+      "text": "dari pada siapapun, dan seorangpun tidak dapat merebut mereka dari tangan Bapa."
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "33",
+      "ref": "John 10:30",
+      "arabic_page": 141,
+      "text": "Aku dan"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "34, 35",
+      "ref": "John 10:30",
+      "arabic_page": 141,
+      "text": "Bapa adalah satu.\" J"
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "34, 35",
+      "ref": "ohn 10:31",
+      "arabic_page": 141,
+      "text": "Sekali lagi orang-orang Yahudi mengambil batu untuk melempari Yesus."
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "34, 35",
+      "ref": "John 10:32",
+      "arabic_page": 141,
+      "text": "Kata Yesus kepada mereka: \"Banyak pekerjaan baik yang berasal dari Bapa-Ku yang Kuperlihatkan kepadamu; pekerjaan manakah di antaranya"
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "36",
+      "ref": "John 10:32",
+      "arabic_page": 141,
+      "text": "yang menyebabkan kamu mau melempari Aku?\""
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "36",
+      "ref": "John 10:33",
+      "arabic_page": 141,
+      "text": "Jawab orang-orang Yahudi itu: \"Bukan karena suatu pekerjaan baik maka kami mau melempari Engkau, melainkan karena Engkau menghujat Allah dan karena Engkau, sekalipun hanya seorang manusia saja, menyamakan diri-Mu dengan"
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "37",
+      "ref": "John 10:33",
+      "arabic_page": 141,
+      "text": "Allah.\""
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "37",
+      "ref": "John 10:34",
+      "arabic_page": 141,
+      "text": "Kata Yesus kepada mereka: \"Tidakkah ada tertulis dalam kitab Taurat kamu: Aku telah berfirman: Kamu adalah allah?"
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "38",
+      "ref": "John 10:35",
+      "arabic_page": 142,
+      "text": "Jikalau mereka, kepada siapa firman itu disampaikan, disebut allah--sedang"
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "39",
+      "ref": "John 10:35",
+      "arabic_page": 142,
+      "text": "Kitab Suci tidak dapat dibatalkan--,"
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "39",
+      "ref": "John 10:36",
+      "arabic_page": 142,
+      "text": "masihkah kamu berkata kepada Dia yang dikuduskan oleh Bapa dan yang telah diutus-Nya ke dalam dunia: Engkau menghujat Allah!"
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "40",
+      "ref": "John 10:36",
+      "arabic_page": 142,
+      "text": "Karena Aku telah berkata: Aku Anak Allah?"
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "40",
+      "ref": "John 10:37",
+      "arabic_page": 142,
+      "text": "Jikalau Aku tidak melakukan pekerjaan-pekerjaan"
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "41",
+      "ref": "John 10:37",
+      "arabic_page": 142,
+      "text": "Bapa-Ku, janganlah percaya kepada-Ku,"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "41",
+      "ref": "John 10:38",
+      "arabic_page": 142,
+      "text": "tetapi jikalau Aku melakukannya dan kamu tidak mau percaya kepada-Ku, percayalah akan pekerjaan-pekerjaan itu, supaya kamu boleh mengetahui dan mengerti, bahwa Bapa di dalam Aku dan Aku di dalam Bapa.\""
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "42",
+      "ref": "John 10:39",
+      "arabic_page": 142,
+      "text": "Sekali lagi mereka mencoba menangkap Dia, tetapi Ia luput dari tangan mereka."
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "43",
+      "ref": "John 10:40",
+      "arabic_page": 142,
+      "text": "Kemudian Yesus pergi lagi ke seberang Yordan, ke tempat Yohanes membaptis dahulu,"
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "44",
+      "ref": "John 10:40",
+      "arabic_page": 142,
+      "text": "lalu Ia tinggal di situ."
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "44",
+      "ref": "John 10:41",
+      "arabic_page": 142,
+      "text": "Dan banyak orang datang kepada-Nya dan berkata: \"Yohanes memang tidak"
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "45",
+      "ref": "John 10:41",
+      "arabic_page": 142,
+      "text": "membuat satu tandapun, tetapi semua yang pernah dikatakan Yohanes tentang orang ini adalah benar.\""
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "45",
+      "ref": "John 10:42",
+      "arabic_page": 142,
+      "text": "Dan banyak orang di situ percaya kepada-Nya."
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "46",
+      "ref": "John 11:1",
+      "arabic_page": 142,
+      "text": "Ada seorang yang sedang sakit, namanya Lazarus. Ia tinggal di Betania, kampung"
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "47",
+      "ref": "John 11:1",
+      "arabic_page": 142,
+      "text": "Maria dan adiknya Marta."
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "47",
+      "ref": "John 11:2",
+      "arabic_page": 142,
+      "text": "Maria ialah perempuan yang pernah meminyaki kaki Tuhan dengan minyak mur dan menyekanya dengan rambutnya."
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "47",
+      "ref": "John 11:3",
+      "arabic_page": 142,
+      "text": "Dan Lazarus yang sakit itu adalah"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "48",
+      "ref": "John 11:3",
+      "arabic_page": 142,
+      "text": "saudaranya. Kedua perempuan itu mengirim kabar kepada Yesus: \""
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "49",
+      "ref": "John 11:3",
+      "arabic_page": 142,
+      "text": "Tuhan, dia yang Engkau kasihi, sakit.\""
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "49",
+      "ref": "John 11:4",
+      "arabic_page": 142,
+      "text": "Ketika Yesus mendengar kabar itu, Ia berkata: \"Penyakit itu tidak akan membawa kematian, tetapi akan menyatakan kemuliaan Allah, sebab oleh penyakit itu Anak Allah"
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "50, 51",
+      "ref": "John 11:4",
+      "arabic_page": 142,
+      "text": "akan dimuliakan.\""
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "50, 51",
+      "ref": "John 11:5",
+      "arabic_page": 142,
+      "text": "Yesus memang mengasihi Marta dan kakaknya dan Lazarus."
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "50, 51",
+      "ref": "John 11:6",
+      "arabic_page": 142,
+      "text": "Namun setelah"
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "52",
+      "ref": "John 11:6",
+      "arabic_page": 142,
+      "text": "didengar-Nya, bahwa Lazarus sakit, Ia sengaja tinggal dua hari lagi di tempat, di mana Ia berada;"
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "52",
+      "ref": "John 11:7",
+      "arabic_page": 142,
+      "text": "tetapi sesudah itu"
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "53",
+      "ref": "John 11:7",
+      "arabic_page": 142,
+      "text": "Ia berkata kepada murid-murid-Nya: \"Mari kita kembali lagi ke Yudea.\""
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "53",
+      "ref": "John 11:8",
+      "arabic_page": 143,
+      "text": "Murid-murid itu berkata kepada-Nya: \" Rabi, baru-baru ini orang-orang Yahudi mencoba melempari Engkau, masih maukah Engkau kembali ke sana?\""
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "54, 55",
+      "ref": "John 11:9",
+      "arabic_page": 143,
+      "text": "Jawab Yesus: \"Bukankah ada dua belas jam dalam satu hari? Siapa yang berjalan pada siang hari, kakinya tidak terantuk, karena ia melihat terang dunia ini."
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "54, 55",
+      "ref": "John 11:10",
+      "arabic_page": 143,
+      "text": "Tetapi jikalau"
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "56",
+      "ref": "John 11:10",
+      "arabic_page": 143,
+      "text": "seorang berjalan pada malam hari, kakinya terantuk, karena terang tidak ada di dalam dirinya.\""
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "56",
+      "ref": "John 11:11",
+      "arabic_page": 143,
+      "text": "Demikianlah perkataan-Nya, dan sesudah itu Ia berkata kepada mereka: \"Lazarus, saudara kita, telah tertidur, tetapi"
+    },
+    {
+      "id": 91,
+      "diatessaron_verse": "57",
+      "ref": "John 11:11",
+      "arabic_page": 143,
+      "text": "Aku pergi ke sana untuk membangunkan dia dari tidurnya.\""
+    },
+    {
+      "id": 92,
+      "diatessaron_verse": "57",
+      "ref": "John 11:12",
+      "arabic_page": 143,
+      "text": "Maka kata murid-murid itu kepada-Nya: \"Tuhan, jikalau"
+    },
+    {
+      "id": 93,
+      "diatessaron_verse": "58",
+      "ref": "John 11:12",
+      "arabic_page": 143,
+      "text": "ia tertidur, ia akan sembuh.\""
+    },
+    {
+      "id": 94,
+      "diatessaron_verse": "58",
+      "ref": "John 11:13",
+      "arabic_page": 143,
+      "text": "Tetapi maksud Yesus ialah tertidur dalam arti mati, sedangkan"
+    },
+    {
+      "id": 95,
+      "diatessaron_verse": "59",
+      "ref": "John 11:13",
+      "arabic_page": 143,
+      "text": "sangka mereka Yesus berkata tentang tertidur dalam arti biasa."
+    },
+    {
+      "id": 96,
+      "diatessaron_verse": "59",
+      "ref": "John 11:14",
+      "arabic_page": 143,
+      "text": "Karena itu Yesus berkata dengan terus terang: \""
+    },
+    {
+      "id": 97,
+      "diatessaron_verse": "60",
+      "ref": "John 11:14",
+      "arabic_page": 143,
+      "text": "Lazarus sudah mati;"
+    },
+    {
+      "id": 98,
+      "diatessaron_verse": "60",
+      "ref": "John 11:15",
+      "arabic_page": 143,
+      "text": "tetapi syukurlah Aku tidak hadir pada waktu itu, sebab demikian lebih baik bagimu, supaya kamu dapat belajar"
+    },
+    {
+      "id": 99,
+      "diatessaron_verse": "61",
+      "ref": "John 11:15",
+      "arabic_page": 143,
+      "text": "percaya. Marilah kita pergi sekarang kepadanya.\""
+    },
+    {
+      "id": 100,
+      "diatessaron_verse": "61",
+      "ref": "John 11:16",
+      "arabic_page": 143,
+      "text": "Lalu Tomas, yang disebut Didimus, berkata kepada teman-temannya, yaitu murid-murid yang lain: \"Marilah kita pergi juga untuk mati bersama-sama dengan Dia.\""
+    }
+  ]
+}

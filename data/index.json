@@ -1,14 +1,694 @@
 {
+  "title": "Diatessaron (LAI-TB)",
+  "subtitle": "Harmoni Empat Injil oleh Tatianus (Versi Bahasa Indonesia, LAI-TB)",
+  "source": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html",
+  "total_chapters": 55,
   "chapters": [
     {
       "id": 1,
-      "title": "BAB I",
-      "file": "bab_1.json"
+      "title": "BAB 1",
+      "file": "bab_1.json",
+      "canonical_books": [
+        "John",
+        "Luke"
+      ],
+      "total_segments": 125,
+      "diatessaron_verse_range": "1 - 81"
     },
     {
       "id": 2,
-      "title": "BAB II",
-      "file": "bab_2.json"
+      "title": "BAB 2",
+      "file": "bab_2.json",
+      "canonical_books": [
+        "Luke",
+        "Matthew"
+      ],
+      "total_segments": 78,
+      "diatessaron_verse_range": "1 - 47"
+    },
+    {
+      "id": 3,
+      "title": "BAB 3",
+      "file": "bab_3.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Matthew"
+      ],
+      "total_segments": 92,
+      "diatessaron_verse_range": "1, 2 - 56"
+    },
+    {
+      "id": 4,
+      "title": "BAB 4",
+      "file": "bab_4.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 91,
+      "diatessaron_verse_range": "1 - Catatan kaki:"
+    },
+    {
+      "id": 5,
+      "title": "BAB 5",
+      "file": "bab_5.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew",
+        "ohn"
+      ],
+      "total_segments": 95,
+      "diatessaron_verse_range": "1 - 55"
+    },
+    {
+      "id": 6,
+      "title": "BAB 6",
+      "file": "bab_6.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 88,
+      "diatessaron_verse_range": "1 - 54"
+    },
+    {
+      "id": 7,
+      "title": "BAB 7",
+      "file": "bab_7.json",
+      "canonical_books": [
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 98,
+      "diatessaron_verse_range": "1 - 53"
+    },
+    {
+      "id": 8,
+      "title": "BAB 8",
+      "file": "bab_8.json",
+      "canonical_books": [
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 99,
+      "diatessaron_verse_range": "1 - 62"
+    },
+    {
+      "id": 9,
+      "title": "BAB 9",
+      "file": "bab_9.json",
+      "canonical_books": [
+        "Luke",
+        "Matthew"
+      ],
+      "total_segments": 87,
+      "diatessaron_verse_range": "1 - 50"
+    },
+    {
+      "id": 10,
+      "title": "BAB 10",
+      "file": "bab_10.json",
+      "canonical_books": [
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 86,
+      "diatessaron_verse_range": "1 - 48"
+    },
+    {
+      "id": 11,
+      "title": "BAB 11",
+      "file": "bab_11.json",
+      "canonical_books": [
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 106,
+      "diatessaron_verse_range": "1 - 52"
+    },
+    {
+      "id": 12,
+      "title": "BAB 12",
+      "file": "bab_12.json",
+      "canonical_books": [
+        "Luke",
+        "Mark",
+        "Matthew",
+        "a"
+      ],
+      "total_segments": 90,
+      "diatessaron_verse_range": "1 - 55"
+    },
+    {
+      "id": 13,
+      "title": "BAB 13",
+      "file": "bab_13.json",
+      "canonical_books": [
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 81,
+      "diatessaron_verse_range": "1 - 47"
+    },
+    {
+      "id": 14,
+      "title": "BAB 14",
+      "file": "bab_14.json",
+      "canonical_books": [
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 84,
+      "diatessaron_verse_range": "1 - 48"
+    },
+    {
+      "id": 15,
+      "title": "BAB 15",
+      "file": "bab_15.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Matthew",
+        "Yoh"
+      ],
+      "total_segments": 86,
+      "diatessaron_verse_range": "1 - 50"
+    },
+    {
+      "id": 16,
+      "title": "BAB 16",
+      "file": "bab_16.json",
+      "canonical_books": [
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 86,
+      "diatessaron_verse_range": "1 - 52"
+    },
+    {
+      "id": 17,
+      "title": "BAB 17",
+      "file": "bab_17.json",
+      "canonical_books": [
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 81,
+      "diatessaron_verse_range": "1 - 53"
+    },
+    {
+      "id": 18,
+      "title": "BAB 18",
+      "file": "bab_18.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 92,
+      "diatessaron_verse_range": "1 - 50"
+    },
+    {
+      "id": 19,
+      "title": "BAB 19",
+      "file": "bab_19.json",
+      "canonical_books": [
+        "John",
+        "Mark",
+        "Mat",
+        "Matthew",
+        "Yoh"
+      ],
+      "total_segments": 94,
+      "diatessaron_verse_range": "1 - 54"
+    },
+    {
+      "id": 20,
+      "title": "BAB 20",
+      "file": "bab_20.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 101,
+      "diatessaron_verse_range": "1 - 58"
+    },
+    {
+      "id": 21,
+      "title": "BAB 21",
+      "file": "bab_21.json",
+      "canonical_books": [
+        "John",
+        "Mark"
+      ],
+      "total_segments": 83,
+      "diatessaron_verse_range": "1 - 49"
+    },
+    {
+      "id": 22,
+      "title": "BAB 22",
+      "file": "bab_22.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark"
+      ],
+      "total_segments": 99,
+      "diatessaron_verse_range": "1 - 55"
+    },
+    {
+      "id": 23,
+      "title": "BAB 23",
+      "file": "bab_23.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 93,
+      "diatessaron_verse_range": "1 - 50"
+    },
+    {
+      "id": 24,
+      "title": "BAB 24",
+      "file": "bab_24.json",
+      "canonical_books": [
+        "Luk",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 101,
+      "diatessaron_verse_range": "1 - 52"
+    },
+    {
+      "id": 25,
+      "title": "BAB 25",
+      "file": "bab_25.json",
+      "canonical_books": [
+        "Luke",
+        "Mark",
+        "Mathhew",
+        "Matthew"
+      ],
+      "total_segments": 81,
+      "diatessaron_verse_range": "1 - 46"
+    },
+    {
+      "id": 26,
+      "title": "BAB 26",
+      "file": "bab_26.json",
+      "canonical_books": [
+        "Luke",
+        "Matthew"
+      ],
+      "total_segments": 85,
+      "diatessaron_verse_range": "1, 2 - 45"
+    },
+    {
+      "id": 27,
+      "title": "BAB 27",
+      "file": "bab_27.json",
+      "canonical_books": [
+        "John",
+        "Lukas",
+        "Luke",
+        "Matthew"
+      ],
+      "total_segments": 83,
+      "diatessaron_verse_range": "1 - 47"
+    },
+    {
+      "id": 28,
+      "title": "BAB 28",
+      "file": "bab_28.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Mathhew",
+        "Matthew"
+      ],
+      "total_segments": 95,
+      "diatessaron_verse_range": "1, 2 - 51"
+    },
+    {
+      "id": 29,
+      "title": "BAB 29",
+      "file": "bab_29.json",
+      "canonical_books": [
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 83,
+      "diatessaron_verse_range": "1 - 48"
+    },
+    {
+      "id": 30,
+      "title": "BAB 30",
+      "file": "bab_30.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Mat",
+        "Matthew"
+      ],
+      "total_segments": 93,
+      "diatessaron_verse_range": "1 - 52"
+    },
+    {
+      "id": 31,
+      "title": "BAB 31",
+      "file": "bab_31.json",
+      "canonical_books": [
+        "Luke",
+        "Mark",
+        "Mat",
+        "Matthew"
+      ],
+      "total_segments": 95,
+      "diatessaron_verse_range": "1 - 52"
+    },
+    {
+      "id": 32,
+      "title": "BAB 32",
+      "file": "bab_32.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Mat",
+        "Matthew",
+        "Yoh"
+      ],
+      "total_segments": 86,
+      "diatessaron_verse_range": "1 - 47"
+    },
+    {
+      "id": 33,
+      "title": "BAB 33",
+      "file": "bab_33.json",
+      "canonical_books": [
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 106,
+      "diatessaron_verse_range": "1 - 60"
+    },
+    {
+      "id": 34,
+      "title": "BAB 34",
+      "file": "bab_34.json",
+      "canonical_books": [
+        "John",
+        "Luk",
+        "Luke",
+        "Mark",
+        "Mat",
+        "Matthew"
+      ],
+      "total_segments": 91,
+      "diatessaron_verse_range": "1 - 53"
+    },
+    {
+      "id": 35,
+      "title": "BAB 35",
+      "file": "bab_35.json",
+      "canonical_books": [
+        "John",
+        "Matthew"
+      ],
+      "total_segments": 104,
+      "diatessaron_verse_range": "1 - 61"
+    },
+    {
+      "id": 36,
+      "title": "BAB 36",
+      "file": "bab_36.json",
+      "canonical_books": [
+        "John"
+      ],
+      "total_segments": 85,
+      "diatessaron_verse_range": "1 - 47"
+    },
+    {
+      "id": 37,
+      "title": "BAB 37",
+      "file": "bab_37.json",
+      "canonical_books": [
+        "John",
+        "ohn"
+      ],
+      "total_segments": 100,
+      "diatessaron_verse_range": "1 - 61"
+    },
+    {
+      "id": 38,
+      "title": "BAB 38",
+      "file": "bab_38.json",
+      "canonical_books": [
+        "John",
+        "Luke"
+      ],
+      "total_segments": 83,
+      "diatessaron_verse_range": "1, 2 - Catatan kaki:"
+    },
+    {
+      "id": 39,
+      "title": "BAB 39",
+      "file": "bab_39.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matius",
+        "Matthew"
+      ],
+      "total_segments": 85,
+      "diatessaron_verse_range": "1 - 45"
+    },
+    {
+      "id": 40,
+      "title": "BAB 40",
+      "file": "bab_40.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 101,
+      "diatessaron_verse_range": "1 - 65"
+    },
+    {
+      "id": 41,
+      "title": "BAB 41",
+      "file": "bab_41.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 99,
+      "diatessaron_verse_range": "1 - 58"
+    },
+    {
+      "id": 42,
+      "title": "BAB 42",
+      "file": "bab_42.json",
+      "canonical_books": [
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 94,
+      "diatessaron_verse_range": "1 - 53"
+    },
+    {
+      "id": 43,
+      "title": "BAB 43",
+      "file": "bab_43.json",
+      "canonical_books": [
+        "Luke",
+        "Matthew"
+      ],
+      "total_segments": 105,
+      "diatessaron_verse_range": "1 - 58"
+    },
+    {
+      "id": 44,
+      "title": "BAB 44",
+      "file": "bab_44.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 91,
+      "diatessaron_verse_range": "1, 2 - 50"
+    },
+    {
+      "id": 45,
+      "title": "BAB 45",
+      "file": "bab_45.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 88,
+      "diatessaron_verse_range": "1, 2 - 47"
+    },
+    {
+      "id": 46,
+      "title": "BAB 46",
+      "file": "bab_46.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew",
+        "ohn"
+      ],
+      "total_segments": 108,
+      "diatessaron_verse_range": "1 - 58"
+    },
+    {
+      "id": 47,
+      "title": "BAB 47",
+      "file": "bab_47.json",
+      "canonical_books": [
+        "John"
+      ],
+      "total_segments": 78,
+      "diatessaron_verse_range": "1 - Catatan kaki:"
+    },
+    {
+      "id": 48,
+      "title": "BAB 48",
+      "file": "bab_48.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 106,
+      "diatessaron_verse_range": "1 - 55"
+    },
+    {
+      "id": 49,
+      "title": "BAB 49",
+      "file": "bab_49.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 103,
+      "diatessaron_verse_range": "1, 2 - Catatan kaki"
+    },
+    {
+      "id": 50,
+      "title": "BAB 50",
+      "file": "bab_50.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 93,
+      "diatessaron_verse_range": "1 - 51"
+    },
+    {
+      "id": 51,
+      "title": "BAB 51",
+      "file": "bab_51.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 109,
+      "diatessaron_verse_range": "1 - 54"
+    },
+    {
+      "id": 52,
+      "title": "BAB 52",
+      "file": "bab_52.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 106,
+      "diatessaron_verse_range": "1 - 55"
+    },
+    {
+      "id": 53,
+      "title": "BAB 53",
+      "file": "bab_53.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 116,
+      "diatessaron_verse_range": "1 - 61"
+    },
+    {
+      "id": 54,
+      "title": "BAB 54",
+      "file": "bab_54.json",
+      "canonical_books": [
+        "John",
+        "Luke"
+      ],
+      "total_segments": 84,
+      "diatessaron_verse_range": "1 - Catatan kaki:"
+    },
+    {
+      "id": 55,
+      "title": "BAB 55",
+      "file": "bab_55.json",
+      "canonical_books": [
+        "John",
+        "Luke",
+        "Mark",
+        "Matthew"
+      ],
+      "total_segments": 30,
+      "diatessaron_verse_range": "1 - Catatan kaki:"
     }
   ]
 }

@@ -1,5 +1,5 @@
-# Ignore tooling folder
-tools/
+# Cache folders
+data/raw/cache/
 
 # Python cache
 __pycache__/

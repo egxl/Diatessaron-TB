@@ -1,0 +1,608 @@
+{
+  "id": 26,
+  "title": "BAB 26",
+  "source_post_id": "p56417",
+  "canonical_books": [
+    "Luke",
+    "Matthew"
+  ],
+  "total_segments": 85,
+  "diatessaron_verse_range": "1, 2 - 45",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1, 2",
+      "ref": "Luke 15:1",
+      "arabic_page": null,
+      "text": "Para pemungut cukai dan orang-orang berdosa biasanya datang kepada Yesus untuk mendengarkan Dia."
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "1, 2",
+      "ref": "Luke 15:2",
+      "arabic_page": null,
+      "text": "Maka bersungut-sungutlah orang-orang Farisi dan ahli-ahli Taurat, katanya: \"Ia menerima orang-orang berdosa dan"
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "3",
+      "ref": "Luke 15:2",
+      "arabic_page": null,
+      "text": "makan bersama-sama dengan mereka.\""
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "Luke 15:3",
+      "arabic_page": null,
+      "text": "Lalu Ia mengatakan"
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "4",
+      "ref": "Luke 15:3",
+      "arabic_page": null,
+      "text": "perumpamaan ini kepada mereka:"
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "Luke 15:4",
+      "arabic_page": null,
+      "text": "\"Siapakah di antara kamu yang mempunyai seratus ekor domba, dan jikalau ia kehilangan seekor di antaranya, tidak meninggalkan yang sembilan puluh sembilan ekor di padang gurun dan pergi mencari yang sesat itu"
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "5",
+      "ref": "Luke 15:4",
+      "arabic_page": null,
+      "text": "sampai ia menemukannya?"
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 18:13",
+      "arabic_page": null,
+      "text": "Dan Aku berkata kepadamu: Sesungguhnya jika ia berhasil menemukannya, lebih besar kegembiraannya atas yang seekor itu"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "6",
+      "ref": "Matthew 18:13",
+      "arabic_page": null,
+      "text": "dari pada atas yang kesembilan puluh sembilan ekor yang tidak sesat."
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "6",
+      "ref": "Luke 15:5b",
+      "arabic_page": null,
+      "text": "ia meletakkannya di atas bahunya dengan gembira,"
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "6",
+      "ref": "Luke 15:6",
+      "arabic_page": null,
+      "text": "dan setibanya di rumah ia memanggil sahabat-sahabat dan tetangga-tetangganya serta berkata kepada mereka:"
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "7",
+      "ref": "Luke 15:6",
+      "arabic_page": null,
+      "text": "Bersukacitalah bersama-sama dengan aku, sebab dombaku yang hilang itu telah kutemukan."
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "7",
+      "ref": "Matthew 18:14",
+      "arabic_page": null,
+      "text": "Demikian juga Bapamu yang di sorga tidak menghendaki"
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 18:14",
+      "arabic_page": null,
+      "text": "supaya seorangpun dari anak-anak ini hilang.\""
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "8",
+      "ref": "Luke 15:7",
+      "arabic_page": null,
+      "text": "Aku berkata kepadamu: Demikian juga akan ada sukacita di sorga karena satu orang berdosa yang bertobat, lebih dari pada sukacita karena sembilan puluh sembilan orang benar yang tidak memerlukan pertobatan.\""
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "9",
+      "ref": "Luke 15:8",
+      "arabic_page": null,
+      "text": "\"Atau perempuan manakah yang mempunyai sepuluh dirham, dan jika ia kehilangan satu di antaranya, tidak menyalakan"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "10",
+      "ref": "Luke 15:8",
+      "arabic_page": null,
+      "text": "pelita dan menyapu rumah serta mencarinya dengan cermat sampai ia menemukannya?"
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "10",
+      "ref": "Luke 15:9",
+      "arabic_page": null,
+      "text": "Dan kalau ia telah menemukannya, ia memanggil sahabat-sahabat dan tetangga-tetangganya serta berkata: Bersukacitalah bersama-sama dengan aku,"
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "11",
+      "ref": "Luke 15:9",
+      "arabic_page": null,
+      "text": "sebab dirhamku yang hilang itu telah kutemukan."
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "11",
+      "ref": "Luke 15:10",
+      "arabic_page": 101,
+      "text": "Aku berkata kepadamu: Demikian juga akan ada sukacita pada malaikat-malaikat Allah karena satu orang berdosa yang bertobat.\","
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "11",
+      "ref": "Luke 15:7b",
+      "arabic_page": 101,
+      "text": "lebih dari pada sukacita karena sembilan puluh sembilan orang benar yang tidak memerlukan pertobatan.\""
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "12, 13",
+      "ref": "Luke 15:11",
+      "arabic_page": 101,
+      "text": "Yesus berkata lagi: \"Ada seorang mempunyai dua anak laki-laki."
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "12, 13",
+      "ref": "Luke 15:12",
+      "arabic_page": 101,
+      "text": "Kata yang bungsu kepada ayahnya: Bapa,"
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "14",
+      "ref": "Luke 15:12",
+      "arabic_page": 101,
+      "text": "berikanlah kepadaku bagian harta milik kita yang menjadi hakku. Lalu ayahnya membagi-bagikan harta kekayaan itu di antara mereka."
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "14",
+      "ref": "Luke 15:13",
+      "arabic_page": 101,
+      "text": "Beberapa hari kemudian anak bungsu itu menjual seluruh bagiannya itu lalu pergi ke"
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "15",
+      "ref": "Luke 15:13",
+      "arabic_page": 101,
+      "text": "negeri yang jauh. Di sana ia memboroskan harta miliknya itu dengan hidup berfoya-foya."
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "15",
+      "ref": "Luke 15:14",
+      "arabic_page": 101,
+      "text": "Setelah dihabiskannya semuanya, timbullah bencana kelaparan di dalam negeri itu dan iapun mulai melarat."
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "16",
+      "ref": "Luke 15:15",
+      "arabic_page": 101,
+      "text": "Lalu ia pergi dan bekerja pada seorang majikan"
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "17",
+      "ref": "Luke 15:15",
+      "arabic_page": 101,
+      "text": "di negeri itu. Orang itu menyuruhnya ke ladang untuk menjaga babinya."
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "17",
+      "ref": "Luke 15:16",
+      "arabic_page": 101,
+      "text": "Lalu ia ingin mengisi perutnya dengan ampas yang menjadi makanan babi itu, tetapi"
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "18",
+      "ref": "Luke 15:16",
+      "arabic_page": 101,
+      "text": "tidak seorangpun yang memberikannya kepadanya."
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "18",
+      "ref": "Luke 15:17",
+      "arabic_page": 101,
+      "text": "Lalu ia menyadari keadaannya, katanya: Betapa banyaknya orang upahan bapaku yang berlimpah-limpah makanannya, tetapi aku di sini mati"
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "19",
+      "ref": "Luke 15:17",
+      "arabic_page": 101,
+      "text": "kelaparan."
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "19",
+      "ref": "Luke 15:18",
+      "arabic_page": 101,
+      "text": "Aku akan bangkit dan pergi kepada bapaku dan berkata kepadanya: Bapa,"
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "20",
+      "ref": "Luke 15:18",
+      "arabic_page": 101,
+      "text": "aku telah berdosa terhadap sorga dan terhadap bapa,"
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "20",
+      "ref": "Luke 15:19",
+      "arabic_page": 101,
+      "text": "aku tidak layak lagi disebutkan anak bapa;"
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "21",
+      "ref": "Luke 15:19",
+      "arabic_page": 101,
+      "text": "jadikanlah aku sebagai salah seorang upahan bapa."
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "21",
+      "ref": "Luke 15:20",
+      "arabic_page": 101,
+      "text": "Maka bangkitlah ia dan pergi kepada bapanya. Ketika ia masih jauh, ayahnya telah melihatnya, lalu tergeraklah hatinya oleh belas kasihan."
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "22",
+      "ref": "Luke 15:20",
+      "arabic_page": 101,
+      "text": "Ayahnya itu berlari mendapatkan dia lalu merangkul dan mencium dia."
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "22",
+      "ref": "Luke 15:21",
+      "arabic_page": 101,
+      "text": "Kata anak itu kepadanya: Bapa, aku telah berdosa terhadap sorga dan terhadap bapa, aku tidak layak lagi"
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "23",
+      "ref": "Luke 15:21",
+      "arabic_page": 101,
+      "text": "disebutkan anak bapa."
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "23",
+      "ref": "Luke 15:22",
+      "arabic_page": 101,
+      "text": "Tetapi ayah itu berkata kepada hamba-hambanya: Lekaslah bawa ke mari jubah yang terbaik,"
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "24",
+      "ref": "Luke 15:22",
+      "arabic_page": 101,
+      "text": "pakaikanlah itu kepadanya dan kenakanlah cincin pada jarinya dan sepatu pada kakinya."
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "24",
+      "ref": "Luke 15:23",
+      "arabic_page": 101,
+      "text": "Dan ambillah anak lembu tambun itu,"
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "25",
+      "ref": "Luke 15:23",
+      "arabic_page": 101,
+      "text": "sembelihlah dia dan marilah kita makan dan bersukacita."
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "25",
+      "ref": "Luke 15:24",
+      "arabic_page": 101,
+      "text": "Sebab anakku ini telah mati dan menjadi"
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "26",
+      "ref": "Luke 15:24",
+      "arabic_page": 102,
+      "text": "hidup kembali, ia telah hilang dan didapat kembali. Maka mulailah mereka bersukaria."
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "26",
+      "ref": "Luke 15:25",
+      "arabic_page": 102,
+      "text": "Tetapi anaknya yang sulung berada di ladang dan ketika ia pulang dan dekat ke rumah,"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "27",
+      "ref": "Luke 15:25",
+      "arabic_page": 102,
+      "text": "ia mendengar bunyi seruling dan nyanyian tari-tarian."
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "27",
+      "ref": "Luke 15:26",
+      "arabic_page": 102,
+      "text": "Lalu ia memanggil salah seorang hamba dan bertanya kepadanya"
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "28",
+      "ref": "Luke 15:26",
+      "arabic_page": 102,
+      "text": "apa arti semuanya itu."
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "28",
+      "ref": "Luke 15:27",
+      "arabic_page": 102,
+      "text": "Jawab hamba itu: Adikmu telah kembali dan ayahmu telah"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "29",
+      "ref": "Luke 15:27",
+      "arabic_page": 102,
+      "text": "menyembelih anak lembu tambun, karena ia mendapatnya kembali dengan sehat."
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "29",
+      "ref": "Luke 15:28",
+      "arabic_page": 102,
+      "text": "Maka marahlah anak sulung itu"
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "30",
+      "ref": "Luke 15:28",
+      "arabic_page": 102,
+      "text": "dan ia tidak mau masuk. Lalu ayahnya keluar dan berbicara dengan dia."
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "30",
+      "ref": "Luke 15:29",
+      "arabic_page": 102,
+      "text": "Tetapi ia menjawab ayahnya, katanya: Telah bertahun-tahun aku melayani bapa dan belum pernah aku melanggar perintah bapa, tetapi kepadaku belum pernah bapa memberikan seekor anak"
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "31",
+      "ref": "Luke 15:29",
+      "arabic_page": 102,
+      "text": "kambing untuk bersukacita dengan sahabat-sahabatku."
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "31",
+      "ref": "Luke 15:30",
+      "arabic_page": 102,
+      "text": "Tetapi baru saja datang anak bapa yang telah memboroskan"
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "32",
+      "ref": "Luke 15:30",
+      "arabic_page": 102,
+      "text": "harta kekayaan bapa bersama-sama dengan pelacur-pelacur, maka bapa menyembelih anak lembu tambun itu untuk dia."
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "32",
+      "ref": "Luke 15:31",
+      "arabic_page": 102,
+      "text": "Kata ayahnya kepadanya: Anakku, engkau selalu bersama-sama dengan aku, dan segala kepunyaanku adalah"
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "33",
+      "ref": "Luke 15:31",
+      "arabic_page": 102,
+      "text": "kepunyaanmu."
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "33",
+      "ref": "Luke 15:32",
+      "arabic_page": 102,
+      "text": "Kita patut bersukacita dan bergembira karena adikmu telah mati dan menjadi hidup kembali, ia telah hilang dan didapat kembali.\""
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "34",
+      "ref": "Luke 16:1",
+      "arabic_page": 102,
+      "text": "Dan Yesus berkata kepada murid-murid-Nya: \"Ada seorang kaya yang mempunyai"
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "35",
+      "ref": "Luke 16:1",
+      "arabic_page": 102,
+      "text": "seorang bendahara. Kepadanya disampaikan tuduhan, bahwa bendahara itu menghamburkan miliknya."
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "35",
+      "ref": "Luke 16:2",
+      "arabic_page": 102,
+      "text": "Lalu ia memanggil bendahara itu dan berkata kepadanya: Apakah yang kudengar tentang engkau? Berilah pertanggungan jawab atas urusanmu, sebab engkau tidak boleh lagi"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "36",
+      "ref": "Luke 16:2",
+      "arabic_page": 102,
+      "text": "bekerja sebagai bendahara."
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "36",
+      "ref": "Luke 16:3",
+      "arabic_page": 102,
+      "text": "Kata bendahara itu di dalam hatinya: Apakah yang harus aku perbuat? Tuanku memecat aku dari jabatanku sebagai bendahara. Mencangkul aku tidak dapat, mengemis"
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "37",
+      "ref": "Luke 16:3",
+      "arabic_page": 102,
+      "text": "aku malu."
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "37",
+      "ref": "Luke 16:4",
+      "arabic_page": 102,
+      "text": "Aku tahu apa yang akan aku perbuat, supaya apabila aku dipecat dari jabatanku sebagai bendahara, ada orang yang akan"
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "38",
+      "ref": "Luke 16:4",
+      "arabic_page": 102,
+      "text": "menampung aku di rumah mereka."
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "38",
+      "ref": "Luke 16:5",
+      "arabic_page": 102,
+      "text": "Lalu ia memanggil seorang demi seorang yang berhutang kepada"
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "39",
+      "ref": "Luke 16:5",
+      "arabic_page": 102,
+      "text": "tuannya. Katanya kepada yang pertama: Berapakah hutangmu kepada tuanku?"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "39",
+      "ref": "Luke 16:6",
+      "arabic_page": 102,
+      "text": "Jawab orang itu: Seratus tempayan minyak. Lalu katanya kepada orang itu: Inilah surat hutangmu, duduklah dan buat surat hutang lain sekarang juga:"
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "40",
+      "ref": "Luke 16:6",
+      "arabic_page": 102,
+      "text": "Lima puluh tempayan."
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "40",
+      "ref": "Luke 16:7",
+      "arabic_page": 102,
+      "text": "Kemudian ia berkata kepada yang kedua: Dan berapakah hutangmu? Jawab orang itu: Seratus pikul gandum. Katanya kepada orang itu: Inilah"
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "41",
+      "ref": "Luke 16:7",
+      "arabic_page": 103,
+      "text": "surat hutangmu, buatlah surat hutang lain: Delapan puluh pikul."
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "41",
+      "ref": "Luke 16:8",
+      "arabic_page": 103,
+      "text": "Lalu tuan itu memuji bendahara yang tidak jujur itu, karena ia telah bertindak dengan cerdik."
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "42",
+      "ref": "Luke 16:8",
+      "arabic_page": 103,
+      "text": "Sebab anak-anak dunia ini lebih cerdik terhadap sesamanya dari pada anak-anak terang."
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "42",
+      "ref": "Luke 16:9",
+      "arabic_page": 103,
+      "text": "Dan Aku berkata kepadamu: Ikatlah persahabatan dengan mempergunakan Mamon yang tidak jujur,"
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "43",
+      "ref": "Luke 16:9",
+      "arabic_page": 103,
+      "text": "supaya jika Mamon itu tidak dapat menolong lagi, kamu diterima di dalam kemah abadi.\""
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "43",
+      "ref": "Luke 16:10",
+      "arabic_page": 103,
+      "text": "\"Barangsiapa setia dalam perkara-perkara kecil, ia setia juga dalam perkara-perkara besar. Dan barangsiapa tidak benar dalam"
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "44",
+      "ref": "Luke 16:10",
+      "arabic_page": 103,
+      "text": "perkara-perkara kecil, ia tidak benar juga dalam perkara-perkara besar."
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "44",
+      "ref": "Luke 16:11",
+      "arabic_page": 103,
+      "text": "Jadi, jikalau kamu tidak setia dalam hal Mamon"
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "45",
+      "ref": "Luke 16:11",
+      "arabic_page": 103,
+      "text": "yang tidak jujur, siapakah yang akan mempercayakan kepadamu harta yang sesungguhnya?"
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "45",
+      "ref": "Luke 16:12",
+      "arabic_page": 103,
+      "text": "Dan jikalau kamu tidak setia dalam harta orang lain, siapakah yang akan menyerahkan hartamu sendiri kepadamu?"
+    }
+  ]
+}

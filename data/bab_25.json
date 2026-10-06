@@ -1,0 +1,582 @@
+{
+  "id": 25,
+  "title": "BAB 25",
+  "source_post_id": "p56284",
+  "canonical_books": [
+    "Luke",
+    "Mark",
+    "Mathhew",
+    "Matthew"
+  ],
+  "total_segments": 81,
+  "diatessaron_verse_range": "1 - 46",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "Luke 9:46",
+      "arabic_page": null,
+      "text": "Maka timbullah pertengkaran di antara murid-murid Yesus tentang"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "Luke 9:46",
+      "arabic_page": null,
+      "text": "siapakah yang terbesar di antara mereka."
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "Mark 9:33",
+      "arabic_page": null,
+      "text": "Kemudian tibalah Yesus dan murid-murid-Nya di Kapernaum. Ketika Yesus sudah di rumah, Ia bertanya kepada murid-murid-Nya: \"Apa yang kamu perbincangkan"
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "Mark 9:33",
+      "arabic_page": null,
+      "text": "tadi di tengah jalan?\""
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "3",
+      "ref": "Mark 9:34",
+      "arabic_page": null,
+      "text": "Tetapi mereka diam, sebab di tengah jalan tadi mereka mempertengkarkan siapa yang terbesar di antara mereka."
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 17:24b",
+      "arabic_page": null,
+      "text": "Ketika Yesus dan murid-murid-Nya tiba di Kapernaum datanglah pemungut bea Bait Allah kepada Petrus dan berkata: \"Apakah gurumu tidak membayar"
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 17:24b",
+      "arabic_page": null,
+      "text": "bea dua dirham itu?\""
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 17:25",
+      "arabic_page": null,
+      "text": "Jawabnya: \"Memang membayar.\" Dan ketika Petrus masuk rumah, Yesus mendahuluinya dengan pertanyaan: \"Apakah pendapatmu, Simon? Dari siapakah raja-raja dunia ini memungut bea dan pajak? Dari rakyatnya atau"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "6",
+      "ref": "Matthew 17:25",
+      "arabic_page": 97,
+      "text": "dari orang asing?\""
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "6",
+      "ref": "Matthew 17:26",
+      "arabic_page": 97,
+      "text": "Jawab Petrus: \"Dari orang asing!\" Maka kata Yesus kepadanya: \"Jadi bebaslah rakyatnya."
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "7",
+      "ref": "Matthew 17:27",
+      "arabic_page": 97,
+      "text": "Tetapi supaya jangan kita menjadi batu sandungan bagi mereka, pergilah memancing ke danau. Dan ikan pertama yang kaupancing, tangkaplah dan bukalah mulutnya, maka engkau akan menemukan mata uang empat dirham di dalamnya. Ambillah itu dan bayarkanlah kepada mereka, bagi-Ku dan bagimu juga.\""
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 18:1",
+      "arabic_page": 97,
+      "text": "Pada waktu itu datanglah murid-murid itu kepada Yesus dan bertanya:"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 18:1",
+      "arabic_page": 97,
+      "text": ", \"Siapakah yang terbesar dalam Kerajaan Sorga?\""
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "9",
+      "ref": "Luke 9:47a",
+      "arabic_page": 97,
+      "text": "Tetapi Yesus mengetahui pikiran mereka."
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 18:2",
+      "arabic_page": 97,
+      "text": "Maka Yesus memanggil seorang anak kecil dan menempatkannya di tengah-tengah mereka"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "10",
+      "ref": "Matthew 18:3",
+      "arabic_page": 97,
+      "text": "lalu berkata: \"Aku berkata kepadamu, sesungguhnya jika kamu tidak bertobat dan menjadi seperti anak kecil ini,"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "11",
+      "ref": "Matthew 18:3",
+      "arabic_page": 97,
+      "text": "kamu tidak akan masuk ke dalam Kerajaan Sorga."
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "11",
+      "ref": "Luke 9:48",
+      "arabic_page": 97,
+      "text": "\"Barangsiapa menyambut anak ini dalam nama-Ku, ia menyambut Aku;"
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "11",
+      "ref": "Mark 9:37b",
+      "arabic_page": 97,
+      "text": "Dan barangsiapa menyambut Aku,"
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "12",
+      "ref": "Mark 9:37b",
+      "arabic_page": 97,
+      "text": "bukan Aku yang disambutnya, tetapi Dia yang mengutus Aku.\""
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "12",
+      "ref": "Luke 9:48c",
+      "arabic_page": 97,
+      "text": "Karena yang terkecil di antara kamu sekalian,"
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "13",
+      "ref": "Luke 9:48c",
+      "arabic_page": 97,
+      "text": "dialah yang terbesar.\""
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "13",
+      "ref": "Matthew 18:6",
+      "arabic_page": 97,
+      "text": "\"Tetapi barangsiapa menyesatkan salah satu dari anak-anak kecil ini yang percaya kepada-Ku, lebih baik baginya jika sebuah batu kilangan diikatkan pada lehernya lalu ia ditenggelamkan ke dalam laut."
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "14",
+      "ref": "Luke 9:49",
+      "arabic_page": 97,
+      "text": "Yohanes berkata: \"Guru, kami lihat seorang mengusir setan demi nama-Mu, lalu"
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "15",
+      "ref": "Luke 9:49",
+      "arabic_page": 97,
+      "text": "kami cegah orang itu, karena ia bukan pengikut kita.\""
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "15",
+      "ref": "Mark 9:39",
+      "arabic_page": 97,
+      "text": "Tetapi kata Yesus: \"Jangan kamu cegah dia! Sebab tidak seorangpun yang telah mengadakan mujizat demi nama-Ku, dapat seketika itu juga"
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "16, 17",
+      "ref": "Mark 9:39",
+      "arabic_page": 97,
+      "text": "mengumpat Aku."
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "16, 17",
+      "ref": "Luke 9:50b",
+      "arabic_page": 97,
+      "text": "sebab barangsiapa tidak melawan kamu, ia ada di pihak kamu.\""
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "16, 17",
+      "ref": "Mathhew 18:7",
+      "arabic_page": 98,
+      "text": "Celakalah dunia dengan segala penyesatannya: memang penyesatan harus ada, tetapi celakalah orang yang mengadakannya."
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "18",
+      "ref": "Matthew 18:8",
+      "arabic_page": 98,
+      "text": "Jika tanganmu atau kakimu menyesatkan engkau, penggallah dan buanglah itu, karena lebih baik bagimu masuk ke dalam hidup dengan tangan kudung atau timpang dari pada dengan utuh kedua tangan dan kedua kakimu dicampakkan ke dalam api kekal."
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "19, 20",
+      "ref": "Mark 9:44",
+      "arabic_page": 98,
+      "text": "di tempat itu ulatnya tidak akan mati, dan apinya tidak akan padam."
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "19, 20",
+      "ref": "Matthew 18:9a",
+      "arabic_page": 98,
+      "text": "Dan jika matamu menyesatkan"
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "21",
+      "ref": "Matthew 18:9a",
+      "arabic_page": 98,
+      "text": "engkau, cungkillah dan buanglah itu,"
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "21",
+      "ref": "Mark 9:47b",
+      "arabic_page": 98,
+      "text": "karena lebih baik engkau masuk ke dalam Kerajaan Allah dengan bermata satu dari pada dengan bermata dua dicampakkan ke dalam"
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "22, 23",
+      "ref": "Mark 9:47b",
+      "arabic_page": 98,
+      "text": "neraka,"
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "22, 23",
+      "ref": "Mark 9:48",
+      "arabic_page": 98,
+      "text": "di mana ulat-ulat bangkai tidak mati dan api tidak padam."
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "22, 23",
+      "ref": "Mark 9:49",
+      "arabic_page": 98,
+      "text": "Karena setiap"
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "24",
+      "ref": "Mark 9:49",
+      "arabic_page": 98,
+      "text": "orang akan digarami dengan api."
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "24",
+      "ref": "Mark 9:50a",
+      "arabic_page": 98,
+      "text": "Garam memang baik,"
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "25",
+      "ref": "Luke 14:34b",
+      "arabic_page": 98,
+      "text": "tetapi jika garam juga menjadi tawar, dengan apakah ia diasinkan?"
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "25",
+      "ref": "Luke 14:35",
+      "arabic_page": 98,
+      "text": "Tidak ada lagi gunanya baik untuk ladang maupun untuk pupuk, dan orang membuangnya saja. Siapa mempunyai telinga untuk mendengar, hendaklah"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "26",
+      "ref": "Luke 14:35",
+      "arabic_page": 98,
+      "text": "ia mendengar!\""
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "26",
+      "ref": "Mark 9:50c",
+      "arabic_page": 98,
+      "text": "Hendaklah kamu selalu mempunyai garam dalam dirimu dan selalu hidup berdamai yang seorang dengan yang lain.\""
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "27",
+      "ref": "Mark 10:1",
+      "arabic_page": 98,
+      "text": "Dari situ Yesus berangkat ke daerah Yudea dan ke daerah seberang sungai Yordan dan di situpun orang banyak datang mengerumuni Dia;"
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "28",
+      "ref": "Mark 10:1",
+      "arabic_page": 98,
+      "text": "dan seperti biasa Ia mengajar mereka pula."
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "28",
+      "ref": "Mark 10:2",
+      "arabic_page": 98,
+      "text": "Maka datanglah orang-orang Farisi, dan untuk mencobai"
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "29",
+      "ref": "Mark 10:2",
+      "arabic_page": 98,
+      "text": "Yesus mereka bertanya kepada-Nya: \"Apakah seorang suami diperbolehkan menceraikan isterinya?\""
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "29",
+      "ref": "Mark 10:3",
+      "arabic_page": 98,
+      "text": "Tetapi jawab-Nya kepada mereka:"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "30",
+      "ref": "Mark 10:3",
+      "arabic_page": 98,
+      "text": "\"Apa perintah Musa kepada kamu?\""
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "30",
+      "ref": "Mark 10:4",
+      "arabic_page": 98,
+      "text": "Jawab mereka: \"Musa memberi izin untuk menceraikannya"
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "31",
+      "ref": "Mark 10:4",
+      "arabic_page": 98,
+      "text": "dengan membuat surat cerai.\""
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "31",
+      "ref": "Mark 10:5a",
+      "arabic_page": 98,
+      "text": "Lalu kata Yesus kepada mereka:"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "31",
+      "ref": "Matthew 19:4",
+      "arabic_page": 98,
+      "text": "\"Tidakkah kamu baca, bahwa Ia yang"
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "32",
+      "ref": "Matthew 19:4",
+      "arabic_page": 98,
+      "text": "menciptakan manusia sejak semula menjadikan mereka laki-laki dan perempuan?"
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "32",
+      "ref": "Matthew 19:5",
+      "arabic_page": 99,
+      "text": "Dan firman-Nya: Sebab itu laki-laki akan meninggalkan ayah dan ibunya dan bersatu dengan isterinya, sehingga keduanya itu menjadi satu daging."
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "33",
+      "ref": "Matthew 19:6",
+      "arabic_page": 99,
+      "text": "Demikianlah mereka bukan lagi dua, melainkan satu. Karena itu, apa yang telah"
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "34",
+      "ref": "Matthew 19:6",
+      "arabic_page": 99,
+      "text": "dipersatukan Allah, tidak boleh diceraikan manusia.\""
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "34",
+      "ref": "Matthew 19:7",
+      "arabic_page": 99,
+      "text": "Kata mereka kepada-Nya: \"Jika demikian, apakah sebabnya Musa memerintahkan untuk memberikan surat cerai jika orang menceraikan isterinya?\""
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 19:8",
+      "arabic_page": 99,
+      "text": "Kata Yesus kepada mereka: \"Karena ketegaran hatimu Musa mengizinkan kamu"
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "36",
+      "ref": "Matthew 19:8",
+      "arabic_page": 99,
+      "text": "menceraikan isterimu, tetapi sejak semula tidaklah demikian."
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "36",
+      "ref": "Matthew 19:9a",
+      "arabic_page": 99,
+      "text": "Tetapi Aku berkata kepadamu: Barangsiapa menceraikan isterinya, kecuali karena zinah, lalu kawin dengan perempuan lain,"
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "37",
+      "ref": "Matthew 19:9a",
+      "arabic_page": 99,
+      "text": "ia berbuat zinah.\""
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "37",
+      "ref": "Mark 10:10",
+      "arabic_page": 99,
+      "text": "Ketika mereka sudah di rumah, murid-murid itu bertanya pula kepada Yesus"
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "38",
+      "ref": "Mark 10:10",
+      "arabic_page": 99,
+      "text": "tentang hal itu."
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "38",
+      "ref": "Mark 10:11",
+      "arabic_page": 99,
+      "text": "Lalu kata-Nya kepada mereka: \"Barangsiapa menceraikan isterinya"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "39",
+      "ref": "Mark 10:11",
+      "arabic_page": 99,
+      "text": "lalu kawin dengan perempuan lain, ia hidup dalam perzinahan terhadap isterinya itu."
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "39",
+      "ref": "Mark 10:12",
+      "arabic_page": 99,
+      "text": "Dan jika si isteri menceraikan suaminya dan kawin dengan laki-laki lain, ia berbuat zinah.\""
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "39",
+      "ref": "Matthew 5:32b",
+      "arabic_page": 99,
+      "text": "dan siapa yang kawin"
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "40",
+      "ref": "Matthew 5:32b",
+      "arabic_page": 99,
+      "text": "dengan perempuan yang diceraikan, ia berbuat zinah."
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "40",
+      "ref": "Matthew 19:10",
+      "arabic_page": 99,
+      "text": "Murid-murid itu berkata kepada-Nya: \"Jika demikian halnya hubungan antara suami dan isteri,"
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "41",
+      "ref": "Matthew 19:10",
+      "arabic_page": 99,
+      "text": "lebih baik jangan kawin.\""
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "41",
+      "ref": "Matthew 19:11",
+      "arabic_page": 99,
+      "text": "Akan tetapi Ia berkata kepada mereka: \"Tidak semua orang dapat mengerti perkataan itu,"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "42",
+      "ref": "Matthew 19:11",
+      "arabic_page": 99,
+      "text": "hanya mereka yang dikaruniai saja."
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "42",
+      "ref": "Matthew 19:12",
+      "arabic_page": 99,
+      "text": "Ada orang yang tidak dapat kawin karena ia memang lahir demikian dari rahim ibunya, dan ada orang yang dijadikan demikian oleh orang lain, dan ada orang yang membuat dirinya demikian karena kemauannya sendiri oleh karena Kerajaan Sorga. Siapa yang dapat mengerti hendaklah ia mengerti.\""
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "43",
+      "ref": "Matthew 19:13a",
+      "arabic_page": 99,
+      "text": "Lalu orang membawa anak-anak kecil kepada Yesus, supaya Ia meletakkan tangan-Nya atas mereka dan"
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "44",
+      "ref": "Matthew 19:13a",
+      "arabic_page": 99,
+      "text": "mendoakan mereka; akan tetapi murid-murid-Nya memarahi orang-orang itu."
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "44",
+      "ref": "Mark 10:14",
+      "arabic_page": 100,
+      "text": "Ketika Yesus melihat hal itu, Ia marah dan berkata kepada mereka: \"Biarkan anak-anak itu datang kepada-Ku, jangan menghalang-halangi mereka, sebab orang-orang yang seperti itulah yang empunya"
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "45",
+      "ref": "Mark 10:14",
+      "arabic_page": 100,
+      "text": "Kerajaan Allah."
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "45",
+      "ref": "Mark 10:15",
+      "arabic_page": 100,
+      "text": "Aku berkata kepadamu: Sesungguhnya barangsiapa tidak menyambut"
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "46",
+      "ref": "Mark 10:15",
+      "arabic_page": 100,
+      "text": "Kerajaan Allah seperti seorang anak kecil, ia tidak akan masuk ke dalamnya.\""
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "46",
+      "ref": "Mark 10:16",
+      "arabic_page": 100,
+      "text": "Lalu Ia memeluk anak-anak itu dan sambil meletakkan tangan-Nya atas mereka Ia memberkati mereka."
+    }
+  ]
+}

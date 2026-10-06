@@ -1,0 +1,772 @@
+{
+  "id": 46,
+  "title": "BAB 46",
+  "source_post_id": "p65192",
+  "canonical_books": [
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew",
+    "ohn"
+  ],
+  "total_segments": 108,
+  "diatessaron_verse_range": "1 - 58",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "John 14:21",
+      "arabic_page": null,
+      "text": "Barangsiapa memegang perintah-Ku dan melakukannya, dialah yang mengasihi Aku. Dan barangsiapa mengasihi Aku, ia akan dikasihi oleh Bapa-Ku dan Akupun akan mengasihi dia dan akan"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "John 14:21",
+      "arabic_page": null,
+      "text": "menyatakan diri-Ku kepadanya.\""
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "John 14:22",
+      "arabic_page": null,
+      "text": "Yudas, yang bukan Iskariot, berkata kepada-Nya: \"Tuhan, apakah"
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "John 14:22",
+      "arabic_page": null,
+      "text": "sebabnya maka Engkau hendak menyatakan diri-Mu kepada kami, dan bukan kepada dunia?\""
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "3",
+      "ref": "John 14:23",
+      "arabic_page": null,
+      "text": "Jawab Yesus: \"Jika seorang mengasihi Aku, ia akan menuruti firman-Ku dan Bapa-Ku akan mengasihi dia dan Kami akan datang kepadanya dan diam bersama-sama dengan dia."
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "John 14:24",
+      "arabic_page": null,
+      "text": "Barangsiapa tidak mengasihi Aku, ia tidak menuruti firman-Ku; dan firman yang kamu dengar itu bukanlah dari pada-Ku, melainkan dari Bapa yang mengutus Aku."
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "5, 6",
+      "ref": "John 14:25",
+      "arabic_page": null,
+      "text": "Semuanya itu Kukatakan kepadamu, selagi Aku berada bersama-sama dengan kamu;"
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5, 6",
+      "ref": "John 14:26",
+      "arabic_page": null,
+      "text": "tetapi Penghibur, yaitu Roh Kudus, yang akan diutus oleh Bapa dalam nama-Ku, Dialah yang akan mengajarkan segala sesuatu kepadamu dan"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "7",
+      "ref": "John 14:26",
+      "arabic_page": 174,
+      "text": "akan mengingatkan kamu akan semua yang telah Kukatakan kepadamu. J"
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "7",
+      "ref": "ohn 14:27",
+      "arabic_page": 174,
+      "text": "Damai sejahtera Kutinggalkan bagimu. Damai sejahtera-Ku Kuberikan kepadamu, dan apa yang Kuberikan tidak seperti yang diberikan oleh dunia kepadamu."
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "8",
+      "ref": "ohn 14:27",
+      "arabic_page": 174,
+      "text": "Janganlah gelisah dan gentar hatimu."
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "8",
+      "ref": "John 14:28",
+      "arabic_page": 174,
+      "text": "Kamu telah mendengar, bahwa Aku telah berkata kepadamu: Aku pergi, tetapi Aku datang kembali kepadamu. Sekiranya kamu mengasihi Aku, kamu tentu akan bersukacita karena Aku pergi kepada"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "9",
+      "ref": "John 14:28",
+      "arabic_page": 174,
+      "text": "Bapa-Ku, sebab Bapa lebih besar dari pada Aku."
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "9",
+      "ref": "John 14:29",
+      "arabic_page": 174,
+      "text": "Dan sekarang juga Aku mengatakannya kepadamu sebelum hal itu"
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "10",
+      "ref": "John 14:29",
+      "arabic_page": 174,
+      "text": "terjadi, supaya kamu percaya, apabila hal itu terjadi."
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "10",
+      "ref": "John 14:30",
+      "arabic_page": 174,
+      "text": "Tidak banyak lagi Aku berkata-kata dengan kamu, sebab penguasa dunia ini datang dan ia tidak berkuasa sedikitpun atas"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "11",
+      "ref": "John 14:30",
+      "arabic_page": 174,
+      "text": "diri-Ku."
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "11",
+      "ref": "John 14:31a",
+      "arabic_page": 174,
+      "text": "Tetapi supaya dunia tahu, bahwa Aku mengasihi Bapa dan bahwa Aku melakukan segala sesuatu seperti yang diperintahkan Bapa kepada-Ku,"
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "12",
+      "ref": "Luke 22:35",
+      "arabic_page": 174,
+      "text": "Lalu Ia berkata kepada mereka: \"Ketika Aku mengutus kamu dengan tiada membawa pundi-pundi, bekal dan kasut,"
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "13",
+      "ref": "Luke 22:35",
+      "arabic_page": 174,
+      "text": "adakah kamu kekurangan apa-apa?\""
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "13",
+      "ref": "Luke 22:36",
+      "arabic_page": 174,
+      "text": "Jawab mereka: \"Suatupun tidak.\" Kata-Nya kepada mereka: \"Tetapi sekarang ini, siapa yang mempunyai pundi-pundi, hendaklah ia membawanya, demikian juga yang mempunyai bekal; dan siapa yang tidak mempunyainya hendaklah ia menjual jubahnya dan membeli"
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "14",
+      "ref": "Luke 22:36",
+      "arabic_page": 174,
+      "text": "pedang."
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "14",
+      "ref": "Luke 22:37",
+      "arabic_page": 174,
+      "text": "Sebab Aku berkata kepada kamu, bahwa nas Kitab Suci ini harus digenapi pada-Ku: Ia akan terhitung di antara pemberontak-pemberontak. Sebab apa yang tertulis tentang"
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "15",
+      "ref": "Luke 22:37",
+      "arabic_page": 174,
+      "text": "Aku sedang digenapi.\""
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "15",
+      "ref": "Luke 22:38",
+      "arabic_page": 174,
+      "text": "Kata mereka: \"Tuhan, ini dua pedang.\""
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "16",
+      "ref": "Luke 22:38",
+      "arabic_page": 174,
+      "text": "Jawab-Nya: \"Sudah cukup.\""
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "16",
+      "ref": "John 14:31",
+      "arabic_page": 174,
+      "text": "bangunlah, marilah kita pergi dari sini.\""
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "16",
+      "ref": "Mark 14:26a",
+      "arabic_page": 174,
+      "text": "Sesudah mereka menyanyikan nyanyian pujian,"
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "16",
+      "ref": "Matthew 26:30b",
+      "arabic_page": 174,
+      "text": "pergilah Yesus dan murid-murid-Nya"
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "16",
+      "ref": "Luke 22:39b",
+      "arabic_page": 174,
+      "text": "sebagaimana biasa Ia menuju Bukit Zaitun. Murid-murid-Nya juga mengikuti Dia."
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "17",
+      "ref": "John 15:1",
+      "arabic_page": 174,
+      "text": "\"Akulah pokok anggur yang benar dan Bapa-Kulah pengusahanya."
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "18",
+      "ref": "John 15:2",
+      "arabic_page": 174,
+      "text": "Setiap ranting pada-Ku yang tidak berbuah, dipotong-Nya dan setiap ranting yang berbuah,"
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "19",
+      "ref": "John 15:2",
+      "arabic_page": 174,
+      "text": "dibersihkan-Nya, supaya ia lebih banyak berbuah."
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "19",
+      "ref": "John 15:3",
+      "arabic_page": 174,
+      "text": "Kamu memang sudah bersih karena firman"
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "20",
+      "ref": "John 15:3",
+      "arabic_page": 174,
+      "text": "yang telah Kukatakan kepadamu."
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "20",
+      "ref": "John 15:4",
+      "arabic_page": 175,
+      "text": "Tinggallah di dalam Aku dan Aku di dalam kamu. Sama seperti ranting tidak dapat berbuah dari dirinya sendiri, kalau ia tidak tinggal pada pokok anggur, demikian"
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "21",
+      "ref": "John 15:4",
+      "arabic_page": 175,
+      "text": "juga kamu tidak berbuah, jikalau kamu tidak tinggal di dalam Aku."
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "21",
+      "ref": "John 15:5",
+      "arabic_page": 175,
+      "text": "Akulah pokok anggur dan kamulah ranting-rantingnya. Barangsiapa tinggal di dalam Aku dan Aku di dalam dia, ia berbuah banyak, sebab di luar Aku kamu tidak dapat"
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "22",
+      "ref": "John 15:5",
+      "arabic_page": 175,
+      "text": "berbuat apa-apa."
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "22",
+      "ref": "John 15:6",
+      "arabic_page": 175,
+      "text": "Barangsiapa tidak tinggal di dalam Aku, ia dibuang ke luar seperti"
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "23",
+      "ref": "John 15:6",
+      "arabic_page": 175,
+      "text": "ranting dan menjadi kering, kemudian dikumpulkan orang dan dicampakkan ke dalam api lalu dibakar."
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "23",
+      "ref": "John 15:7",
+      "arabic_page": 175,
+      "text": "Jikalau kamu tinggal di dalam Aku dan firman-Ku tinggal di dalam kamu, mintalah apa saja yang kamu kehendaki, dan kamu"
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "24",
+      "ref": "John 15:7",
+      "arabic_page": 175,
+      "text": "akan menerimanya."
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "24",
+      "ref": "John 15:8",
+      "arabic_page": 175,
+      "text": "Dalam hal inilah Bapa-Ku dipermuliakan, yaitu jika kamu berbuah banyak"
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "25",
+      "ref": "John 15:8",
+      "arabic_page": 175,
+      "text": "dan dengan demikian kamu adalah murid-murid-Ku.\""
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "25",
+      "ref": "John 15:9",
+      "arabic_page": 175,
+      "text": "\"Seperti Bapa telah mengasihi Aku, demikianlah juga Aku telah mengasihi kamu;"
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "26",
+      "ref": "John 15:9",
+      "arabic_page": 175,
+      "text": "tinggallah di dalam kasih-Ku itu."
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "26",
+      "ref": "John 15:10",
+      "arabic_page": 175,
+      "text": "Jikalau kamu menuruti perintah-Ku, kamu akan tinggal di dalam kasih-Ku, seperti Aku"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "27",
+      "ref": "John 15:10",
+      "arabic_page": 175,
+      "text": "menuruti perintah Bapa-Ku dan tinggal di dalam kasih-Nya."
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "27",
+      "ref": "John 15:11",
+      "arabic_page": 175,
+      "text": "Semuanya itu Kukatakan kepadamu, supaya"
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "28",
+      "ref": "John 15:11",
+      "arabic_page": 175,
+      "text": "sukacita-Ku ada di dalam kamu dan sukacitamu menjadi penuh."
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "28",
+      "ref": "John 15:12",
+      "arabic_page": 175,
+      "text": "Inilah perintah-Ku,"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "29",
+      "ref": "John 15:12",
+      "arabic_page": 175,
+      "text": "yaitu supaya kamu saling mengasihi, seperti Aku telah mengasihi kamu."
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "29",
+      "ref": "John 15:13",
+      "arabic_page": 175,
+      "text": "Tidak ada kasih yang lebih besar dari pada kasih seorang"
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "30",
+      "ref": "John 15:13",
+      "arabic_page": 175,
+      "text": "yang memberikan nyawanya untuk sahabat-sahabatnya."
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "30",
+      "ref": "John 15:14",
+      "arabic_page": 175,
+      "text": "Kamu adalah sahabat-Ku, jikalau kamu berbuat apa"
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "31",
+      "ref": "John 15:14",
+      "arabic_page": 175,
+      "text": "yang Kuperintahkan kepadamu."
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "31",
+      "ref": "John 15:15",
+      "arabic_page": 175,
+      "text": "Aku tidak menyebut kamu lagi hamba, sebab hamba tidak tahu, apa yang diperbuat oleh tuannya, tetapi Aku menyebut kamu sahabat, karena Aku telah memberitahukan kepada kamu segala sesuatu yang telah Kudengar dari"
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "32",
+      "ref": "John 15:15",
+      "arabic_page": 175,
+      "text": "Bapa-Ku."
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "32",
+      "ref": "John 15:1",
+      "arabic_page": 175,
+      "text": "6 Bukan kamu yang memilih Aku, tetapi Akulah yang memilih kamu. Dan Aku telah menetapkan kamu, supaya kamu pergi dan menghasilkan buah dan buahmu itu"
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "33",
+      "ref": "John 15:1",
+      "arabic_page": 175,
+      "text": "tetap, supaya apa yang kamu minta kepada Bapa dalam nama-Ku, diberikan-Nya kepadamu."
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "33",
+      "ref": "John 15:17",
+      "arabic_page": 175,
+      "text": "Inilah"
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "34",
+      "ref": "John 15:17",
+      "arabic_page": 175,
+      "text": "perintah-Ku kepadamu: Kasihilah seorang akan yang lain.\""
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "34",
+      "ref": "John 15:18",
+      "arabic_page": 175,
+      "text": "\"Jikalau dunia membenci kamu, ingatlah bahwa ia telah"
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "35",
+      "ref": "John 15:18",
+      "arabic_page": 175,
+      "text": "lebih dahulu membenci Aku dari pada kamu."
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "35",
+      "ref": "John 15:19",
+      "arabic_page": 175,
+      "text": "Sekiranya kamu dari dunia, tentulah dunia mengasihi kamu sebagai miliknya. Tetapi karena kamu bukan dari dunia, melainkan Aku telah memilih kamu dari dunia, sebab itulah dunia"
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "36",
+      "ref": "John 15:19",
+      "arabic_page": 176,
+      "text": "membenci kamu."
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "36",
+      "ref": "John 15:20",
+      "arabic_page": 176,
+      "text": "Ingatlah apa yang telah Kukatakan kepadamu: Seorang hamba tidaklah lebih tinggi dari pada tuannya. Jikalau mereka telah menganiaya Aku, mereka juga akan"
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "37",
+      "ref": "John 15:20",
+      "arabic_page": 176,
+      "text": "menganiaya kamu; jikalau mereka telah menuruti firman-Ku, mereka juga akan menuruti perkataanmu."
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "37",
+      "ref": "John 15:21",
+      "arabic_page": 176,
+      "text": "Tetapi semuanya itu akan mereka lakukan terhadap kamu karena nama-Ku, sebab mereka tidak mengenal Dia,"
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "38",
+      "ref": "John 15:21",
+      "arabic_page": 176,
+      "text": "yang telah mengutus Aku."
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "38",
+      "ref": "John 15:22",
+      "arabic_page": 176,
+      "text": "Sekiranya Aku tidak datang dan tidak berkata-kata kepada mereka, mereka tentu tidak berdosa."
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "39",
+      "ref": "John 15:22",
+      "arabic_page": 176,
+      "text": "Tetapi sekarang mereka tidak mempunyai dalih bagi dosa mereka!"
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "39",
+      "ref": "John 15:23",
+      "arabic_page": 176,
+      "text": "Barangsiapa membenci Aku, ia membenci juga"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "40",
+      "ref": "John 15:23",
+      "arabic_page": 176,
+      "text": "Bapa-Ku."
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "40",
+      "ref": "John 15:24",
+      "arabic_page": 176,
+      "text": "Sekiranya Aku tidak melakukan pekerjaan di tengah-tengah mereka seperti yang tidak pernah dilakukan orang lain, mereka tentu tidak berdosa. Tetapi sekarang walaupun mereka telah melihat semuanya itu, namun mereka membenci baik Aku maupun"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "41",
+      "ref": "John 15:24",
+      "arabic_page": 176,
+      "text": "Bapa-Ku."
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "41",
+      "ref": "John 15:25",
+      "arabic_page": 176,
+      "text": "Tetapi firman yang ada tertulis dalam kitab Taurat mereka harus digenapi: Mereka membenci Aku"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "42",
+      "ref": "John 15:25",
+      "arabic_page": 176,
+      "text": "tanpa alasan."
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "42",
+      "ref": "John 15:26",
+      "arabic_page": 176,
+      "text": "Jikalau Penghibur yang akan Kuutus dari Bapa datang, yaitu Roh Kebenaran yang keluar dari Bapa, Ia akan bersaksi tentang"
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "43",
+      "ref": "John 15:26",
+      "arabic_page": 176,
+      "text": "Aku."
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "43",
+      "ref": "John 15:27",
+      "arabic_page": 176,
+      "text": "Tetapi kamu juga harus bersaksi, karena kamu dari semula bersama-sama dengan Aku.\""
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "44, 45",
+      "ref": "John 16:1",
+      "arabic_page": 176,
+      "text": "\"Semuanya ini Kukatakan kepadamu, supaya kamu jangan kecewa dan menolak Aku."
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "44, 45",
+      "ref": "John 16:2",
+      "arabic_page": 176,
+      "text": "Kamu akan dikucilkan, bahkan akan datang saatnya bahwa setiap orang yang membunuh"
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "46",
+      "ref": "John 16:2",
+      "arabic_page": 176,
+      "text": "kamu akan menyangka bahwa ia berbuat bakti bagi Allah."
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "46",
+      "ref": "John 16:3",
+      "arabic_page": 176,
+      "text": "Mereka akan berbuat demikian,"
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "47",
+      "ref": "John 16:3",
+      "arabic_page": 176,
+      "text": "karena mereka tidak mengenal baik Bapa maupun Aku."
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "47",
+      "ref": "John 16:4a",
+      "arabic_page": 176,
+      "text": "Tetapi semuanya ini Kukatakan kepadamu,"
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "48",
+      "ref": "John 16:4a",
+      "arabic_page": 176,
+      "text": "supaya apabila datang saatnya kamu ingat, bahwa Aku telah mengatakannya kepadamu.\" (16-4b) \"Hal ini tidak Kukatakan kepadamu dari semula, karena selama ini Aku masih bersama-sama dengan kamu,"
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "48",
+      "ref": "John 16:5",
+      "arabic_page": 176,
+      "text": "tetapi sekarang Aku pergi kepada Dia yang telah mengutus Aku, dan tiada"
+    },
+    {
+      "id": 91,
+      "diatessaron_verse": "49",
+      "ref": "John 16:5",
+      "arabic_page": 176,
+      "text": "seorangpun di antara kamu yang bertanya kepada-Ku: Ke mana Engkau pergi?"
+    },
+    {
+      "id": 92,
+      "diatessaron_verse": "49",
+      "ref": "John 16:6",
+      "arabic_page": 176,
+      "text": "Tetapi karena Aku mengatakan hal itu kepadamu, sebab itu hatimu"
+    },
+    {
+      "id": 93,
+      "diatessaron_verse": "50",
+      "ref": "John 16:6",
+      "arabic_page": 176,
+      "text": "berdukacita."
+    },
+    {
+      "id": 94,
+      "diatessaron_verse": "50",
+      "ref": "John 16:7",
+      "arabic_page": 176,
+      "text": "Namun benar yang Kukatakan ini kepadamu: Adalah lebih berguna bagi kamu, jika Aku pergi. Sebab jikalau Aku tidak pergi, Penghibur itu tidak akan datang kepadamu,"
+    },
+    {
+      "id": 95,
+      "diatessaron_verse": "51",
+      "ref": "John 16:7",
+      "arabic_page": 177,
+      "text": "tetapi jikalau Aku pergi, Aku akan mengutus Dia kepadamu."
+    },
+    {
+      "id": 96,
+      "diatessaron_verse": "51",
+      "ref": "John 16:8",
+      "arabic_page": 177,
+      "text": "Dan kalau Ia datang, Ia akan menginsafkan dunia akan dosa, kebenaran dan penghakiman;"
+    },
+    {
+      "id": 97,
+      "diatessaron_verse": "52, 53",
+      "ref": "John 16:9",
+      "arabic_page": 177,
+      "text": "akan dosa, karena mereka tetap tidak percaya kepada-Ku;"
+    },
+    {
+      "id": 98,
+      "diatessaron_verse": "52, 53",
+      "ref": "John 16:10",
+      "arabic_page": 177,
+      "text": "akan kebenaran, karena Aku pergi"
+    },
+    {
+      "id": 99,
+      "diatessaron_verse": "54",
+      "ref": "John 16:10",
+      "arabic_page": 177,
+      "text": "kepada Bapa dan kamu tidak melihat Aku lagi;"
+    },
+    {
+      "id": 100,
+      "diatessaron_verse": "54",
+      "ref": "John 16:11",
+      "arabic_page": 177,
+      "text": "akan penghakiman, karena penguasa dunia ini telah"
+    },
+    {
+      "id": 101,
+      "diatessaron_verse": "55",
+      "ref": "John 16:11",
+      "arabic_page": 177,
+      "text": "dihukum."
+    },
+    {
+      "id": 102,
+      "diatessaron_verse": "55",
+      "ref": "John 16:12",
+      "arabic_page": 177,
+      "text": "Masih banyak hal yang harus Kukatakan kepadamu, tetapi"
+    },
+    {
+      "id": 103,
+      "diatessaron_verse": "56",
+      "ref": "John 16:12",
+      "arabic_page": 177,
+      "text": "sekarang kamu belum dapat menanggungnya."
+    },
+    {
+      "id": 104,
+      "diatessaron_verse": "56",
+      "ref": "John 16:13",
+      "arabic_page": 177,
+      "text": "Tetapi apabila Ia datang, yaitu Roh Kebenaran, Ia akan memimpin kamu ke dalam seluruh kebenaran; sebab Ia tidak akan berkata-kata dari diri-Nya sendiri, tetapi segala sesuatu yang didengar-Nya itulah yang akan"
+    },
+    {
+      "id": 105,
+      "diatessaron_verse": "57",
+      "ref": "John 16:13",
+      "arabic_page": 177,
+      "text": "dikatakan-Nya dan Ia akan memberitakan kepadamu hal-hal yang akan datang."
+    },
+    {
+      "id": 106,
+      "diatessaron_verse": "57",
+      "ref": "John 16:14",
+      "arabic_page": 177,
+      "text": "Ia akan"
+    },
+    {
+      "id": 107,
+      "diatessaron_verse": "58",
+      "ref": "John 16:14",
+      "arabic_page": 177,
+      "text": "memuliakan Aku, sebab Ia akan memberitakan kepadamu apa yang diterimanya dari pada-Ku."
+    },
+    {
+      "id": 108,
+      "diatessaron_verse": "58",
+      "ref": "John 16:15",
+      "arabic_page": 177,
+      "text": "Segala sesuatu yang Bapa punya, adalah Aku punya; sebab itu Aku berkata: Ia akan memberitakan kepadamu apa yang diterimanya dari pada-Ku.\""
+    }
+  ]
+}

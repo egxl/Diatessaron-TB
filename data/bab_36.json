@@ -1,0 +1,607 @@
+{
+  "id": 36,
+  "title": "BAB 36",
+  "source_post_id": "p64311",
+  "canonical_books": [
+    "John"
+  ],
+  "total_segments": 85,
+  "diatessaron_verse_range": "1 - 47",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "John 8:51",
+      "arabic_page": null,
+      "text": "Aku berkata kepadamu: Sesungguhnya barangsiapa menuruti firman-Ku, ia tidak akan mengalami maut sampai"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "John 8:51",
+      "arabic_page": null,
+      "text": "selama-lamanya.\""
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "John 8:52",
+      "arabic_page": null,
+      "text": "Kata orang-orang Yahudi kepada-Nya: \"Sekarang kami tahu, bahwa Engkau kerasukan setan. Sebab Abraham telah mati dan demikian juga nabi-nabi, namun Engkau berkata: Barangsiapa menuruti firman-Ku, ia tidak akan mengalami"
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "John 8:52",
+      "arabic_page": null,
+      "text": "maut sampai selama-lamanya."
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "3",
+      "ref": "John 8:53",
+      "arabic_page": null,
+      "text": "Adakah Engkau lebih besar dari pada bapa kita Abraham, yang"
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "John 8:53",
+      "arabic_page": null,
+      "text": "telah mati! Nabi-nabipun telah mati; dengan siapakah Engkau samakan diri-Mu?\""
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "4",
+      "ref": "John 8:54",
+      "arabic_page": null,
+      "text": "Jawab Yesus: \"Jikalau Aku memuliakan diri-Ku sendiri, maka kemuliaan-Ku itu sedikitpun tidak ada artinya. Bapa-Kulah yang"
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "John 8:54",
+      "arabic_page": null,
+      "text": "memuliakan Aku, tentang siapa kamu berkata: Dia adalah Allah kami,"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "5",
+      "ref": "John 8:55",
+      "arabic_page": null,
+      "text": "padahal kamu tidak mengenal Dia, tetapi Aku mengenal Dia. Dan jika Aku berkata: Aku tidak mengenal Dia, maka Aku adalah"
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "6",
+      "ref": "John 8:55",
+      "arabic_page": 137,
+      "text": "pendusta, sama seperti kamu, tetapi Aku mengenal Dia dan Aku menuruti firman-Nya."
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "6",
+      "ref": "John 8:56",
+      "arabic_page": 137,
+      "text": "Abraham bapamu"
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "7",
+      "ref": "John 8:56",
+      "arabic_page": 137,
+      "text": "bersukacita bahwa ia akan melihat hari-Ku dan ia telah melihatnya dan ia bersukacita.\""
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "7",
+      "ref": "John 8:57",
+      "arabic_page": 137,
+      "text": "Maka kata orang-orang Yahudi itu kepada-Nya:"
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "8",
+      "ref": "John 8:57",
+      "arabic_page": 137,
+      "text": "\"Umur-Mu belum sampai lima puluh tahun dan Engkau telah melihat Abraham?\""
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "8",
+      "ref": "John 8:58",
+      "arabic_page": 137,
+      "text": "Kata Yesus kepada"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "9",
+      "ref": "John 8:58",
+      "arabic_page": 137,
+      "text": "mereka: \"Aku berkata kepadamu, sesungguhnya sebelum Abraham jadi, Aku telah ada.\""
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "9",
+      "ref": "John 8:59",
+      "arabic_page": 137,
+      "text": "Lalu mereka mengambil batu untuk melempari Dia; tetapi Yesus menghilang dan meninggalkan Bait Allah."
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "10",
+      "ref": "John 9:1",
+      "arabic_page": 137,
+      "text": "Waktu Yesus sedang lewat, Ia melihat seorang yang buta sejak lahirnya."
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "11",
+      "ref": "John 9:2",
+      "arabic_page": 137,
+      "text": "Murid-murid-Nya bertanya kepada-Nya: \"Rabi, siapakah yang berbuat dosa, orang ini sendiri atau orang tuanya,"
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "12",
+      "ref": "John 9:2",
+      "arabic_page": 137,
+      "text": "sehingga ia dilahirkan buta?\""
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "12",
+      "ref": "John 9:3",
+      "arabic_page": 137,
+      "text": "Jawab Yesus: \"Bukan dia dan bukan juga orang tuanya,"
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "13",
+      "ref": "John 9:3",
+      "arabic_page": 137,
+      "text": "tetapi karena pekerjaan-pekerjaan Allah harus dinyatakan di dalam dia."
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "13",
+      "ref": "John 9:4",
+      "arabic_page": 137,
+      "text": "Kita harus mengerjakan pekerjaan Dia yang mengutus Aku, selama masih siang; akan datang malam, di mana tidak ada seorangpun yang"
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "14",
+      "ref": "John 9:4",
+      "arabic_page": 137,
+      "text": "dapat bekerja."
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "14",
+      "ref": "John 9:5",
+      "arabic_page": 137,
+      "text": "Selama Aku di dalam dunia, Akulah terang dunia.\""
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "15",
+      "ref": "John 9:6",
+      "arabic_page": 137,
+      "text": "Setelah Ia mengatakan semuanya itu, Ia meludah ke tanah, dan mengaduk ludahnya itu dengan tanah, lalu"
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "16",
+      "ref": "John 9:6",
+      "arabic_page": 137,
+      "text": "mengoleskannya pada mata orang buta tadi"
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "16",
+      "ref": "John 9:7",
+      "arabic_page": 137,
+      "text": "dan berkata kepadanya: \"Pergilah, basuhlah dirimu dalam"
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "17",
+      "ref": "John 9:7",
+      "arabic_page": 137,
+      "text": "kolam Siloam.\" Siloam artinya: \"Yang diutus.\" Maka pergilah orang itu, ia membasuh dirinya lalu kembali dengan matanya sudah melek."
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "17",
+      "ref": "John 9:8",
+      "arabic_page": 137,
+      "text": "Tetapi tetangga-tetangganya dan mereka, yang dahulu mengenalnya sebagai pengemis, berkata: \"Bukankah dia ini, yang selalu mengemis?\""
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "18",
+      "ref": "John 9:9",
+      "arabic_page": 137,
+      "text": "Ada yang berkata: \"Benar, dialah ini.\" Ada pula yang berkata: \"Bukan, tetapi ia serupa dengan dia.\" Orang itu sendiri"
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "19,20",
+      "ref": "John 9:9",
+      "arabic_page": 137,
+      "text": "berkata: \"Benar, akulah itu.\""
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "19,20",
+      "ref": "John 9:10",
+      "arabic_page": 137,
+      "text": "Kata mereka kepadanya: \"Bagaimana matamu menjadi melek?\""
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "19,20",
+      "ref": "John 9:11",
+      "arabic_page": 137,
+      "text": "Jawabnya: \"Orang yang disebut Yesus itu mengaduk tanah, mengoleskannya pada mataku dan berkata kepadaku: Pergilah ke Siloam dan basuhlah dirimu. Lalu aku pergi dan"
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "21",
+      "ref": "John 9:11",
+      "arabic_page": 137,
+      "text": "setelah aku membasuh diriku, aku dapat melihat.\""
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "21",
+      "ref": "John 9:12",
+      "arabic_page": 137,
+      "text": "Lalu mereka berkata kepadanya: \"Di manakah Dia?\" Jawabnya:"
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "22, 23",
+      "ref": "John 9:12",
+      "arabic_page": 138,
+      "text": "\"Aku tidak tahu.\""
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "22, 23",
+      "ref": "John 9:13",
+      "arabic_page": 138,
+      "text": "Lalu mereka membawa orang yang tadinya buta itu kepada orang-orang Farisi."
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "22, 23",
+      "ref": "John 9:14",
+      "arabic_page": 138,
+      "text": "Adapun hari waktu Yesus mengaduk tanah dan memelekkan mata orang itu, adalah"
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "24",
+      "ref": "John 9:14",
+      "arabic_page": 138,
+      "text": "hari Sabat."
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "24",
+      "ref": "John 9:15",
+      "arabic_page": 138,
+      "text": "Karena itu orang-orang Farisipun bertanya kepadanya, bagaimana matanya menjadi melek."
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "25",
+      "ref": "John 9:15",
+      "arabic_page": 138,
+      "text": "Jawabnya: \"Ia mengoleskan adukan tanah pada mataku, lalu aku membasuh diriku, dan sekarang aku dapat melihat.\""
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "25",
+      "ref": "John 9:16",
+      "arabic_page": 138,
+      "text": "Maka kata sebagian orang-orang Farisi itu: \"Orang ini tidak datang dari Allah, sebab Ia tidak memelihara hari Sabat.\" Sebagian pula berkata: \"Bagaimanakah seorang berdosa dapat membuat mujizat yang demikian?\" Maka timbullah"
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "26",
+      "ref": "John 9:16",
+      "arabic_page": 138,
+      "text": "pertentangan di antara mereka."
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "26",
+      "ref": "John 9:17",
+      "arabic_page": 138,
+      "text": "Lalu kata mereka pula kepada orang buta itu: \"Dan engkau, apakah katamu tentang Dia, karena Ia telah memelekkan matamu?\""
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "27",
+      "ref": "John 9:17",
+      "arabic_page": 138,
+      "text": "Jawabnya: \"Ia adalah seorang nabi.\""
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "27",
+      "ref": "John 9:18",
+      "arabic_page": 138,
+      "text": "Tetapi orang-orang Yahudi itu tidak percaya, bahwa tadinya ia buta dan baru dapat"
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "28",
+      "ref": "John 9:18",
+      "arabic_page": 138,
+      "text": "melihat lagi, sampai mereka memanggil orang tuanya"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "28",
+      "ref": "John 9:19",
+      "arabic_page": 138,
+      "text": "dan bertanya kepada mereka: \"Inikah anakmu, yang kamu katakan bahwa ia lahir buta? Kalau begitu"
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "29",
+      "ref": "John 9:19",
+      "arabic_page": 138,
+      "text": "bagaimanakah ia sekarang dapat melihat?\""
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "29",
+      "ref": "John 9:20",
+      "arabic_page": 138,
+      "text": "Jawab orang tua itu: \"Yang kami tahu ialah,"
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "30",
+      "ref": "John 9:20",
+      "arabic_page": 138,
+      "text": "bahwa dia ini anak kami dan bahwa ia lahir buta,"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "30",
+      "ref": "John 9:21",
+      "arabic_page": 138,
+      "text": "tetapi bagaimana ia sekarang dapat melihat, kami tidak tahu, dan siapa yang memelekkan matanya, kami tidak tahu juga."
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "31",
+      "ref": "John 9:21",
+      "arabic_page": 138,
+      "text": "Tanyakanlah kepadanya sendiri, ia sudah dewasa, ia dapat berkata-kata untuk dirinya sendiri.\""
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "31",
+      "ref": "John 9:22",
+      "arabic_page": 138,
+      "text": "Orang tuanya berkata demikian, karena mereka takut kepada orang-orang Yahudi, sebab orang-orang Yahudi itu telah sepakat bahwa setiap orang yang mengaku"
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "32",
+      "ref": "John 9:22",
+      "arabic_page": 138,
+      "text": "Dia sebagai Mesias, akan dikucilkan."
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "32",
+      "ref": "John 9:23",
+      "arabic_page": 138,
+      "text": "Itulah sebabnya"
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "33",
+      "ref": "John 9:23",
+      "arabic_page": 138,
+      "text": "maka orang tuanya berkata: \"Ia telah dewasa, tanyakanlah kepadanya sendiri.\""
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "33",
+      "ref": "John 9:24",
+      "arabic_page": 138,
+      "text": "Lalu mereka memanggil sekali lagi orang yang tadinya buta itu dan berkata kepadanya: \"Katakanlah kebenaran di hadapan Allah; kami tahu bahwa"
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "34",
+      "ref": "John 9:24",
+      "arabic_page": 138,
+      "text": "orang itu orang berdosa.\""
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "34",
+      "ref": "John 9:25",
+      "arabic_page": 138,
+      "text": "Jawabnya: \"Apakah orang itu orang berdosa, aku"
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "35",
+      "ref": "John 9:25",
+      "arabic_page": 138,
+      "text": "tidak tahu; tetapi satu hal aku tahu, yaitu bahwa aku tadinya buta, dan sekarang dapat melihat.\""
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "35",
+      "ref": "John 9:26",
+      "arabic_page": 138,
+      "text": "Kata mereka kepadanya:"
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "36",
+      "ref": "John 9:26",
+      "arabic_page": 139,
+      "text": "\"Apakah yang diperbuat-Nya padamu? Bagaimana Ia memelekkan matamu?\""
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "36",
+      "ref": "John 9:27",
+      "arabic_page": 139,
+      "text": "Jawabnya: \"Telah kukatakan kepadamu, dan kamu tidak mendengarkannya; mengapa kamu hendak mendengarkannya lagi?"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "37",
+      "ref": "John 9:27",
+      "arabic_page": 139,
+      "text": "Barangkali kamu mau menjadi murid-Nya juga?\""
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "37",
+      "ref": "John 9:28",
+      "arabic_page": 139,
+      "text": "Sambil mengejek mereka berkata kepadanya: \"Engkau murid orang itu tetapi kami murid-murid"
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "38",
+      "ref": "John 9:28",
+      "arabic_page": 139,
+      "text": "Musa."
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "38",
+      "ref": "John 9:29",
+      "arabic_page": 139,
+      "text": "Kami tahu, bahwa Allah telah berfirman kepada Musa, tetapi tentang Dia itu kami"
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "39",
+      "ref": "John 9:29",
+      "arabic_page": 139,
+      "text": "tidak tahu dari mana Ia datang.\""
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "39",
+      "ref": "John 9:30",
+      "arabic_page": 139,
+      "text": "Jawab orang itu kepada mereka: \"Aneh juga"
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "40",
+      "ref": "John 9:30",
+      "arabic_page": 139,
+      "text": "bahwa kamu tidak tahu dari mana Ia datang, sedangkan Ia telah memelekkan mataku."
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "40",
+      "ref": "John 9:31",
+      "arabic_page": 139,
+      "text": "Kita tahu, bahwa Allah tidak mendengarkan orang-orang berdosa, melainkan orang-orang yang saleh dan yang melakukan"
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "41",
+      "ref": "John 9:31",
+      "arabic_page": 139,
+      "text": "kehendak-Nya."
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "41",
+      "ref": "John 9:32",
+      "arabic_page": 139,
+      "text": "Dari dahulu sampai sekarang tidak pernah terdengar, bahwa ada orang yang"
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "42",
+      "ref": "John 9:32",
+      "arabic_page": 139,
+      "text": "memelekkan mata orang yang lahir buta."
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "42",
+      "ref": "John 9:33",
+      "arabic_page": 139,
+      "text": "Jikalau orang itu"
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "43",
+      "ref": "John 9:33",
+      "arabic_page": 139,
+      "text": "tidak datang dari Allah, Ia tidak dapat berbuat apa-apa.\""
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "43",
+      "ref": "John 9:34",
+      "arabic_page": 139,
+      "text": "Jawab mereka: \"Engkau ini lahir sama sekali dalam dosa dan engkau hendak mengajar kami?\" Lalu mereka mengusir dia ke luar."
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "44",
+      "ref": "John 9:35",
+      "arabic_page": 139,
+      "text": "Yesus mendengar bahwa ia telah diusir ke luar oleh mereka. Kemudian Ia bertemu dengan dia dan"
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "45",
+      "ref": "John 9:35",
+      "arabic_page": 139,
+      "text": "berkata: \"Percayakah engkau kepada Anak Manusia?\""
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "46",
+      "ref": "John 9:36",
+      "arabic_page": 139,
+      "text": "Jawabnya: \"Siapakah Dia, Tuhan? Supaya aku percaya kepada-Nya.\""
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "46",
+      "ref": "John 9:37",
+      "arabic_page": 139,
+      "text": "Kata Yesus kepadanya:"
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "47",
+      "ref": "John 9:37",
+      "arabic_page": 139,
+      "text": "\"Engkau bukan saja melihat Dia; tetapi Dia yang sedang berkata-kata dengan engkau, Dialah itu!\""
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "47",
+      "ref": "John 9:38",
+      "arabic_page": 139,
+      "text": "Katanya: \"Aku percaya, Tuhan!\" Lalu ia sujud menyembah-Nya."
+    }
+  ]
+}

@@ -1,0 +1,741 @@
+{
+  "id": 35,
+  "title": "BAB 35",
+  "source_post_id": "p64310",
+  "canonical_books": [
+    "John",
+    "Matthew"
+  ],
+  "total_segments": 104,
+  "diatessaron_verse_range": "1 - 61",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "John 7:37",
+      "arabic_page": null,
+      "text": "Dan pada hari terakhir, yaitu pada puncak perayaan itu, Yesus berdiri dan"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "John 7:37",
+      "arabic_page": null,
+      "text": "berseru: \"Barangsiapa haus, baiklah ia datang kepada-Ku dan minum!"
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "John 7:38",
+      "arabic_page": null,
+      "text": "Barangsiapa percaya kepada-Ku, seperti yang dikatakan oleh Kitab Suci: Dari dalam hatinya akan mengalir aliran-aliran"
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "John 7:38",
+      "arabic_page": null,
+      "text": "air hidup.\""
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "3",
+      "ref": "John 7:39",
+      "arabic_page": null,
+      "text": "Yang dimaksudkan-Nya ialah Roh yang akan diterima oleh mereka yang percaya kepada-Nya; sebab Roh itu belum datang, karena Yesus belum"
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "John 7:39",
+      "arabic_page": 133,
+      "text": "dimuliakan."
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "4",
+      "ref": "John 7:40",
+      "arabic_page": 133,
+      "text": "Beberapa orang di antara orang banyak, yang mendengarkan perkataan-perkataan itu, berkata: \"Dia ini"
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "John 7:40",
+      "arabic_page": 133,
+      "text": "benar-benar nabi yang akan datang.\""
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "5",
+      "ref": "John 7:41",
+      "arabic_page": 133,
+      "text": "Yang lain berkata: \"Ia ini Mesias.\" Tetapi yang lain lagi"
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "6",
+      "ref": "John 7:41",
+      "arabic_page": 133,
+      "text": "berkata: \"Bukan, Mesias tidak datang dari Galilea!"
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "6",
+      "ref": "John 7:42",
+      "arabic_page": 133,
+      "text": "Karena Kitab Suci mengatakan, bahwa"
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "7",
+      "ref": "John 7:42",
+      "arabic_page": 133,
+      "text": "Mesias berasal dari keturunan Daud dan dari kampung Betlehem, tempat Daud dahulu tinggal.\""
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "7",
+      "ref": "John 7:43",
+      "arabic_page": 133,
+      "text": "Maka timbullah pertentangan di antara orang banyak karena Dia."
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "8",
+      "ref": "John 7:44",
+      "arabic_page": 133,
+      "text": "Beberapa orang di antara mereka mau menangkap Dia, tetapi tidak ada seorangpun yang berani menyentuh-Nya."
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9",
+      "ref": "John 7:45",
+      "arabic_page": 133,
+      "text": "Maka penjaga-penjaga itu pergi kepada imam-imam kepala dan orang-orang Farisi, yang berkata"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "10",
+      "ref": "John 7:45",
+      "arabic_page": 133,
+      "text": "kepada mereka: \"Mengapa kamu tidak membawa-Nya?\""
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "10",
+      "ref": "John 7:46",
+      "arabic_page": 133,
+      "text": "Jawab penjaga-penjaga itu: \"Belum pernah seorang manusia"
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "11",
+      "ref": "John 7:46",
+      "arabic_page": 133,
+      "text": "berkata seperti orang itu!\""
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "11",
+      "ref": "John 7:47",
+      "arabic_page": 133,
+      "text": "Jawab orang-orang Farisi itu kepada mereka: \"Adakah kamu juga"
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "12, 13",
+      "ref": "John 7:47",
+      "arabic_page": 133,
+      "text": "disesatkan?"
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "12, 13",
+      "ref": "John 7:48",
+      "arabic_page": 133,
+      "text": "Adakah seorang di antara pemimpin-pemimpin yang percaya kepada-Nya, atau seorang di antara orang-orang Farisi?"
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "12, 13",
+      "ref": "John 7:49",
+      "arabic_page": 133,
+      "text": "Tetapi"
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "14",
+      "ref": "John 7:49",
+      "arabic_page": 133,
+      "text": "orang banyak ini yang tidak mengenal hukum Taurat, terkutuklah mereka!\""
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "14",
+      "ref": "John 7:50",
+      "arabic_page": 133,
+      "text": "Nikodemus, seorang dari mereka,"
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "15",
+      "ref": "John 7:50",
+      "arabic_page": 133,
+      "text": "yang dahulu telah datang kepada-Nya, berkata kepada mereka:"
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "15",
+      "ref": "John 7:51",
+      "arabic_page": 133,
+      "text": "\"Apakah hukum Taurat kita menghukum"
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "16",
+      "ref": "John 7:51",
+      "arabic_page": 133,
+      "text": "seseorang, sebelum ia didengar dan sebelum orang mengetahui apa yang telah dibuat-Nya?\""
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "16",
+      "ref": "John 7:52",
+      "arabic_page": 133,
+      "text": "Jawab mereka: \"Apakah engkau juga orang Galilea? Selidikilah Kitab Suci dan engkau akan tahu bahwa tidak ada nabi yang datang dari Galilea.\""
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "17, 18",
+      "ref": "Matthew 22:41",
+      "arabic_page": 133,
+      "text": "Ketika orang-orang Farisi sedang berkumpul, Yesus bertanya kepada mereka, kata-Nya:"
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "17, 18",
+      "ref": "Matthew 22:42",
+      "arabic_page": 133,
+      "text": "\"Apakah pendapatmu tentang"
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "19",
+      "ref": "Matthew 22:42",
+      "arabic_page": 133,
+      "text": "Mesias? Anak siapakah Dia?\" Kata mereka kepada-Nya: \"Anak Daud.\""
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "19",
+      "ref": "Matthew 22:43",
+      "arabic_page": 133,
+      "text": "Kata-Nya kepada mereka: \"Jika demikian, bagaimanakah Daud oleh pimpinan Roh dapat menyebut Dia Tuannya, ketika ia berkata:"
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "20",
+      "ref": "Matthew 22:44",
+      "arabic_page": 133,
+      "text": "Tuhan telah berfirman kepada Tuanku:"
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "20",
+      "ref": "Matthew 22:44",
+      "arabic_page": 133,
+      "text": "duduklah di sebelah kanan-Ku, sampai musuh-musuh-Mu Kutaruh di bawah kaki-Mu."
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "21, 22",
+      "ref": "Matthew 22:45",
+      "arabic_page": 133,
+      "text": "Jadi jika Daud menyebut Dia Tuannya, bagaimana mungkin Ia anaknya pula?\""
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "21, 22",
+      "ref": "Matthew 22:46",
+      "arabic_page": 133,
+      "text": "Tidak ada seorangpun yang dapat menjawab-Nya, dan sejak hari itu tidak ada seorangpun juga yang berani menanyakan sesuatu kepada-Nya."
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "23",
+      "ref": "John 8:12",
+      "arabic_page": 133,
+      "text": "Maka Yesus berkata pula kepada orang banyak, kata-Nya: \"Akulah terang dunia;"
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "24",
+      "ref": "John 8:12",
+      "arabic_page": 133,
+      "text": "barangsiapa mengikut Aku, ia tidak akan berjalan dalam kegelapan, melainkan ia akan mempunyai terang hidup.\""
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "24",
+      "ref": "John 8:13",
+      "arabic_page": 134,
+      "text": "Kata orang-orang Farisi kepada-Nya: \"Engkau bersaksi tentang diri-Mu, kesaksian-Mu tidak benar.\""
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "24",
+      "ref": "John 8:14",
+      "arabic_page": 134,
+      "text": "Jawab"
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "25",
+      "ref": "John 8:14",
+      "arabic_page": 134,
+      "text": "Yesus kepada mereka, kata-Nya: \"Biarpun Aku bersaksi tentang diri-Ku sendiri, namun kesaksian-Ku itu benar, sebab Aku tahu, dari mana Aku datang dan"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "26, 27",
+      "ref": "John 8:14",
+      "arabic_page": 134,
+      "text": "ke mana Aku pergi. Tetapi kamu tidak tahu, dari mana Aku datang dan ke mana Aku pergi."
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "26, 27",
+      "ref": "John 8:15",
+      "arabic_page": 134,
+      "text": "Kamu menghakimi menurut ukuran manusia, Aku tidak menghakimi seorangpun,"
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "26, 27",
+      "ref": "John 8:16",
+      "arabic_page": 134,
+      "text": "dan jikalau Aku menghakimi, maka penghakiman-Ku itu benar, sebab Aku tidak seorang diri, tetapi Aku bersama dengan Dia"
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "28, 29",
+      "ref": "John 8:16",
+      "arabic_page": 134,
+      "text": "yang mengutus Aku."
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "28, 29",
+      "ref": "John 8:17",
+      "arabic_page": 134,
+      "text": "Dan dalam kitab Tauratmu ada tertulis, bahwa kesaksian dua orang adalah sah;"
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "28, 29",
+      "ref": "John 8:18",
+      "arabic_page": 134,
+      "text": "Akulah yang bersaksi tentang diri-Ku sendiri, dan juga Bapa, yang mengutus Aku, bersaksi tentang"
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "30",
+      "ref": "John 8:18",
+      "arabic_page": 134,
+      "text": "Aku.\""
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "30",
+      "ref": "John 8:19",
+      "arabic_page": 134,
+      "text": "Maka kata mereka kepada-Nya: \"Di manakah Bapa-Mu?\" Jawab Yesus: \"Baik Aku, maupun Bapa-Ku tidak kamu kenal. Jikalau sekiranya kamu mengenal Aku, kamu mengenal juga"
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "31",
+      "ref": "John 8:19",
+      "arabic_page": 134,
+      "text": "Bapa-Ku.\""
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "31",
+      "ref": "John 8:20",
+      "arabic_page": 134,
+      "text": "Kata-kata itu dikatakan Yesus dekat perbendaharaan, waktu Ia mengajar di dalam"
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "32",
+      "ref": "John 8:20",
+      "arabic_page": 134,
+      "text": "Bait Allah. Dan tidak seorangpun yang menangkap Dia, karena saat-Nya belum tiba."
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "32",
+      "ref": "John 8:21",
+      "arabic_page": 134,
+      "text": "Maka Yesus berkata pula kepada orang banyak: \"Aku akan pergi dan kamu akan mencari Aku tetapi kamu akan mati"
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "33",
+      "ref": "John 8:21",
+      "arabic_page": 134,
+      "text": "dalam dosamu. Ke tempat Aku pergi, tidak mungkin kamu datang."
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "33",
+      "ref": "John 8:22",
+      "arabic_page": 134,
+      "text": "Maka kata orang-orang Yahudi itu: \"Apakah Ia mau"
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "34",
+      "ref": "John 8:22",
+      "arabic_page": 134,
+      "text": "bunuh diri dan karena itu dikatakan-Nya: Ke tempat Aku pergi, tidak mungkin kamu datang?\""
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "34",
+      "ref": "John 8:23",
+      "arabic_page": 134,
+      "text": "Lalu Ia berkata kepada mereka: \"Kamu berasal dari bawah, Aku dari atas; kamu dari dunia ini, Aku bukan dari"
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "35",
+      "ref": "John 8:23",
+      "arabic_page": 134,
+      "text": "dunia ini."
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "35",
+      "ref": "John 8:24",
+      "arabic_page": 134,
+      "text": "Karena itu tadi Aku berkata kepadamu, bahwa kamu akan mati dalam dosamu; sebab jikalau kamu tidak percaya, bahwa Akulah"
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "36",
+      "ref": "John 8:24",
+      "arabic_page": 134,
+      "text": "Dia, kamu akan mati dalam dosamu.\""
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "36",
+      "ref": "John 8:25",
+      "arabic_page": 134,
+      "text": "Maka kata mereka kepada-Nya: \"Siapakah Engkau?\" Jawab Yesus"
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "35",
+      "ref": "John 8:25",
+      "arabic_page": 134,
+      "text": "kepada mereka: \"Apakah gunanya lagi Aku berbicara dengan kamu?"
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "35",
+      "ref": "John 8:26",
+      "arabic_page": 134,
+      "text": "Banyak yang harus Kukatakan dan Kuhakimi tentang kamu; akan tetapi Dia, yang mengutus Aku, adalah benar, dan apa yang Kudengar dari pada-Nya, itu yang"
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "38, 39",
+      "ref": "John 8:26",
+      "arabic_page": 134,
+      "text": "Kukatakan kepada dunia.\""
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "38, 39",
+      "ref": "John 8:27",
+      "arabic_page": 134,
+      "text": "Mereka tidak mengerti, bahwa Ia berbicara kepada mereka tentang Bapa."
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "38, 39",
+      "ref": "John 8:28",
+      "arabic_page": 135,
+      "text": "Maka kata Yesus: \"Apabila kamu telah meninggikan Anak Manusia, barulah kamu tahu, bahwa Akulah Dia, dan bahwa Aku tidak berbuat apa-apa dari diri-Ku sendiri, tetapi Aku berbicara tentang hal-hal, sebagaimana"
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "40",
+      "ref": "John 8:28",
+      "arabic_page": 135,
+      "text": "diajarkan Bapa kepada-Ku."
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "40",
+      "ref": "John 8:29",
+      "arabic_page": 135,
+      "text": "Dan Ia, yang telah mengutus Aku, Ia menyertai Aku. Ia tidak"
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "41",
+      "ref": "John 8:29",
+      "arabic_page": 135,
+      "text": "membiarkan Aku sendiri, sebab Aku senantiasa berbuat apa yang berkenan kepada-Nya.\""
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "41",
+      "ref": "John 8:30",
+      "arabic_page": 135,
+      "text": "Setelah Yesus mengatakan semuanya itu, banyak orang percaya kepada-Nya."
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "42",
+      "ref": "John 8:31",
+      "arabic_page": 135,
+      "text": "Maka kata-Nya kepada orang-orang Yahudi yang percaya kepada-Nya: \"Jikalau kamu tetap dalam firman-Ku, kamu benar-benar"
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "43",
+      "ref": "John 8:31",
+      "arabic_page": 135,
+      "text": "adalah murid-Ku truly"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "43",
+      "ref": "John 8:32",
+      "arabic_page": 135,
+      "text": "dan kamu akan mengetahui kebenaran, dan kebenaran itu akan memerdekakan kamu.\""
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "44",
+      "ref": "John 8:33",
+      "arabic_page": 135,
+      "text": "Jawab mereka: \"Kami adalah keturunan Abraham dan tidak pernah menjadi"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "45",
+      "ref": "John 8:33",
+      "arabic_page": 135,
+      "text": "hamba siapapun. Bagaimana Engkau dapat berkata: Kamu akan merdeka?\""
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "45",
+      "ref": "John 8:34",
+      "arabic_page": 135,
+      "text": "Kata Yesus kepada mereka: \"Aku berkata kepadamu, sesungguhnya setiap orang yang berbuat dosa, adalah hamba"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "46",
+      "ref": "John 8:34",
+      "arabic_page": 135,
+      "text": "dosa."
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "46",
+      "ref": "John 8:35",
+      "arabic_page": 135,
+      "text": "Dan hamba tidak tetap tinggal dalam rumah, tetapi anak tetap"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "47, 48",
+      "ref": "John 8:35",
+      "arabic_page": 135,
+      "text": "tinggal dalam rumah."
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "47, 48",
+      "ref": "John 8:36",
+      "arabic_page": 135,
+      "text": "Jadi apabila Anak itu memerdekakan kamu, kamupun benar-benar merdeka.\""
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "47, 48",
+      "ref": "John 8:37",
+      "arabic_page": 135,
+      "text": "\"Aku tahu, bahwa kamu adalah keturunan Abraham, tetapi kamu berusaha untuk membunuh Aku karena"
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "49",
+      "ref": "John 8:37",
+      "arabic_page": 135,
+      "text": "firman-Ku tidak beroleh tempat di dalam kamu."
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "49",
+      "ref": "John 8:38",
+      "arabic_page": 135,
+      "text": "Apa yang Kulihat pada Bapa, itulah yang Kukatakan, dan demikian juga kamu"
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "50",
+      "ref": "John 8:38",
+      "arabic_page": 135,
+      "text": "perbuat tentang apa yang kamu dengar dari bapamu.\""
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "50",
+      "ref": "John 8:39",
+      "arabic_page": 135,
+      "text": "Jawab mereka kepada-Nya: \"Bapa kami ialah Abraham.\" Kata Yesus kepada mereka: \"Jikalau sekiranya kamu anak-anak Abraham, tentulah kamu mengerjakan pekerjaan yang dikerjakan oleh Abraham."
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "51",
+      "ref": "John 8:40",
+      "arabic_page": 135,
+      "text": "Tetapi yang kamu kerjakan ialah berusaha membunuh Aku; Aku, seorang yang mengatakan kebenaran kepadamu, yaitu kebenaran yang"
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "52",
+      "ref": "John 8:40",
+      "arabic_page": 135,
+      "text": "Kudengar dari Allah; pekerjaan yang demikian tidak dikerjakan oleh Abraham."
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "52",
+      "ref": "John 8:41",
+      "arabic_page": 135,
+      "text": "Kamu mengerjakan pekerjaan bapamu sendiri.\" Jawab mereka: \"Kami tidak dilahirkan dari zinah. Bapa kami satu, yaitu"
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "50",
+      "ref": "John 8:41",
+      "arabic_page": 135,
+      "text": "Allah.\""
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "50",
+      "ref": "John 8:42",
+      "arabic_page": 135,
+      "text": "Kata Yesus kepada mereka: \"Jikalau Allah adalah Bapamu, kamu akan mengasihi Aku, sebab Aku keluar dan datang dari Allah. Dan Aku datang bukan atas kehendak-Ku sendiri, melainkan Dialah yang mengutus"
+    },
+    {
+      "id": 91,
+      "diatessaron_verse": "54",
+      "ref": "John 8:42",
+      "arabic_page": 136,
+      "text": "Aku."
+    },
+    {
+      "id": 92,
+      "diatessaron_verse": "54",
+      "ref": "John 8:43",
+      "arabic_page": 136,
+      "text": "Apakah sebabnya kamu tidak mengerti bahasa-Ku? Sebab kamu tidak dapat menangkap firman-Ku."
+    },
+    {
+      "id": 93,
+      "diatessaron_verse": "55",
+      "ref": "John 8:44",
+      "arabic_page": 136,
+      "text": "Iblislah yang menjadi bapamu dan kamu ingin melakukan keinginan-keinginan bapamu. Ia adalah pembunuh manusia sejak semula dan tidak hidup dalam kebenaran, sebab di dalam dia tidak ada kebenaran. Apabila ia berkata dusta, ia berkata atas"
+    },
+    {
+      "id": 94,
+      "diatessaron_verse": "56",
+      "ref": "John 8:44",
+      "arabic_page": 136,
+      "text": "kehendaknya sendiri, sebab ia adalah pendusta dan bapa segala dusta."
+    },
+    {
+      "id": 95,
+      "diatessaron_verse": "56",
+      "ref": "John 8:45",
+      "arabic_page": 136,
+      "text": "Tetapi karena Aku mengatakan kebenaran kepadamu, kamu"
+    },
+    {
+      "id": 96,
+      "diatessaron_verse": "57",
+      "ref": "John 8:45",
+      "arabic_page": 136,
+      "text": "tidak percaya kepada-Ku. John 8:46 Siapakah di antaramu yang membuktikan bahwa Aku berbuat dosa? Apabila Aku mengatakan kebenaran, mengapakah kamu"
+    },
+    {
+      "id": 97,
+      "diatessaron_verse": "58",
+      "ref": "John 8:45",
+      "arabic_page": 136,
+      "text": "tidak percaya kepada-Ku?"
+    },
+    {
+      "id": 98,
+      "diatessaron_verse": "58",
+      "ref": "John 8:47",
+      "arabic_page": 136,
+      "text": "Barangsiapa berasal dari Allah, ia mendengarkan firman Allah; itulah sebabnya"
+    },
+    {
+      "id": 99,
+      "diatessaron_verse": "59",
+      "ref": "John 8:47",
+      "arabic_page": 136,
+      "text": "kamu tidak mendengarkannya, karena kamu tidak berasal dari Allah.\""
+    },
+    {
+      "id": 100,
+      "diatessaron_verse": "59",
+      "ref": "John 8:48",
+      "arabic_page": 136,
+      "text": "Orang-orang Yahudi menjawab Yesus:"
+    },
+    {
+      "id": 101,
+      "diatessaron_verse": "60",
+      "ref": "John 8:48",
+      "arabic_page": 136,
+      "text": "\"Bukankah benar kalau kami katakan bahwa Engkau orang Samaria dan kerasukan setan?\""
+    },
+    {
+      "id": 102,
+      "diatessaron_verse": "60",
+      "ref": "John 8:49",
+      "arabic_page": 136,
+      "text": "Jawab Yesus: \"Aku tidak kerasukan setan, tetapi Aku menghormati Bapa-Ku dan kamu tidak menghormati"
+    },
+    {
+      "id": 103,
+      "diatessaron_verse": "61",
+      "ref": "John 8:49",
+      "arabic_page": 136,
+      "text": "Aku."
+    },
+    {
+      "id": 104,
+      "diatessaron_verse": "61",
+      "ref": "John 8:50",
+      "arabic_page": 136,
+      "text": "Tetapi Aku tidak mencari hormat bagi-Ku: ada Satu yang mencarinya dan Dia juga yang menghakimi."
+    }
+  ]
+}

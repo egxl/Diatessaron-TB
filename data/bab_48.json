@@ -1,0 +1,757 @@
+{
+  "id": 48,
+  "title": "BAB 48",
+  "source_post_id": "p65248",
+  "canonical_books": [
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "total_segments": 106,
+  "diatessaron_verse_range": "1 - 55",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "John 18:1[a",
+      "arabic_page": null,
+      "text": "Setelah Yesus mengatakan semuanya itu keluarlah Ia dari situ bersama-sama dengan murid-murid-Nya"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "1",
+      "ref": "Matthew 26:36",
+      "arabic_page": null,
+      "text": "ke suatu tempat yang bernama Getsemani,"
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "1",
+      "ref": "John 18:1b",
+      "arabic_page": null,
+      "text": "ke seberang sungai Kidron."
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "2",
+      "ref": "John 18:1b",
+      "arabic_page": null,
+      "text": "Di situ ada suatu taman dan Ia masuk ke taman itu bersama-sama dengan murid-murid-Nya."
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "2",
+      "ref": "John 18:2",
+      "arabic_page": null,
+      "text": "Yudas,"
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "3",
+      "ref": "John 18:2",
+      "arabic_page": null,
+      "text": "yang mengkhianati Yesus, tahu juga tempat itu, karena Yesus sering berkumpul di situ dengan murid-murid-Nya."
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "3",
+      "ref": "Luke 22:40a",
+      "arabic_page": null,
+      "text": "Setelah tiba di tempat itu Ia berkata kepada mereka"
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 26:36b",
+      "arabic_page": null,
+      "text": "\"Duduklah di sini, sementara Aku pergi ke sana untuk berdoa."
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "4, 5",
+      "ref": "Luke 22:40b",
+      "arabic_page": 181,
+      "text": "Berdoalah supaya kamu jangan jatuh ke dalam pencobaan.\""
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "4, 5",
+      "ref": "Matthew 36:37",
+      "arabic_page": 181,
+      "text": "Dan Ia membawa Petrus dan kedua anak Zebedeus serta-Nya. Maka mulailah Ia"
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "6",
+      "ref": "Matthew 36:37",
+      "arabic_page": 181,
+      "text": "merasa sedih dan gentar,"
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "6",
+      "ref": "Matthew 26:38",
+      "arabic_page": 181,
+      "text": "lalu kata-Nya kepada mereka: \"Hati-Ku sangat sedih, seperti mau"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "7",
+      "ref": "Matthew 26:38",
+      "arabic_page": 181,
+      "text": "mati rasanya. Tinggallah di sini dan berjaga-jagalah dengan Aku.\""
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "7",
+      "ref": "Luke 22:41",
+      "arabic_page": 181,
+      "text": "a Kemudian Ia menjauhkan diri dari mereka"
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "8",
+      "ref": "Luke 22:41",
+      "arabic_page": 181,
+      "text": "kira-kira sepelempar batu jaraknya,"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "8",
+      "ref": "Mark 14:35b",
+      "arabic_page": 181,
+      "text": "merebahkan diri ke tanah dan berdoa supaya,"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "9",
+      "ref": "Mark 14:35b",
+      "arabic_page": 181,
+      "text": "sekiranya mungkin, saat itu lalu dari pada-Nya."
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "9",
+      "ref": "Mark 14:36a",
+      "arabic_page": 181,
+      "text": "Kata-Nya: \"Ya Abba, ya Bapa, tidak ada yang mustahil bagi-Mu, ambillah cawan ini dari pada-Ku,"
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "9",
+      "ref": "Luke 22:42b",
+      "arabic_page": 181,
+      "text": "tetapi bukanlah kehendak-Ku,"
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "10",
+      "ref": "Luke 22:42b",
+      "arabic_page": 181,
+      "text": "melainkan kehendak-Mulah yang terjadi.\""
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "10",
+      "ref": "Mark 14:37a",
+      "arabic_page": 181,
+      "text": "Setelah itu Ia datang kembali, dan mendapati ketiganya sedang tidur."
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "11",
+      "ref": "Mark 14:37a",
+      "arabic_page": 181,
+      "text": "Dan Ia berkata kepada Petrus: \"Simon, sedang tidurkah engkau?"
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "11",
+      "ref": "Matthew 26:40b",
+      "arabic_page": 181,
+      "text": "\"Tidakkah kamu sanggup berjaga-jaga satu jam"
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "12",
+      "ref": "Matthew 26:40b",
+      "arabic_page": 181,
+      "text": "dengan Aku?"
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "12",
+      "ref": "Matthew 26:41",
+      "arabic_page": 181,
+      "text": "Berjaga-jagalah dan berdoalah, supaya kamu jangan jatuh ke dalam pencobaan: roh"
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "13",
+      "ref": "Matthew 26:41",
+      "arabic_page": 181,
+      "text": "memang penurut, tetapi daging lemah.\""
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "13",
+      "ref": "Matthew 26:42",
+      "arabic_page": 181,
+      "text": "Lalu Ia pergi untuk kedua kalinya dan berdoa, kata-Nya: \"Ya Bapa-Ku jikalau cawan ini tidak mungkin lalu,"
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "14",
+      "ref": "Matthew 26:42",
+      "arabic_page": 181,
+      "text": "kecuali apabila Aku meminumnya, jadilah kehendak-Mu!\""
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "14",
+      "ref": "Mark 14:40",
+      "arabic_page": 181,
+      "text": "Dan ketika Ia kembali pula, Ia mendapati mereka sedang tidur, sebab mata mereka sudah berat dan mereka tidak tahu"
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "15",
+      "ref": "Mark 14:40",
+      "arabic_page": 181,
+      "text": "jawab apa yang harus mereka berikan kepada-Nya."
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "15",
+      "ref": "Matthew 26:44",
+      "arabic_page": 181,
+      "text": "Ia membiarkan mereka di situ lalu pergi dan berdoa untuk"
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "16",
+      "ref": "Matthew 26:44",
+      "arabic_page": 181,
+      "text": "ketiga kalinya dan mengucapkan doa yang itu juga."
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "16",
+      "ref": "Luke 22:43",
+      "arabic_page": 181,
+      "text": "Maka seorang malaikat dari"
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "17",
+      "ref": "Luke 22:43",
+      "arabic_page": 181,
+      "text": "langit menampakkan diri kepada-Nya untuk memberi kekuatan kepada-Nya."
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "17",
+      "ref": "Luke 22:44",
+      "arabic_page": 181,
+      "text": "Ia sangat ketakutan dan makin bersungguh-sungguh berdoa. Peluh-Nya"
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "18",
+      "ref": "Luke 22:44",
+      "arabic_page": 182,
+      "text": "menjadi seperti titik-titik darah yang bertetesan ke tanah."
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "18",
+      "ref": "Luke 22:45a",
+      "arabic_page": 182,
+      "text": "Lalu Ia bangkit dari"
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "19",
+      "ref": "Luke 22:45a",
+      "arabic_page": 182,
+      "text": "doa-Nya dan kembali kepada murid-murid-Nya, tetapi Ia mendapati mereka sedang tidur"
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "19",
+      "ref": "Matthew 26:45",
+      "arabic_page": 182,
+      "text": "dan"
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "20",
+      "ref": "Matthew 26:45",
+      "arabic_page": 182,
+      "text": "berkata kepada mereka: \"Tidurlah sekarang dan istirahatlah."
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "20",
+      "ref": "Mark 14:41b",
+      "arabic_page": 182,
+      "text": "Saatnya sudah tiba, lihat,"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "21",
+      "ref": "Mark 14:41b",
+      "arabic_page": 182,
+      "text": "Anak Manusia diserahkan ke tangan orang-orang berdosa."
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "21",
+      "ref": "Matthew 22:46",
+      "arabic_page": 182,
+      "text": "Bangunlah, marilah kita pergi. Dia yang menyerahkan Aku sudah dekat.\""
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "22",
+      "ref": "Matthew 26:47",
+      "arabic_page": 182,
+      "text": "Waktu Yesus masih berbicara datanglah Yudas, salah seorang dari kedua belas murid itu, dan bersama-sama dia serombongan besar orang yang membawa pedang dan pentung"
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "22",
+      "ref": "John 18:3",
+      "arabic_page": 182,
+      "text": "dengan"
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "23",
+      "ref": "John 18:3",
+      "arabic_page": 182,
+      "text": "sepasukan prajurit dan penjaga-penjaga Bait Allah yang disuruh oleh imam-imam kepala dan orang-orang Farisi lengkap dengan lentera, suluh dan senjata."
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "23",
+      "ref": "Mark 14:44",
+      "arabic_page": 182,
+      "text": "Orang yang menyerahkan Dia telah memberitahukan tanda ini kepada mereka: \"Orang yang akan kucium, itulah Dia, tangkaplah Dia dan bawalah Dia dengan selamat.\""
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "24",
+      "ref": "John 18:4a",
+      "arabic_page": 182,
+      "text": "Maka Yesus, yang tahu semua yang akan menimpa diri-Nya, maju"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "25",
+      "ref": "John 18:4a",
+      "arabic_page": 182,
+      "text": "ke depan,"
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "25",
+      "ref": "Luke 22:47c",
+      "arabic_page": 182,
+      "text": "Yudas mendekati Yesus"
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "25",
+      "ref": "Matthew 26:49",
+      "arabic_page": 182,
+      "text": "dan berkata: \"Salam"
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "26",
+      "ref": "Matthew 26:49",
+      "arabic_page": 182,
+      "text": "Rabi,\" lalu mencium Dia."
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "26",
+      "ref": "Luke 22:48",
+      "arabic_page": 182,
+      "text": "Maka kata Yesus kepadanya: \"Hai Yudas, engkau menyerahkan Anak Manusia dengan ciuman?"
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "26",
+      "ref": "Matthew 26:50b",
+      "arabic_page": 182,
+      "text": "Hai teman, untuk itukah engkau datang?\""
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "26",
+      "ref": "John 18:4b",
+      "arabic_page": 182,
+      "text": "dan berkata"
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "28",
+      "ref": "John 18:4b",
+      "arabic_page": 182,
+      "text": "kepada mereka: \"Siapakah yang kamu cari?\""
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "28",
+      "ref": "John 18:5",
+      "arabic_page": 182,
+      "text": "Jawab mereka: \"Yesus dari Nazaret.\" Kata-Nya kepada mereka: \"Akulah Dia.\" Yudas yang mengkhianati Dia berdiri juga di situ"
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "29",
+      "ref": "John 18:5",
+      "arabic_page": 182,
+      "text": "bersama-sama mereka."
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "29",
+      "ref": "John 18:6",
+      "arabic_page": 182,
+      "text": "Ketika Ia berkata kepada mereka: \"Akulah Dia,\" mundurlah mereka dan"
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "30",
+      "ref": "John 18:6",
+      "arabic_page": 182,
+      "text": "jatuh ke tanah."
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "30",
+      "ref": "John 18:7",
+      "arabic_page": 182,
+      "text": "AMaka Ia bertanya pula: \"Siapakah yang kamu cari?\" Kata mereka:"
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "31",
+      "ref": "John 18:7",
+      "arabic_page": 182,
+      "text": "\"Yesus dari Nazaret."
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "31",
+      "ref": "John 18:8",
+      "arabic_page": 182,
+      "text": "Jawab Yesus: \"Telah Kukatakan kepadamu, Akulah Dia. Jika"
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "32",
+      "ref": "John 18:8",
+      "arabic_page": 182,
+      "text": "Aku yang kamu cari, biarkanlah mereka ini pergi.\""
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "32",
+      "ref": "John 18:9",
+      "arabic_page": 182,
+      "text": "Demikian hendaknya supaya genaplah firman yang telah dikatakan-Nya: \"Dari mereka"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "33",
+      "ref": "John 18:9",
+      "arabic_page": 183,
+      "text": "yang Engkau serahkan kepada-Ku, tidak seorangpun yang Kubiarkan binasa.\""
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "33",
+      "ref": "Matthew 26:50c",
+      "arabic_page": 183,
+      "text": "Maka majulah mereka memegang Yesus dan menangkap-Nya."
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "34",
+      "ref": "Luke 22:49",
+      "arabic_page": 183,
+      "text": "Ketika mereka, yang bersama-sama dengan Yesus, melihat apa yang akan terjadi, berkatalah mereka: \"Tuhan, mestikah kami"
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "35",
+      "ref": "Luke 22:49",
+      "arabic_page": 183,
+      "text": "menyerang mereka dengan pedang?\""
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "35",
+      "ref": "John 18:10",
+      "arabic_page": 183,
+      "text": "Lalu Simon Petrus, yang membawa pedang, menghunus pedang itu, menetakkannya kepada hamba Imam Besar dan memutuskan telinga kanannya. Nama hamba itu"
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "36",
+      "ref": "John 18:10",
+      "arabic_page": 183,
+      "text": "Malkhus."
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "36",
+      "ref": "John 18:11a",
+      "arabic_page": 183,
+      "text": "Kata Yesus kepada Petrus: \"Sarungkan pedangmu itu; bukankah Aku harus minum cawan yang diberikan Bapa"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "37",
+      "ref": "John 18:11a",
+      "arabic_page": 183,
+      "text": "kepada-Ku?\""
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "37",
+      "ref": "Matthew 26:52b",
+      "arabic_page": 183,
+      "text": "\"Masukkan pedang itu kembali ke dalam sarungnya, sebab barangsiapa menggunakan"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "38",
+      "ref": "Matthew 26:52b",
+      "arabic_page": 183,
+      "text": "pedang, akan binasa oleh pedang."
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "38",
+      "ref": "Matthew 26:53",
+      "arabic_page": 183,
+      "text": "Atau kausangka, bahwa Aku tidak dapat berseru kepada"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "39",
+      "ref": "Matthew 26:53",
+      "arabic_page": 183,
+      "text": "Bapa-Ku, supaya Ia segera mengirim lebih dari dua belas pasukan malaikat membantu Aku?"
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "39",
+      "ref": "Matthew 26:54",
+      "arabic_page": 183,
+      "text": "Jika begitu, 40 bagaimanakah akan digenapi yang tertulis dalam Kitab Suci, yang mengatakan, bahwa harus terjadi demikian?\""
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "41",
+      "ref": "Luke 22:51b",
+      "arabic_page": 183,
+      "text": "\"Sudahlah itu.\" Lalu Ia menjamah telinga orang itu dan menyembuhkannya."
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "41",
+      "ref": "Matthew 26:55",
+      "arabic_page": 183,
+      "text": "Pada saat itu Yesus berkata kepada orang banyak: \"Sangkamu Aku ini penyamun, maka kamu datang lengkap dengan pedang dan pentung untuk menangkap Aku? Padahal tiap-tiap hari Aku duduk mengajar di"
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "42",
+      "ref": "Matthew 26:55",
+      "arabic_page": 183,
+      "text": "Bait Allah, dan kamu tidak menangkap Aku."
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "42",
+      "ref": "Luke 22:53b",
+      "arabic_page": 183,
+      "text": "Tetapi inilah saat kamu, dan inilah kuasa"
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "43",
+      "ref": "Luke 22:53b",
+      "arabic_page": 183,
+      "text": "kegelapan itu.\""
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "43",
+      "ref": "Matthew 26:56a",
+      "arabic_page": 183,
+      "text": "Akan tetapi semua ini terjadi supaya genap yang ada tertulis dalam kitab nabi-nabi.\" Lalu semua murid itu meninggalkan Dia dan melarikan diri."
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "44",
+      "ref": "John 18:12a",
+      "arabic_page": 183,
+      "text": "Maka pasukan prajurit serta"
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "45",
+      "ref": "John 18:12a",
+      "arabic_page": 183,
+      "text": "perwiranya dan penjaga-penjaga yang disuruh orang Yahudi itu menangkap Yesus dan membelenggu Dia."
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "45",
+      "ref": "Mark 14:51",
+      "arabic_page": 183,
+      "text": "Ada seorang muda, yang pada waktu itu hanya memakai sehelai kain lenan untuk menutup badannya,"
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "46",
+      "ref": "Mark 14:51",
+      "arabic_page": 183,
+      "text": "mengikuti Dia. Mereka hendak menangkapnya,"
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "46",
+      "ref": "Mark 14:52",
+      "arabic_page": 183,
+      "text": "tetapi ia"
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "47",
+      "ref": "Mark 14:52",
+      "arabic_page": 184,
+      "text": "melepaskan kainnya dan lari dengan telanjang."
+    },
+    {
+      "id": 91,
+      "diatessaron_verse": "47",
+      "ref": "John 18:13",
+      "arabic_page": 184,
+      "text": "Lalu mereka membawa-Nya mula-mula kepada Hanas, karena Hanas adalah mertua Kayafas,"
+    },
+    {
+      "id": 92,
+      "diatessaron_verse": "48",
+      "ref": "John 18:13",
+      "arabic_page": 184,
+      "text": "yang pada tahun itu menjadi Imam Besar;"
+    },
+    {
+      "id": 93,
+      "diatessaron_verse": "48",
+      "ref": "John 18:14",
+      "arabic_page": 184,
+      "text": "dan Kayafaslah yang telah menasihatkan orang-orang Yahudi: \"Adalah lebih berguna jika satu orang mati untuk seluruh bangsa.\""
+    },
+    {
+      "id": 94,
+      "diatessaron_verse": "49",
+      "ref": "John 18:15",
+      "arabic_page": 184,
+      "text": "Simon Petrus dan seorang murid lain mengikuti Yesus. Murid itu mengenal"
+    },
+    {
+      "id": 95,
+      "diatessaron_verse": "50",
+      "ref": "John 18:15",
+      "arabic_page": 184,
+      "text": "Imam Besar dan ia masuk bersama-sama dengan Yesus ke halaman istana Imam Besar,"
+    },
+    {
+      "id": 96,
+      "diatessaron_verse": "50",
+      "ref": "John 18:16",
+      "arabic_page": 184,
+      "text": "tetapi Petrus tinggal di luar dekat pintu. Maka murid lain tadi, yang mengenal Imam Besar,"
+    },
+    {
+      "id": 97,
+      "diatessaron_verse": "51",
+      "ref": "John 18:16",
+      "arabic_page": 184,
+      "text": "kembali ke luar, bercakap-cakap dengan perempuan penjaga pintu lalu membawa Petrus masuk."
+    },
+    {
+      "id": 98,
+      "diatessaron_verse": "51",
+      "ref": "John 18:17a",
+      "arabic_page": 184,
+      "text": "Maka kata hamba perempuan penjaga pintu kepada Petrus: \"Bukankah engkau juga murid orang itu?\""
+    },
+    {
+      "id": 99,
+      "diatessaron_verse": "51",
+      "ref": "Mark 14:67b",
+      "arabic_page": 184,
+      "text": "Yesus, orang"
+    },
+    {
+      "id": 100,
+      "diatessaron_verse": "52",
+      "ref": "Mark 14:67b",
+      "arabic_page": 184,
+      "text": "Nazaret itu.\""
+    },
+    {
+      "id": 101,
+      "diatessaron_verse": "52",
+      "ref": "Mark 14:68",
+      "arabic_page": 184,
+      "text": "Tetapi ia menyangkalnya dan berkata: \"Aku tidak tahu dan tidak mengerti"
+    },
+    {
+      "id": 102,
+      "diatessaron_verse": "53",
+      "ref": "Mark 14:68",
+      "arabic_page": 184,
+      "text": "apa yang engkau maksud.\""
+    },
+    {
+      "id": 103,
+      "diatessaron_verse": "53",
+      "ref": "John 18:18a",
+      "arabic_page": 184,
+      "text": "Sementara itu hamba-hamba dan penjaga-penjaga Bait Allah telah"
+    },
+    {
+      "id": 104,
+      "diatessaron_verse": "54",
+      "ref": "John 18:18a",
+      "arabic_page": 184,
+      "text": "memasang api arang sebab hawa dingin waktu itu,"
+    },
+    {
+      "id": 105,
+      "diatessaron_verse": "54",
+      "ref": "Luke 22:55",
+      "arabic_page": 184,
+      "text": "Di tengah-tengah halaman rumah itu orang"
+    },
+    {
+      "id": 106,
+      "diatessaron_verse": "55",
+      "ref": "Luke 22:55",
+      "arabic_page": 184,
+      "text": "memasang api dan mereka duduk mengelilinginya. Petrus juga duduk di tengah-tengah mereka."
+    }
+  ]
+}

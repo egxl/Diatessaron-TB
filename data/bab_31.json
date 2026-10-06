@@ -1,0 +1,680 @@
+{
+  "id": 31,
+  "title": "BAB 31",
+  "source_post_id": "p63268",
+  "canonical_books": [
+    "Luke",
+    "Mark",
+    "Mat",
+    "Matthew"
+  ],
+  "total_segments": 95,
+  "diatessaron_verse_range": "1 - 52",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "Mark 10:41",
+      "arabic_page": null,
+      "text": "Mendengar itu kesepuluh murid yang lain menjadi marah kepada Yakobus dan Yohanes."
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "Mark 10:42",
+      "arabic_page": null,
+      "text": "Tetapi Yesus memanggil mereka lalu berkata: \"Kamu tahu, bahwa mereka yang disebut"
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "3",
+      "ref": "Mark 10:42",
+      "arabic_page": null,
+      "text": "pemerintah bangsa-bangsa memerintah rakyatnya dengan tangan besi, dan pembesar-pembesarnya menjalankan kuasanya dengan keras atas mereka."
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "Mark 10:43",
+      "arabic_page": 118,
+      "text": "Tidaklah demikian di antara kamu. Barangsiapa ingin menjadi besar di antara kamu, hendaklah ia menjadi"
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "4",
+      "ref": "Mark 10:43",
+      "arabic_page": 118,
+      "text": "pelayanmu,"
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "Mark 10:44",
+      "arabic_page": 118,
+      "text": "dan barangsiapa ingin menjadi yang terkemuka di antara kamu, hendaklah ia menjadi"
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "5",
+      "ref": "Mark 10:44",
+      "arabic_page": 118,
+      "text": "hamba untuk semuanya."
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 20:28",
+      "arabic_page": 118,
+      "text": "sama seperti Anak Manusia datang bukan untuk dilayani, melainkan untuk melayani"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "6",
+      "ref": "Matthew 20:28",
+      "arabic_page": 118,
+      "text": "dan untuk memberikan nyawa-Nya menjadi tebusan bagi banyak orang.\""
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "6",
+      "ref": "Luke 13:22",
+      "arabic_page": 118,
+      "text": "Kemudian Yesus berjalan keliling"
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "7",
+      "ref": "Luke 13:22",
+      "arabic_page": 118,
+      "text": "dari kota ke kota dan dari desa ke desa sambil mengajar dan meneruskan perjalanan-Nya ke Yerusalem."
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "7",
+      "ref": "Luke 13:23",
+      "arabic_page": 118,
+      "text": "Dan ada seorang yang berkata kepada-Nya: \"Tuhan, sedikit sajakah orang yang diselamatkan?\""
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "7",
+      "ref": "Luke 13:24",
+      "arabic_page": 118,
+      "text": "Jawab Yesus kepada"
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "8",
+      "ref": "Luke 13:24",
+      "arabic_page": 118,
+      "text": "orang-orang di situ: \"Berjuanglah untuk masuk melalui pintu yang sesak itu! Sebab Aku berkata kepadamu: Banyak orang akan"
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9",
+      "ref": "Luke 13:24",
+      "arabic_page": 118,
+      "text": "berusaha untuk masuk, tetapi tidak akan dapat. —"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "9",
+      "ref": "Luke 13:25",
+      "arabic_page": 118,
+      "text": "Jika tuan rumah telah bangkit dan telah menutup pintu, kamu akan berdiri di luar dan mengetok-ngetok pintu sambil berkata: Tuan, bukakanlah kami pintu! dan Ia akan menjawab dan"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "10",
+      "ref": "Luke 13:25",
+      "arabic_page": 118,
+      "text": "berkata kepadamu: Aku tidak tahu dari mana kamu datang."
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "10",
+      "ref": "Luke 13:26",
+      "arabic_page": 118,
+      "text": "Maka kamu akan berkata:"
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "11",
+      "ref": "Luke 13:26",
+      "arabic_page": 118,
+      "text": "Kami telah makan dan minum di hadapan-Mu dan Engkau telah mengajar di jalan-jalan kota kami."
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "11",
+      "ref": "Luke 13:27",
+      "arabic_page": 118,
+      "text": "Tetapi Ia akan berkata kepadamu: Aku tidak tahu dari mana kamu datang, enyahlah dari hadapan-Ku, hai kamu sekalian yang melakukan"
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "12",
+      "ref": "Luke 13:27",
+      "arabic_page": 118,
+      "text": "kejahatan!"
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "12",
+      "ref": "Luke 13:28",
+      "arabic_page": 118,
+      "text": "Di sanalah akan terdapat ratap dan kertak gigi, apabila kamu akan melihat Abraham dan Ishak dan Yakub dan semua nabi di dalam Kerajaan Allah, tetapi kamu sendiri"
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "13",
+      "ref": "Luke 13:28",
+      "arabic_page": 118,
+      "text": "dicampakkan ke luar."
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "13",
+      "ref": "Luke 13:29",
+      "arabic_page": 118,
+      "text": "Dan orang akan datang dari Timur dan Barat dan dari"
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "14",
+      "ref": "Luke 13:29",
+      "arabic_page": 118,
+      "text": "Utara dan Selatan dan mereka akan duduk makan di dalam Kerajaan Allah."
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "14",
+      "ref": "Luke 13:30",
+      "arabic_page": 118,
+      "text": "Dan sesungguhnya ada orang yang terakhir yang akan menjadi orang yang terdahulu dan ada orang yang terdahulu yang akan menjadi orang yang terakhir.\""
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "15, 16",
+      "ref": "Luke 19:1",
+      "arabic_page": 118,
+      "text": "Yesus masuk ke kota Yerikho dan berjalan terus melintasi kota itu."
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "15, 16",
+      "ref": "Luke 19:2",
+      "arabic_page": 118,
+      "text": "Di situ ada seorang bernama Zakheus, kepala pemungut cukai, dan ia seorang"
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "17",
+      "ref": "Luke 19:2",
+      "arabic_page": 118,
+      "text": "yang kaya."
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "17",
+      "ref": "Luke 19:3",
+      "arabic_page": 118,
+      "text": "Ia berusaha untuk melihat orang apakah Yesus itu, tetapi ia tidak berhasil karena orang banyak, sebab badannya pendek."
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "18",
+      "ref": "Luke 19:4",
+      "arabic_page": 119,
+      "text": "Maka berlarilah ia mendahului orang banyak, lalu memanjat"
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "19",
+      "ref": "Luke 19:4",
+      "arabic_page": 119,
+      "text": "pohon ara untuk melihat Yesus, yang akan lewat di situ."
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "19",
+      "ref": "Luke 19:5",
+      "arabic_page": 119,
+      "text": "Ketika Yesus sampai ke tempat itu, Ia melihat ke atas dan berkata: \"Zakheus, segeralah turun, sebab"
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "20",
+      "ref": "Luke 19:5",
+      "arabic_page": 119,
+      "text": "hari ini Aku harus menumpang di rumahmu.\""
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "20",
+      "ref": "Luke 19:6",
+      "arabic_page": 119,
+      "text": "Lalu Zakheus segera turun dan menerima Yesus dengan"
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "21",
+      "ref": "Luke 19:6",
+      "arabic_page": 119,
+      "text": "sukacita."
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "21",
+      "ref": "Luke 19:7",
+      "arabic_page": 119,
+      "text": "Tetapi semua orang yang melihat hal itu bersungut-sungut, katanya: \"Ia"
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "22",
+      "ref": "Luke 19:7",
+      "arabic_page": 119,
+      "text": "menumpang di rumah orang berdosa.\""
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "22",
+      "ref": "Luke 19:8",
+      "arabic_page": 119,
+      "text": "Tetapi Zakheus berdiri dan berkata kepada Tuhan: \"Tuhan, setengah dari milikku akan kuberikan kepada orang miskin dan sekiranya ada sesuatu"
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "23",
+      "ref": "Luke 19:8",
+      "arabic_page": 119,
+      "text": "yang kuperas dari seseorang akan kukembalikan empat kali lipat.\""
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "23",
+      "ref": "Luke 19:9",
+      "arabic_page": 119,
+      "text": "Kata Yesus kepadanya: \"Hari ini telah terjadi keselamatan"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "24",
+      "ref": "Luke 19:9",
+      "arabic_page": 119,
+      "text": "kepada rumah ini, karena orang inipun anak Abraham."
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "24",
+      "ref": "Luke 19:10",
+      "arabic_page": 119,
+      "text": "Sebab Anak Manusia datang untuk mencari dan menyelamatkan yang hilang.\""
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "25",
+      "ref": "Mat. 20:29",
+      "arabic_page": 119,
+      "text": "Dan ketika Yesus dan murid-murid-Nya keluar dari Yerikho,"
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "26",
+      "ref": "Mat. 20:29",
+      "arabic_page": 119,
+      "text": "orang banyak berbondong-bondong mengikuti Dia."
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "26",
+      "ref": "Luke 18:35b",
+      "arabic_page": 119,
+      "text": "ada seorang buta yang duduk di pinggir jalan dan mengemis."
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "27",
+      "ref": "Luke 18:35b",
+      "arabic_page": 119,
+      "text": "bernama Bartimeus, anak Timeus, duduk di pinggir jalan."
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "27",
+      "ref": "Luke 18:36",
+      "arabic_page": 119,
+      "text": "Waktu orang itu mendengar"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "28",
+      "ref": "Luke 18:36",
+      "arabic_page": 119,
+      "text": "orang banyak lewat, ia bertanya:"
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "28",
+      "ref": "Luke 18:37",
+      "arabic_page": 119,
+      "text": "Kata orang kepadanya: \"Yesus orang Nazaret"
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "29",
+      "ref": "Luke 18:37",
+      "arabic_page": 119,
+      "text": "lewat.\" [Mark 10:47] Ketika didengarnya, bahwa itu adalah Yesus orang Nazaret, mulailah ia"
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "30",
+      "ref": "Luke 18:37",
+      "arabic_page": 119,
+      "text": "berseru: \"Yesus, Anak Daud, kasihanilah aku!\""
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "30",
+      "ref": "Luke 18:39a",
+      "arabic_page": 119,
+      "text": "Maka mereka, yang berjalan di depan, menegor dia supaya ia diam."
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "30",
+      "ref": "Mark 10:48b",
+      "arabic_page": 119,
+      "text": "Namun"
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "31",
+      "ref": "Mark 10:48b",
+      "arabic_page": 119,
+      "text": "semakin keras ia berseru: \"Anak Daud, kasihanilah aku!\""
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "31",
+      "ref": "Mark 10:49",
+      "arabic_page": 119,
+      "text": "Lalu Yesus berhenti dan berkata: \"Panggillah dia!\" Mereka memanggil orang buta itu dan berkata"
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "32",
+      "ref": "Mark 10:49",
+      "arabic_page": 119,
+      "text": "kepadanya: \"Kuatkan hatimu, berdirilah, Ia memanggil engkau.\""
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "32",
+      "ref": "Mark 10:50",
+      "arabic_page": 119,
+      "text": "Lalu"
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "33",
+      "ref": "Mark 10:50",
+      "arabic_page": 119,
+      "text": "ia menanggalkan jubahnya, ia segera berdiri dan pergi mendapatkan Yesus."
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "33",
+      "ref": "Mark 10:51",
+      "arabic_page": 119,
+      "text": "Tanya Yesus kepadanya: \"Apa yang kaukehendaki supaya Aku perbuat bagimu?\" Jawab orang buta itu: \"Rabuni, supaya aku dapat melihat!\""
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "34",
+      "ref": "Matthew 20:34a",
+      "arabic_page": 120,
+      "text": "Maka tergeraklah hati Yesus oleh belas kasihan, lalu Ia menjamah mata mereka"
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "34",
+      "ref": "Luke 18:42",
+      "arabic_page": 120,
+      "text": "Lalu kata Yesus"
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "35",
+      "ref": "Luke 18:42",
+      "arabic_page": 120,
+      "text": "kepadanya: \"Melihatlah engkau, imanmu telah menyelamatkan engkau!\""
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "35",
+      "ref": "Luke 18:43",
+      "arabic_page": 120,
+      "text": "Dan seketika itu juga melihatlah ia, lalu mengikuti Dia sambil memuliakan Allah. Seluruh rakyat melihat hal itu dan memuji-muji Allah."
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "36",
+      "ref": "Luke 19:11b",
+      "arabic_page": 120,
+      "text": "Yesus melanjutkan perkataan-Nya dengan suatu perumpamaan, sebab Ia sudah dekat Yerusalem dan mereka menyangka,"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "37",
+      "ref": "Luke 19:11b",
+      "arabic_page": 120,
+      "text": "bahwa Kerajaan Allah akan segera kelihatan."
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "37",
+      "ref": "Luke 19:12",
+      "arabic_page": 120,
+      "text": "Maka Ia berkata: \"Ada seorang bangsawan berangkat ke sebuah negeri yang jauh untuk dinobatkan menjadi raja di situ dan setelah itu 38 baru kembali."
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "37",
+      "ref": "Luke 19:13",
+      "arabic_page": 120,
+      "text": "Ia memanggil sepuluh orang hambanya dan memberikan sepuluh mina kepada mereka,"
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "39",
+      "ref": "Luke 19:13",
+      "arabic_page": 120,
+      "text": "katanya: Pakailah ini untuk berdagang sampai aku datang kembali."
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "39",
+      "ref": "Luke 19:14",
+      "arabic_page": 120,
+      "text": "Akan tetapi orang-orang sebangsanya membenci dia, lalu"
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "40",
+      "ref": "Luke 19:14",
+      "arabic_page": 120,
+      "text": "mengirimkan utusan menyusul dia untuk mengatakan: Kami tidak mau orang ini menjadi raja atas kami."
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "40",
+      "ref": "Luke 19:15",
+      "arabic_page": 120,
+      "text": "Dan terjadilah, ketika ia kembali, setelah ia dinobatkan menjadi raja, ia menyuruh memanggil hamba-hambanya, yang telah diberinya uang itu, untuk mengetahui berapa hasil"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "41",
+      "ref": "Luke 19:15",
+      "arabic_page": 120,
+      "text": "dagang mereka masing-masing."
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "41",
+      "ref": "Luke 19:16",
+      "arabic_page": 120,
+      "text": "Orang yang pertama datang dan berkata: Tuan, mina tuan yang satu itu telah menghasilkan"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "42",
+      "ref": "Luke 19:16",
+      "arabic_page": 120,
+      "text": "sepuluh mina."
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "42",
+      "ref": "Luke 19:17",
+      "arabic_page": 120,
+      "text": "Katanya kepada orang itu: Baik sekali perbuatanmu itu, hai hamba yang baik; engkau"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "43",
+      "ref": "Luke 19:17",
+      "arabic_page": 120,
+      "text": "telah setia dalam perkara kecil, karena itu terimalah kekuasaan atas sepuluh kota."
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "43",
+      "ref": "Luke 19:18",
+      "arabic_page": 120,
+      "text": "Datanglah yang kedua dan"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "44",
+      "ref": "Luke 19:18",
+      "arabic_page": 120,
+      "text": "berkata: Tuan, mina tuan telah menghasilkan lima mina."
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "44",
+      "ref": "Luke 19:19",
+      "arabic_page": 120,
+      "text": "Katanya kepada"
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "45",
+      "ref": "Luke 19:19",
+      "arabic_page": 120,
+      "text": "orang itu: Dan engkau, kuasailah lima kota."
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "45",
+      "ref": "Luke 19:20",
+      "arabic_page": 120,
+      "text": "Dan hamba yang ketiga datang dan"
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "46",
+      "ref": "Luke 19:20",
+      "arabic_page": 120,
+      "text": "berkata: Tuan, inilah mina tuan, aku telah menyimpannya dalam sapu tangan."
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "46",
+      "ref": "Luke 19:21",
+      "arabic_page": 120,
+      "text": "Sebab aku takut akan tuan, karena tuan adalah manusia yang keras; tuan mengambil"
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "47",
+      "ref": "Luke 19:21",
+      "arabic_page": 120,
+      "text": "apa yang tidak pernah tuan taruh dan tuan menuai apa yang tidak tuan tabur."
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "47",
+      "ref": "Luke 19:22",
+      "arabic_page": 120,
+      "text": "Katanya kepada orang itu: Hai hamba yang jahat, aku akan menghakimi engkau menurut perkataanmu sendiri. Engkau sudah tahu bahwa aku adalah orang yang keras, yang mengambil apa yang tidak pernah aku"
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "48",
+      "ref": "Luke 19:22",
+      "arabic_page": 120,
+      "text": "taruh dan menuai apa yang tidak aku tabur."
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "48",
+      "ref": "Luke 19:23",
+      "arabic_page": 120,
+      "text": "Jika demikian, mengapa uangku itu tidak kauberikan kepada orang yang menjalankan uang?"
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "49",
+      "ref": "Luke 19:23",
+      "arabic_page": 120,
+      "text": "Maka sekembaliku aku dapat mengambilnya serta dengan bunganya."
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "49",
+      "ref": "Luke 19:24",
+      "arabic_page": 120,
+      "text": "Lalu katanya kepada orang-orang yang berdiri di situ: Ambillah mina yang satu itu dari padanya dan berikanlah kepada orang yang mempunyai"
+    },
+    {
+      "id": 91,
+      "diatessaron_verse": "50, 51",
+      "ref": "Luke 19:24",
+      "arabic_page": 121,
+      "text": "sepuluh mina itu."
+    },
+    {
+      "id": 92,
+      "diatessaron_verse": "50, 51",
+      "ref": "Luke 19:25",
+      "arabic_page": 121,
+      "text": "Kata mereka kepadanya: Tuan, ia sudah mempunyai sepuluh mina."
+    },
+    {
+      "id": 93,
+      "diatessaron_verse": "50, 51",
+      "ref": "Luke 19:26",
+      "arabic_page": 121,
+      "text": "Jawabnya: Aku berkata kepadamu: Setiap orang yang mempunyai, kepadanya akan diberi, tetapi"
+    },
+    {
+      "id": 94,
+      "diatessaron_verse": "52",
+      "ref": "Luke 19:26",
+      "arabic_page": 121,
+      "text": "siapa yang tidak mempunyai, dari padanya akan diambil, juga apa yang ada padanya."
+    },
+    {
+      "id": 95,
+      "diatessaron_verse": "52",
+      "ref": "Luke 19:27",
+      "arabic_page": 121,
+      "text": "Akan tetapi semua seteruku ini, yang tidak suka aku menjadi rajanya, bawalah mereka ke mari dan bunuhlah mereka di depan mataku.\""
+    }
+  ]
+}

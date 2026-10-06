@@ -1,0 +1,617 @@
+{
+  "id": 15,
+  "title": "BAB 15",
+  "source_post_id": "p51986",
+  "canonical_books": [
+    "John",
+    "Luke",
+    "Matthew",
+    "Yoh"
+  ],
+  "total_segments": 86,
+  "diatessaron_verse_range": "1 - 50",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "Luke 7:40",
+      "arabic_page": null,
+      "text": "Lalu Yesus berkata kepadanya: \"Simon, ada yang hendak Kukatakan kepadamu.\""
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "Luke 7:40",
+      "arabic_page": null,
+      "text": "Sahut Simon: \"Katakanlah, Guru.\""
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "Luke 7:41",
+      "arabic_page": 58,
+      "text": "\"Ada dua orang yang berhutang kepada seorang pelepas uang. Yang seorang berhutang lima ratus dinar, yang lain lima puluh."
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "2",
+      "ref": "Luke 7:42",
+      "arabic_page": 58,
+      "text": "Karena mereka tidak sanggup membayar, maka ia menghapuskan"
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "4",
+      "ref": "Luke 7:42",
+      "arabic_page": 58,
+      "text": "hutang kedua orang itu. Siapakah di antara mereka yang akan terlebih mengasihi dia?\""
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "Luke 7:43",
+      "arabic_page": 58,
+      "text": "Jawab Simon: \"Aku kira dia yang paling banyak dihapuskan hutangnya.\" Kata Yesus kepadanya: \"Betul pendapatmu itu.\""
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "5",
+      "ref": "Luke 7:44",
+      "arabic_page": 58,
+      "text": "Dan sambil berpaling kepada perempuan itu, Ia berkata kepada Simon: \"Engkau lihat perempuan ini? Aku masuk ke rumahmu, namun engkau tidak memberikan Aku air untuk membasuh kaki-Ku, tetapi"
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "6",
+      "ref": "Luke 7:44",
+      "arabic_page": 58,
+      "text": "dia membasahi kaki-Ku dengan air mata dan menyekanya dengan rambutnya."
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "6",
+      "ref": "Luke 7:45",
+      "arabic_page": 58,
+      "text": "Engkau tidak mencium Aku, tetapi sejak Aku masuk ia tiada henti-hentinya mencium"
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "7",
+      "ref": "Luke 7:45",
+      "arabic_page": 58,
+      "text": "kaki-Ku."
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "7",
+      "ref": "Luke 7:46",
+      "arabic_page": 58,
+      "text": "Engkau tidak meminyaki kepala-Ku dengan minyak, tetapi dia meminyaki"
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "8",
+      "ref": "Luke 7:46",
+      "arabic_page": 58,
+      "text": "kaki-Ku dengan minyak wangi."
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "8",
+      "ref": "Luke 7:47",
+      "arabic_page": 58,
+      "text": "Sebab itu Aku berkata kepadamu: Dosanya yang banyak itu telah diampuni, sebab ia telah banyak berbuat kasih. Tetapi orang yang sedikit diampuni, sedikit juga ia berbuat kasih.\""
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "9, 10",
+      "ref": "Luke 7:48",
+      "arabic_page": 58,
+      "text": "Lalu Ia berkata kepada perempuan itu: \"Dosamu telah diampuni.\""
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9, 10",
+      "ref": "Luke 7:49",
+      "arabic_page": 58,
+      "text": "Dan mereka, yang duduk makan bersama Dia,"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "11",
+      "ref": "Luke 7:49",
+      "arabic_page": 58,
+      "text": "berpikir dalam hati mereka: \"Siapakah Ia ini, sehingga Ia dapat mengampuni dosa?\""
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "11",
+      "ref": "Luke 7:50",
+      "arabic_page": 58,
+      "text": "Tetapi Yesus berkata kepada perempuan itu: \"Imanmu telah menyelamatkan engkau, pergilah dengan selamat!\""
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "12",
+      "ref": "John 2:23[b",
+      "arabic_page": 58,
+      "text": "banyak orang percaya dalam nama-Nya, karena mereka telah melihat tanda-tanda yang diadakan-Nya."
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "13, 14",
+      "ref": "John 2:24",
+      "arabic_page": 58,
+      "text": "Tetapi Yesus sendiri tidak mempercayakan diri-Nya kepada mereka, karena Ia mengenal mereka semua,"
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "13, 14",
+      "ref": "John 2:25",
+      "arabic_page": 58,
+      "text": "dan karena tidak perlu seorangpun memberi kesaksian kepada-Nya tentang manusia, sebab Ia tahu apa yang ada di dalam hati manusia."
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "15",
+      "ref": "Luke 10:1",
+      "arabic_page": 58,
+      "text": "Kemudian dari pada itu Tuhan menunjuk tujuh puluh murid yang lain, lalu mengutus mereka berdua-dua mendahului-Nya ke setiap kota dan tempat"
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "16",
+      "ref": "Luke 10:1",
+      "arabic_page": 58,
+      "text": "yang hendak dikunjungi-Nya."
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "16",
+      "ref": "Luke 10:2",
+      "arabic_page": 58,
+      "text": "Kata-Nya kepada mereka: \"Tuaian memang banyak, tetapi pekerja sedikit. Karena itu"
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "17",
+      "ref": "Luke 10:2",
+      "arabic_page": 58,
+      "text": "mintalah kepada Tuan yang empunya tuaian, supaya Ia mengirimkan pekerja-pekerja untuk tuaian itu."
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "17",
+      "ref": "Luke 10:3",
+      "arabic_page": 58,
+      "text": "Pergilah,"
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "18",
+      "ref": "Luke 10:3",
+      "arabic_page": 59,
+      "text": "sesungguhnya Aku mengutus kamu seperti anak domba ke tengah-tengah serigala."
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "18",
+      "ref": "Luke 10:4",
+      "arabic_page": 59,
+      "text": "Janganlah membawa"
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "19",
+      "ref": "Luke 10:4",
+      "arabic_page": 59,
+      "text": "pundi-pundi atau bekal atau kasut, dan janganlah memberi salam kepada siapapun selama dalam perjalanan."
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "19",
+      "ref": "Luke 10:5",
+      "arabic_page": 59,
+      "text": "Kalau"
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "20",
+      "ref": "Luke 10:5",
+      "arabic_page": 59,
+      "text": "kamu memasuki suatu rumah, katakanlah lebih dahulu: Damai sejahtera bagi rumah ini."
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "20",
+      "ref": "Luke 10:6",
+      "arabic_page": 59,
+      "text": "Dan jikalau di situ ada orang yang layak menerima damai sejahtera,"
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "21",
+      "ref": "Luke 10:6",
+      "arabic_page": 59,
+      "text": "maka salammu itu akan tinggal atasnya. Tetapi jika tidak, salammu itu kembali kepadamu."
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "21",
+      "ref": "Luke 10:7",
+      "arabic_page": 59,
+      "text": "Tinggallah dalam rumah itu, makan dan minumlah apa yang diberikan orang kepadamu, sebab seorang pekerja"
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "22",
+      "ref": "Luke 10:7",
+      "arabic_page": 59,
+      "text": "patut mendapat upahnya. Janganlah berpindah-pindah rumah."
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "22",
+      "ref": "Luke 10:8",
+      "arabic_page": 59,
+      "text": "Dan jikalau kamu masuk ke dalam sebuah kota"
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "23",
+      "ref": "Luke 10:8",
+      "arabic_page": 59,
+      "text": "dan kamu diterima di situ, makanlah apa yang dihidangkan kepadamu,"
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "23",
+      "ref": "Luke 10:9",
+      "arabic_page": 59,
+      "text": "dan sembuhkanlah orang-orang sakit"
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "24",
+      "ref": "Luke 10:9",
+      "arabic_page": 59,
+      "text": "yang ada di situ dan katakanlah kepada mereka: Kerajaan Allah sudah dekat padamu."
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "24",
+      "ref": "Luke 10:10",
+      "arabic_page": 59,
+      "text": "Tetapi jikalau kamu masuk ke dalam sebuah kota dan kamu tidak diterima di situ, pergilah ke jalan-jalan raya kota itu dan serukanlah:"
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "25",
+      "ref": "Luke 10:11",
+      "arabic_page": 59,
+      "text": "Juga debu kotamu yang melekat pada kaki kami, kami kebaskan di depanmu; tetapi"
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "26",
+      "ref": "Luke 10:11",
+      "arabic_page": 59,
+      "text": "ketahuilah ini: Kerajaan Allah sudah dekat."
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "26",
+      "ref": "Luke 10:12",
+      "arabic_page": 59,
+      "text": "Aku berkata kepadamu: pada hari itu Sodom akan lebih ringan tanggungannya dari pada"
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "27",
+      "ref": "Luke 10:12",
+      "arabic_page": 59,
+      "text": "kota itu.\""
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "27",
+      "ref": "Matthew 11:20",
+      "arabic_page": 59,
+      "text": "Lalu Yesus mulai mengecam kota-kota yang tidak bertobat, sekalipun di situ Ia"
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "28",
+      "ref": "Matthew 11:20",
+      "arabic_page": 59,
+      "text": "paling banyak melakukan mujizat-mujizat-Nya:"
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "28",
+      "ref": "Matthew 11:21",
+      "arabic_page": 59,
+      "text": "\"Celakalah engkau Khorazim! Celakalah engkau Betsaida! Karena jika di Tirus dan di Sidon terjadi mujizat-mujizat yang telah terjadi di tengah-tengah kamu,"
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "29",
+      "ref": "Matthew 11:21",
+      "arabic_page": 59,
+      "text": "sudah lama mereka bertobat dan berkabung."
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "29",
+      "ref": "Matthew 11:22",
+      "arabic_page": 59,
+      "text": "Tetapi Aku berkata kepadamu: Pada hari penghakiman,"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "30",
+      "ref": "Matthew 11:22",
+      "arabic_page": 59,
+      "text": "tanggungan Tirus dan Sidon akan lebih ringan dari pada tanggunganmu."
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "30",
+      "ref": "Matthew 11:23",
+      "arabic_page": 59,
+      "text": "Dan engkau Kapernaum, apakah engkau akan dinaikkan sampai ke langit? Tidak, engkau akan diturunkan sampai ke dunia orang mati! Karena jika di Sodom terjadi mujizat-mujizat yang telah terjadi di tengah-tengah kamu,"
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "31",
+      "ref": "Matthew 11:23",
+      "arabic_page": 59,
+      "text": "kota itu tentu masih berdiri sampai hari ini."
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "31",
+      "ref": "Matthew 11:24",
+      "arabic_page": 59,
+      "text": "Tetapi Aku berkata kepadamu: Pada hari penghakiman, tanggungan negeri Sodom akan lebih ringan dari pada tanggunganmu.\""
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "32",
+      "ref": "Yoh.13:20",
+      "arabic_page": 60,
+      "text": "Aku berkata kepadamu:"
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "32",
+      "ref": "Luke 10:16",
+      "arabic_page": 60,
+      "text": "Barangsiapa mendengarkan kamu, ia mendengarkan Aku; dan barangsiapa menolak kamu, ia menolak Aku; dan barangsiapa menolak Aku, ia menolak Dia yang mengutus Aku.\""
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "33",
+      "ref": "Luke 10:17",
+      "arabic_page": 60,
+      "text": "Kemudian ketujuh puluh murid itu kembali dengan gembira dan berkata: \"Tuhan,"
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "34",
+      "ref": "Luke 10:17",
+      "arabic_page": 60,
+      "text": "juga setan-setan takluk kepada kami demi nama-Mu."
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "34",
+      "ref": "Luke 10:18",
+      "arabic_page": 60,
+      "text": "Lalu kata Yesus kepada mereka: \"Aku melihat"
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "35",
+      "ref": "Luke 10:18",
+      "arabic_page": 60,
+      "text": "Iblis jatuh seperti kilat dari langit."
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "35",
+      "ref": "Luke 10:19",
+      "arabic_page": 60,
+      "text": "Sesungguhnya Aku telah memberikan kuasa kepada kamu untuk menginjak ular dan kalajengking dan kuasa untuk menahan kekuatan musuh, sehingga tidak ada yang akan"
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "36",
+      "ref": "Luke 10:19",
+      "arabic_page": 60,
+      "text": "membahayakan kamu."
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "36",
+      "ref": "Luke 10:20",
+      "arabic_page": 60,
+      "text": "Namun demikian janganlah bersukacita karena roh-roh itu takluk kepadamu, tetapi bersukacitalah karena namamu ada terdaftar di sorga.\""
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "37",
+      "ref": "Luke 10:21",
+      "arabic_page": 60,
+      "text": "Pada waktu itu juga bergembiralah Yesus dalam Roh Kudus dan berkata: \"Aku bersyukur kepada-Mu, Bapa, Tuhan langit dan bumi, karena semuanya itu Engkau sembunyikan bagi orang bijak dan orang pandai, tetapi Engkau nyatakan kepada orang kecil. Ya Bapa, itulah"
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "38",
+      "ref": "Luke 10:21",
+      "arabic_page": 60,
+      "text": "yang berkenan kepada-Mu."
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "38",
+      "ref": "Luke 10:22",
+      "arabic_page": 60,
+      "text": "Semua telah diserahkan kepada-Ku oleh Bapa-Ku dan tidak ada seorangpun yang tahu siapakah Anak selain Bapa, dan siapakah Bapa selain Anak dan orang yang kepadanya Anak itu berkenan"
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "39",
+      "ref": "Luke 10:22",
+      "arabic_page": 60,
+      "text": "menyatakan hal itu.\""
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "39",
+      "ref": "Matthew 11:28",
+      "arabic_page": 60,
+      "text": "Marilah kepada-Ku, semua yang letih lesu dan berbeban berat,"
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "40",
+      "ref": "Matthew 11:28",
+      "arabic_page": 60,
+      "text": "Aku akan memberi kelegaan kepadamu."
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "40",
+      "ref": "Matthew 11:29",
+      "arabic_page": 60,
+      "text": "Pikullah kuk yang Kupasang dan belajarlah pada-Ku,"
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "41",
+      "ref": "Matthew 11:29",
+      "arabic_page": 60,
+      "text": "karena Aku lemah lembut dan rendah hati dan jiwamu akan mendapat ketenangan."
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "41",
+      "ref": "Matthew 11:30",
+      "arabic_page": 60,
+      "text": "Sebab kuk yang Kupasang itu enak dan beban-Kupun ringan.\""
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "42",
+      "ref": "Luke 14:25",
+      "arabic_page": 60,
+      "text": "Pada suatu kali banyak orang berduyun-duyun mengikuti Yesus dalam perjalanan-Nya. Sambil berpaling Ia berkata kepada mereka:"
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "43",
+      "ref": "Luke 14:26",
+      "arabic_page": 60,
+      "text": "\"Jikalau seorang datang kepada-Ku dan ia tidak membenci bapanya, ibunya, isterinya, anak-anaknya, saudara-saudaranya laki-laki atau perempuan, bahkan nyawanya sendiri, ia tidak"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "44",
+      "ref": "Luke 14:26",
+      "arabic_page": 61,
+      "text": "dapat menjadi murid-Ku."
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "44",
+      "ref": "Luke 14:27",
+      "arabic_page": 61,
+      "text": "Barangsiapa tidak memikul salibnya dan"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "45",
+      "ref": "Luke 14:27",
+      "arabic_page": 61,
+      "text": "mengikut Aku, ia tidak dapat menjadi murid-Ku."
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "45",
+      "ref": "Luke 14:28",
+      "arabic_page": 61,
+      "text": "Sebab siapakah di antara kamu yang kalau mau mendirikan sebuah menara tidak duduk dahulu membuat anggaran biayanya, kalau-kalau cukup uangnya untuk"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "46",
+      "ref": "Luke 14:28",
+      "arabic_page": 61,
+      "text": "menyelesaikan pekerjaan itu?"
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "46",
+      "ref": "Luke 14:29",
+      "arabic_page": 61,
+      "text": "Supaya jikalau ia sudah meletakkan dasarnya dan tidak dapat menyelesaikannya, jangan-jangan semua orang yang melihatnya,"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "47",
+      "ref": "Luke 14:29",
+      "arabic_page": 61,
+      "text": "mengejek dia,"
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "47",
+      "ref": "Luke 14:30",
+      "arabic_page": 61,
+      "text": "sambil berkata: Orang itu mulai mendirikan, tetapi ia tidak sanggup"
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "48",
+      "ref": "Luke 14:30",
+      "arabic_page": 61,
+      "text": "menyelesaikannya."
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "48",
+      "ref": "Luke 14:31",
+      "arabic_page": 61,
+      "text": "Atau, raja manakah yang kalau mau pergi berperang melawan raja lain tidak duduk dahulu untuk mempertimbangkan, apakah dengan sepuluh ribu orang ia sanggup menghadapi lawan yang mendatanginya"
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "49",
+      "ref": "Luke 14:31",
+      "arabic_page": 61,
+      "text": "dengan dua puluh ribu orang?"
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "49",
+      "ref": "Luke 14:32",
+      "arabic_page": 61,
+      "text": "Jikalau tidak, ia akan mengirim utusan selama musuh itu masih jauh"
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "50",
+      "ref": "Luke 14:32",
+      "arabic_page": 61,
+      "text": "untuk menanyakan syarat-syarat perdamaian."
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "50",
+      "ref": "Luke 14:33",
+      "arabic_page": 61,
+      "text": "Demikian pulalah tiap-tiap orang di antara kamu, yang tidak melepaskan dirinya dari segala miliknya, tidak dapat menjadi murid-Ku."
+    }
+  ]
+}

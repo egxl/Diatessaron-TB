@@ -1,0 +1,722 @@
+{
+  "id": 24,
+  "title": "BAB 24",
+  "source_post_id": "p56191",
+  "canonical_books": [
+    "Luk",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "total_segments": 101,
+  "diatessaron_verse_range": "1 - 52",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "Mark 9:1",
+      "arabic_page": null,
+      "text": "Kata-Nya lagi kepada mereka: \"Aku berkata kepadamu, sesungguhnya di antara orang yang hadir di sini ada yang tidak akan mati sebelum mereka melihat bahwa Kerajaan Allah telah datang dengan kuasa.\""
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "1",
+      "ref": "Matthew 16:28b",
+      "arabic_page": null,
+      "text": "Anak Manusia datang sebagai Raja dalam Kerajaan-Nya.\""
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 17:1",
+      "arabic_page": null,
+      "text": "Enam hari kemudian Yesus membawa Petrus, Yakobus dan Yohanes saudaranya,"
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 17:1",
+      "arabic_page": null,
+      "text": "dan bersama-sama dengan mereka Ia naik ke sebuah gunung yang tinggi. Di situ mereka sendiri saja."
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "3",
+      "ref": "Luke 9:29a",
+      "arabic_page": null,
+      "text": "Ketika Ia sedang,"
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "Luke 9:29a",
+      "arabic_page": null,
+      "text": "berdoa"
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 17:2a",
+      "arabic_page": null,
+      "text": "Lalu Yesus berubah rupa di depan mata mereka; wajah-Nya bercahaya seperti matahari,"
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "4",
+      "ref": "Mark 9:3",
+      "arabic_page": null,
+      "text": "dan pakaian-Nya sangat putih"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "5",
+      "ref": "Mark 9:3",
+      "arabic_page": null,
+      "text": "berkilat-kilat. Tidak ada seorangpun di dunia ini yang dapat mengelantang pakaian seperti itu."
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "5",
+      "ref": "Mark 9:4",
+      "arabic_page": null,
+      "text": "Maka nampaklah"
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "6",
+      "ref": "Mark 9:4",
+      "arabic_page": null,
+      "text": "kepada mereka Elia bersama dengan Musa, keduanya sedang berbicara dengan Yesus."
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "6",
+      "ref": "Luke 9:31b",
+      "arabic_page": null,
+      "text": "dan berbicara tentang"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "7",
+      "ref": "Luke 9:31b",
+      "arabic_page": null,
+      "text": "tujuan kepergian-Nya yang akan digenapi-Nya di Yerusalem."
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "7",
+      "ref": "Luke 9:32",
+      "arabic_page": null,
+      "text": "Sementara itu Petrus dan teman-temannya telah tertidur dan ketika mereka terbangun mereka melihat Yesus dalam kemuliaan-Nya: dan kedua orang yang berdiri di dekat-Nya itu."
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "8",
+      "ref": "Luke 9:33a",
+      "arabic_page": 93,
+      "text": "Dan ketika kedua orang itu hendak meninggalkan Yesus, Petrus berkata kepada-Nya:"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "9",
+      "ref": "Luke 9:33a",
+      "arabic_page": 93,
+      "text": "\"Guru, betapa bahagianya kami berada di tempat ini."
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 17:4b",
+      "arabic_page": 93,
+      "text": "Jika Engkau mau, biarlah kudirikan di sini tiga kemah, satu untuk Engkau, satu untuk Musa dan satu untuk Elia.\""
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "9",
+      "ref": "Luke 9:33c",
+      "arabic_page": 93,
+      "text": "Tetapi Petrus tidak tahu"
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "10",
+      "ref": "Luke 9:33c",
+      "arabic_page": 93,
+      "text": "apa yang"
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "11",
+      "ref": "Luke 9:33c",
+      "arabic_page": 93,
+      "text": "dikatakannya itu,"
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "11",
+      "ref": "Luk.9:34a",
+      "arabic_page": 93,
+      "text": "datanglah awan menaungi mereka."
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "11",
+      "ref": "Luke 9:34b",
+      "arabic_page": 93,
+      "text": "Dan ketika mereka"
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "12",
+      "ref": "Luke 9:34b",
+      "arabic_page": 93,
+      "text": "masuk ke dalam awan itu, takutlah mereka."
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "12",
+      "ref": "Matthew 17:5b",
+      "arabic_page": 93,
+      "text": "dan dari dalam awan itu terdengar suara yang berkata: \"Inilah Anak yang Kukasihi, kepada-Nyalah Aku berkenan,"
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "13",
+      "ref": "Matthew 17:5b",
+      "arabic_page": 93,
+      "text": "dengarkanlah Dia.\""
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "13",
+      "ref": "Luke 9:36a",
+      "arabic_page": 93,
+      "text": "Ketika suara itu terdengar, nampaklah Yesus tinggal seorang diri."
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "14",
+      "ref": "Matthew 17:6",
+      "arabic_page": 93,
+      "text": "Mendengar itu tersungkurlah murid-murid-Nya dan"
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "15",
+      "ref": "Matthew 17:6",
+      "arabic_page": 93,
+      "text": "mereka sangat ketakutan."
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "15",
+      "ref": "Matthew 17:7",
+      "arabic_page": 93,
+      "text": "Lalu Yesus datang kepada mereka dan menyentuh mereka sambil berkata: \"Berdirilah, jangan"
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "16",
+      "ref": "Matthew 17:7",
+      "arabic_page": 93,
+      "text": "takut!\""
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "16",
+      "ref": "Matthew 17:8",
+      "arabic_page": 93,
+      "text": "Dan ketika mereka mengangkat kepala, mereka tidak melihat seorangpun kecuali Yesus seorang diri."
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "17",
+      "ref": "Matthew 17:9",
+      "arabic_page": 93,
+      "text": "Pada waktu mereka turun dari gunung itu, Yesus berpesan kepada mereka: \"Jangan kamu ceriterakan penglihatan itu kepada seorangpun sebelum Anak Manusia dibangkitkan"
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "18",
+      "ref": "Matthew 17:9",
+      "arabic_page": 93,
+      "text": "dari antara orang mati.\""
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "18",
+      "ref": "Luke 9:36b",
+      "arabic_page": 93,
+      "text": "Dan murid-murid itu merahasiakannya,"
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "19",
+      "ref": "Luke 9:36b",
+      "arabic_page": 93,
+      "text": "dan pada masa itu mereka tidak menceriterakan kepada siapapun apa yang telah mereka lihat itu."
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "19",
+      "ref": "Mark 9:10b",
+      "arabic_page": 93,
+      "text": "Mereka memegang pesan tadi sambil mempersoalkan di antara mereka"
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "20",
+      "ref": "Mark 9:10b",
+      "arabic_page": 93,
+      "text": "apa yang dimaksud dengan \"bangkit dari antara orang mati.\""
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "20",
+      "ref": "Mark 9:11",
+      "arabic_page": 93,
+      "text": "Lalu mereka bertanya kepada-Nya: \"Mengapa ahli-ahli Taurat berkata, bahwa Elia"
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "21",
+      "ref": "Mark 9:11",
+      "arabic_page": 93,
+      "text": "harus datang dahulu?\""
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "21",
+      "ref": "Mark 9:12",
+      "arabic_page": 94,
+      "text": "Jawab Yesus: \"Memang Elia akan datang dahulu dan memulihkan segala sesuatu. Hanya, bagaimanakah dengan yang ada tertulis mengenai Anak Manusia, bahwa Ia akan banyak menderita"
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "22",
+      "ref": "Mark 9:12",
+      "arabic_page": 94,
+      "text": "dan akan dihinakan?"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "22",
+      "ref": "Mark 9:13",
+      "arabic_page": 94,
+      "text": "Tetapi Aku berkata kepadamu: Memang Elia sudah datang dan orang memperlakukan dia menurut kehendak mereka, sesuai dengan yang ada tertulis tentang dia.\""
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "23",
+      "ref": "Mark 9:13",
+      "arabic_page": 94,
+      "text": ","
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "24",
+      "ref": "Matthew 17:12b",
+      "arabic_page": 94,
+      "text": "Demikian juga Anak Manusia akan menderita oleh mereka.\""
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "24",
+      "ref": "Matthew 17:13",
+      "arabic_page": 94,
+      "text": "Pada waktu itu mengertilah murid-murid Yesus bahwa Ia berbicara tentang Yohanes Pembaptis."
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "25",
+      "ref": "Mark 9:14",
+      "arabic_page": 94,
+      "text": "Ketika Yesus, Petrus, Yakobus dan Yohanes kembali pada murid-murid lain, mereka melihat orang banyak mengerumuni murid-murid itu, dan beberapa ahli Taurat sedang mempersoalkan sesuatu"
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "26",
+      "ref": "Mark 9:14",
+      "arabic_page": 94,
+      "text": "dengan mereka."
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "26",
+      "ref": "Mark 9:15",
+      "arabic_page": 94,
+      "text": "Pada waktu orang banyak itu melihat Yesus,"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "27",
+      "ref": "Mark 9:15",
+      "arabic_page": 94,
+      "text": "tercenganglah mereka semua dan bergegas menyambut Dia."
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "27",
+      "ref": "Luke 13:31",
+      "arabic_page": 94,
+      "text": "Pada waktu itu datanglah beberapa orang Farisi dan berkata kepada Yesus: \"Pergilah, tinggalkanlah tempat ini, karena Herodes"
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "28",
+      "ref": "Luke 13:31",
+      "arabic_page": 94,
+      "text": "hendak membunuh Engkau.\""
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "28",
+      "ref": "Luke 13:32",
+      "arabic_page": 94,
+      "text": "Jawab Yesus kepada mereka: \"Pergilah dan katakanlah kepada si serigala itu: Aku mengusir setan dan menyembuhkan orang, pada hari ini dan besok, dan pada hari yang ketiga Aku akan selesai."
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "29",
+      "ref": "Luke 13:33",
+      "arabic_page": 94,
+      "text": "Tetapi hari ini dan besok dan lusa Aku harus meneruskan perjalanan-Ku, sebab tidaklah semestinya seorang nabi dibunuh kalau tidak di Yerusalem."
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "30",
+      "ref": "Luke 9:37a",
+      "arabic_page": 94,
+      "text": "Pada keesokan harinya,"
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "30",
+      "ref": "Matthew 17:14b",
+      "arabic_page": 94,
+      "text": "datanglah seorang mendapatkan Yesus dan menyembah,"
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "30",
+      "ref": "Matthew 17:15a",
+      "arabic_page": 94,
+      "text": "] katanya: \"Tuhan, kasihanilah anakku."
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "30",
+      "ref": "Luke 9:38b",
+      "arabic_page": 94,
+      "text": "sebab ia adalah"
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "31",
+      "ref": "Luke 9:38b",
+      "arabic_page": 94,
+      "text": "satu-satunya anakku."
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "31",
+      "ref": "Luke 9:39",
+      "arabic_page": 94,
+      "text": "Sewaktu-waktu ia diserang roh,"
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "31",
+      "ref": "Matthew 17:15b",
+      "arabic_page": 94,
+      "text": "Ia sakit ayan"
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "32",
+      "ref": "Matthew 17:15b",
+      "arabic_page": 94,
+      "text": "dan sangat menderita."
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "32",
+      "ref": "Mark 9:18a",
+      "arabic_page": 94,
+      "text": "Dan setiap kali roh itu menyerang dia, roh itu membantingkannya ke tanah;"
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "33",
+      "ref": "Mark 9:18a",
+      "arabic_page": 94,
+      "text": "lalu mulutnya berbusa, giginya bekertakan dan tubuhnya menjadi kejang."
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "33",
+      "ref": "Matthew 17:15c",
+      "arabic_page": 94,
+      "text": "Ia sering jatuh ke dalam api dan juga sering ke dalam air."
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "33",
+      "ref": "Luke 9:39b",
+      "arabic_page": 94,
+      "text": "Roh itu terus saja menyiksa dia dan"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "34",
+      "ref": "Luke 9:39b",
+      "arabic_page": 95,
+      "text": "hampir-hampir tidak mau meninggalkannya."
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "34",
+      "ref": "Matthew 17:16",
+      "arabic_page": 95,
+      "text": "Aku sudah membawanya kepada murid-murid-Mu, tetapi mereka"
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 17:16",
+      "arabic_page": 95,
+      "text": "tidak dapat menyembuhkannya.\""
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 17:17",
+      "arabic_page": 95,
+      "text": "Maka kata Yesus: \"Hai kamu angkatan yang tidak percaya dan yang sesat, berapa lama lagi Aku harus tinggal di antara kamu? Berapa lama lagi Aku harus sabar terhadap kamu?"
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "36",
+      "ref": "Matthew 17:17",
+      "arabic_page": 95,
+      "text": "Bawalah anak itu ke mari!\""
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "36",
+      "ref": "Mark 9:20",
+      "arabic_page": 95,
+      "text": "Lalu mereka membawanya kepada-Nya. Waktu roh itu melihat Yesus,"
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "37",
+      "ref": "Mark 9:20",
+      "arabic_page": 95,
+      "text": "anak itu segera digoncang-goncangnya, dan anak itu terpelanting ke tanah dan terguling-guling, sedang mulutnya berbusa."
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "37",
+      "ref": "Mark 9:21",
+      "arabic_page": 95,
+      "text": "Lalu Yesus bertanya kepada ayah anak itu: \"Sudah berapa lama ia mengalami ini?\""
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "38",
+      "ref": "Mark 9:21",
+      "arabic_page": 95,
+      "text": "Jawabnya: \"Sejak masa kecilnya."
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "38",
+      "ref": "Mark 9:22b",
+      "arabic_page": 95,
+      "text": "Sebab itu jika"
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "39",
+      "ref": "Mark 9:22b",
+      "arabic_page": 95,
+      "text": "Engkau dapat berbuat sesuatu, tolonglah kami dan kasihanilah kami.\""
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "39",
+      "ref": "Mark 9:23",
+      "arabic_page": 95,
+      "text": "Jawab Yesus: \"Katamu: jika Engkau dapat?"
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "40",
+      "ref": "Mark 9:23",
+      "arabic_page": 95,
+      "text": "Tidak ada yang mustahil bagi orang yang percaya!\""
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "40",
+      "ref": "Mark 9:24",
+      "arabic_page": 95,
+      "text": "Segera ayah anak itu"
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "41",
+      "ref": "Mark 9:24",
+      "arabic_page": 95,
+      "text": "berteriak: \"Aku percaya. Tolonglah aku yang tidak percaya ini!\""
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "41",
+      "ref": "Mark 9:25",
+      "arabic_page": 95,
+      "text": "Ketika Yesus melihat orang banyak makin datang berkerumun, Ia menegor roh jahat itu dengan keras, kata-Nya: \"Hai kau roh yang menyebabkan orang menjadi bisu dan tuli, Aku memerintahkan engkau,"
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "42",
+      "ref": "Mark 9:25",
+      "arabic_page": 95,
+      "text": "keluarlah dari pada anak ini dan jangan memasukinya lagi!\""
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "42",
+      "ref": "Mark 9:26",
+      "arabic_page": 95,
+      "text": "Lalu keluarlah roh itu sambil berteriak dan menggoncang-goncang anak itu dengan hebatnya. Anak itu kelihatannya seperti orang mati,"
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "43",
+      "ref": "Mark 9:26",
+      "arabic_page": 95,
+      "text": "sehingga banyak orang yang berkata: \"Ia sudah mati.\""
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "43",
+      "ref": "Mark 9:27",
+      "arabic_page": 95,
+      "text": "Tetapi Yesus memegang tangan anak itu dan membangunkannya, lalu ia"
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "44",
+      "ref": "Mark 9:27",
+      "arabic_page": 95,
+      "text": "bangkit sendiri."
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "44",
+      "ref": "Luke 9:42b",
+      "arabic_page": 95,
+      "text": "lalu mengembalikannya kepada ayahnya."
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "44",
+      "ref": "Luke 9:43a",
+      "arabic_page": 95,
+      "text": "Maka takjublah semua orang itu karena kebesaran Allah."
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "45",
+      "ref": "Mark 9:28",
+      "arabic_page": 95,
+      "text": "Ketika Yesus sudah di rumah, dan murid-murid-Nya sendirian dengan Dia,"
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "46",
+      "ref": "Mark 9:28",
+      "arabic_page": 95,
+      "text": "bertanyalah mereka: \"Mengapa kami tidak dapat mengusir roh itu?\""
+    },
+    {
+      "id": 91,
+      "diatessaron_verse": "46",
+      "ref": "Matthew 17:20",
+      "arabic_page": 96,
+      "text": "Ia berkata kepada mereka: \"Karena kamu kurang percaya. Sebab Aku berkata kepadamu: Sesungguhnya sekiranya kamu mempunyai iman sebesar biji sesawi saja kamu dapat berkata kepada gunung ini: Pindah dari tempat ini ke sana,"
+    },
+    {
+      "id": 92,
+      "diatessaron_verse": "47",
+      "ref": "Matthew 17:20",
+      "arabic_page": 96,
+      "text": "--maka gunung ini akan pindah, dan takkan ada yang mustahil bagimu."
+    },
+    {
+      "id": 93,
+      "diatessaron_verse": "47",
+      "ref": "Mark 9:29b",
+      "arabic_page": 96,
+      "text": "\"Jenis ini tidak dapat diusir kecuali dengan berdoa.\""
+    },
+    {
+      "id": 94,
+      "diatessaron_verse": "48",
+      "ref": "Mark 9:30",
+      "arabic_page": 96,
+      "text": "Yesus dan murid-murid-Nya berangkat dari situ dan melewati Galilea, dan Yesus tidak mau"
+    },
+    {
+      "id": 95,
+      "diatessaron_verse": "49",
+      "ref": "Mark 9:30",
+      "arabic_page": 96,
+      "text": "hal itu diketahui orang;"
+    },
+    {
+      "id": 96,
+      "diatessaron_verse": "49",
+      "ref": "Mark 9:31",
+      "arabic_page": 96,
+      "text": "sebab Ia sedang mengajar murid-murid-Nya. Ia berkata kepada mereka:"
+    },
+    {
+      "id": 97,
+      "diatessaron_verse": "50",
+      "ref": "Mark 9:31",
+      "arabic_page": 96,
+      "text": "\"Anak Manusia akan diserahkan ke dalam tangan manusia, dan mereka akan membunuh Dia,"
+    },
+    {
+      "id": 98,
+      "diatessaron_verse": "51",
+      "ref": "Mark 9:31",
+      "arabic_page": 96,
+      "text": "dan tiga hari sesudah Ia dibunuh Ia akan bangkit.\""
+    },
+    {
+      "id": 99,
+      "diatessaron_verse": "51",
+      "ref": "Luke 9:45",
+      "arabic_page": 96,
+      "text": "Mereka tidak mengerti perkataan itu, sebab artinya tersembunyi bagi mereka, sehingga mereka tidak dapat memahaminya."
+    },
+    {
+      "id": 100,
+      "diatessaron_verse": "52",
+      "ref": "Luke 9:45",
+      "arabic_page": 96,
+      "text": "Dan mereka tidak berani menanyakan arti perkataan itu kepada-Nya."
+    },
+    {
+      "id": 101,
+      "diatessaron_verse": "52",
+      "ref": "Matthew 17:23b",
+      "arabic_page": 96,
+      "text": "Maka hati murid-murid-Nya itupun sedih sekali."
+    }
+  ]
+}

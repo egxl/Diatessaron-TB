@@ -52,6 +52,12 @@ body {
     color: #000;
 }
 
+#chapter-list a.active {
+    background-color: #1e3a8a;
+    color: #fff;
+    font-weight: 600;
+}
+
 /* Main Content */
 main {
     position: relative;
@@ -67,35 +73,75 @@ main {
     font-size: 1.1rem;
 }
 
+.chapter-container h3 {
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 8px;
+    margin-top: 40px;
+    color: #1f2937;
+    font-size: 1.4rem;
+}
+
 .verse {
     cursor: pointer;
     transition: background-color 0.2s;
+    border-radius: 2px;
 }
 
 .verse:hover {
-    background-color: #f9f9f9;
+    background-color: #fef3c7;
 }
 
 .highlight {
-    background-color: #f0f0f0;
+    background-color: #fde68a !important;
 }
 
 /* Sticky Header / Tooltip */
 #sticky-header {
     position: sticky;
     top: 0;
-    background-color: rgba(255, 255, 255, 0.95);
-    padding: 10px;
-    border-bottom: 1px solid #eee;
+    background-color: rgba(255, 255, 255, 0.96);
+    backdrop-filter: blur(4px);
+    padding: 12px 16px;
+    border-bottom: 1px solid #e5e7eb;
     margin-bottom: 20px;
     font-family: sans-serif;
-    font-size: 0.9rem;
-    color: #666;
+    font-size: 0.95rem;
+    color: #374151;
     z-index: 10;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    display: flex;
+    align-items: center;
+}
+
+.ref-title {
+    font-weight: 700;
+    color: #111827;
+    font-size: 1.05rem;
+}
+
+.badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    line-height: 1;
+}
+
+.badge-diatessaron {
+    background-color: #e0e7ff;
+    color: #3730a3;
+    margin-left: 10px;
+}
+
+.badge-page {
+    background-color: #fef3c7;
+    color: #92400e;
+    margin-left: 6px;
 }
 
 .hidden {
-    display: none;
+    display: none !important;
 }
 
 /* Mobile Header (Hidden by default on Desktop) */

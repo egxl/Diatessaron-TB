@@ -1,0 +1,666 @@
+{
+  "id": 23,
+  "title": "BAB 23",
+  "source_post_id": "p55500",
+  "canonical_books": [
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "total_segments": 93,
+  "diatessaron_verse_range": "1 - 50",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "Matthew 15:29",
+      "arabic_page": null,
+      "text": "Setelah meninggalkan daerah itu, Yesus menyusur pantai danau Galilea dan"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 15:29",
+      "arabic_page": null,
+      "text": "naik ke atas bukit lalu duduk di situ."
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 15:30a",
+      "arabic_page": null,
+      "text": "Kemudian orang banyak berbondong-bondong datang kepada-Nya membawa orang lumpuh, orang timpang, orang buta, orang bisu dan banyak lagi yang lain,"
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 15:30a",
+      "arabic_page": null,
+      "text": "lalu meletakkan mereka pada kaki Yesus."
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "3",
+      "ref": "John 4:45b",
+      "arabic_page": null,
+      "text": "karena mereka telah melihat segala sesuatu yang dikerjakan-Nya di"
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "John 4:45b",
+      "arabic_page": null,
+      "text": "Yerusalem pada pesta itu, sebab mereka sendiripun turut ke pesta itu."
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 15:30b",
+      "arabic_page": null,
+      "text": "dan Ia menyembuhkan mereka semuanya."
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 15:31",
+      "arabic_page": null,
+      "text": "Maka takjublah orang banyak itu melihat orang bisu berkata-kata, orang timpang sembuh, orang lumpuh berjalan, orang buta melihat, dan mereka memuliakan Allah Israel."
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 15:32",
+      "arabic_page": null,
+      "text": "Lalu Yesus memanggil murid-murid-Nya dan berkata: \"Hati-Ku tergerak oleh belas kasihan kepada orang banyak itu. Sudah tiga hari mereka mengikuti Aku dan mereka tidak mempunyai makanan. Aku tidak mau menyuruh mereka pulang dengan lapar, nanti mereka pingsan di jalan.\""
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "5",
+      "ref": "Mark 8:3b",
+      "arabic_page": null,
+      "text": "sebab ada yang datang dari jauh.\""
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "6",
+      "ref": "Mark 8:3b",
+      "arabic_page": 89,
+      "text": "datang dari jauh.\""
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "6",
+      "ref": "Matthew 15:33",
+      "arabic_page": 89,
+      "text": "Kata murid-murid-Nya kepada-Nya: \"Bagaimana di tempat sunyi ini kita mendapat"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "7",
+      "ref": "Matthew 15:33",
+      "arabic_page": 89,
+      "text": "roti untuk mengenyangkan orang banyak yang begitu besar jumlahnya?\""
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "7",
+      "ref": "Matthew 15:34",
+      "arabic_page": 89,
+      "text": "Kata Yesus kepada mereka: \""
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 15:34",
+      "arabic_page": 89,
+      "text": "Berapa roti ada padamu?\" \"Tujuh,\" jawab mereka, \"dan ada lagi beberapa ikan kecil.\""
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 15:35",
+      "arabic_page": 89,
+      "text": "Lalu Yesus"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 15:35",
+      "arabic_page": 89,
+      "text": "menyuruh orang banyak itu duduk di tanah."
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 15:36",
+      "arabic_page": 89,
+      "text": "Sesudah itu Ia mengambil ketujuh roti dan ikan-ikan itu, mengucap syukur, memecah-mecahkannya dan memberikannya kepada murid-murid-Nya,"
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "10",
+      "ref": "Matthew 15:36",
+      "arabic_page": 89,
+      "text": "lalu murid-murid-Nya memberikannya pula kepada orang banyak."
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "10",
+      "ref": "Matthew 15:37",
+      "arabic_page": 89,
+      "text": "Dan mereka semuanya makan sampai kenyang. Kemudian orang mengumpulkan potongan-potongan roti yang sisa, tujuh bakul penuh."
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "11",
+      "ref": "Matthew 15:38",
+      "arabic_page": 89,
+      "text": "Yang ikut makan ialah empat ribu laki-laki, tidak termasuk perempuan dan anak-anak."
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "12",
+      "ref": "Matthew 15:39",
+      "arabic_page": 89,
+      "text": "Lalu Yesus menyuruh orang banyak itu pulang. Ia naik perahu dan bertolak ke daerah Magadan."
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "13",
+      "ref": "Mark 8:11",
+      "arabic_page": 89,
+      "text": "Lalu muncullah orang-orang Farisi dan bersoal jawab dengan Yesus. Untuk mencobai Dia mereka meminta dari pada-Nya suatu tanda dari sorga."
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "14",
+      "ref": "Mark 8:12",
+      "arabic_page": 89,
+      "text": "Maka mengeluhlah Ia dalam hati-Nya dan berkata: \"Mengapa angkatan ini meminta tanda?"
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "14",
+      "ref": "Luke 11:29",
+      "arabic_page": 89,
+      "text": "Mereka menghendaki suatu tanda, tetapi kepada mereka tidak akan diberikan tanda selain"
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "15",
+      "ref": "Luke 11:29",
+      "arabic_page": 89,
+      "text": "tanda nabi Yunus."
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "15",
+      "ref": "Mark 8:12b",
+      "arabic_page": 89,
+      "text": "Aku berkata kepadamu, sesungguhnya kepada angkatan ini sekali-kali tidak akan diberi"
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "16",
+      "ref": "Mark 8:12b",
+      "arabic_page": 89,
+      "text": "tanda.\""
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "16",
+      "ref": "Mark 8:13",
+      "arabic_page": 89,
+      "text": "Ia meninggalkan mereka; Ia naik pula ke perahu dan bertolak ke seberang."
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "17",
+      "ref": "Mark 8:14",
+      "arabic_page": 89,
+      "text": "Kemudian ternyata murid-murid Yesus lupa membawa roti,"
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "18",
+      "ref": "Mark 8:14",
+      "arabic_page": 89,
+      "text": "hanya sebuah saja yang ada pada mereka dalam perahu."
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "18",
+      "ref": "Mark 8:15a",
+      "arabic_page": 89,
+      "text": "Lalu Yesus memperingatkan mereka, kata-Nya:"
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "18",
+      "ref": "Matthew 16:6b",
+      "arabic_page": 89,
+      "text": "\"Berjaga-jagalah dan awaslah terhadap ragi orang Farisi dan dan Saduki.\""
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "19",
+      "ref": "Matthew 16:6b",
+      "arabic_page": 89,
+      "text": "dan ragi Herodes.\""
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "19",
+      "ref": "Matthew 16:7",
+      "arabic_page": 89,
+      "text": "Maka mereka berpikir-pikir dan seorang berkata kepada yang lain: \"Itu dikatakan-Nya karena kita"
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "20",
+      "ref": "Matthew 16:7",
+      "arabic_page": 89,
+      "text": "tidak membawa roti.\""
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "20",
+      "ref": "Matthew 16:8",
+      "arabic_page": 89,
+      "text": "Dan ketika Yesus mengetahui apa yang mereka perbincangkan, Ia berkata: \"Mengapa kamu memperbincangkan soal tidak ada roti? Hai orang-orang yang kurang percaya!"
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "20",
+      "ref": "Mark 8:17b",
+      "arabic_page": 89,
+      "text": "Belum jugakah kamu faham dan mengerti? Telah degilkah hatimu?"
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "20",
+      "ref": "Mark 8:18",
+      "arabic_page": 89,
+      "text": "Kamu mempunyai mata, tidakkah kamu melihat"
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "22",
+      "ref": "Mark 8:18",
+      "arabic_page": 90,
+      "text": "dan kamu mempunyai telinga, tidakkah kamu mendengar? Tidakkah kamu ingat lagi,"
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "22",
+      "ref": "Mark 8:19",
+      "arabic_page": 90,
+      "text": "pada waktu Aku memecah-mecahkan lima roti untuk lima ribu orang itu, berapa"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "23",
+      "ref": "Mark 8:19",
+      "arabic_page": 90,
+      "text": "bakul penuh potongan-potongan roti kamu kumpulkan?\" Jawab mereka: \"Dua belas bakul.\""
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "23",
+      "ref": "Mark 8:20",
+      "arabic_page": 90,
+      "text": "\"Dan pada waktu tujuh roti untuk empat ribu orang itu, berapa bakul penuh potongan-potongan roti kamu kumpulkan?\""
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "24",
+      "ref": "Mark 8:20",
+      "arabic_page": 90,
+      "text": "Jawab mereka: \"Tujuh bakul.\""
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "24",
+      "ref": "Matthew 16:11",
+      "arabic_page": 90,
+      "text": "Bagaimana mungkin kamu tidak mengerti bahwa bukan roti yang Kumaksudkan. Aku berkata kepadamu: Waspadalah terhadap ragi orang Farisi"
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "25",
+      "ref": "Matthew 16:11",
+      "arabic_page": 90,
+      "text": "dan Saduki.\""
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "25",
+      "ref": "Matthew 16:12",
+      "arabic_page": 90,
+      "text": "Ketika itu barulah mereka mengerti bahwa bukan maksud-Nya supaya mereka waspada terhadap ragi roti, melainkan terhadap ajaran orang Farisi dan Saduki."
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "26",
+      "ref": "Mark 8:22",
+      "arabic_page": 90,
+      "text": "Kemudian tibalah Yesus dan murid-murid-Nya di Betsaida. Di situ orang membawa kepada Yesus seorang buta"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "27",
+      "ref": "Mark 8:22",
+      "arabic_page": 90,
+      "text": "dan mereka memohon kepada-Nya, supaya Ia menjamah dia."
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "27",
+      "ref": "Mark 8:23",
+      "arabic_page": 90,
+      "text": "Yesus memegang tangan orang buta itu dan membawa dia ke luar kampung. Lalu Ia meludahi mata orang itu dan"
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "28",
+      "ref": "Mark 8:23",
+      "arabic_page": 90,
+      "text": "meletakkan tangan-Nya atasnya, dan bertanya: \"Sudahkah kaulihat sesuatu?\""
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "28",
+      "ref": "Mark 8:24",
+      "arabic_page": 90,
+      "text": "Orang itu memandang ke depan,"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "29",
+      "ref": "Mark 8:24",
+      "arabic_page": 90,
+      "text": "lalu berkata: \"Aku melihat orang, sebab melihat mereka berjalan-jalan, tetapi tampaknya seperti pohon-pohon.\""
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "29",
+      "ref": "Mark 8:25",
+      "arabic_page": 90,
+      "text": "Yesus meletakkan lagi tangan-Nya pada mata orang itu,"
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "30",
+      "ref": "Mark 8:25",
+      "arabic_page": 90,
+      "text": "maka orang itu sungguh-sungguh melihat dan telah sembuh, sehingga ia dapat melihat segala sesuatu dengan jelas."
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "30",
+      "ref": "Mark 8:26",
+      "arabic_page": 90,
+      "text": "Sesudah itu Yesus menyuruh dia pulang ke rumahnya dan berkata: \"Jangan masuk ke kampung!\""
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "31",
+      "ref": "Mark 8:27a",
+      "arabic_page": 90,
+      "text": "Kemudian Yesus beserta murid-murid-Nya berangkat ke kampung-kampung di sekitar Kaisarea Filipi."
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "32",
+      "ref": "Matthew 16:13b",
+      "arabic_page": 90,
+      "text": "Ia bertanya kepada murid-murid-Nya:"
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "33",
+      "ref": "Matthew 16:13b",
+      "arabic_page": 90,
+      "text": "\"Kata orang, siapakah Anak Manusia itu?\","
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "33",
+      "ref": "Matthew 16:14",
+      "arabic_page": 90,
+      "text": "Jawab mereka: \"Ada yang mengatakan: Yohanes Pembaptis, ada juga yang mengatakan: Elia dan ada pula yang mengatakan: Yeremia atau salah seorang dari"
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "34",
+      "ref": "Matthew 16:14",
+      "arabic_page": 90,
+      "text": ", para nabi.\""
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 16:15",
+      "arabic_page": 90,
+      "text": "Lalu Yesus bertanya kepada mereka: \"Tetapi apa katamu, siapakah Aku ini?\""
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 16:16",
+      "arabic_page": 90,
+      "text": "Maka jawab Simon Petrus:"
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "36",
+      "ref": "Matthew 16:16",
+      "arabic_page": 91,
+      "text": "\"Engkau adalah Mesias, Anak Allah yang hidup!\""
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "36",
+      "ref": "Matthew 16:17",
+      "arabic_page": 91,
+      "text": "Kata Yesus kepadanya: \"Berbahagialah engkau Simon bin Yunus sebab"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "37",
+      "ref": "Matthew 16:17",
+      "arabic_page": 91,
+      "text": "bukan manusia yang menyatakan itu kepadamu, melainkan Bapa-Ku yang di sorga."
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "37",
+      "ref": "Matthew 16:18",
+      "arabic_page": 91,
+      "text": "Dan Akupun berkata kepadamu: Engkau adalah Petrus dan di atas batu karang ini Aku akan mendirikan jemaat-Ku"
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "38",
+      "ref": "Matthew 16:18",
+      "arabic_page": 91,
+      "text": "dan alam maut tidak akan menguasainya."
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "38",
+      "ref": "Matthew 16:19",
+      "arabic_page": 91,
+      "text": "Kepadamu akan Kuberikan kunci Kerajaan Sorga. Apa yang kauikat di dunia ini akan terikat di sorga dan"
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "39",
+      "ref": "Matthew 16:19",
+      "arabic_page": 91,
+      "text": "apa yang kaulepaskan di dunia ini akan terlepas di sorga.\""
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "39",
+      "ref": "Matthew 16:20",
+      "arabic_page": 91,
+      "text": "Lalu Yesus melarang murid-murid-Nya supaya jangan memberitahukan kepada siapapun"
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "40",
+      "ref": "Matthew 16:20",
+      "arabic_page": 91,
+      "text": "bahwa Ia Mesias."
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "40",
+      "ref": "Matthew 16:21a",
+      "arabic_page": 91,
+      "text": "Sejak waktu itu Yesus mulai menyatakan kepada murid-murid-Nya"
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "41",
+      "ref": "Matthew 16:21a",
+      "arabic_page": 91,
+      "text": "bahwa Ia harus pergi ke Yerusalem"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "41",
+      "ref": "Mark 8:31b",
+      "arabic_page": 91,
+      "text": "bahwa Anak Manusia harus menanggung banyak penderitaan dan ditolak oleh tua-tua, imam-imam kepala dan ahli-ahli Taurat, lalu dibunuh"
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "42",
+      "ref": "Mark 8:31b",
+      "arabic_page": 91,
+      "text": "dan bangkit sesudah tiga hari."
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "42",
+      "ref": "Mark 8:32a",
+      "arabic_page": 91,
+      "text": "Hal ini dikatakan-Nya dengan terus terang."
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "42",
+      "ref": "Matthew 16:22",
+      "arabic_page": 91,
+      "text": "Tetapi Petrus menarik Yesus ke samping dan menegor Dia,"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "43",
+      "ref": "Matthew 16:22",
+      "arabic_page": 91,
+      "text": "katanya: \"Tuhan, kiranya Allah menjauhkan hal itu! Hal itu sekali-kali takkan menimpa Engkau.\""
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "43",
+      "ref": "Mark 8:33a",
+      "arabic_page": 91,
+      "text": "Maka berpalinglah Yesus dan sambil memandang murid-murid-Nya"
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "44",
+      "ref": "Mark 8:33a",
+      "arabic_page": 91,
+      "text": "Ia memarahi Petrus, kata-Nya:"
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "44",
+      "ref": "Matthew 16:23b",
+      "arabic_page": 91,
+      "text": "\"Enyahlah Iblis. Engkau suatu batu sandungan bagi-Ku, sebab engkau bukan memikirkan apa yang dipikirkan Allah, melainkan apa yang dipikirkan manusia.\""
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "45",
+      "ref": "Matthew 16:23b",
+      "arabic_page": 91,
+      "text": "Lalu Yesus memanggil orang banyak dan murid-murid-Nya dan berkata kepada mereka: \"Setiap orang yang mau mengikut Aku, ia harus menyangkal dirinya, memikul salibnya"
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "46",
+      "ref": "Matthew 16:23b",
+      "arabic_page": 91,
+      "text": "dan mengikut Aku."
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "46",
+      "ref": "Mark 8:35",
+      "arabic_page": 91,
+      "text": "Karena siapa yang mau menyelamatkan nyawanya, ia akan kehilangan nyawanya"
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "47",
+      "ref": "Mark 8:35",
+      "arabic_page": 91,
+      "text": "; tetapi barangsiapa kehilangan nyawanya karena Aku dan karena Injil, ia akan menyelamatkannya."
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "47",
+      "ref": "Luke 9:25",
+      "arabic_page": 91,
+      "text": "Apa gunanya seorang"
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "48",
+      "ref": "Luke 9:25",
+      "arabic_page": 91,
+      "text": "memperoleh seluruh dunia, tetapi ia membinasakan atau merugikan dirinya sendiri?"
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "48",
+      "ref": "Mark 8:37",
+      "arabic_page": 91,
+      "text": "Karena apakah"
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "49",
+      "ref": "Mark 8:37",
+      "arabic_page": 92,
+      "text": "yang dapat diberikannya sebagai ganti nyawanya?"
+    },
+    {
+      "id": 91,
+      "diatessaron_verse": "49",
+      "ref": "Mark 8:38",
+      "arabic_page": 92,
+      "text": "Sebab barangsiapa malu karena Aku dan karena perkataan-Ku di tengah-tengah angkatan yang tidak setia dan berdosa ini,"
+    },
+    {
+      "id": 92,
+      "diatessaron_verse": "50",
+      "ref": "Mark 8:38",
+      "arabic_page": 92,
+      "text": "Anak Manusiapun akan malu karena orang itu apabila Ia datang kelak dalam kemuliaan Bapa-Nya, diiringi malaikat-malaikat kudus.\""
+    },
+    {
+      "id": 93,
+      "diatessaron_verse": "50",
+      "ref": "Matthew 16:27",
+      "arabic_page": 92,
+      "text": "Sebab Anak Manusia akan datang dalam kemuliaan Bapa-Nya diiringi malaikat-malaikat-Nya; pada waktu itu Ia akan membalas setiap orang menurut perbuatannya."
+    }
+  ]
+}

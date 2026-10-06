@@ -1,0 +1,225 @@
+{
+  "id": 55,
+  "title": "BAB 55",
+  "source_post_id": "p65319",
+  "canonical_books": [
+    "John",
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "total_segments": 30,
+  "diatessaron_verse_range": "1 - Catatan kaki:",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "Matthew 28:16",
+      "arabic_page": null,
+      "text": "Dan kesebelas murid itu berangkat ke Galilea, ke bukit yang telah"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 28:16",
+      "arabic_page": null,
+      "text": "ditunjukkan Yesus kepada mereka."
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 28:17",
+      "arabic_page": null,
+      "text": "Ketika melihat Dia mereka menyembah-Nya, tetapi beberapa"
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 28:17",
+      "arabic_page": null,
+      "text": "orang ragu-ragu."
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "3",
+      "ref": "Mark 16:14",
+      "arabic_page": null,
+      "text": "Akhirnya Ia menampakkan diri kepada kesebelas orang itu ketika mereka sedang makan, dan Ia mencela ketidakpercayaan dan kedegilan hati mereka, oleh karena mereka tidak percaya kepada orang-orang yang telah melihat Dia sesudah kebangkitan-Nya"
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "Mark 16:15a",
+      "arabic_page": 209,
+      "text": "Lalu Ia berkata kepada mereka:"
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 28:18b",
+      "arabic_page": 209,
+      "text": "\"Kepada-Ku telah diberikan segala kuasa di sorga"
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 28:18b",
+      "arabic_page": 209,
+      "text": "dan di bumi. Sama seperti Bapa mengutus Aku, demikian juga sekarang Aku mengutus kamu.\""
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "5",
+      "ref": "Mark 16:15b",
+      "arabic_page": 209,
+      "text": "\"Pergilah ke seluruh dunia, beritakanlah Injil kepada segala makhluk."
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 28:19b",
+      "arabic_page": 209,
+      "text": "jadikanlah semua bangsa murid-Ku dan"
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "7",
+      "ref": "Matthew 28:19b",
+      "arabic_page": 209,
+      "text": "baptislah mereka dalam nama Bapa dan Anak dan Roh Kudus,"
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "7",
+      "ref": "Matthew 28:20",
+      "arabic_page": 209,
+      "text": "dan ajarlah mereka melakukan segala sesuatu yang telah Kuperintahkan kepadamu. Dan ketahuilah, Aku menyertai kamu senantiasa sampai kepada"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 28:20",
+      "arabic_page": 209,
+      "text": "akhir zaman.\""
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "8",
+      "ref": "Mark 16:16",
+      "arabic_page": 209,
+      "text": "Siapa yang percaya dan dibaptis akan diselamatkan, tetapi"
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9",
+      "ref": "Mark 16:16",
+      "arabic_page": 209,
+      "text": "siapa yang tidak percaya akan dihukum."
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "9",
+      "ref": "Mark 16:17",
+      "arabic_page": 209,
+      "text": "Tanda-tanda ini akan menyertai orang-orang yang percaya: mereka akan mengusir setan-setan demi nama-Ku, mereka"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "10",
+      "ref": "Mark 16:17",
+      "arabic_page": 209,
+      "text": "akan berbicara dalam bahasa-bahasa yang baru bagi mereka,"
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "10",
+      "ref": "Mark 16:18",
+      "arabic_page": 209,
+      "text": "mereka akan memegang ular, dan sekalipun mereka minum racun maut, mereka tidak akan mendapat celaka; mereka akan meletakkan tangannya atas orang sakit,"
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "11",
+      "ref": "Mark 16:18",
+      "arabic_page": 209,
+      "text": "dan orang itu akan sembuh.\""
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "11",
+      "ref": "Luke 24:49b",
+      "arabic_page": 209,
+      "text": "Tetapi kamu harus tinggal di dalam kota ini sampai kamu diperlengkapi dengan kekuasaan dari tempat tinggi.\""
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "12",
+      "ref": "Mark 16:19a",
+      "arabic_page": 209,
+      "text": "Sesudah Tuhan Yesus berbicara demikian kepada mereka,"
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "12",
+      "ref": "Luke 24:50",
+      "arabic_page": 209,
+      "text": "Lalu Yesus membawa mereka ke luar kota sampai dekat Betania. Di situ Ia"
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "13",
+      "ref": "Luke 24:50",
+      "arabic_page": 209,
+      "text": "mengangkat tangan-Nya dan memberkati mereka."
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "13",
+      "ref": "Luke 24:51",
+      "arabic_page": 209,
+      "text": "Dan ketika Ia sedang memberkati mereka, Ia berpisah dari mereka dan terangkat ke sorga."
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "13",
+      "ref": "Mark 16:19c",
+      "arabic_page": 209,
+      "text": "lalu duduk di sebelah kanan Allah."
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "14, 15",
+      "ref": "Luke 24:52",
+      "arabic_page": 209,
+      "text": "Mereka sujud menyembah kepada-Nya, lalu mereka pulang ke Yerusalem dengan sangat bersukacita."
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "14, 15",
+      "ref": "Luke 24:53",
+      "arabic_page": 209,
+      "text": "Mereka senantiasa berada di dalam Bait Allah dan memuliakan Allah. [Amin.]"
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "16",
+      "ref": "Mark 16:20",
+      "arabic_page": 209,
+      "text": "Merekapun pergilah memberitakan Injil ke segala penjuru, dan Tuhan turut bekerja dan meneguhkan firman itu dengan tanda-tanda yang menyertainya."
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "17",
+      "ref": "John 21:25",
+      "arabic_page": 209,
+      "text": "Masih banyak hal-hal lain lagi yang diperbuat oleh Yesus, tetapi jikalau semuanya itu harus dituliskan satu per satu, maka agaknya dunia ini tidak dapat memuat semua kitab yang harus ditulis itu."
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "Catatan kaki:",
+      "ref": "John 21:25",
+      "arabic_page": 209,
+      "text": "1) Kata \"Amin\" pada ayat Luke 24:53 tidak terdapat dalam manuscript UBS/Westcott and Hort yang digunakan terjemahan LAI TB tetapi terdapat dalam Diatessaron serta manuscript Textus Receptus (TR) yang digunakan oleh terjemahan MILT (2008). 2) Kalimat \"Sama seperti Bapa mengutus Aku, demikian juga sekarang Aku mengutus kamu.\" pada ayat Matthew 28:18b hanya terdapat di manuscript Diatessaron, agaknya kalimat ini paralel dengan John 20:21c atau bersumber dari manuscript lain."
+    }
+  ]
+}

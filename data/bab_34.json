@@ -1,0 +1,654 @@
+{
+  "id": 34,
+  "title": "BAB 34",
+  "source_post_id": "p64296",
+  "canonical_books": [
+    "John",
+    "Luk",
+    "Luke",
+    "Mark",
+    "Mat",
+    "Matthew"
+  ],
+  "total_segments": 91,
+  "diatessaron_verse_range": "1 - 53",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "Mat. 22:15",
+      "arabic_page": null,
+      "text": "Kemudian pergilah orang-orang Farisi; mereka berunding bagaimana mereka dapat menjerat Yesus dengan suatu pertanyaan. [Luke 20:20b]"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "Mat. 22:15",
+      "arabic_page": null,
+      "text": "dan menyerahkan-Nya kepada wewenang dan kuasa wali negeri."
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 22:16",
+      "arabic_page": 129,
+      "text": "Mereka menyuruh murid-murid mereka bersama-sama orang-orang Herodian bertanya kepada-Nya: \" Guru, kami tahu, Engkau adalah seorang yang jujur dan dengan jujur mengajar jalan Allah dan Engkau tidak takut kepada siapapun juga, sebab Engkau tidak"
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 22:16",
+      "arabic_page": 129,
+      "text": "mencari muka."
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 22:17",
+      "arabic_page": 129,
+      "text": "Katakanlah kepada kami pendapat-Mu: Apakah diperbolehkan"
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 22:17",
+      "arabic_page": 129,
+      "text": "membayar pajak kepada Kaisar atau tidak?\""
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "4",
+      "ref": "Mark 12:14",
+      "arabic_page": 129,
+      "text": "Haruskah kami bayar atau tidak?\""
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "4",
+      "ref": "Mark 12:15a",
+      "arabic_page": 129,
+      "text": "Tetapi Yesus mengetahui"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "5",
+      "ref": "Mark 12:15a",
+      "arabic_page": 129,
+      "text": "kemunafikan mereka, lalu berkata kepada mereka: [Mat. 22:18b] \"Mengapa kamu mencobai Aku, hai orang-orang munafik?"
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "5",
+      "ref": "Luk. 20:24a",
+      "arabic_page": 129,
+      "text": "\"Tunjukkanlah kepada-Ku"
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "6",
+      "ref": "Luk. 20:24a",
+      "arabic_page": 129,
+      "text": "suatu dinar; [Mat. 22:19a] Mereka membawa suatu dinar kepada-Nya."
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "6",
+      "ref": "Matthew 22:20",
+      "arabic_page": 129,
+      "text": "Maka Ia bertanya kepada mereka: \"Gambar dan tulisan siapakah ini?\""
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "7, 8",
+      "ref": "Matthew 22:21",
+      "arabic_page": 129,
+      "text": "Jawab mereka: \"Gambar dan tulisan Kaisar.\" Lalu kata Yesus kepada mereka: \"Berikanlah kepada Kaisar apa yang wajib kamu berikan kepada Kaisar dan kepada Allah apa yang wajib kamu berikan kepada Allah.\""
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "7, 8",
+      "ref": "Luke 20:26",
+      "arabic_page": 129,
+      "text": "Dan mereka tidak dapat menjerat Dia dalam perkataan-Nya di depan orang banyak. Mereka heran akan jawab-Nya itu dan mereka diam."
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 22:23",
+      "arabic_page": 129,
+      "text": "Pada hari itu datanglah kepada Yesus beberapa orang Saduki, yang berpendapat, bahwa"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "10",
+      "ref": "Matthew 22:23",
+      "arabic_page": 129,
+      "text": "tidak ada kebangkitan. Mereka bertanya kepada-Nya:"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "10",
+      "ref": "Matthew 22:24",
+      "arabic_page": 129,
+      "text": "\"Guru, Musa mengatakan, bahwa jika seorang mati dengan tiada meninggalkan anak, saudaranya harus kawin dengan isterinya itu dan membangkitkan keturunan"
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "11",
+      "ref": "Matthew 22:24",
+      "arabic_page": 129,
+      "text": "bagi saudaranya itu. [Luke 20:29] Adalah tujuh orang bersaudara. Yang pertama kawin dengan seorang perempuan"
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "12",
+      "ref": "Matthew 22:24",
+      "arabic_page": 129,
+      "text": "lalu mati dengan tidak meninggalkan anak."
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "12",
+      "ref": "Luke 20:30",
+      "arabic_page": 129,
+      "text": "Lalu perempuan itu dikawini oleh yang kedua,"
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "12",
+      "ref": "Mark 12:21a",
+      "arabic_page": 129,
+      "text": "dan mati dengan tidak meninggalkan keturunan."
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "13",
+      "ref": "Luke 20:31",
+      "arabic_page": 129,
+      "text": "dan oleh yang ketiga dan demikianlah berturut-turut oleh ketujuh saudara itu, mereka semuanya"
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "14, 15",
+      "ref": "Luke 20:31",
+      "arabic_page": 129,
+      "text": "mati dengan tidak meninggalkan anak."
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "14, 15",
+      "ref": "Matthew 22:27",
+      "arabic_page": 129,
+      "text": "Dan akhirnya, sesudah mereka semua, perempuan itupun mati."
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "14, 15",
+      "ref": "Matthew 22:28",
+      "arabic_page": 129,
+      "text": "Siapakah di antara ketujuh orang itu yang menjadi suami perempuan itu pada hari kebangkitan? Sebab mereka semua telah beristerikan"
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "16",
+      "ref": "Matthew 22:28",
+      "arabic_page": 129,
+      "text": "dia.\""
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "16",
+      "ref": "Mat.22:29",
+      "arabic_page": 129,
+      "text": "Yesus menjawab mereka: \"Kamu sesat,"
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "17",
+      "ref": "Mat.22:29",
+      "arabic_page": 129,
+      "text": "sebab kamu tidak mengerti Kitab Suci maupun kuasa Allah!"
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "17",
+      "ref": "Luke 20:34b",
+      "arabic_page": 129,
+      "text": "\"Orang-orang"
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "18",
+      "ref": "Luke 20:34b",
+      "arabic_page": 129,
+      "text": "dunia ini kawin dan dikawinkan,"
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "18",
+      "ref": "Luke 20:35",
+      "arabic_page": 129,
+      "text": "tetapi mereka yang dianggap layak untuk mendapat bagian dalam dunia yang lain itu dan dalam kebangkitan dari antara orang mati, tidak"
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "19",
+      "ref": "Luke 20:35",
+      "arabic_page": 130,
+      "text": "kawin dan tidak dikawinkan."
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "19",
+      "ref": "Luke 20:36",
+      "arabic_page": 130,
+      "text": "Sebab mereka tidak dapat mati lagi; mereka sama seperti malaikat-malaikat dan mereka adalah anak-anak"
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "20",
+      "ref": "Luke 20:36",
+      "arabic_page": 130,
+      "text": "Allah, karena mereka telah dibangkitkan."
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "20",
+      "ref": "Mark 12:26",
+      "arabic_page": 130,
+      "text": "Dan juga tentang bangkitnya orang-orang mati, tidakkah kamu baca dalam kitab Musa, dalam ceritera tentang semak duri, bagaimana bunyi firman Allah kepadanya: Akulah Allah Abraham, Allah Ishak dan Allah Yakub?"
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "21",
+      "ref": "Mark 12:26",
+      "arabic_page": 130,
+      "text": "[Luk 20:38] Ia bukan Allah orang mati, melainkan Allah orang hidup, sebab di hadapan Dia semua orang hidup.\""
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "21",
+      "ref": "Mark 12:27",
+      "arabic_page": 130,
+      "text": "Kamu benar-benar sesat!\""
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "22, 23",
+      "ref": "Matthew 22:33",
+      "arabic_page": 130,
+      "text": "Orang banyak yang mendengar itu takjub akan pengajaran-Nya."
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "22, 23",
+      "ref": "Luke 20:39",
+      "arabic_page": 130,
+      "text": "Mendengar itu"
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "24",
+      "ref": "Luke 20:39",
+      "arabic_page": 130,
+      "text": "beberapa ahli Taurat berkata: \"Guru, jawab-Mu itu tepat sekali.\""
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "24",
+      "ref": "Matthew 22:34",
+      "arabic_page": 130,
+      "text": "Ketika orang-orang Farisi mendengar, bahwa Yesus telah membuat orang-orang Saduki itu bungkam, berkumpullah mereka."
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "25",
+      "ref": "Matthew 22:34",
+      "arabic_page": 130,
+      "text": "[Mark 12:28a] Lalu seorang ahli Taurat, yang mendengar Yesus dan orang-orang Saduki bersoal jawab dan tahu, bahwa Yesus"
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "26",
+      "ref": "Matthew 22:34",
+      "arabic_page": 130,
+      "text": "memberi jawab yang tepat kepada orang-orang itu, datang kepada-Nya dan bertanya:"
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "26",
+      "ref": "Luke 10:25b",
+      "arabic_page": 130,
+      "text": "\"Guru, apa yang harus kuperbuat untuk memperoleh hidup yang kekal?\""
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "26",
+      "ref": "Mark 12:28b",
+      "arabic_page": 130,
+      "text": "\""
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "27",
+      "ref": "Mark 12:28b",
+      "arabic_page": 130,
+      "text": "Hukum manakah yang paling utama?\""
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "27",
+      "ref": "Mark 12:29",
+      "arabic_page": 130,
+      "text": "Jawab Yesus: \"Hukum yang terutama ialah: Dengarlah, hai orang"
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "28",
+      "ref": "Mark 12:29",
+      "arabic_page": 130,
+      "text": "Israel, Tuhan Allah kita, Tuhan itu esa. [Mark 12:30] Kasihilah Tuhan, Allahmu, dengan segenap hatimu dan dengan segenap jiwamu dan dengan segenap akal budimu dan dengan segenap"
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "29, 30",
+      "ref": "Mark 12:29",
+      "arabic_page": 130,
+      "text": "kekuatanmu."
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "29, 30",
+      "ref": "Matthew 22:38",
+      "arabic_page": 130,
+      "text": "Itulah hukum yang terutama dan yang pertama."
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "29, 30",
+      "ref": "Mark 12:31",
+      "arabic_page": 130,
+      "text": "Dan hukum yang kedua ialah: Kasihilah sesamamu manusia seperti dirimu sendiri. Tidak ada hukum lain yang"
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "31",
+      "ref": "Mark 12:31",
+      "arabic_page": 130,
+      "text": "lebih utama dari pada kedua hukum ini.\""
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "31",
+      "ref": "Matthew 22:40",
+      "arabic_page": 130,
+      "text": "Pada kedua hukum inilah tergantung"
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "32",
+      "ref": "Matthew 22:40",
+      "arabic_page": 131,
+      "text": "seluruh hukum Taurat dan kitab para nabi.\""
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "32",
+      "ref": "Mark 12:32",
+      "arabic_page": 131,
+      "text": "Lalu kata ahli Taurat itu kepada Yesus: \"Tepat sekali, Guru, benar kata-Mu itu, bahwa Dia esa, dan bahwa tidak ada yang lain kecuali Dia."
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "33",
+      "ref": "Mark 12:33",
+      "arabic_page": 131,
+      "text": "Memang mengasihi Dia dengan segenap hati dan dengan segenap pengertian dan dengan segenap kekuatan, dan juga mengasihi sesama manusia seperti"
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "34",
+      "ref": "Mark 12:33",
+      "arabic_page": 131,
+      "text": "diri sendiri adalah jauh lebih utama dari pada semua korban bakaran dan korban sembelihan.\""
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "34",
+      "ref": "Mark 12:34a",
+      "arabic_page": 131,
+      "text": "Yesus melihat, bagaimana bijaksananya jawab orang itu, dan Ia berkata kepadanya: \"Engkau tidak jauh dari"
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "35, 36",
+      "ref": "Mark 12:34a",
+      "arabic_page": 131,
+      "text": "Kerajaan Allah!\""
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "35, 36",
+      "ref": "Luke 10:28b",
+      "arabic_page": 131,
+      "text": "Kata Yesus kepadanya: \"Jawabmu itu benar; perbuatlah demikian, maka engkau akan hidup.\""
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "35, 36",
+      "ref": "Luke 10:29",
+      "arabic_page": 131,
+      "text": "Tetapi untuk membenarkan dirinya orang itu berkata kepada Yesus: \"Dan siapakah sesamaku manusia?\""
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "37",
+      "ref": "Luke 10:30",
+      "arabic_page": 131,
+      "text": "Jawab Yesus: \"Adalah seorang yang turun dari Yerusalem ke Yerikho; ia jatuh ke tangan penyamun-penyamun yang bukan saja merampoknya habis-habisan, tetapi yang juga memukulnya dan yang sesudah itu pergi"
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "38",
+      "ref": "Luke 10:30",
+      "arabic_page": 131,
+      "text": "meninggalkannya setengah mati."
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "38",
+      "ref": "Luke 10:31",
+      "arabic_page": 131,
+      "text": "Kebetulan ada seorang imam turun melalui jalan itu; ia"
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "39",
+      "ref": "Luke 10:31",
+      "arabic_page": 131,
+      "text": "melihat orang itu, tetapi ia melewatinya dari seberang jalan."
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "39",
+      "ref": "Luke 10:32",
+      "arabic_page": 131,
+      "text": "Demikian juga seorang Lewi datang ke"
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "40",
+      "ref": "Luke 10:32",
+      "arabic_page": 131,
+      "text": "tempat itu; ketika ia melihat orang itu, ia melewatinya dari seberang jalan."
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "40",
+      "ref": "Luke 10:33",
+      "arabic_page": 131,
+      "text": "Lalu datang seorang Samaria, yang sedang dalam perjalanan,"
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "41",
+      "ref": "Luke 10:33",
+      "arabic_page": 131,
+      "text": "ke tempat itu; dan ketika ia melihat orang itu, tergeraklah hatinya oleh belas kasihan."
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "41",
+      "ref": "Luke 10:34",
+      "arabic_page": 131,
+      "text": "Ia pergi kepadanya lalu membalut luka-lukanya, sesudah ia menyiraminya dengan minyak dan anggur. Kemudian ia menaikkan orang itu ke atas keledai tunggangannya sendiri lalu membawanya ke tempat penginapan dan merawatnya."
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "42",
+      "ref": "Luke 10:35",
+      "arabic_page": 131,
+      "text": "Keesokan harinya ia menyerahkan dua dinar kepada pemilik penginapan itu, katanya: Rawatlah dia dan jika kaubelanjakan lebih dari ini, aku akan menggantinya,"
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "43",
+      "ref": "Luke 10:35",
+      "arabic_page": 131,
+      "text": "waktu aku kembali."
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "43",
+      "ref": "Luke 10:36",
+      "arabic_page": 131,
+      "text": "Siapakah di antara ketiga orang ini, menurut pendapatmu, adalah"
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "44",
+      "ref": "Luke 10:36",
+      "arabic_page": 131,
+      "text": "sesama manusia dari orang yang jatuh ke tangan penyamun itu?\""
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "44",
+      "ref": "Luke 10:37",
+      "arabic_page": 131,
+      "text": "Jawab orang itu: \"Orang yang telah menunjukkan belas kasihan"
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "45",
+      "ref": "Luke 10:37",
+      "arabic_page": 132,
+      "text": "kepadanya.\" Kata Yesus kepadanya: \"Pergilah, dan perbuatlah demikian!\""
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "45",
+      "ref": "Mark 12:34b",
+      "arabic_page": 132,
+      "text": "Dan seorangpun tidak berani lagi menanyakan sesuatu kepada Yesus."
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "46",
+      "ref": "Luke 19:47",
+      "arabic_page": 132,
+      "text": "Tiap-tiap hari Ia mengajar di dalam Bait Allah. Imam-imam kepala dan ahli-ahli Taurat serta orang-orang terkemuka dari bangsa Israel berusaha untuk membinasakan Dia,"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "46",
+      "ref": "Luke 19:48",
+      "arabic_page": 132,
+      "text": "tetapi mereka tidak tahu,"
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "47",
+      "ref": "Luke 19:48",
+      "arabic_page": 132,
+      "text": "bagaimana harus melakukannya, sebab seluruh rakyat terpikat kepada-Nya dan ingin mendengarkan Dia."
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "48",
+      "ref": "John 7:31",
+      "arabic_page": 132,
+      "text": "Tetapi di antara orang banyak itu ada banyak yang percaya kepada-Nya dan mereka berkata: \"Apabila Kristus"
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "49",
+      "ref": "John 7:31",
+      "arabic_page": 132,
+      "text": "datang, mungkinkah Ia akan mengadakan lebih banyak mujizat dari pada yang telah diadakan oleh Dia ini?\""
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "49",
+      "ref": "John 7:32",
+      "arabic_page": 132,
+      "text": "Orang-orang Farisi mendengar orang banyak membisikkan hal-hal itu mengenai Dia, dan karena itu imam-imam kepala dan orang-orang Farisi menyuruh"
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "50",
+      "ref": "John 7:32",
+      "arabic_page": 132,
+      "text": "penjaga-penjaga Bait Allah untuk menangkap-Nya."
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "50",
+      "ref": "John 7:33",
+      "arabic_page": 132,
+      "text": "Maka kata Yesus: \""
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "51",
+      "ref": "John 7:33",
+      "arabic_page": 132,
+      "text": "Tinggal sedikit waktu saja Aku ada bersama kamu dan sesudah itu Aku akan pergi kepada Dia yang telah mengutus Aku."
+    },
+    {
+      "id": 87,
+      "diatessaron_verse": "51",
+      "ref": "John 7:34",
+      "arabic_page": 132,
+      "text": "Kamu akan mencari Aku, tetapi tidak akan bertemu dengan Aku,"
+    },
+    {
+      "id": 88,
+      "diatessaron_verse": "52",
+      "ref": "John 7:34",
+      "arabic_page": 132,
+      "text": "sebab kamu tidak dapat datang ke tempat di mana Aku berada.\""
+    },
+    {
+      "id": 89,
+      "diatessaron_verse": "52",
+      "ref": "John 7:35",
+      "arabic_page": 132,
+      "text": "Orang-orang Yahudi itu berkata seorang kepada yang lain: \"Ke manakah Ia akan pergi, sehingga kita tidak dapat bertemu dengan Dia? Adakah maksud-Nya untuk pergi kepada mereka yang tinggal di perantauan, di antara orang Yunani, untuk mengajar"
+    },
+    {
+      "id": 90,
+      "diatessaron_verse": "53",
+      "ref": "John 7:35",
+      "arabic_page": 132,
+      "text": "orang Yunani?"
+    },
+    {
+      "id": 91,
+      "diatessaron_verse": "53",
+      "ref": "John 7:36",
+      "arabic_page": 132,
+      "text": "Apakah maksud perkataan yang diucapkan-Nya ini: Kamu akan mencari Aku, tetapi kamu tidak akan bertemu dengan Aku, dan: Kamu tidak dapat datang ke tempat di mana Aku berada?\""
+    }
+  ]
+}

@@ -15,9 +15,13 @@ A static web reader for the Diatessaron (Gospel Harmony) in Indonesian (Terjemah
 ```
 Diatessaron-TB/
 ├── data/              # Chapter JSON files (generated)
-│   ├── index.json
-│   ├── bab_1.json
-│   └── ...
+│   ├── raw/           # Raw scraped forum posts archive & cache
+│   ├── index.json     # Manifest for all 55 chapters
+│   ├── bab_1.json     # Chapter 1 (Prologue & Nativity of John)
+│   └── ...            # Through bab_55.json
+├── tools/
+│   ├── scraper.py     # Scrapes forum posts with local disk caching
+│   └── parser.py      # Parses HTML into dual-keyed JSON segments
 ├── index.html
 ├── styles.css
 ├── script.js
@@ -26,27 +30,17 @@ Diatessaron-TB/
 
 ## Usage
 
-### 1. Prepare Your Text
+### 1. Scrape & Parse Data
 
-Create a text file with this format:
-
-```
-BAB I
-6 Luke 1:5 Pada zaman Herodes, raja Yudea...
-7 Luke 1:6 Keduanya adalah benar di hadapan Allah...
-
-BAB II
-8 Luke 1:7 Tetapi mereka tidak mempunyai anak...
-```
-
-### 2. Run the Parser
+To refresh the dataset directly from the source forum (*SarapanPagi Biblika*):
 
 ```bash
-cd tools
-python parser.py your_text_file.txt
-```
+# 1. Scrape forum posts (pages 1-3) into data/raw/
+python tools/scraper.py
 
-This generates files in `data/` folder.
+# 2. Parse into normalized chapter JSON files
+python tools/parser.py
+```
 
 ### 3. Open the Reader
 

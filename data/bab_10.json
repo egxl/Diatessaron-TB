@@ -1,0 +1,616 @@
+{
+  "id": 10,
+  "title": "BAB 10",
+  "source_post_id": "p51364",
+  "canonical_books": [
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "total_segments": 86,
+  "diatessaron_verse_range": "1 - 48",
+  "verses": [
+    {
+      "id": 1,
+      "diatessaron_verse": "1",
+      "ref": "Matthew 6:24",
+      "arabic_page": 38,
+      "text": "Tak seorangpun dapat mengabdi kepada dua tuan. Karena jika demikian, ia akan membenci yang seorang dan mengasihi yang lain, atau ia akan setia kepada yang seorang dan"
+    },
+    {
+      "id": 2,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 6:24",
+      "arabic_page": 38,
+      "text": "tidak mengindahkan yang lain. Kamu tidak dapat mengabdi kepada Allah dan kepada Mamon.\""
+    },
+    {
+      "id": 3,
+      "diatessaron_verse": "2",
+      "ref": "Matthew 6:25",
+      "arabic_page": 38,
+      "text": "\"Karena itu Aku berkata kepadamu: Janganlah kuatir akan hidupmu, akan apa yang hendak kamu makan atau minum, dan janganlah kuatir pula akan tubuhmu, akan apa yang hendak kamu pakai. Bukankah hidup itu lebih penting dari pada makanan dan tubuh itu lebih penting"
+    },
+    {
+      "id": 4,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 6:25",
+      "arabic_page": 38,
+      "text": "dari pada pakaian?"
+    },
+    {
+      "id": 5,
+      "diatessaron_verse": "3",
+      "ref": "Matthew 6:26",
+      "arabic_page": 38,
+      "text": "Pandanglah burung-burung di langit, yang tidak menabur dan tidak menuai dan tidak mengumpulkan bekal dalam lumbung, namun diberi makan oleh Bapamu yang di sorga. Bukankah kamu"
+    },
+    {
+      "id": 6,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 6:26",
+      "arabic_page": 38,
+      "text": "jauh melebihi burung-burung itu?"
+    },
+    {
+      "id": 7,
+      "diatessaron_verse": "4",
+      "ref": "Matthew 6:27",
+      "arabic_page": 38,
+      "text": "Siapakah di antara kamu yang karena kekuatirannya dapat menambahkan"
+    },
+    {
+      "id": 8,
+      "diatessaron_verse": "5",
+      "ref": "Matthew 6:27",
+      "arabic_page": 38,
+      "text": "sehasta saja pada jalan hidupnya?"
+    },
+    {
+      "id": 9,
+      "diatessaron_verse": "5",
+      "ref": "Luke 12:26",
+      "arabic_page": 38,
+      "text": "Jadi, jikalau kamu tidak sanggup membuat barang yang paling kecil, mengapa kamu kuatir"
+    },
+    {
+      "id": 10,
+      "diatessaron_verse": "6, 7",
+      "ref": "Luke 12:26",
+      "arabic_page": 38,
+      "text": "akan hal-hal lain?"
+    },
+    {
+      "id": 11,
+      "diatessaron_verse": "6, 7",
+      "ref": "Matthew 6:28",
+      "arabic_page": 38,
+      "text": "Dan mengapa kamu kuatir akan pakaian? Perhatikanlah bunga bakung di ladang, yang tumbuh tanpa bekerja dan tanpa memintal,"
+    },
+    {
+      "id": 12,
+      "diatessaron_verse": "6, 7",
+      "ref": "Matthew 6:29",
+      "arabic_page": 38,
+      "text": "namun Aku berkata kepadamu: Salomo dalam segala kemegahannyapun tidak berpakaian seindah salah satu"
+    },
+    {
+      "id": 13,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 6:29",
+      "arabic_page": 38,
+      "text": "dari bunga itu."
+    },
+    {
+      "id": 14,
+      "diatessaron_verse": "8",
+      "ref": "Matthew 6:30",
+      "arabic_page": 38,
+      "text": "Jadi jika demikian Allah mendandani rumput di ladang, yang hari ini ada dan besok"
+    },
+    {
+      "id": 15,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 6:30",
+      "arabic_page": 38,
+      "text": "dibuang ke dalam api, tidakkah Ia akan terlebih lagi mendandani kamu, hai orang yang kurang percaya?"
+    },
+    {
+      "id": 16,
+      "diatessaron_verse": "9",
+      "ref": "Matthew 6:31",
+      "arabic_page": 38,
+      "text": "Sebab itu janganlah kamu kuatir dan berkata: Apakah yang akan kami makan? Apakah yang akan kami minum?"
+    },
+    {
+      "id": 17,
+      "diatessaron_verse": "10",
+      "ref": "Matthew 6:31",
+      "arabic_page": 38,
+      "text": "Apakah yang akan kami pakai?"
+    },
+    {
+      "id": 18,
+      "diatessaron_verse": "10",
+      "ref": "Luke 12:29[b",
+      "arabic_page": 38,
+      "text": "dan janganlah cemas hatimu."
+    },
+    {
+      "id": 19,
+      "diatessaron_verse": "10",
+      "ref": "Matthew 6:32",
+      "arabic_page": 38,
+      "text": "Semua itu dicari bangsa-bangsa yang tidak mengenal Allah. Akan tetapi Bapamu yang di sorga tahu,"
+    },
+    {
+      "id": 20,
+      "diatessaron_verse": "11",
+      "ref": "Matthew 6:32",
+      "arabic_page": 38,
+      "text": "bahwa kamu memerlukan semuanya itu."
+    },
+    {
+      "id": 21,
+      "diatessaron_verse": "11",
+      "ref": "Matthew 6:33",
+      "arabic_page": 38,
+      "text": "Tetapi carilah dahulu Kerajaan Allah"
+    },
+    {
+      "id": 22,
+      "diatessaron_verse": "12",
+      "ref": "Matthew 6:33",
+      "arabic_page": 39,
+      "text": "dan kebenarannya, maka semuanya itu akan ditambahkan kepadamu."
+    },
+    {
+      "id": 23,
+      "diatessaron_verse": "12",
+      "ref": "Matthew 6:34",
+      "arabic_page": 39,
+      "text": "Sebab itu janganlah kamu kuatir akan hari besok, karena hari besok mempunyai kesusahannya sendiri. Kesusahan sehari cukuplah untuk sehari.\""
+    },
+    {
+      "id": 24,
+      "diatessaron_verse": "13",
+      "ref": "Matthew 7:1",
+      "arabic_page": 39,
+      "text": "\"Jangan kamu menghakimi, supaya kamu tidak dihakimi."
+    },
+    {
+      "id": 25,
+      "diatessaron_verse": "13",
+      "ref": "Luke 6:37[b",
+      "arabic_page": 39,
+      "text": "janganlah kamu menghukum, maka kamupun tidak akan dihukum; ampunilah dan kamu akan diampuni."
+    },
+    {
+      "id": 26,
+      "diatessaron_verse": "14",
+      "ref": "Luke 6:38",
+      "arabic_page": 39,
+      "text": "Berilah dan kamu akan diberi: suatu takaran yang baik, yang dipadatkan, yang digoncang dan yang tumpah ke luar akan dicurahkan ke dalam ribaanmu."
+    },
+    {
+      "id": 27,
+      "diatessaron_verse": "15",
+      "ref": "Luke 6:38",
+      "arabic_page": 39,
+      "text": "Sebab ukuran yang kamu pakai untuk mengukur, akan diukurkan kepadamu.\""
+    },
+    {
+      "id": 28,
+      "diatessaron_verse": "15",
+      "ref": "Mark 4:24[b",
+      "arabic_page": 39,
+      "text": "\"Camkanlah apa yang kamu dengar! Ukuran yang kamu pakai untuk mengukur akan diukurkan kepadamu, dan di samping itu"
+    },
+    {
+      "id": 29,
+      "diatessaron_verse": "16",
+      "ref": "Mark 4:24[b",
+      "arabic_page": 39,
+      "text": "akan ditambah lagi kepadamu."
+    },
+    {
+      "id": 30,
+      "diatessaron_verse": "16",
+      "ref": "Mark 4:25",
+      "arabic_page": 39,
+      "text": "Karena siapa yang mempunyai, kepadanya akan diberi, tetapi siapa yang tidak mempunyai, apapun juga yang ada padanya akan diambil dari padanya.\""
+    },
+    {
+      "id": 31,
+      "diatessaron_verse": "17",
+      "ref": "Luke 6:39",
+      "arabic_page": 39,
+      "text": "Yesus mengatakan pula suatu perumpamaan kepada mereka: \"Dapatkah orang buta menuntun orang buta?"
+    },
+    {
+      "id": 32,
+      "diatessaron_verse": "18",
+      "ref": "Luke 6:39",
+      "arabic_page": 39,
+      "text": "Bukankah keduanya akan jatuh ke dalam lobang?"
+    },
+    {
+      "id": 33,
+      "diatessaron_verse": "18",
+      "ref": "Luke 6:40",
+      "arabic_page": 39,
+      "text": "Seorang murid tidak lebih dari pada gurunya, tetapi"
+    },
+    {
+      "id": 34,
+      "diatessaron_verse": "19",
+      "ref": "Luke 6:40",
+      "arabic_page": 39,
+      "text": "barangsiapa yang telah tamat pelajarannya akan sama dengan gurunya."
+    },
+    {
+      "id": 35,
+      "diatessaron_verse": "19",
+      "ref": "Luke 6:41",
+      "arabic_page": 39,
+      "text": "Mengapakah engkau melihat selumbar di dalam mata saudaramu, sedangkan balok di dalam matamu sendiri tidak engkau ketahui?"
+    },
+    {
+      "id": 36,
+      "diatessaron_verse": "20",
+      "ref": "Luke 6:42",
+      "arabic_page": 39,
+      "text": "Bagaimanakah engkau dapat berkata kepada saudaramu: Saudara, biarlah aku mengeluarkan selumbar yang ada di dalam matamu, padahal balok yang di dalam matamu tidak engkau lihat? Hai orang munafik, keluarkanlah dahulu balok dari matamu, maka engkau akan melihat dengan jelas untuk mengeluarkan selumbar itu dari mata saudaramu.\""
+    },
+    {
+      "id": 37,
+      "diatessaron_verse": "21",
+      "ref": "Matthew 7:6",
+      "arabic_page": 39,
+      "text": "\"Jangan kamu memberikan barang yang kudus kepada anjing dan jangan kamu melemparkan mutiaramu kepada babi, supaya jangan diinjak-injaknya dengan kakinya, lalu ia berbalik mengoyak kamu.\""
+    },
+    {
+      "id": 38,
+      "diatessaron_verse": "22",
+      "ref": "Luke 11:5",
+      "arabic_page": 39,
+      "text": "Lalu kata-Nya kepada mereka: \"Jika seorang di antara kamu pada tengah malam pergi ke rumah seorang sahabatnya"
+    },
+    {
+      "id": 39,
+      "diatessaron_verse": "23",
+      "ref": "Luke 11:5",
+      "arabic_page": 39,
+      "text": "dan berkata kepadanya: Saudara, pinjamkanlah kepadaku tiga roti,"
+    },
+    {
+      "id": 40,
+      "diatessaron_verse": "23",
+      "ref": "Luke 11:6",
+      "arabic_page": 39,
+      "text": "sebab seorang sahabatku yang sedang berada dalam perjalanan singgah"
+    },
+    {
+      "id": 41,
+      "diatessaron_verse": "24",
+      "ref": "Luke 11:6",
+      "arabic_page": 39,
+      "text": "ke rumahku dan aku tidak mempunyai apa-apa untuk dihidangkan kepadanya;"
+    },
+    {
+      "id": 42,
+      "diatessaron_verse": "24",
+      "ref": "Luke 11:7",
+      "arabic_page": 40,
+      "text": "masakan ia yang di dalam rumah itu akan menjawab: Jangan mengganggu aku, pintu sudah tertutup dan aku serta anak-anakku sudah tidur; aku tidak dapat bangun dan memberikannya kepada saudara."
+    },
+    {
+      "id": 43,
+      "diatessaron_verse": "25",
+      "ref": "Luke 11:8",
+      "arabic_page": 40,
+      "text": "Aku berkata kepadamu: Sekalipun ia tidak mau bangun dan memberikannya kepadanya karena"
+    },
+    {
+      "id": 44,
+      "diatessaron_verse": "26",
+      "ref": "Luke 11:8",
+      "arabic_page": 40,
+      "text": "orang itu adalah sahabatnya, namun karena sikapnya yang tidak malu itu, ia akan bangun juga dan memberikan kepadanya apa yang diperlukannya."
+    },
+    {
+      "id": 45,
+      "diatessaron_verse": "26",
+      "ref": "Luke 11:9",
+      "arabic_page": 40,
+      "text": "Oleh karena itu Aku berkata kepadamu: Mintalah, maka akan diberikan kepadamu; carilah, maka kamu akan mendapat; ketoklah, maka pintu akan"
+    },
+    {
+      "id": 46,
+      "diatessaron_verse": "27",
+      "ref": "Luke 11:9",
+      "arabic_page": 40,
+      "text": "dibukakan bagimu."
+    },
+    {
+      "id": 47,
+      "diatessaron_verse": "27",
+      "ref": "Luke 11:10",
+      "arabic_page": 40,
+      "text": "Karena setiap orang yang meminta, menerima dan setiap orang yang mencari, mendapat dan"
+    },
+    {
+      "id": 48,
+      "diatessaron_verse": "28",
+      "ref": "Luke 11:10",
+      "arabic_page": 40,
+      "text": "setiap orang yang mengetok, baginya pintu dibukakan."
+    },
+    {
+      "id": 49,
+      "diatessaron_verse": "28",
+      "ref": "Luke 11:11",
+      "arabic_page": 40,
+      "text": "Bapa manakah di antara kamu, jika anaknya minta ikan dari padanya, akan memberikan ular kepada anaknya itu ganti ikan?"
+    },
+    {
+      "id": 50,
+      "diatessaron_verse": "29",
+      "ref": "Luke 11:12",
+      "arabic_page": 40,
+      "text": "Atau, jika ia minta telur,"
+    },
+    {
+      "id": 51,
+      "diatessaron_verse": "30",
+      "ref": "Luke 11:12",
+      "arabic_page": 40,
+      "text": "akan memberikan kepadanya kalajengking?"
+    },
+    {
+      "id": 52,
+      "diatessaron_verse": "30",
+      "ref": "Luke 11:13",
+      "arabic_page": 40,
+      "text": "Jadi jika kamu yang jahat tahu memberi pemberian yang baik kepada anak-anakmu, apalagi"
+    },
+    {
+      "id": 53,
+      "diatessaron_verse": "31",
+      "ref": "Luke 11:13",
+      "arabic_page": 40,
+      "text": "Bapamu yang di sorga! Ia akan memberikan Roh Kudus kepada mereka yang meminta kepada-Nya.\""
+    },
+    {
+      "id": 54,
+      "diatessaron_verse": "31",
+      "ref": "Matthew 7:12",
+      "arabic_page": 40,
+      "text": "\"Segala sesuatu yang kamu kehendaki supaya orang perbuat kepadamu, perbuatlah demikian juga kepada mereka. Itulah isi seluruh hukum Taurat dan kitab para nabi."
+    },
+    {
+      "id": 55,
+      "diatessaron_verse": "32",
+      "ref": "Matthew 7:13",
+      "arabic_page": 40,
+      "text": "Masuklah melalui pintu yang sesak itu, karena lebarlah pintu dan luaslah jalan yang menuju kepada kebinasaan,"
+    },
+    {
+      "id": 56,
+      "diatessaron_verse": "33",
+      "ref": "Matthew 7:13",
+      "arabic_page": 40,
+      "text": "dan banyak orang yang masuk melaluinya;"
+    },
+    {
+      "id": 57,
+      "diatessaron_verse": "33",
+      "ref": "Matthew 7:14",
+      "arabic_page": 40,
+      "text": "karena sesaklah pintu dan sempitlah jalan yang menuju kepada kehidupan, dan sedikit orang yang mendapatinya.\""
+    },
+    {
+      "id": 58,
+      "diatessaron_verse": "34",
+      "ref": "Matthew 7:15",
+      "arabic_page": 40,
+      "text": "\"Waspadalah terhadap nabi-nabi palsu yang datang kepadamu dengan menyamar seperti domba, tetapi sesungguhnya"
+    },
+    {
+      "id": 59,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 7:15",
+      "arabic_page": 40,
+      "text": "mereka adalah serigala yang buas."
+    },
+    {
+      "id": 60,
+      "diatessaron_verse": "35",
+      "ref": "Matthew 7:16[a",
+      "arabic_page": 40,
+      "text": "Dari buahnyalah kamu akan mengenal mereka."
+    },
+    {
+      "id": 61,
+      "diatessaron_verse": "35",
+      "ref": "Luke 6:44",
+      "arabic_page": 40,
+      "text": "Sebab setiap pohon dikenal pada buahnya. Karena dari semak duri orang tidak memetik buah ara dan"
+    },
+    {
+      "id": 62,
+      "diatessaron_verse": "36",
+      "ref": "Luke 6:44",
+      "arabic_page": 40,
+      "text": "dari duri-duri tidak memetik buah anggur."
+    },
+    {
+      "id": 63,
+      "diatessaron_verse": "36",
+      "ref": "Matthew 7:17",
+      "arabic_page": 40,
+      "text": "Demikianlah setiap pohon yang baik menghasilkan buah yang baik, sedang pohon yang tidak baik"
+    },
+    {
+      "id": 64,
+      "diatessaron_verse": "37",
+      "ref": "Matthew 7:17",
+      "arabic_page": 41,
+      "text": "menghasilkan buah yang tidak baik."
+    },
+    {
+      "id": 65,
+      "diatessaron_verse": "37",
+      "ref": "Matthew 7:18",
+      "arabic_page": 41,
+      "text": "Tidak mungkin pohon yang baik itu menghasilkan buah yang tidak baik, ataupun"
+    },
+    {
+      "id": 66,
+      "diatessaron_verse": "38",
+      "ref": "Matthew 7:18",
+      "arabic_page": 41,
+      "text": "pohon yang tidak baik itu menghasilkan buah yang baik."
+    },
+    {
+      "id": 67,
+      "diatessaron_verse": "38",
+      "ref": "Luke 6:45",
+      "arabic_page": 41,
+      "text": "Orang yang baik mengeluarkan barang yang baik dari perbendaharaan hatinya yang baik dan orang yang jahat mengeluarkan barang yang jahat dari perbendaharaannya yang jahat."
+    },
+    {
+      "id": 68,
+      "diatessaron_verse": "39",
+      "ref": "Luke 6:45",
+      "arabic_page": 41,
+      "text": "Karena yang diucapkan mulutnya, meluap dari hatinya.\""
+    },
+    {
+      "id": 69,
+      "diatessaron_verse": "39",
+      "ref": "Matthew 7:19",
+      "arabic_page": 41,
+      "text": "Dan setiap pohon yang tidak menghasilkan buah yang baik, pasti ditebang dan"
+    },
+    {
+      "id": 70,
+      "diatessaron_verse": "40, 41",
+      "ref": "Matthew 7:19",
+      "arabic_page": 41,
+      "text": "dibuang ke dalam api."
+    },
+    {
+      "id": 71,
+      "diatessaron_verse": "40, 41",
+      "ref": "Matthew 7:20",
+      "arabic_page": 41,
+      "text": "Jadi dari buahnyalah kamu akan mengenal mereka."
+    },
+    {
+      "id": 72,
+      "diatessaron_verse": "40, 41",
+      "ref": "Matthew 7:21",
+      "arabic_page": 41,
+      "text": "Bukan setiap orang yang berseru kepada-Ku: Tuhan, Tuhan! akan masuk ke dalam Kerajaan Sorga, melainkan dia yang melakukan"
+    },
+    {
+      "id": 73,
+      "diatessaron_verse": "42",
+      "ref": "Matthew 7:21",
+      "arabic_page": 41,
+      "text": "kehendak Bapa-Ku yang di sorga."
+    },
+    {
+      "id": 74,
+      "diatessaron_verse": "42",
+      "ref": "Matthew 7:22",
+      "arabic_page": 41,
+      "text": "Pada hari terakhir banyak orang akan berseru kepada-Ku: Tuhan, Tuhan, bukankah kami bernubuat demi nama-Mu, dan mengusir"
+    },
+    {
+      "id": 75,
+      "diatessaron_verse": "43",
+      "ref": "Matthew 7:22",
+      "arabic_page": 41,
+      "text": "setan demi nama-Mu, dan mengadakan banyak mujizat demi nama-Mu juga?"
+    },
+    {
+      "id": 76,
+      "diatessaron_verse": "43",
+      "ref": "Matthew 7:23",
+      "arabic_page": 41,
+      "text": "Pada waktu itulah Aku akan berterus terang kepada mereka dan berkata: Aku tidak pernah"
+    },
+    {
+      "id": 77,
+      "diatessaron_verse": "44",
+      "ref": "Matthew 7:23",
+      "arabic_page": 41,
+      "text": "mengenal kamu! Enyahlah dari pada-Ku, kamu sekalian pembuat kejahatan!\""
+    },
+    {
+      "id": 78,
+      "diatessaron_verse": "44",
+      "ref": "Luke 6:47",
+      "arabic_page": 41,
+      "text": "Setiap orang yang datang"
+    },
+    {
+      "id": 79,
+      "diatessaron_verse": "45",
+      "ref": "Luke 6:47",
+      "arabic_page": 41,
+      "text": "kepada-Ku dan mendengarkan perkataan-Ku serta melakukannya--Aku akan menyatakan kepadamu dengan siapa ia dapat disamakan--,"
+    },
+    {
+      "id": 80,
+      "diatessaron_verse": "45",
+      "ref": "Luke 6:48",
+      "arabic_page": 41,
+      "text": "ia sama dengan seorang yang mendirikan rumah: Orang itu menggali dalam-dalam dan meletakkan"
+    },
+    {
+      "id": 81,
+      "diatessaron_verse": "46",
+      "ref": "Luke 6:48",
+      "arabic_page": 41,
+      "text": "dasarnya di atas batu. Ketika datang air bah dan banjir melanda rumah itu, rumah itu tidak dapat digoyahkan, karena rumah itu kokoh dibangun."
+    },
+    {
+      "id": 82,
+      "diatessaron_verse": "46",
+      "ref": "Matthew 7:25",
+      "arabic_page": 41,
+      "text": "Kemudian turunlah hujan dan datanglah banjir, lalu angin melanda rumah itu, tetapi rumah itu tidak rubuh sebab didirikan di atas"
+    },
+    {
+      "id": 83,
+      "diatessaron_verse": "47",
+      "ref": "Matthew 7:25",
+      "arabic_page": 41,
+      "text": "batu."
+    },
+    {
+      "id": 84,
+      "diatessaron_verse": "47",
+      "ref": "Matthew 7:26",
+      "arabic_page": 41,
+      "text": "Tetapi setiap orang yang mendengar perkataan-Ku ini dan tidak melakukannya, ia sama dengan"
+    },
+    {
+      "id": 85,
+      "diatessaron_verse": "48",
+      "ref": "Matthew 7:26",
+      "arabic_page": 41,
+      "text": "orang yang bodoh, yang mendirikan rumahnya di atas pasir."
+    },
+    {
+      "id": 86,
+      "diatessaron_verse": "48",
+      "ref": "Matthew 7:27",
+      "arabic_page": 41,
+      "text": "Kemudian turunlah hujan dan datanglah banjir, lalu angin melanda rumah itu, sehingga rubuhlah rumah itu dan hebatlah kerusakannya.\""
+    }
+  ]
+}
