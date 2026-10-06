@@ -1,7 +1,18 @@
 {
   "id": 44,
   "title": "BAB 44",
-  "source_post_id": "p65035",
+  "provenance": {
+    "source_forum": "SarapanPagi Biblika Ministry",
+    "thread_title": "DIATESSARON (Versi Bahasa Indonesia, LAI-TB)",
+    "post_id": "p65035",
+    "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p65035",
+    "page_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html",
+    "posted_at": "Wed May 22, 2019 6:24 pm",
+    "author": {
+      "name": "fajaryehuda",
+      "profile_url": "https://www.sarapanpagi.org/member24358.html"
+    }
+  },
   "canonical_books": [
     "John",
     "Luke",

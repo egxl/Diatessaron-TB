@@ -39,22 +39,43 @@ def extract_chapters(pages_html, output_file):
     all_chapters = []
     intro_post = None
     
-    for page_idx, html in enumerate(pages_html, 1):
+    for page_idx, (page_filename, page_url) in enumerate(PAGES, 1):
+        html = pages_html[page_idx - 1]
+        
         # Match each post block in phpBB
         matches = list(re.finditer(
-            r'<div id="(p\d+)"[^>]*>.*?<div class="content">(.*?)</div>\s*<div class="back2top">',
+            r'<div id="(p\d+)"[^>]*>(.*?)<div class="content">(.*?)</div>\s*<div class="back2top">',
             html, re.DOTALL
         ))
         
         for m in matches:
             pid = m.group(1)
-            content = m.group(2)
+            pheader = m.group(2)
+            content = m.group(3)
+            
+            # Extract post provenance metadata: author, profile, date, post url
+            m_author = re.search(
+                r'<p class="author"><a href="([^"]+)"><img[^>]*></a>\s*by\s*<strong><a href="([^"]+)"[^>]*>([^<]+)</a></strong>\s*(?:&raquo;|»)\s*([^<]+)</p>',
+                pheader
+            )
+            
+            post_url = m_author.group(1) if m_author else f"{page_url}#{pid}"
+            author_profile_url = m_author.group(2) if m_author else "https://www.sarapanpagi.org/member24358.html"
+            author_name = m_author.group(3) if m_author else "fajaryehuda"
+            posted_at = m_author.group(4).strip() if m_author else ""
             
             # Check if this is the introduction post
             if pid == 'p51033':
                 intro_post = {
                     "post_id": pid,
                     "title": "Introductory Notes & Index",
+                    "post_url": post_url,
+                    "author": {
+                        "name": author_name,
+                        "profile_url": author_profile_url
+                    },
+                    "posted_at": posted_at,
+                    "page_url": page_url,
                     "raw_html": content
                 }
                 continue
@@ -69,7 +90,13 @@ def extract_chapters(pages_html, output_file):
                 "chapter": ch_num,
                 "post_id": pid,
                 "title": f"BAB {ch_num}",
-                "page": page_idx,
+                "post_url": post_url,
+                "author": {
+                    "name": author_name,
+                    "profile_url": author_profile_url
+                },
+                "posted_at": posted_at,
+                "page_url": page_url,
                 "raw_html": content
             })
 

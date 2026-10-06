@@ -1,7 +1,18 @@
 {
   "id": 26,
   "title": "BAB 26",
-  "source_post_id": "p56417",
+  "provenance": {
+    "source_forum": "SarapanPagi Biblika Ministry",
+    "thread_title": "DIATESSARON (Versi Bahasa Indonesia, LAI-TB)",
+    "post_id": "p56417",
+    "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p56417",
+    "page_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html",
+    "posted_at": "Mon Dec 04, 2017 12:02 pm",
+    "author": {
+      "name": "fajaryehuda",
+      "profile_url": "https://www.sarapanpagi.org/member24358.html"
+    }
+  },
   "canonical_books": [
     "Luke",
     "Matthew"

@@ -135,10 +135,23 @@ def parse_all_chapters(raw_file, output_data_dir):
         if d_verses:
             verse_range = f"{d_verses[0]} - {d_verses[-1]}"
             
+        provenance = {
+            "source_forum": "SarapanPagi Biblika Ministry",
+            "thread_title": "DIATESSARON (Versi Bahasa Indonesia, LAI-TB)",
+            "post_id": ch.get("post_id"),
+            "post_url": ch.get("post_url"),
+            "page_url": ch.get("page_url"),
+            "posted_at": ch.get("posted_at"),
+            "author": ch.get("author", {
+                "name": "fajaryehuda",
+                "profile_url": "https://www.sarapanpagi.org/member24358.html"
+            })
+        }
+        
         chapter_dict = {
             "id": ch_num,
             "title": f"BAB {ch_num}",
-            "source_post_id": ch["post_id"],
+            "provenance": provenance,
             "canonical_books": sorted(list(books)),
             "total_segments": len(parser.segments),
             "diatessaron_verse_range": verse_range,
@@ -157,13 +170,29 @@ def parse_all_chapters(raw_file, output_data_dir):
             "file": ch_filename,
             "canonical_books": sorted(list(books)),
             "total_segments": len(parser.segments),
-            "diatessaron_verse_range": verse_range
+            "diatessaron_verse_range": verse_range,
+            "post_url": ch.get("post_url"),
+            "posted_at": ch.get("posted_at")
         })
 
+    intro_metadata = data.get("intro", {})
     index_dict = {
         "title": "Diatessaron (LAI-TB)",
         "subtitle": "Harmoni Empat Injil oleh Tatianus (Versi Bahasa Indonesia, LAI-TB)",
-        "source": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html",
+        "source": {
+            "forum": "SarapanPagi Biblika Ministry",
+            "thread_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html",
+            "author": {
+                "name": "fajaryehuda",
+                "profile_url": "https://www.sarapanpagi.org/member24358.html"
+            },
+            "thread_title": "DIATESSARON (Versi Bahasa Indonesia, LAI-TB)",
+            "intro_post": {
+                "post_id": intro_metadata.get("post_id"),
+                "post_url": intro_metadata.get("post_url"),
+                "posted_at": intro_metadata.get("posted_at")
+            }
+        },
         "total_chapters": len(index_chapters),
         "chapters": index_chapters
     }

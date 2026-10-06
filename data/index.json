@@ -1,7 +1,20 @@
 {
   "title": "Diatessaron (LAI-TB)",
   "subtitle": "Harmoni Empat Injil oleh Tatianus (Versi Bahasa Indonesia, LAI-TB)",
-  "source": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html",
+  "source": {
+    "forum": "SarapanPagi Biblika Ministry",
+    "thread_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html",
+    "author": {
+      "name": "fajaryehuda",
+      "profile_url": "https://www.sarapanpagi.org/member24358.html"
+    },
+    "thread_title": "DIATESSARON (Versi Bahasa Indonesia, LAI-TB)",
+    "intro_post": {
+      "post_id": "p51033",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51033",
+      "posted_at": "Mon Apr 03, 2017 9:22 am"
+    }
+  },
   "total_chapters": 55,
   "chapters": [
     {
@@ -13,7 +26,9 @@
         "Luke"
       ],
       "total_segments": 125,
-      "diatessaron_verse_range": "1 - 81"
+      "diatessaron_verse_range": "1 - 81",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51041",
+      "posted_at": "Tue Apr 04, 2017 8:15 am"
     },
     {
       "id": 2,
@@ -24,7 +39,9 @@
         "Matthew"
       ],
       "total_segments": 78,
-      "diatessaron_verse_range": "1 - 47"
+      "diatessaron_verse_range": "1 - 47",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51076",
+      "posted_at": "Thu Apr 06, 2017 9:14 am"
     },
     {
       "id": 3,
@@ -36,7 +53,9 @@
         "Matthew"
       ],
       "total_segments": 92,
-      "diatessaron_verse_range": "1, 2 - 56"
+      "diatessaron_verse_range": "1, 2 - 56",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51078",
+      "posted_at": "Thu Apr 06, 2017 10:42 am"
     },
     {
       "id": 4,
@@ -49,7 +68,9 @@
         "Matthew"
       ],
       "total_segments": 91,
-      "diatessaron_verse_range": "1 - Catatan kaki:"
+      "diatessaron_verse_range": "1 - Catatan kaki:",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51091",
+      "posted_at": "Fri Apr 07, 2017 11:02 am"
     },
     {
       "id": 5,
@@ -63,7 +84,9 @@
         "ohn"
       ],
       "total_segments": 95,
-      "diatessaron_verse_range": "1 - 55"
+      "diatessaron_verse_range": "1 - 55",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51144",
+      "posted_at": "Mon Apr 10, 2017 8:50 am"
     },
     {
       "id": 6,
@@ -76,7 +99,9 @@
         "Matthew"
       ],
       "total_segments": 88,
-      "diatessaron_verse_range": "1 - 54"
+      "diatessaron_verse_range": "1 - 54",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51198",
+      "posted_at": "Tue Apr 11, 2017 8:37 am"
     },
     {
       "id": 7,
@@ -88,7 +113,9 @@
         "Matthew"
       ],
       "total_segments": 98,
-      "diatessaron_verse_range": "1 - 53"
+      "diatessaron_verse_range": "1 - 53",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51204",
+      "posted_at": "Tue Apr 11, 2017 11:50 am"
     },
     {
       "id": 8,
@@ -100,7 +127,9 @@
         "Matthew"
       ],
       "total_segments": 99,
-      "diatessaron_verse_range": "1 - 62"
+      "diatessaron_verse_range": "1 - 62",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51220",
+      "posted_at": "Wed Apr 12, 2017 11:25 am"
     },
     {
       "id": 9,
@@ -111,7 +140,9 @@
         "Matthew"
       ],
       "total_segments": 87,
-      "diatessaron_verse_range": "1 - 50"
+      "diatessaron_verse_range": "1 - 50",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51252",
+      "posted_at": "Thu Apr 13, 2017 10:01 am"
     },
     {
       "id": 10,
@@ -123,7 +154,9 @@
         "Matthew"
       ],
       "total_segments": 86,
-      "diatessaron_verse_range": "1 - 48"
+      "diatessaron_verse_range": "1 - 48",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51364",
+      "posted_at": "Mon Apr 17, 2017 7:46 am"
     },
     {
       "id": 11,
@@ -135,7 +168,9 @@
         "Matthew"
       ],
       "total_segments": 106,
-      "diatessaron_verse_range": "1 - 52"
+      "diatessaron_verse_range": "1 - 52",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51371",
+      "posted_at": "Mon Apr 17, 2017 10:44 am"
     },
     {
       "id": 12,
@@ -148,7 +183,9 @@
         "a"
       ],
       "total_segments": 90,
-      "diatessaron_verse_range": "1 - 55"
+      "diatessaron_verse_range": "1 - 55",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51400",
+      "posted_at": "Tue Apr 18, 2017 8:53 am"
     },
     {
       "id": 13,
@@ -160,7 +197,9 @@
         "Matthew"
       ],
       "total_segments": 81,
-      "diatessaron_verse_range": "1 - 47"
+      "diatessaron_verse_range": "1 - 47",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51445",
+      "posted_at": "Thu Apr 20, 2017 9:58 am"
     },
     {
       "id": 14,
@@ -172,7 +211,9 @@
         "Matthew"
       ],
       "total_segments": 84,
-      "diatessaron_verse_range": "1 - 48"
+      "diatessaron_verse_range": "1 - 48",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51865",
+      "posted_at": "Tue May 02, 2017 12:33 pm"
     },
     {
       "id": 15,
@@ -185,7 +226,9 @@
         "Yoh"
       ],
       "total_segments": 86,
-      "diatessaron_verse_range": "1 - 50"
+      "diatessaron_verse_range": "1 - 50",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p51986",
+      "posted_at": "Tue May 09, 2017 9:31 am"
     },
     {
       "id": 16,
@@ -197,7 +240,9 @@
         "Matthew"
       ],
       "total_segments": 86,
-      "diatessaron_verse_range": "1 - 52"
+      "diatessaron_verse_range": "1 - 52",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p52291",
+      "posted_at": "Fri May 19, 2017 9:54 am"
     },
     {
       "id": 17,
@@ -209,7 +254,9 @@
         "Matthew"
       ],
       "total_segments": 81,
-      "diatessaron_verse_range": "1 - 53"
+      "diatessaron_verse_range": "1 - 53",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p52465",
+      "posted_at": "Tue May 23, 2017 9:13 am"
     },
     {
       "id": 18,
@@ -222,7 +269,9 @@
         "Matthew"
       ],
       "total_segments": 92,
-      "diatessaron_verse_range": "1 - 50"
+      "diatessaron_verse_range": "1 - 50",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p52816",
+      "posted_at": "Tue May 30, 2017 12:06 pm"
     },
     {
       "id": 19,
@@ -236,7 +285,9 @@
         "Yoh"
       ],
       "total_segments": 94,
-      "diatessaron_verse_range": "1 - 54"
+      "diatessaron_verse_range": "1 - 54",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647.html#p52851",
+      "posted_at": "Wed May 31, 2017 11:58 am"
     },
     {
       "id": 20,
@@ -249,7 +300,9 @@
         "Matthew"
       ],
       "total_segments": 101,
-      "diatessaron_verse_range": "1 - 58"
+      "diatessaron_verse_range": "1 - 58",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p52915",
+      "posted_at": "Fri Jun 02, 2017 9:02 am"
     },
     {
       "id": 21,
@@ -260,7 +313,9 @@
         "Mark"
       ],
       "total_segments": 83,
-      "diatessaron_verse_range": "1 - 49"
+      "diatessaron_verse_range": "1 - 49",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p53049",
+      "posted_at": "Mon Jun 05, 2017 1:20 pm"
     },
     {
       "id": 22,
@@ -272,7 +327,9 @@
         "Mark"
       ],
       "total_segments": 99,
-      "diatessaron_verse_range": "1 - 55"
+      "diatessaron_verse_range": "1 - 55",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p53266",
+      "posted_at": "Mon Jun 12, 2017 11:05 am"
     },
     {
       "id": 23,
@@ -285,7 +342,9 @@
         "Matthew"
       ],
       "total_segments": 93,
-      "diatessaron_verse_range": "1 - 50"
+      "diatessaron_verse_range": "1 - 50",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p55500",
+      "posted_at": "Wed Oct 11, 2017 8:45 am"
     },
     {
       "id": 24,
@@ -298,7 +357,9 @@
         "Matthew"
       ],
       "total_segments": 101,
-      "diatessaron_verse_range": "1 - 52"
+      "diatessaron_verse_range": "1 - 52",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p56191",
+      "posted_at": "Thu Nov 23, 2017 11:56 am"
     },
     {
       "id": 25,
@@ -311,7 +372,9 @@
         "Matthew"
       ],
       "total_segments": 81,
-      "diatessaron_verse_range": "1 - 46"
+      "diatessaron_verse_range": "1 - 46",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p56284",
+      "posted_at": "Mon Nov 27, 2017 9:55 am"
     },
     {
       "id": 26,
@@ -322,7 +385,9 @@
         "Matthew"
       ],
       "total_segments": 85,
-      "diatessaron_verse_range": "1, 2 - 45"
+      "diatessaron_verse_range": "1, 2 - 45",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p56417",
+      "posted_at": "Mon Dec 04, 2017 12:02 pm"
     },
     {
       "id": 27,
@@ -335,7 +400,9 @@
         "Matthew"
       ],
       "total_segments": 83,
-      "diatessaron_verse_range": "1 - 47"
+      "diatessaron_verse_range": "1 - 47",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p57687",
+      "posted_at": "Wed Feb 07, 2018 10:59 am"
     },
     {
       "id": 28,
@@ -349,7 +416,9 @@
         "Matthew"
       ],
       "total_segments": 95,
-      "diatessaron_verse_range": "1, 2 - 51"
+      "diatessaron_verse_range": "1, 2 - 51",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p62543",
+      "posted_at": "Wed Dec 19, 2018 9:38 pm"
     },
     {
       "id": 29,
@@ -361,7 +430,9 @@
         "Matthew"
       ],
       "total_segments": 83,
-      "diatessaron_verse_range": "1 - 48"
+      "diatessaron_verse_range": "1 - 48",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p62620",
+      "posted_at": "Tue Dec 25, 2018 11:50 pm"
     },
     {
       "id": 30,
@@ -375,7 +446,9 @@
         "Matthew"
       ],
       "total_segments": 93,
-      "diatessaron_verse_range": "1 - 52"
+      "diatessaron_verse_range": "1 - 52",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p63219",
+      "posted_at": "Tue Feb 05, 2019 4:14 pm"
     },
     {
       "id": 31,
@@ -388,7 +461,9 @@
         "Matthew"
       ],
       "total_segments": 95,
-      "diatessaron_verse_range": "1 - 52"
+      "diatessaron_verse_range": "1 - 52",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p63268",
+      "posted_at": "Sat Feb 09, 2019 9:49 am"
     },
     {
       "id": 32,
@@ -403,7 +478,9 @@
         "Yoh"
       ],
       "total_segments": 86,
-      "diatessaron_verse_range": "1 - 47"
+      "diatessaron_verse_range": "1 - 47",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p64163",
+      "posted_at": "Sat Mar 23, 2019 10:46 pm"
     },
     {
       "id": 33,
@@ -415,7 +492,9 @@
         "Matthew"
       ],
       "total_segments": 106,
-      "diatessaron_verse_range": "1 - 60"
+      "diatessaron_verse_range": "1 - 60",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p64201",
+      "posted_at": "Tue Mar 26, 2019 3:54 pm"
     },
     {
       "id": 34,
@@ -430,7 +509,9 @@
         "Matthew"
       ],
       "total_segments": 91,
-      "diatessaron_verse_range": "1 - 53"
+      "diatessaron_verse_range": "1 - 53",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p64296",
+      "posted_at": "Tue Apr 02, 2019 3:46 pm"
     },
     {
       "id": 35,
@@ -441,7 +522,9 @@
         "Matthew"
       ],
       "total_segments": 104,
-      "diatessaron_verse_range": "1 - 61"
+      "diatessaron_verse_range": "1 - 61",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p64310",
+      "posted_at": "Wed Apr 03, 2019 10:27 am"
     },
     {
       "id": 36,
@@ -451,7 +534,9 @@
         "John"
       ],
       "total_segments": 85,
-      "diatessaron_verse_range": "1 - 47"
+      "diatessaron_verse_range": "1 - 47",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p64311",
+      "posted_at": "Wed Apr 03, 2019 11:16 am"
     },
     {
       "id": 37,
@@ -462,7 +547,9 @@
         "ohn"
       ],
       "total_segments": 100,
-      "diatessaron_verse_range": "1 - 61"
+      "diatessaron_verse_range": "1 - 61",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p64340",
+      "posted_at": "Fri Apr 05, 2019 1:34 pm"
     },
     {
       "id": 38,
@@ -473,7 +560,9 @@
         "Luke"
       ],
       "total_segments": 83,
-      "diatessaron_verse_range": "1, 2 - Catatan kaki:"
+      "diatessaron_verse_range": "1, 2 - Catatan kaki:",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-20.html#p64519",
+      "posted_at": "Thu Apr 18, 2019 3:08 pm"
     },
     {
       "id": 39,
@@ -487,7 +576,9 @@
         "Matthew"
       ],
       "total_segments": 85,
-      "diatessaron_verse_range": "1 - 45"
+      "diatessaron_verse_range": "1 - 45",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p64882",
+      "posted_at": "Tue May 14, 2019 11:59 am"
     },
     {
       "id": 40,
@@ -500,7 +591,9 @@
         "Matthew"
       ],
       "total_segments": 101,
-      "diatessaron_verse_range": "1 - 65"
+      "diatessaron_verse_range": "1 - 65",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p64897",
+      "posted_at": "Tue May 14, 2019 1:06 pm"
     },
     {
       "id": 41,
@@ -513,7 +606,9 @@
         "Matthew"
       ],
       "total_segments": 99,
-      "diatessaron_verse_range": "1 - 58"
+      "diatessaron_verse_range": "1 - 58",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p64898",
+      "posted_at": "Tue May 14, 2019 1:07 pm"
     },
     {
       "id": 42,
@@ -525,7 +620,9 @@
         "Matthew"
       ],
       "total_segments": 94,
-      "diatessaron_verse_range": "1 - 53"
+      "diatessaron_verse_range": "1 - 53",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p64995",
+      "posted_at": "Mon May 20, 2019 2:58 pm"
     },
     {
       "id": 43,
@@ -536,7 +633,9 @@
         "Matthew"
       ],
       "total_segments": 105,
-      "diatessaron_verse_range": "1 - 58"
+      "diatessaron_verse_range": "1 - 58",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p64997",
+      "posted_at": "Mon May 20, 2019 10:17 pm"
     },
     {
       "id": 44,
@@ -549,7 +648,9 @@
         "Matthew"
       ],
       "total_segments": 91,
-      "diatessaron_verse_range": "1, 2 - 50"
+      "diatessaron_verse_range": "1, 2 - 50",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p65035",
+      "posted_at": "Wed May 22, 2019 6:24 pm"
     },
     {
       "id": 45,
@@ -562,7 +663,9 @@
         "Matthew"
       ],
       "total_segments": 88,
-      "diatessaron_verse_range": "1, 2 - 47"
+      "diatessaron_verse_range": "1, 2 - 47",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p65053",
+      "posted_at": "Thu May 23, 2019 12:08 pm"
     },
     {
       "id": 46,
@@ -576,7 +679,9 @@
         "ohn"
       ],
       "total_segments": 108,
-      "diatessaron_verse_range": "1 - 58"
+      "diatessaron_verse_range": "1 - 58",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p65192",
+      "posted_at": "Sat Jun 01, 2019 8:07 pm"
     },
     {
       "id": 47,
@@ -586,7 +691,9 @@
         "John"
       ],
       "total_segments": 78,
-      "diatessaron_verse_range": "1 - Catatan kaki:"
+      "diatessaron_verse_range": "1 - Catatan kaki:",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p65235",
+      "posted_at": "Wed Jun 05, 2019 9:37 pm"
     },
     {
       "id": 48,
@@ -599,7 +706,9 @@
         "Matthew"
       ],
       "total_segments": 106,
-      "diatessaron_verse_range": "1 - 55"
+      "diatessaron_verse_range": "1 - 55",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p65248",
+      "posted_at": "Thu Jun 06, 2019 10:39 pm"
     },
     {
       "id": 49,
@@ -612,7 +721,9 @@
         "Matthew"
       ],
       "total_segments": 103,
-      "diatessaron_verse_range": "1, 2 - Catatan kaki"
+      "diatessaron_verse_range": "1, 2 - Catatan kaki",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p65265",
+      "posted_at": "Sat Jun 08, 2019 2:03 pm"
     },
     {
       "id": 50,
@@ -625,7 +736,9 @@
         "Matthew"
       ],
       "total_segments": 93,
-      "diatessaron_verse_range": "1 - 51"
+      "diatessaron_verse_range": "1 - 51",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p65267",
+      "posted_at": "Sat Jun 08, 2019 9:55 pm"
     },
     {
       "id": 51,
@@ -638,7 +751,9 @@
         "Matthew"
       ],
       "total_segments": 109,
-      "diatessaron_verse_range": "1 - 54"
+      "diatessaron_verse_range": "1 - 54",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p65273",
+      "posted_at": "Sun Jun 09, 2019 12:47 pm"
     },
     {
       "id": 52,
@@ -651,7 +766,9 @@
         "Matthew"
       ],
       "total_segments": 106,
-      "diatessaron_verse_range": "1 - 55"
+      "diatessaron_verse_range": "1 - 55",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p65274",
+      "posted_at": "Sun Jun 09, 2019 2:28 pm"
     },
     {
       "id": 53,
@@ -664,7 +781,9 @@
         "Matthew"
       ],
       "total_segments": 116,
-      "diatessaron_verse_range": "1 - 61"
+      "diatessaron_verse_range": "1 - 61",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p65305",
+      "posted_at": "Sun Jun 09, 2019 10:10 pm"
     },
     {
       "id": 54,
@@ -675,7 +794,9 @@
         "Luke"
       ],
       "total_segments": 84,
-      "diatessaron_verse_range": "1 - Catatan kaki:"
+      "diatessaron_verse_range": "1 - Catatan kaki:",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p65308",
+      "posted_at": "Mon Jun 10, 2019 12:46 pm"
     },
     {
       "id": 55,
@@ -688,7 +809,9 @@
         "Matthew"
       ],
       "total_segments": 30,
-      "diatessaron_verse_range": "1 - Catatan kaki:"
+      "diatessaron_verse_range": "1 - Catatan kaki:",
+      "post_url": "https://www.sarapanpagi.org/diatessaron-versi-bahasa-indonesia-lai-tb-vt8647-40.html#p65319",
+      "posted_at": "Mon Jun 10, 2019 2:10 pm"
     }
   ]
 }
