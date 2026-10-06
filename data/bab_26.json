@@ -25,595 +25,1038 @@
       "diatessaron_verse": "1, 2",
       "ref": "Luke 15:1",
       "arabic_page": null,
-      "text": "Para pemungut cukai dan orang-orang berdosa biasanya datang kepada Yesus untuk mendengarkan Dia."
+      "text": "Para pemungut cukai dan orang-orang berdosa biasanya datang kepada Yesus untuk mendengarkan Dia.",
+      "ref_id": "Lukas 15:1",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 2,
       "diatessaron_verse": "1, 2",
       "ref": "Luke 15:2",
       "arabic_page": null,
-      "text": "Maka bersungut-sungutlah orang-orang Farisi dan ahli-ahli Taurat, katanya: \"Ia menerima orang-orang berdosa dan"
+      "text": "Maka bersungut-sungutlah orang-orang Farisi dan ahli-ahli Taurat, katanya: \"Ia menerima orang-orang berdosa dan",
+      "ref_id": "Lukas 15:2",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 3,
       "diatessaron_verse": "3",
       "ref": "Luke 15:2",
       "arabic_page": null,
-      "text": "makan bersama-sama dengan mereka.\""
+      "text": "makan bersama-sama dengan mereka.\"",
+      "ref_id": "Lukas 15:2",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "Luke 15:3",
       "arabic_page": null,
-      "text": "Lalu Ia mengatakan"
+      "text": "Lalu Ia mengatakan",
+      "ref_id": "Lukas 15:3",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 5,
       "diatessaron_verse": "4",
       "ref": "Luke 15:3",
       "arabic_page": null,
-      "text": "perumpamaan ini kepada mereka:"
+      "text": "perumpamaan ini kepada mereka:",
+      "ref_id": "Lukas 15:3",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "Luke 15:4",
       "arabic_page": null,
-      "text": "\"Siapakah di antara kamu yang mempunyai seratus ekor domba, dan jikalau ia kehilangan seekor di antaranya, tidak meninggalkan yang sembilan puluh sembilan ekor di padang gurun dan pergi mencari yang sesat itu"
+      "text": "\"Siapakah di antara kamu yang mempunyai seratus ekor domba, dan jikalau ia kehilangan seekor di antaranya, tidak meninggalkan yang sembilan puluh sembilan ekor di padang gurun dan pergi mencari yang sesat itu",
+      "ref_id": "Lukas 15:4",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 32
     },
     {
       "id": 7,
       "diatessaron_verse": "5",
       "ref": "Luke 15:4",
       "arabic_page": null,
-      "text": "sampai ia menemukannya?"
+      "text": "sampai ia menemukannya?",
+      "ref_id": "Lukas 15:4",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
       "ref": "Matthew 18:13",
       "arabic_page": null,
-      "text": "Dan Aku berkata kepadamu: Sesungguhnya jika ia berhasil menemukannya, lebih besar kegembiraannya atas yang seekor itu"
+      "text": "Dan Aku berkata kepadamu: Sesungguhnya jika ia berhasil menemukannya, lebih besar kegembiraannya atas yang seekor itu",
+      "ref_id": "Matius 18:13",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 16
     },
     {
       "id": 9,
       "diatessaron_verse": "6",
       "ref": "Matthew 18:13",
       "arabic_page": null,
-      "text": "dari pada atas yang kesembilan puluh sembilan ekor yang tidak sesat."
+      "text": "dari pada atas yang kesembilan puluh sembilan ekor yang tidak sesat.",
+      "ref_id": "Matius 18:13",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 10,
       "diatessaron_verse": "6",
       "ref": "Luke 15:5b",
       "arabic_page": null,
-      "text": "ia meletakkannya di atas bahunya dengan gembira,"
+      "text": "ia meletakkannya di atas bahunya dengan gembira,",
+      "ref_id": "Lukas 15:5b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 11,
       "diatessaron_verse": "6",
       "ref": "Luke 15:6",
       "arabic_page": null,
-      "text": "dan setibanya di rumah ia memanggil sahabat-sahabat dan tetangga-tetangganya serta berkata kepada mereka:"
+      "text": "dan setibanya di rumah ia memanggil sahabat-sahabat dan tetangga-tetangganya serta berkata kepada mereka:",
+      "ref_id": "Lukas 15:6",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 12,
       "diatessaron_verse": "7",
       "ref": "Luke 15:6",
       "arabic_page": null,
-      "text": "Bersukacitalah bersama-sama dengan aku, sebab dombaku yang hilang itu telah kutemukan."
+      "text": "Bersukacitalah bersama-sama dengan aku, sebab dombaku yang hilang itu telah kutemukan.",
+      "ref_id": "Lukas 15:6",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 13,
       "diatessaron_verse": "7",
       "ref": "Matthew 18:14",
       "arabic_page": null,
-      "text": "Demikian juga Bapamu yang di sorga tidak menghendaki"
+      "text": "Demikian juga Bapamu yang di sorga tidak menghendaki",
+      "ref_id": "Matius 18:14",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 14,
       "diatessaron_verse": "8",
       "ref": "Matthew 18:14",
       "arabic_page": null,
-      "text": "supaya seorangpun dari anak-anak ini hilang.\""
+      "text": "supaya seorangpun dari anak-anak ini hilang.\"",
+      "ref_id": "Matius 18:14",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 15,
       "diatessaron_verse": "8",
       "ref": "Luke 15:7",
       "arabic_page": null,
-      "text": "Aku berkata kepadamu: Demikian juga akan ada sukacita di sorga karena satu orang berdosa yang bertobat, lebih dari pada sukacita karena sembilan puluh sembilan orang benar yang tidak memerlukan pertobatan.\""
+      "text": "Aku berkata kepadamu: Demikian juga akan ada sukacita di sorga karena satu orang berdosa yang bertobat, lebih dari pada sukacita karena sembilan puluh sembilan orang benar yang tidak memerlukan pertobatan.\"",
+      "ref_id": "Lukas 15:7",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 30
     },
     {
       "id": 16,
       "diatessaron_verse": "9",
       "ref": "Luke 15:8",
       "arabic_page": null,
-      "text": "\"Atau perempuan manakah yang mempunyai sepuluh dirham, dan jika ia kehilangan satu di antaranya, tidak menyalakan"
+      "text": "\"Atau perempuan manakah yang mempunyai sepuluh dirham, dan jika ia kehilangan satu di antaranya, tidak menyalakan",
+      "ref_id": "Lukas 15:8",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 17,
       "diatessaron_verse": "10",
       "ref": "Luke 15:8",
       "arabic_page": null,
-      "text": "pelita dan menyapu rumah serta mencarinya dengan cermat sampai ia menemukannya?"
+      "text": "pelita dan menyapu rumah serta mencarinya dengan cermat sampai ia menemukannya?",
+      "ref_id": "Lukas 15:8",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 18,
       "diatessaron_verse": "10",
       "ref": "Luke 15:9",
       "arabic_page": null,
-      "text": "Dan kalau ia telah menemukannya, ia memanggil sahabat-sahabat dan tetangga-tetangganya serta berkata: Bersukacitalah bersama-sama dengan aku,"
+      "text": "Dan kalau ia telah menemukannya, ia memanggil sahabat-sahabat dan tetangga-tetangganya serta berkata: Bersukacitalah bersama-sama dengan aku,",
+      "ref_id": "Lukas 15:9",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 19,
       "diatessaron_verse": "11",
       "ref": "Luke 15:9",
       "arabic_page": null,
-      "text": "sebab dirhamku yang hilang itu telah kutemukan."
+      "text": "sebab dirhamku yang hilang itu telah kutemukan.",
+      "ref_id": "Lukas 15:9",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 20,
       "diatessaron_verse": "11",
       "ref": "Luke 15:10",
       "arabic_page": 101,
-      "text": "Aku berkata kepadamu: Demikian juga akan ada sukacita pada malaikat-malaikat Allah karena satu orang berdosa yang bertobat.\","
+      "text": "Aku berkata kepadamu: Demikian juga akan ada sukacita pada malaikat-malaikat Allah karena satu orang berdosa yang bertobat.\",",
+      "ref_id": "Lukas 15:10",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 17
     },
     {
       "id": 21,
       "diatessaron_verse": "11",
       "ref": "Luke 15:7b",
       "arabic_page": 101,
-      "text": "lebih dari pada sukacita karena sembilan puluh sembilan orang benar yang tidak memerlukan pertobatan.\""
+      "text": "lebih dari pada sukacita karena sembilan puluh sembilan orang benar yang tidak memerlukan pertobatan.\"",
+      "ref_id": "Lukas 15:7b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 22,
       "diatessaron_verse": "12, 13",
       "ref": "Luke 15:11",
       "arabic_page": 101,
-      "text": "Yesus berkata lagi: \"Ada seorang mempunyai dua anak laki-laki."
+      "text": "Yesus berkata lagi: \"Ada seorang mempunyai dua anak laki-laki.",
+      "ref_id": "Lukas 15:11",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 23,
       "diatessaron_verse": "12, 13",
       "ref": "Luke 15:12",
       "arabic_page": 101,
-      "text": "Kata yang bungsu kepada ayahnya: Bapa,"
+      "text": "Kata yang bungsu kepada ayahnya: Bapa,",
+      "ref_id": "Lukas 15:12",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 24,
       "diatessaron_verse": "14",
       "ref": "Luke 15:12",
       "arabic_page": 101,
-      "text": "berikanlah kepadaku bagian harta milik kita yang menjadi hakku. Lalu ayahnya membagi-bagikan harta kekayaan itu di antara mereka."
+      "text": "berikanlah kepadaku bagian harta milik kita yang menjadi hakku. Lalu ayahnya membagi-bagikan harta kekayaan itu di antara mereka.",
+      "ref_id": "Lukas 15:12",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 18
     },
     {
       "id": 25,
       "diatessaron_verse": "14",
       "ref": "Luke 15:13",
       "arabic_page": 101,
-      "text": "Beberapa hari kemudian anak bungsu itu menjual seluruh bagiannya itu lalu pergi ke"
+      "text": "Beberapa hari kemudian anak bungsu itu menjual seluruh bagiannya itu lalu pergi ke",
+      "ref_id": "Lukas 15:13",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 26,
       "diatessaron_verse": "15",
       "ref": "Luke 15:13",
       "arabic_page": 101,
-      "text": "negeri yang jauh. Di sana ia memboroskan harta miliknya itu dengan hidup berfoya-foya."
+      "text": "negeri yang jauh. Di sana ia memboroskan harta miliknya itu dengan hidup berfoya-foya.",
+      "ref_id": "Lukas 15:13",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 27,
       "diatessaron_verse": "15",
       "ref": "Luke 15:14",
       "arabic_page": 101,
-      "text": "Setelah dihabiskannya semuanya, timbullah bencana kelaparan di dalam negeri itu dan iapun mulai melarat."
+      "text": "Setelah dihabiskannya semuanya, timbullah bencana kelaparan di dalam negeri itu dan iapun mulai melarat.",
+      "ref_id": "Lukas 15:14",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 28,
       "diatessaron_verse": "16",
       "ref": "Luke 15:15",
       "arabic_page": 101,
-      "text": "Lalu ia pergi dan bekerja pada seorang majikan"
+      "text": "Lalu ia pergi dan bekerja pada seorang majikan",
+      "ref_id": "Lukas 15:15",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 29,
       "diatessaron_verse": "17",
       "ref": "Luke 15:15",
       "arabic_page": 101,
-      "text": "di negeri itu. Orang itu menyuruhnya ke ladang untuk menjaga babinya."
+      "text": "di negeri itu. Orang itu menyuruhnya ke ladang untuk menjaga babinya.",
+      "ref_id": "Lukas 15:15",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 30,
       "diatessaron_verse": "17",
       "ref": "Luke 15:16",
       "arabic_page": 101,
-      "text": "Lalu ia ingin mengisi perutnya dengan ampas yang menjadi makanan babi itu, tetapi"
+      "text": "Lalu ia ingin mengisi perutnya dengan ampas yang menjadi makanan babi itu, tetapi",
+      "ref_id": "Lukas 15:16",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 31,
       "diatessaron_verse": "18",
       "ref": "Luke 15:16",
       "arabic_page": 101,
-      "text": "tidak seorangpun yang memberikannya kepadanya."
+      "text": "tidak seorangpun yang memberikannya kepadanya.",
+      "ref_id": "Lukas 15:16",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 32,
       "diatessaron_verse": "18",
       "ref": "Luke 15:17",
       "arabic_page": 101,
-      "text": "Lalu ia menyadari keadaannya, katanya: Betapa banyaknya orang upahan bapaku yang berlimpah-limpah makanannya, tetapi aku di sini mati"
+      "text": "Lalu ia menyadari keadaannya, katanya: Betapa banyaknya orang upahan bapaku yang berlimpah-limpah makanannya, tetapi aku di sini mati",
+      "ref_id": "Lukas 15:17",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 18
     },
     {
       "id": 33,
       "diatessaron_verse": "19",
       "ref": "Luke 15:17",
       "arabic_page": 101,
-      "text": "kelaparan."
+      "text": "kelaparan.",
+      "ref_id": "Lukas 15:17",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 34,
       "diatessaron_verse": "19",
       "ref": "Luke 15:18",
       "arabic_page": 101,
-      "text": "Aku akan bangkit dan pergi kepada bapaku dan berkata kepadanya: Bapa,"
+      "text": "Aku akan bangkit dan pergi kepada bapaku dan berkata kepadanya: Bapa,",
+      "ref_id": "Lukas 15:18",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 35,
       "diatessaron_verse": "20",
       "ref": "Luke 15:18",
       "arabic_page": 101,
-      "text": "aku telah berdosa terhadap sorga dan terhadap bapa,"
+      "text": "aku telah berdosa terhadap sorga dan terhadap bapa,",
+      "ref_id": "Lukas 15:18",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 36,
       "diatessaron_verse": "20",
       "ref": "Luke 15:19",
       "arabic_page": 101,
-      "text": "aku tidak layak lagi disebutkan anak bapa;"
+      "text": "aku tidak layak lagi disebutkan anak bapa;",
+      "ref_id": "Lukas 15:19",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 37,
       "diatessaron_verse": "21",
       "ref": "Luke 15:19",
       "arabic_page": 101,
-      "text": "jadikanlah aku sebagai salah seorang upahan bapa."
+      "text": "jadikanlah aku sebagai salah seorang upahan bapa.",
+      "ref_id": "Lukas 15:19",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 38,
       "diatessaron_verse": "21",
       "ref": "Luke 15:20",
       "arabic_page": 101,
-      "text": "Maka bangkitlah ia dan pergi kepada bapanya. Ketika ia masih jauh, ayahnya telah melihatnya, lalu tergeraklah hatinya oleh belas kasihan."
+      "text": "Maka bangkitlah ia dan pergi kepada bapanya. Ketika ia masih jauh, ayahnya telah melihatnya, lalu tergeraklah hatinya oleh belas kasihan.",
+      "ref_id": "Lukas 15:20",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 39,
       "diatessaron_verse": "22",
       "ref": "Luke 15:20",
       "arabic_page": 101,
-      "text": "Ayahnya itu berlari mendapatkan dia lalu merangkul dan mencium dia."
+      "text": "Ayahnya itu berlari mendapatkan dia lalu merangkul dan mencium dia.",
+      "ref_id": "Lukas 15:20",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 40,
       "diatessaron_verse": "22",
       "ref": "Luke 15:21",
       "arabic_page": 101,
-      "text": "Kata anak itu kepadanya: Bapa, aku telah berdosa terhadap sorga dan terhadap bapa, aku tidak layak lagi"
+      "text": "Kata anak itu kepadanya: Bapa, aku telah berdosa terhadap sorga dan terhadap bapa, aku tidak layak lagi",
+      "ref_id": "Lukas 15:21",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 17
     },
     {
       "id": 41,
       "diatessaron_verse": "23",
       "ref": "Luke 15:21",
       "arabic_page": 101,
-      "text": "disebutkan anak bapa."
+      "text": "disebutkan anak bapa.",
+      "ref_id": "Lukas 15:21",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 42,
       "diatessaron_verse": "23",
       "ref": "Luke 15:22",
       "arabic_page": 101,
-      "text": "Tetapi ayah itu berkata kepada hamba-hambanya: Lekaslah bawa ke mari jubah yang terbaik,"
+      "text": "Tetapi ayah itu berkata kepada hamba-hambanya: Lekaslah bawa ke mari jubah yang terbaik,",
+      "ref_id": "Lukas 15:22",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 43,
       "diatessaron_verse": "24",
       "ref": "Luke 15:22",
       "arabic_page": 101,
-      "text": "pakaikanlah itu kepadanya dan kenakanlah cincin pada jarinya dan sepatu pada kakinya."
+      "text": "pakaikanlah itu kepadanya dan kenakanlah cincin pada jarinya dan sepatu pada kakinya.",
+      "ref_id": "Lukas 15:22",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 44,
       "diatessaron_verse": "24",
       "ref": "Luke 15:23",
       "arabic_page": 101,
-      "text": "Dan ambillah anak lembu tambun itu,"
+      "text": "Dan ambillah anak lembu tambun itu,",
+      "ref_id": "Lukas 15:23",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 45,
       "diatessaron_verse": "25",
       "ref": "Luke 15:23",
       "arabic_page": 101,
-      "text": "sembelihlah dia dan marilah kita makan dan bersukacita."
+      "text": "sembelihlah dia dan marilah kita makan dan bersukacita.",
+      "ref_id": "Lukas 15:23",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 46,
       "diatessaron_verse": "25",
       "ref": "Luke 15:24",
       "arabic_page": 101,
-      "text": "Sebab anakku ini telah mati dan menjadi"
+      "text": "Sebab anakku ini telah mati dan menjadi",
+      "ref_id": "Lukas 15:24",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 47,
       "diatessaron_verse": "26",
       "ref": "Luke 15:24",
       "arabic_page": 102,
-      "text": "hidup kembali, ia telah hilang dan didapat kembali. Maka mulailah mereka bersukaria."
+      "text": "hidup kembali, ia telah hilang dan didapat kembali. Maka mulailah mereka bersukaria.",
+      "ref_id": "Lukas 15:24",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 48,
       "diatessaron_verse": "26",
       "ref": "Luke 15:25",
       "arabic_page": 102,
-      "text": "Tetapi anaknya yang sulung berada di ladang dan ketika ia pulang dan dekat ke rumah,"
+      "text": "Tetapi anaknya yang sulung berada di ladang dan ketika ia pulang dan dekat ke rumah,",
+      "ref_id": "Lukas 15:25",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 49,
       "diatessaron_verse": "27",
       "ref": "Luke 15:25",
       "arabic_page": 102,
-      "text": "ia mendengar bunyi seruling dan nyanyian tari-tarian."
+      "text": "ia mendengar bunyi seruling dan nyanyian tari-tarian.",
+      "ref_id": "Lukas 15:25",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 50,
       "diatessaron_verse": "27",
       "ref": "Luke 15:26",
       "arabic_page": 102,
-      "text": "Lalu ia memanggil salah seorang hamba dan bertanya kepadanya"
+      "text": "Lalu ia memanggil salah seorang hamba dan bertanya kepadanya",
+      "ref_id": "Lukas 15:26",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 51,
       "diatessaron_verse": "28",
       "ref": "Luke 15:26",
       "arabic_page": 102,
-      "text": "apa arti semuanya itu."
+      "text": "apa arti semuanya itu.",
+      "ref_id": "Lukas 15:26",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 52,
       "diatessaron_verse": "28",
       "ref": "Luke 15:27",
       "arabic_page": 102,
-      "text": "Jawab hamba itu: Adikmu telah kembali dan ayahmu telah"
+      "text": "Jawab hamba itu: Adikmu telah kembali dan ayahmu telah",
+      "ref_id": "Lukas 15:27",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 53,
       "diatessaron_verse": "29",
       "ref": "Luke 15:27",
       "arabic_page": 102,
-      "text": "menyembelih anak lembu tambun, karena ia mendapatnya kembali dengan sehat."
+      "text": "menyembelih anak lembu tambun, karena ia mendapatnya kembali dengan sehat.",
+      "ref_id": "Lukas 15:27",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 54,
       "diatessaron_verse": "29",
       "ref": "Luke 15:28",
       "arabic_page": 102,
-      "text": "Maka marahlah anak sulung itu"
+      "text": "Maka marahlah anak sulung itu",
+      "ref_id": "Lukas 15:28",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 55,
       "diatessaron_verse": "30",
       "ref": "Luke 15:28",
       "arabic_page": 102,
-      "text": "dan ia tidak mau masuk. Lalu ayahnya keluar dan berbicara dengan dia."
+      "text": "dan ia tidak mau masuk. Lalu ayahnya keluar dan berbicara dengan dia.",
+      "ref_id": "Lukas 15:28",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 56,
       "diatessaron_verse": "30",
       "ref": "Luke 15:29",
       "arabic_page": 102,
-      "text": "Tetapi ia menjawab ayahnya, katanya: Telah bertahun-tahun aku melayani bapa dan belum pernah aku melanggar perintah bapa, tetapi kepadaku belum pernah bapa memberikan seekor anak"
+      "text": "Tetapi ia menjawab ayahnya, katanya: Telah bertahun-tahun aku melayani bapa dan belum pernah aku melanggar perintah bapa, tetapi kepadaku belum pernah bapa memberikan seekor anak",
+      "ref_id": "Lukas 15:29",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 25
     },
     {
       "id": 57,
       "diatessaron_verse": "31",
       "ref": "Luke 15:29",
       "arabic_page": 102,
-      "text": "kambing untuk bersukacita dengan sahabat-sahabatku."
+      "text": "kambing untuk bersukacita dengan sahabat-sahabatku.",
+      "ref_id": "Lukas 15:29",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 58,
       "diatessaron_verse": "31",
       "ref": "Luke 15:30",
       "arabic_page": 102,
-      "text": "Tetapi baru saja datang anak bapa yang telah memboroskan"
+      "text": "Tetapi baru saja datang anak bapa yang telah memboroskan",
+      "ref_id": "Lukas 15:30",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 59,
       "diatessaron_verse": "32",
       "ref": "Luke 15:30",
       "arabic_page": 102,
-      "text": "harta kekayaan bapa bersama-sama dengan pelacur-pelacur, maka bapa menyembelih anak lembu tambun itu untuk dia."
+      "text": "harta kekayaan bapa bersama-sama dengan pelacur-pelacur, maka bapa menyembelih anak lembu tambun itu untuk dia.",
+      "ref_id": "Lukas 15:30",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 60,
       "diatessaron_verse": "32",
       "ref": "Luke 15:31",
       "arabic_page": 102,
-      "text": "Kata ayahnya kepadanya: Anakku, engkau selalu bersama-sama dengan aku, dan segala kepunyaanku adalah"
+      "text": "Kata ayahnya kepadanya: Anakku, engkau selalu bersama-sama dengan aku, dan segala kepunyaanku adalah",
+      "ref_id": "Lukas 15:31",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 61,
       "diatessaron_verse": "33",
       "ref": "Luke 15:31",
       "arabic_page": 102,
-      "text": "kepunyaanmu."
+      "text": "kepunyaanmu.",
+      "ref_id": "Lukas 15:31",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 62,
       "diatessaron_verse": "33",
       "ref": "Luke 15:32",
       "arabic_page": 102,
-      "text": "Kita patut bersukacita dan bergembira karena adikmu telah mati dan menjadi hidup kembali, ia telah hilang dan didapat kembali.\""
+      "text": "Kita patut bersukacita dan bergembira karena adikmu telah mati dan menjadi hidup kembali, ia telah hilang dan didapat kembali.\"",
+      "ref_id": "Lukas 15:32",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 19
     },
     {
       "id": 63,
       "diatessaron_verse": "34",
       "ref": "Luke 16:1",
       "arabic_page": 102,
-      "text": "Dan Yesus berkata kepada murid-murid-Nya: \"Ada seorang kaya yang mempunyai"
+      "text": "Dan Yesus berkata kepada murid-murid-Nya: \"Ada seorang kaya yang mempunyai",
+      "ref_id": "Lukas 16:1",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 64,
       "diatessaron_verse": "35",
       "ref": "Luke 16:1",
       "arabic_page": 102,
-      "text": "seorang bendahara. Kepadanya disampaikan tuduhan, bahwa bendahara itu menghamburkan miliknya."
+      "text": "seorang bendahara. Kepadanya disampaikan tuduhan, bahwa bendahara itu menghamburkan miliknya.",
+      "ref_id": "Lukas 16:1",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 65,
       "diatessaron_verse": "35",
       "ref": "Luke 16:2",
       "arabic_page": 102,
-      "text": "Lalu ia memanggil bendahara itu dan berkata kepadanya: Apakah yang kudengar tentang engkau? Berilah pertanggungan jawab atas urusanmu, sebab engkau tidak boleh lagi"
+      "text": "Lalu ia memanggil bendahara itu dan berkata kepadanya: Apakah yang kudengar tentang engkau? Berilah pertanggungan jawab atas urusanmu, sebab engkau tidak boleh lagi",
+      "ref_id": "Lukas 16:2",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 23
     },
     {
       "id": 66,
       "diatessaron_verse": "36",
       "ref": "Luke 16:2",
       "arabic_page": 102,
-      "text": "bekerja sebagai bendahara."
+      "text": "bekerja sebagai bendahara.",
+      "ref_id": "Lukas 16:2",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 67,
       "diatessaron_verse": "36",
       "ref": "Luke 16:3",
       "arabic_page": 102,
-      "text": "Kata bendahara itu di dalam hatinya: Apakah yang harus aku perbuat? Tuanku memecat aku dari jabatanku sebagai bendahara. Mencangkul aku tidak dapat, mengemis"
+      "text": "Kata bendahara itu di dalam hatinya: Apakah yang harus aku perbuat? Tuanku memecat aku dari jabatanku sebagai bendahara. Mencangkul aku tidak dapat, mengemis",
+      "ref_id": "Lukas 16:3",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 23
     },
     {
       "id": 68,
       "diatessaron_verse": "37",
       "ref": "Luke 16:3",
       "arabic_page": 102,
-      "text": "aku malu."
+      "text": "aku malu.",
+      "ref_id": "Lukas 16:3",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 69,
       "diatessaron_verse": "37",
       "ref": "Luke 16:4",
       "arabic_page": 102,
-      "text": "Aku tahu apa yang akan aku perbuat, supaya apabila aku dipecat dari jabatanku sebagai bendahara, ada orang yang akan"
+      "text": "Aku tahu apa yang akan aku perbuat, supaya apabila aku dipecat dari jabatanku sebagai bendahara, ada orang yang akan",
+      "ref_id": "Lukas 16:4",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 19
     },
     {
       "id": 70,
       "diatessaron_verse": "38",
       "ref": "Luke 16:4",
       "arabic_page": 102,
-      "text": "menampung aku di rumah mereka."
+      "text": "menampung aku di rumah mereka.",
+      "ref_id": "Lukas 16:4",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 71,
       "diatessaron_verse": "38",
       "ref": "Luke 16:5",
       "arabic_page": 102,
-      "text": "Lalu ia memanggil seorang demi seorang yang berhutang kepada"
+      "text": "Lalu ia memanggil seorang demi seorang yang berhutang kepada",
+      "ref_id": "Lukas 16:5",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 72,
       "diatessaron_verse": "39",
       "ref": "Luke 16:5",
       "arabic_page": 102,
-      "text": "tuannya. Katanya kepada yang pertama: Berapakah hutangmu kepada tuanku?"
+      "text": "tuannya. Katanya kepada yang pertama: Berapakah hutangmu kepada tuanku?",
+      "ref_id": "Lukas 16:5",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 73,
       "diatessaron_verse": "39",
       "ref": "Luke 16:6",
       "arabic_page": 102,
-      "text": "Jawab orang itu: Seratus tempayan minyak. Lalu katanya kepada orang itu: Inilah surat hutangmu, duduklah dan buat surat hutang lain sekarang juga:"
+      "text": "Jawab orang itu: Seratus tempayan minyak. Lalu katanya kepada orang itu: Inilah surat hutangmu, duduklah dan buat surat hutang lain sekarang juga:",
+      "ref_id": "Lukas 16:6",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 22
     },
     {
       "id": 74,
       "diatessaron_verse": "40",
       "ref": "Luke 16:6",
       "arabic_page": 102,
-      "text": "Lima puluh tempayan."
+      "text": "Lima puluh tempayan.",
+      "ref_id": "Lukas 16:6",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 75,
       "diatessaron_verse": "40",
       "ref": "Luke 16:7",
       "arabic_page": 102,
-      "text": "Kemudian ia berkata kepada yang kedua: Dan berapakah hutangmu? Jawab orang itu: Seratus pikul gandum. Katanya kepada orang itu: Inilah"
+      "text": "Kemudian ia berkata kepada yang kedua: Dan berapakah hutangmu? Jawab orang itu: Seratus pikul gandum. Katanya kepada orang itu: Inilah",
+      "ref_id": "Lukas 16:7",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 76,
       "diatessaron_verse": "41",
       "ref": "Luke 16:7",
       "arabic_page": 103,
-      "text": "surat hutangmu, buatlah surat hutang lain: Delapan puluh pikul."
+      "text": "surat hutangmu, buatlah surat hutang lain: Delapan puluh pikul.",
+      "ref_id": "Lukas 16:7",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 77,
       "diatessaron_verse": "41",
       "ref": "Luke 16:8",
       "arabic_page": 103,
-      "text": "Lalu tuan itu memuji bendahara yang tidak jujur itu, karena ia telah bertindak dengan cerdik."
+      "text": "Lalu tuan itu memuji bendahara yang tidak jujur itu, karena ia telah bertindak dengan cerdik.",
+      "ref_id": "Lukas 16:8",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 78,
       "diatessaron_verse": "42",
       "ref": "Luke 16:8",
       "arabic_page": 103,
-      "text": "Sebab anak-anak dunia ini lebih cerdik terhadap sesamanya dari pada anak-anak terang."
+      "text": "Sebab anak-anak dunia ini lebih cerdik terhadap sesamanya dari pada anak-anak terang.",
+      "ref_id": "Lukas 16:8",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 79,
       "diatessaron_verse": "42",
       "ref": "Luke 16:9",
       "arabic_page": 103,
-      "text": "Dan Aku berkata kepadamu: Ikatlah persahabatan dengan mempergunakan Mamon yang tidak jujur,"
+      "text": "Dan Aku berkata kepadamu: Ikatlah persahabatan dengan mempergunakan Mamon yang tidak jujur,",
+      "ref_id": "Lukas 16:9",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 80,
       "diatessaron_verse": "43",
       "ref": "Luke 16:9",
       "arabic_page": 103,
-      "text": "supaya jika Mamon itu tidak dapat menolong lagi, kamu diterima di dalam kemah abadi.\""
+      "text": "supaya jika Mamon itu tidak dapat menolong lagi, kamu diterima di dalam kemah abadi.\"",
+      "ref_id": "Lukas 16:9",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 81,
       "diatessaron_verse": "43",
       "ref": "Luke 16:10",
       "arabic_page": 103,
-      "text": "\"Barangsiapa setia dalam perkara-perkara kecil, ia setia juga dalam perkara-perkara besar. Dan barangsiapa tidak benar dalam"
+      "text": "\"Barangsiapa setia dalam perkara-perkara kecil, ia setia juga dalam perkara-perkara besar. Dan barangsiapa tidak benar dalam",
+      "ref_id": "Lukas 16:10",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 82,
       "diatessaron_verse": "44",
       "ref": "Luke 16:10",
       "arabic_page": 103,
-      "text": "perkara-perkara kecil, ia tidak benar juga dalam perkara-perkara besar."
+      "text": "perkara-perkara kecil, ia tidak benar juga dalam perkara-perkara besar.",
+      "ref_id": "Lukas 16:10",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 83,
       "diatessaron_verse": "44",
       "ref": "Luke 16:11",
       "arabic_page": 103,
-      "text": "Jadi, jikalau kamu tidak setia dalam hal Mamon"
+      "text": "Jadi, jikalau kamu tidak setia dalam hal Mamon",
+      "ref_id": "Lukas 16:11",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 84,
       "diatessaron_verse": "45",
       "ref": "Luke 16:11",
       "arabic_page": 103,
-      "text": "yang tidak jujur, siapakah yang akan mempercayakan kepadamu harta yang sesungguhnya?"
+      "text": "yang tidak jujur, siapakah yang akan mempercayakan kepadamu harta yang sesungguhnya?",
+      "ref_id": "Lukas 16:11",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 85,
       "diatessaron_verse": "45",
       "ref": "Luke 16:12",
       "arabic_page": 103,
-      "text": "Dan jikalau kamu tidak setia dalam harta orang lain, siapakah yang akan menyerahkan hartamu sendiri kepadamu?"
+      "text": "Dan jikalau kamu tidak setia dalam harta orang lain, siapakah yang akan menyerahkan hartamu sendiri kepadamu?",
+      "ref_id": "Lukas 16:12",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     }
-  ]
+  ],
+  "title_id": "Perumpamaan Domba Hilang, Dirham Hilang & Anak Hilang",
+  "title_en": "Parables of Lost Sheep, Lost Coin & Prodigal Son",
+  "epoch_id": 4,
+  "total_words": 963,
+  "arabic_page_range": "p. 101 - p. 103",
+  "arabic_pages": [
+    101,
+    102,
+    103
+  ],
+  "stats": {
+    "mat": 4,
+    "mrk": 0,
+    "luk": 81,
+    "yoh": 0,
+    "unk": 0
+  },
+  "footnotes": []
 }

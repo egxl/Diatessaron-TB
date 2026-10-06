@@ -19,218 +19,387 @@
     "Mark",
     "Matthew"
   ],
-  "total_segments": 30,
-  "diatessaron_verse_range": "1 - Catatan kaki:",
+  "total_segments": 29,
+  "diatessaron_verse_range": "1 - 17",
   "verses": [
     {
       "id": 1,
       "diatessaron_verse": "1",
       "ref": "Matthew 28:16",
       "arabic_page": null,
-      "text": "Dan kesebelas murid itu berangkat ke Galilea, ke bukit yang telah"
+      "text": "Dan kesebelas murid itu berangkat ke Galilea, ke bukit yang telah",
+      "ref_id": "Matius 28:16",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "Matthew 28:16",
       "arabic_page": null,
-      "text": "ditunjukkan Yesus kepada mereka."
+      "text": "ditunjukkan Yesus kepada mereka.",
+      "ref_id": "Matius 28:16",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "Matthew 28:17",
       "arabic_page": null,
-      "text": "Ketika melihat Dia mereka menyembah-Nya, tetapi beberapa"
+      "text": "Ketika melihat Dia mereka menyembah-Nya, tetapi beberapa",
+      "ref_id": "Matius 28:17",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "Matthew 28:17",
       "arabic_page": null,
-      "text": "orang ragu-ragu."
+      "text": "orang ragu-ragu.",
+      "ref_id": "Matius 28:17",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "Mark 16:14",
       "arabic_page": null,
-      "text": "Akhirnya Ia menampakkan diri kepada kesebelas orang itu ketika mereka sedang makan, dan Ia mencela ketidakpercayaan dan kedegilan hati mereka, oleh karena mereka tidak percaya kepada orang-orang yang telah melihat Dia sesudah kebangkitan-Nya"
+      "text": "Akhirnya Ia menampakkan diri kepada kesebelas orang itu ketika mereka sedang makan, dan Ia mencela ketidakpercayaan dan kedegilan hati mereka, oleh karena mereka tidak percaya kepada orang-orang yang telah melihat Dia sesudah kebangkitan-Nya",
+      "ref_id": "Markus 16:14",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 33
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "Mark 16:15a",
       "arabic_page": 209,
-      "text": "Lalu Ia berkata kepada mereka:"
+      "text": "Lalu Ia berkata kepada mereka:",
+      "ref_id": "Markus 16:15a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 7,
       "diatessaron_verse": "4",
       "ref": "Matthew 28:18b",
       "arabic_page": 209,
-      "text": "\"Kepada-Ku telah diberikan segala kuasa di sorga"
+      "text": "\"Kepada-Ku telah diberikan segala kuasa di sorga",
+      "ref_id": "Matius 28:18b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7,
+      "footnote_id": 2
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
       "ref": "Matthew 28:18b",
       "arabic_page": 209,
-      "text": "dan di bumi. Sama seperti Bapa mengutus Aku, demikian juga sekarang Aku mengutus kamu.\""
+      "text": "dan di bumi. Sama seperti Bapa mengutus Aku, demikian juga sekarang Aku mengutus kamu.\"",
+      "ref_id": "Matius 28:18b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 9,
       "diatessaron_verse": "5",
       "ref": "Mark 16:15b",
       "arabic_page": 209,
-      "text": "\"Pergilah ke seluruh dunia, beritakanlah Injil kepada segala makhluk."
+      "text": "\"Pergilah ke seluruh dunia, beritakanlah Injil kepada segala makhluk.",
+      "ref_id": "Markus 16:15b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 9
     },
     {
       "id": 10,
       "diatessaron_verse": "5",
       "ref": "Matthew 28:19b",
       "arabic_page": 209,
-      "text": "jadikanlah semua bangsa murid-Ku dan"
+      "text": "jadikanlah semua bangsa murid-Ku dan",
+      "ref_id": "Matius 28:19b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 11,
       "diatessaron_verse": "7",
       "ref": "Matthew 28:19b",
       "arabic_page": 209,
-      "text": "baptislah mereka dalam nama Bapa dan Anak dan Roh Kudus,"
+      "text": "baptislah mereka dalam nama Bapa dan Anak dan Roh Kudus,",
+      "ref_id": "Matius 28:19b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 12,
       "diatessaron_verse": "7",
       "ref": "Matthew 28:20",
       "arabic_page": 209,
-      "text": "dan ajarlah mereka melakukan segala sesuatu yang telah Kuperintahkan kepadamu. Dan ketahuilah, Aku menyertai kamu senantiasa sampai kepada"
+      "text": "dan ajarlah mereka melakukan segala sesuatu yang telah Kuperintahkan kepadamu. Dan ketahuilah, Aku menyertai kamu senantiasa sampai kepada",
+      "ref_id": "Matius 28:20",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 18
     },
     {
       "id": 13,
       "diatessaron_verse": "8",
       "ref": "Matthew 28:20",
       "arabic_page": 209,
-      "text": "akhir zaman.\""
+      "text": "akhir zaman.\"",
+      "ref_id": "Matius 28:20",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 14,
       "diatessaron_verse": "8",
       "ref": "Mark 16:16",
       "arabic_page": 209,
-      "text": "Siapa yang percaya dan dibaptis akan diselamatkan, tetapi"
+      "text": "Siapa yang percaya dan dibaptis akan diselamatkan, tetapi",
+      "ref_id": "Markus 16:16",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 15,
       "diatessaron_verse": "9",
       "ref": "Mark 16:16",
       "arabic_page": 209,
-      "text": "siapa yang tidak percaya akan dihukum."
+      "text": "siapa yang tidak percaya akan dihukum.",
+      "ref_id": "Markus 16:16",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 16,
       "diatessaron_verse": "9",
       "ref": "Mark 16:17",
       "arabic_page": 209,
-      "text": "Tanda-tanda ini akan menyertai orang-orang yang percaya: mereka akan mengusir setan-setan demi nama-Ku, mereka"
+      "text": "Tanda-tanda ini akan menyertai orang-orang yang percaya: mereka akan mengusir setan-setan demi nama-Ku, mereka",
+      "ref_id": "Markus 16:17",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 14
     },
     {
       "id": 17,
       "diatessaron_verse": "10",
       "ref": "Mark 16:17",
       "arabic_page": 209,
-      "text": "akan berbicara dalam bahasa-bahasa yang baru bagi mereka,"
+      "text": "akan berbicara dalam bahasa-bahasa yang baru bagi mereka,",
+      "ref_id": "Markus 16:17",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 18,
       "diatessaron_verse": "10",
       "ref": "Mark 16:18",
       "arabic_page": 209,
-      "text": "mereka akan memegang ular, dan sekalipun mereka minum racun maut, mereka tidak akan mendapat celaka; mereka akan meletakkan tangannya atas orang sakit,"
+      "text": "mereka akan memegang ular, dan sekalipun mereka minum racun maut, mereka tidak akan mendapat celaka; mereka akan meletakkan tangannya atas orang sakit,",
+      "ref_id": "Markus 16:18",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 22
     },
     {
       "id": 19,
       "diatessaron_verse": "11",
       "ref": "Mark 16:18",
       "arabic_page": 209,
-      "text": "dan orang itu akan sembuh.\""
+      "text": "dan orang itu akan sembuh.\"",
+      "ref_id": "Markus 16:18",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 20,
       "diatessaron_verse": "11",
       "ref": "Luke 24:49b",
       "arabic_page": 209,
-      "text": "Tetapi kamu harus tinggal di dalam kota ini sampai kamu diperlengkapi dengan kekuasaan dari tempat tinggi.\""
+      "text": "Tetapi kamu harus tinggal di dalam kota ini sampai kamu diperlengkapi dengan kekuasaan dari tempat tinggi.\"",
+      "ref_id": "Lukas 24:49b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 21,
       "diatessaron_verse": "12",
       "ref": "Mark 16:19a",
       "arabic_page": 209,
-      "text": "Sesudah Tuhan Yesus berbicara demikian kepada mereka,"
+      "text": "Sesudah Tuhan Yesus berbicara demikian kepada mereka,",
+      "ref_id": "Markus 16:19a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 22,
       "diatessaron_verse": "12",
       "ref": "Luke 24:50",
       "arabic_page": 209,
-      "text": "Lalu Yesus membawa mereka ke luar kota sampai dekat Betania. Di situ Ia"
+      "text": "Lalu Yesus membawa mereka ke luar kota sampai dekat Betania. Di situ Ia",
+      "ref_id": "Lukas 24:50",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 23,
       "diatessaron_verse": "13",
       "ref": "Luke 24:50",
       "arabic_page": 209,
-      "text": "mengangkat tangan-Nya dan memberkati mereka."
+      "text": "mengangkat tangan-Nya dan memberkati mereka.",
+      "ref_id": "Lukas 24:50",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 24,
       "diatessaron_verse": "13",
       "ref": "Luke 24:51",
       "arabic_page": 209,
-      "text": "Dan ketika Ia sedang memberkati mereka, Ia berpisah dari mereka dan terangkat ke sorga."
+      "text": "Dan ketika Ia sedang memberkati mereka, Ia berpisah dari mereka dan terangkat ke sorga.",
+      "ref_id": "Lukas 24:51",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 25,
       "diatessaron_verse": "13",
       "ref": "Mark 16:19c",
       "arabic_page": 209,
-      "text": "lalu duduk di sebelah kanan Allah."
+      "text": "lalu duduk di sebelah kanan Allah.",
+      "ref_id": "Markus 16:19c",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 26,
       "diatessaron_verse": "14, 15",
       "ref": "Luke 24:52",
       "arabic_page": 209,
-      "text": "Mereka sujud menyembah kepada-Nya, lalu mereka pulang ke Yerusalem dengan sangat bersukacita."
+      "text": "Mereka sujud menyembah kepada-Nya, lalu mereka pulang ke Yerusalem dengan sangat bersukacita.",
+      "ref_id": "Lukas 24:52",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 27,
       "diatessaron_verse": "14, 15",
       "ref": "Luke 24:53",
       "arabic_page": 209,
-      "text": "Mereka senantiasa berada di dalam Bait Allah dan memuliakan Allah. [Amin.]"
+      "text": "Mereka senantiasa berada di dalam Bait Allah dan memuliakan Allah. [Amin.]",
+      "ref_id": "Lukas 24:53",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11,
+      "footnote_id": 1
     },
     {
       "id": 28,
       "diatessaron_verse": "16",
       "ref": "Mark 16:20",
       "arabic_page": 209,
-      "text": "Merekapun pergilah memberitakan Injil ke segala penjuru, dan Tuhan turut bekerja dan meneguhkan firman itu dengan tanda-tanda yang menyertainya."
+      "text": "Merekapun pergilah memberitakan Injil ke segala penjuru, dan Tuhan turut bekerja dan meneguhkan firman itu dengan tanda-tanda yang menyertainya.",
+      "ref_id": "Markus 16:20",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 19
     },
     {
       "id": 29,
       "diatessaron_verse": "17",
       "ref": "John 21:25",
       "arabic_page": 209,
-      "text": "Masih banyak hal-hal lain lagi yang diperbuat oleh Yesus, tetapi jikalau semuanya itu harus dituliskan satu per satu, maka agaknya dunia ini tidak dapat memuat semua kitab yang harus ditulis itu."
+      "text": "Masih banyak hal-hal lain lagi yang diperbuat oleh Yesus, tetapi jikalau semuanya itu harus dituliskan satu per satu, maka agaknya dunia ini tidak dapat memuat semua kitab yang harus ditulis itu.",
+      "ref_id": "Yohanes 21:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 31
+    }
+  ],
+  "title_id": "Amanat Agung di Galilea, Kenaikan ke Sorga & Penutup Saksi",
+  "title_en": "The Great Commission, Ascension & Final Witness",
+  "epoch_id": 8,
+  "total_words": 324,
+  "arabic_page_range": "p. 209 - p. 209",
+  "arabic_pages": [
+    209
+  ],
+  "stats": {
+    "mat": 10,
+    "mrk": 12,
+    "luk": 6,
+    "yoh": 1,
+    "unk": 0
+  },
+  "footnotes": [
+    {
+      "id": 1,
+      "target_ref": "Luke 24:53",
+      "title": "Varian Naskah Luke 24:53 (\"Amin\")",
+      "text": "Kata \"Amin\" pada ayat Luke 24:53 tidak terdapat dalam manuscript UBS/Westcott and Hort yang digunakan terjemahan LAI TB tetapi terdapat dalam Diatessaron serta manuscript Textus Receptus (TR) yang digunakan oleh terjemahan MILT (2008)."
     },
     {
-      "id": 30,
-      "diatessaron_verse": "Catatan kaki:",
-      "ref": "John 21:25",
-      "arabic_page": 209,
-      "text": "1) Kata \"Amin\" pada ayat Luke 24:53 tidak terdapat dalam manuscript UBS/Westcott and Hort yang digunakan terjemahan LAI TB tetapi terdapat dalam Diatessaron serta manuscript Textus Receptus (TR) yang digunakan oleh terjemahan MILT (2008). 2) Kalimat \"Sama seperti Bapa mengutus Aku, demikian juga sekarang Aku mengutus kamu.\" pada ayat Matthew 28:18b hanya terdapat di manuscript Diatessaron, agaknya kalimat ini paralel dengan John 20:21c atau bersumber dari manuscript lain."
+      "id": 2,
+      "target_ref": "Matthew 28:18",
+      "title": "Varian Naskah Matthew 28:18b (Pengutusan)",
+      "text": "Kalimat \"Sama seperti Bapa mengutus Aku, demikian juga sekarang Aku mengutus kamu.\" pada ayat Matthew 28:18b hanya terdapat di manuscript Diatessaron, agaknya kalimat ini paralel dengan John 20:21c atau bersumber dari manuscript lain."
     }
   ]
 }

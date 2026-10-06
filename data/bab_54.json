@@ -17,595 +17,1030 @@
     "John",
     "Luke"
   ],
-  "total_segments": 84,
-  "diatessaron_verse_range": "1 - Catatan kaki:",
+  "total_segments": 83,
+  "diatessaron_verse_range": "1 - 48",
   "verses": [
     {
       "id": 1,
       "diatessaron_verse": "1",
       "ref": "John 20:19a",
       "arabic_page": null,
-      "text": "Ketika hari sudah malam pada hari pertama minggu itu berkumpullah murid-murid Yesus di suatu tempat dengan pintu-pintu yang terkunci karena mereka takut kepada orang-orang"
+      "text": "Ketika hari sudah malam pada hari pertama minggu itu berkumpullah murid-murid Yesus di suatu tempat dengan pintu-pintu yang terkunci karena mereka takut kepada orang-orang",
+      "ref_id": "Yohanes 20:19a",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 24
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "John 20:19a",
       "arabic_page": null,
-      "text": "Yahudi."
+      "text": "Yahudi.",
+      "ref_id": "Yohanes 20:19a",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "Luke 24:36c",
       "arabic_page": null,
-      "text": "Yesus tiba-tiba berdiri di tengah-tengah mereka dan berkata kepada mereka: \"Damai sejahtera bagi kamu!\""
+      "text": "Yesus tiba-tiba berdiri di tengah-tengah mereka dan berkata kepada mereka: \"Damai sejahtera bagi kamu!\"",
+      "ref_id": "Lukas 24:36c",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 4,
       "diatessaron_verse": "2",
       "ref": "Luke 24:37",
       "arabic_page": null,
-      "text": "Mereka terkejut dan takut dan menyangka bahwa mereka"
+      "text": "Mereka terkejut dan takut dan menyangka bahwa mereka",
+      "ref_id": "Lukas 24:37",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "Luke 24:37",
       "arabic_page": null,
-      "text": "melihat hantu."
+      "text": "melihat hantu.",
+      "ref_id": "Lukas 24:37",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 6,
       "diatessaron_verse": "3",
       "ref": "Luke 24:38",
       "arabic_page": null,
-      "text": "Akan tetapi Ia berkata kepada mereka: \"Mengapa kamu terkejut dan apa sebabnya timbul"
+      "text": "Akan tetapi Ia berkata kepada mereka: \"Mengapa kamu terkejut dan apa sebabnya timbul",
+      "ref_id": "Lukas 24:38",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 7,
       "diatessaron_verse": "4",
       "ref": "Luke 24:38",
       "arabic_page": 205,
-      "text": "keragu-raguan di dalam hati kamu?"
+      "text": "keragu-raguan di dalam hati kamu?",
+      "ref_id": "Lukas 24:38",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 8,
       "diatessaron_verse": "4",
       "ref": "Luke 24:39",
       "arabic_page": 205,
-      "text": "Lihatlah tangan-Ku dan kaki-Ku: Aku sendirilah ini; rabalah Aku dan lihatlah, karena hantu tidak ada daging dan tulangnya, seperti yang kamu lihat ada pada-Ku.\""
+      "text": "Lihatlah tangan-Ku dan kaki-Ku: Aku sendirilah ini; rabalah Aku dan lihatlah, karena hantu tidak ada daging dan tulangnya, seperti yang kamu lihat ada pada-Ku.\"",
+      "ref_id": "Lukas 24:39",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 24
     },
     {
       "id": 9,
       "diatessaron_verse": "5",
       "ref": "Luke 24:40",
       "arabic_page": 205,
-      "text": "Sambil berkata demikian, Ia memperlihatkan tangan dan kaki-Nya kepada mereka."
+      "text": "Sambil berkata demikian, Ia memperlihatkan tangan dan kaki-Nya kepada mereka.",
+      "ref_id": "Lukas 24:40",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 10,
       "diatessaron_verse": "6",
       "ref": "Luke 24:41",
       "arabic_page": 205,
-      "text": "Dan ketika mereka belum percaya karena girangnya dan masih heran, berkatalah"
+      "text": "Dan ketika mereka belum percaya karena girangnya dan masih heran, berkatalah",
+      "ref_id": "Lukas 24:41",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 11,
       "diatessaron_verse": "7",
       "ref": "Luke 24:41",
       "arabic_page": 205,
-      "text": "Ia kepada mereka: \"Adakah padamu makanan di sini?\""
+      "text": "Ia kepada mereka: \"Adakah padamu makanan di sini?\"",
+      "ref_id": "Lukas 24:41",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 12,
       "diatessaron_verse": "7",
       "ref": "Luke 24:42",
       "arabic_page": 205,
-      "text": "Lalu mereka memberikan kepada-Nya sepotong ikan goreng [dan madu lebah]."
+      "text": "Lalu mereka memberikan kepada-Nya sepotong ikan goreng [dan madu lebah].",
+      "ref_id": "Lukas 24:42",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10,
+      "footnote_id": 1
     },
     {
       "id": 13,
       "diatessaron_verse": "7",
       "ref": "Luke 24:43",
       "arabic_page": 205,
-      "text": "Ia mengambilnya dan memakannya di depan mata mereka."
+      "text": "Ia mengambilnya dan memakannya di depan mata mereka.",
+      "ref_id": "Lukas 24:43",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 14,
       "diatessaron_verse": "7",
       "ref": "Luke 24:43",
       "arabic_page": 205,
-      "text": "8"
+      "text": "8",
+      "ref_id": "Lukas 24:43",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 15,
       "diatessaron_verse": "7",
       "ref": "Luke 24:44",
       "arabic_page": 205,
-      "text": "Ia berkata kepada mereka: \"Inilah perkataan-Ku, yang telah Kukatakan kepadamu ketika Aku masih bersama-sama dengan kamu, yakni bahwa harus digenapi semua yang ada tertulis tentang Aku dalam kitab Taurat"
+      "text": "Ia berkata kepada mereka: \"Inilah perkataan-Ku, yang telah Kukatakan kepadamu ketika Aku masih bersama-sama dengan kamu, yakni bahwa harus digenapi semua yang ada tertulis tentang Aku dalam kitab Taurat",
+      "ref_id": "Lukas 24:44",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 29
     },
     {
       "id": 16,
       "diatessaron_verse": "9",
       "ref": "Luke 24:44",
       "arabic_page": 205,
-      "text": "Musa dan kitab nabi-nabi dan kitab Mazmur.\""
+      "text": "Musa dan kitab nabi-nabi dan kitab Mazmur.\"",
+      "ref_id": "Lukas 24:44",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 17,
       "diatessaron_verse": "9",
       "ref": "Luke 24:45",
       "arabic_page": 205,
-      "text": "Lalu Ia membuka"
+      "text": "Lalu Ia membuka",
+      "ref_id": "Lukas 24:45",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 18,
       "diatessaron_verse": "10",
       "ref": "Luke 24:45",
       "arabic_page": 205,
-      "text": "pikiran mereka, sehingga mereka mengerti Kitab Suci."
+      "text": "pikiran mereka, sehingga mereka mengerti Kitab Suci.",
+      "ref_id": "Lukas 24:45",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 19,
       "diatessaron_verse": "10",
       "ref": "Luke 24:46",
       "arabic_page": 205,
-      "text": "Kata-Nya kepada mereka: \"Ada tertulis demikian: Mesias harus menderita dan bangkit dari antara"
+      "text": "Kata-Nya kepada mereka: \"Ada tertulis demikian: Mesias harus menderita dan bangkit dari antara",
+      "ref_id": "Lukas 24:46",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 20,
       "diatessaron_verse": "11",
       "ref": "Luke 24:46",
       "arabic_page": 205,
-      "text": "orang mati pada hari yang ketiga,"
+      "text": "orang mati pada hari yang ketiga,",
+      "ref_id": "Lukas 24:46",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 21,
       "diatessaron_verse": "11",
       "ref": "Luke 24:47",
       "arabic_page": 205,
-      "text": "dan lagi:"
+      "text": "dan lagi:",
+      "ref_id": "Lukas 24:47",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 22,
       "diatessaron_verse": "12",
       "ref": "Luke 24:47",
       "arabic_page": 205,
-      "text": "dalam nama-Nya berita tentang pertobatan dan pengampunan dosa harus disampaikan kepada segala bangsa, mulai dari Yerusalem."
+      "text": "dalam nama-Nya berita tentang pertobatan dan pengampunan dosa harus disampaikan kepada segala bangsa, mulai dari Yerusalem.",
+      "ref_id": "Lukas 24:47",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 23,
       "diatessaron_verse": "13",
       "ref": "Luke 24:48",
       "arabic_page": 205,
-      "text": "Kamu adalah saksi dari semuanya ini."
+      "text": "Kamu adalah saksi dari semuanya ini.",
+      "ref_id": "Lukas 24:48",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 24,
       "diatessaron_verse": "13",
       "ref": "Luke 24:49a",
       "arabic_page": 205,
-      "text": "Dan Aku akan mengirim kepadamu apa yang dijanjikan Bapa-Ku."
+      "text": "Dan Aku akan mengirim kepadamu apa yang dijanjikan Bapa-Ku.",
+      "ref_id": "Lukas 24:49a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 25,
       "diatessaron_verse": "13",
       "ref": "John 20:20b",
       "arabic_page": 205,
-      "text": "Murid-murid itu bersukacita"
+      "text": "Murid-murid itu bersukacita",
+      "ref_id": "Yohanes 20:20b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 26,
       "diatessaron_verse": "14",
       "ref": "John 20:20b",
       "arabic_page": 205,
-      "text": "ketika mereka melihat Tuhan."
+      "text": "ketika mereka melihat Tuhan.",
+      "ref_id": "Yohanes 20:20b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 27,
       "diatessaron_verse": "14",
       "ref": "John 20:21",
       "arabic_page": 205,
-      "text": "Maka kata Yesus sekali lagi:"
+      "text": "Maka kata Yesus sekali lagi:",
+      "ref_id": "Yohanes 20:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 28,
       "diatessaron_verse": "15",
       "ref": "John 20:21",
       "arabic_page": 205,
-      "text": "\"Damai sejahtera bagi kamu! Sama seperti Bapa mengutus Aku, demikian juga sekarang Aku mengutus kamu.\""
+      "text": "\"Damai sejahtera bagi kamu! Sama seperti Bapa mengutus Aku, demikian juga sekarang Aku mengutus kamu.\"",
+      "ref_id": "Yohanes 20:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 29,
       "diatessaron_verse": "15",
       "ref": "John 20:22",
       "arabic_page": 205,
-      "text": "Dan sesudah berkata demikian, Ia mengembusi mereka dan berkata: \"Terimalah Roh Kudus."
+      "text": "Dan sesudah berkata demikian, Ia mengembusi mereka dan berkata: \"Terimalah Roh Kudus.",
+      "ref_id": "Yohanes 20:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 30,
       "diatessaron_verse": "16",
       "ref": "John 20:23",
       "arabic_page": 205,
-      "text": "Jikalau kamu mengampuni dosa orang, dosanya diampuni, dan jikalau kamu menyatakan dosa orang tetap ada, dosanya tetap ada.\""
+      "text": "Jikalau kamu mengampuni dosa orang, dosanya diampuni, dan jikalau kamu menyatakan dosa orang tetap ada, dosanya tetap ada.\"",
+      "ref_id": "Yohanes 20:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 31,
       "diatessaron_verse": "17",
       "ref": "John 20:24",
       "arabic_page": 205,
-      "text": "Tetapi Tomas, seorang dari kedua belas murid itu, yang disebut Didimus, tidak ada bersama-sama mereka,"
+      "text": "Tetapi Tomas, seorang dari kedua belas murid itu, yang disebut Didimus, tidak ada bersama-sama mereka,",
+      "ref_id": "Yohanes 20:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 32,
       "diatessaron_verse": "18",
       "ref": "John 20:24",
       "arabic_page": 205,
-      "text": "ketika Yesus datang ke situ."
+      "text": "ketika Yesus datang ke situ.",
+      "ref_id": "Yohanes 20:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 33,
       "diatessaron_verse": "18",
       "ref": "John 20:25",
       "arabic_page": 205,
-      "text": "Maka kata murid-murid yang lain itu kepadanya: \"Kami telah melihat Tuhan!\" Tetapi Tomas berkata kepada mereka: \"Sebelum aku melihat bekas paku pada tangan-Nya dan sebelum aku mencucukkan jariku ke dalam bekas paku itu dan mencucukkan tanganku ke dalam lambung-Nya, sekali-kali aku tidak akan percaya.\""
+      "text": "Maka kata murid-murid yang lain itu kepadanya: \"Kami telah melihat Tuhan!\" Tetapi Tomas berkata kepada mereka: \"Sebelum aku melihat bekas paku pada tangan-Nya dan sebelum aku mencucukkan jariku ke dalam bekas paku itu dan mencucukkan tanganku ke dalam lambung-Nya, sekali-kali aku tidak akan percaya.\"",
+      "ref_id": "Yohanes 20:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 44
     },
     {
       "id": 34,
       "diatessaron_verse": "19",
       "ref": "John 20:26",
       "arabic_page": 205,
-      "text": "Delapan hari kemudian murid-murid Yesus berada kembali dalam rumah itu dan Tomas bersama-sama dengan mereka. Sementara pintu-pintu terkunci, Yesus datang dan Ia berdiri"
+      "text": "Delapan hari kemudian murid-murid Yesus berada kembali dalam rumah itu dan Tomas bersama-sama dengan mereka. Sementara pintu-pintu terkunci, Yesus datang dan Ia berdiri",
+      "ref_id": "Yohanes 20:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 23
     },
     {
       "id": 35,
       "diatessaron_verse": "20",
       "ref": "John 20:26",
       "arabic_page": 206,
-      "text": "di tengah-tengah mereka dan berkata: \"Damai sejahtera bagi kamu!\""
+      "text": "di tengah-tengah mereka dan berkata: \"Damai sejahtera bagi kamu!\"",
+      "ref_id": "Yohanes 20:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 36,
       "diatessaron_verse": "20",
       "ref": "John 20:27",
       "arabic_page": 206,
-      "text": "Kemudian Ia berkata kepada Tomas: \"Taruhlah jarimu di sini dan lihatlah tangan-Ku, ulurkanlah"
+      "text": "Kemudian Ia berkata kepada Tomas: \"Taruhlah jarimu di sini dan lihatlah tangan-Ku, ulurkanlah",
+      "ref_id": "Yohanes 20:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 37,
       "diatessaron_verse": "21",
       "ref": "John 20:27",
       "arabic_page": 206,
-      "text": "tanganmu dan cucukkan ke dalam lambung-Ku dan jangan engkau tidak percaya lagi, melainkan percayalah.\""
+      "text": "tanganmu dan cucukkan ke dalam lambung-Ku dan jangan engkau tidak percaya lagi, melainkan percayalah.\"",
+      "ref_id": "Yohanes 20:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 38,
       "diatessaron_verse": "21",
       "ref": "John 20:28",
       "arabic_page": 206,
-      "text": "Tomas"
+      "text": "Tomas",
+      "ref_id": "Yohanes 20:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 39,
       "diatessaron_verse": "22",
       "ref": "John 20:28",
       "arabic_page": 206,
-      "text": "menjawab Dia: \"Ya Tuhanku dan Allahku!\""
+      "text": "menjawab Dia: \"Ya Tuhanku dan Allahku!\"",
+      "ref_id": "Yohanes 20:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 40,
       "diatessaron_verse": "22",
       "ref": "John 20:29",
       "arabic_page": 206,
-      "text": "Kata Yesus kepadanya: \"Karena engkau telah melihat Aku, maka engkau percaya. Berbahagialah mereka yang tidak melihat, namun percaya.\""
+      "text": "Kata Yesus kepadanya: \"Karena engkau telah melihat Aku, maka engkau percaya. Berbahagialah mereka yang tidak melihat, namun percaya.\"",
+      "ref_id": "Yohanes 20:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 41,
       "diatessaron_verse": "23",
       "ref": "John 20:30",
       "arabic_page": 206,
-      "text": "Memang masih banyak tanda lain yang dibuat Yesus di depan mata murid-murid-Nya, yang"
+      "text": "Memang masih banyak tanda lain yang dibuat Yesus di depan mata murid-murid-Nya, yang",
+      "ref_id": "Yohanes 20:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 42,
       "diatessaron_verse": "24",
       "ref": "John 20:30",
       "arabic_page": 206,
-      "text": "tidak tercatat dalam kitab ini,"
+      "text": "tidak tercatat dalam kitab ini,",
+      "ref_id": "Yohanes 20:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 43,
       "diatessaron_verse": "24",
       "ref": "John 20:31",
       "arabic_page": 206,
-      "text": "tetapi semua yang tercantum di sini telah dicatat, supaya kamu percaya, bahwa Yesuslah Mesias, Anak Allah, dan supaya kamu oleh imanmu memperoleh hidup dalam nama-Nya."
+      "text": "tetapi semua yang tercantum di sini telah dicatat, supaya kamu percaya, bahwa Yesuslah Mesias, Anak Allah, dan supaya kamu oleh imanmu memperoleh hidup dalam nama-Nya.",
+      "ref_id": "Yohanes 20:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 25
     },
     {
       "id": 44,
       "diatessaron_verse": "25",
       "ref": "John 21:1",
       "arabic_page": 206,
-      "text": "Kemudian Yesus menampakkan diri lagi kepada murid-murid-Nya di pantai danau Tiberias"
+      "text": "Kemudian Yesus menampakkan diri lagi kepada murid-murid-Nya di pantai danau Tiberias",
+      "ref_id": "Yohanes 21:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 45,
       "diatessaron_verse": "26",
       "ref": "John 21:1",
       "arabic_page": 206,
-      "text": "dan Ia menampakkan diri sebagai berikut."
+      "text": "dan Ia menampakkan diri sebagai berikut.",
+      "ref_id": "Yohanes 21:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 46,
       "diatessaron_verse": "26",
       "ref": "John 21:2",
       "arabic_page": 206,
-      "text": "Di pantai itu berkumpul Simon Petrus, Tomas yang disebut Didimus, Natanael dari Kana yang di Galilea,"
+      "text": "Di pantai itu berkumpul Simon Petrus, Tomas yang disebut Didimus, Natanael dari Kana yang di Galilea,",
+      "ref_id": "Yohanes 21:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 47,
       "diatessaron_verse": "27",
       "ref": "John 21:2",
       "arabic_page": 206,
-      "text": "anak-anak Zebedeus dan dua orang murid-Nya yang lain."
+      "text": "anak-anak Zebedeus dan dua orang murid-Nya yang lain.",
+      "ref_id": "Yohanes 21:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 48,
       "diatessaron_verse": "27",
       "ref": "John 21:3",
       "arabic_page": 206,
-      "text": "Kata Simon Petrus kepada mereka: \"Aku pergi menangkap ikan.\" Kata mereka kepadanya: \"Kami pergi juga dengan engkau.\" Mereka berangkat lalu naik ke perahu, tetapi malam itu mereka tidak menangkap apa-apa."
+      "text": "Kata Simon Petrus kepada mereka: \"Aku pergi menangkap ikan.\" Kata mereka kepadanya: \"Kami pergi juga dengan engkau.\" Mereka berangkat lalu naik ke perahu, tetapi malam itu mereka tidak menangkap apa-apa.",
+      "ref_id": "Yohanes 21:3",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 30
     },
     {
       "id": 49,
       "diatessaron_verse": "28",
       "ref": "John 21:4",
       "arabic_page": 206,
-      "text": "Ketika hari mulai siang, Yesus berdiri di pantai; akan tetapi murid-murid itu"
+      "text": "Ketika hari mulai siang, Yesus berdiri di pantai; akan tetapi murid-murid itu",
+      "ref_id": "Yohanes 21:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 50,
       "diatessaron_verse": "29",
       "ref": "John 21:4",
       "arabic_page": 206,
-      "text": "tidak tahu, bahwa itu adalah Yesus."
+      "text": "tidak tahu, bahwa itu adalah Yesus.",
+      "ref_id": "Yohanes 21:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 51,
       "diatessaron_verse": "29",
       "ref": "John 21:5",
       "arabic_page": 206,
-      "text": "Kata Yesus kepada mereka: \"Hai anak-anak, adakah kamu"
+      "text": "Kata Yesus kepada mereka: \"Hai anak-anak, adakah kamu",
+      "ref_id": "Yohanes 21:5",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 52,
       "diatessaron_verse": "30",
       "ref": "John 21:5",
       "arabic_page": 206,
-      "text": "mempunyai lauk-pauk?\" Jawab mereka: \"Tidak ada.\""
+      "text": "mempunyai lauk-pauk?\" Jawab mereka: \"Tidak ada.\"",
+      "ref_id": "Yohanes 21:5",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 53,
       "diatessaron_verse": "30",
       "ref": "John 21:6",
       "arabic_page": 206,
-      "text": "Maka kata Yesus kepada mereka: \"Tebarkanlah jalamu di sebelah kanan perahu, maka akan kamu peroleh.\" Lalu mereka menebarkannya dan mereka tidak dapat"
+      "text": "Maka kata Yesus kepada mereka: \"Tebarkanlah jalamu di sebelah kanan perahu, maka akan kamu peroleh.\" Lalu mereka menebarkannya dan mereka tidak dapat",
+      "ref_id": "Yohanes 21:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 22
     },
     {
       "id": 54,
       "diatessaron_verse": "31",
       "ref": "John 21:6",
       "arabic_page": 206,
-      "text": "menariknya lagi karena banyaknya ikan."
+      "text": "menariknya lagi karena banyaknya ikan.",
+      "ref_id": "Yohanes 21:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 55,
       "diatessaron_verse": "31",
       "ref": "John 21:7",
       "arabic_page": 206,
-      "text": "Maka murid yang dikasihi Yesus itu berkata kepada Petrus: \"Itu Tuhan.\" Ketika Petrus mendengar, bahwa itu adalah Tuhan, maka ia mengenakan pakaiannya, sebab ia"
+      "text": "Maka murid yang dikasihi Yesus itu berkata kepada Petrus: \"Itu Tuhan.\" Ketika Petrus mendengar, bahwa itu adalah Tuhan, maka ia mengenakan pakaiannya, sebab ia",
+      "ref_id": "Yohanes 21:7",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 24
     },
     {
       "id": 56,
       "diatessaron_verse": "32",
       "ref": "John 21:7",
       "arabic_page": 206,
-      "text": "tidak berpakaian, lalu terjun ke dalam danau."
+      "text": "tidak berpakaian, lalu terjun ke dalam danau.",
+      "ref_id": "Yohanes 21:7",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 57,
       "diatessaron_verse": "32",
       "ref": "John 21:8",
       "arabic_page": 206,
-      "text": "Murid-murid yang lain datang dengan perahu karena mereka tidak jauh dari darat, hanya kira-kira dua"
+      "text": "Murid-murid yang lain datang dengan perahu karena mereka tidak jauh dari darat, hanya kira-kira dua",
+      "ref_id": "Yohanes 21:8",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 58,
       "diatessaron_verse": "33",
       "ref": "John 21:8",
       "arabic_page": 207,
-      "text": "ratus hasta saja dan mereka menghela jala yang penuh ikan itu."
+      "text": "ratus hasta saja dan mereka menghela jala yang penuh ikan itu.",
+      "ref_id": "Yohanes 21:8",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 59,
       "diatessaron_verse": "33",
       "ref": "John 21:9",
       "arabic_page": 207,
-      "text": "Ketika mereka tiba di"
+      "text": "Ketika mereka tiba di",
+      "ref_id": "Yohanes 21:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 60,
       "diatessaron_verse": "34",
       "ref": "John 21:9",
       "arabic_page": 207,
-      "text": "darat, mereka melihat api arang dan di atasnya ikan dan roti."
+      "text": "darat, mereka melihat api arang dan di atasnya ikan dan roti.",
+      "ref_id": "Yohanes 21:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 61,
       "diatessaron_verse": "34",
       "ref": "John 21:10",
       "arabic_page": 207,
-      "text": "Kata Yesus"
+      "text": "Kata Yesus",
+      "ref_id": "Yohanes 21:10",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 62,
       "diatessaron_verse": "35",
       "ref": "John 21:10",
       "arabic_page": 207,
-      "text": "kepada mereka: \"Bawalah beberapa ikan, yang baru kamu tangkap itu.\""
+      "text": "kepada mereka: \"Bawalah beberapa ikan, yang baru kamu tangkap itu.\"",
+      "ref_id": "Yohanes 21:10",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 63,
       "diatessaron_verse": "35",
       "ref": "John 21:11",
       "arabic_page": 207,
-      "text": "Simon Petrus naik ke perahu lalu menghela jala itu ke darat, penuh ikan-ikan besar: seratus lima puluh tiga"
+      "text": "Simon Petrus naik ke perahu lalu menghela jala itu ke darat, penuh ikan-ikan besar: seratus lima puluh tiga",
+      "ref_id": "Yohanes 21:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 64,
       "diatessaron_verse": "36",
       "ref": "John 21:11",
       "arabic_page": 207,
-      "text": "ekor banyaknya, dan sungguhpun sebanyak itu, jala itu tidak koyak."
+      "text": "ekor banyaknya, dan sungguhpun sebanyak itu, jala itu tidak koyak.",
+      "ref_id": "Yohanes 21:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 65,
       "diatessaron_verse": "36",
       "ref": "John 21:12",
       "arabic_page": 207,
-      "text": "Kata Yesus kepada mereka: \"Marilah dan sarapanlah.\" Tidak ada di antara murid-murid itu yang berani bertanya kepada-Nya: \"Siapakah Engkau?\" Sebab mereka tahu, bahwa Ia adalah Tuhan."
+      "text": "Kata Yesus kepada mereka: \"Marilah dan sarapanlah.\" Tidak ada di antara murid-murid itu yang berani bertanya kepada-Nya: \"Siapakah Engkau?\" Sebab mereka tahu, bahwa Ia adalah Tuhan.",
+      "ref_id": "Yohanes 21:12",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 26
     },
     {
       "id": 66,
       "diatessaron_verse": "37, 38",
       "ref": "John 21:13",
       "arabic_page": 207,
-      "text": "Yesus maju ke depan, mengambil roti dan memberikannya kepada mereka, demikian juga ikan itu John 21:14 Itulah ketiga kalinya Yesus menampakkan diri kepada murid-murid-Nya sesudah Ia bangkit dari antara orang mati."
+      "text": "Yesus maju ke depan, mengambil roti dan memberikannya kepada mereka, demikian juga ikan itu John 21:14 Itulah ketiga kalinya Yesus menampakkan diri kepada murid-murid-Nya sesudah Ia bangkit dari antara orang mati.",
+      "ref_id": "Yohanes 21:13",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 31
     },
     {
       "id": 67,
       "diatessaron_verse": "39",
       "ref": "John 21:15",
       "arabic_page": 207,
-      "text": "Sesudah sarapan Yesus berkata kepada Simon Petrus: \"Simon, anak Yohanes, apakah engkau mengasihi Aku lebih dari pada mereka ini?\" Jawab Petrus kepada-Nya: \"Benar Tuhan,"
+      "text": "Sesudah sarapan Yesus berkata kepada Simon Petrus: \"Simon, anak Yohanes, apakah engkau mengasihi Aku lebih dari pada mereka ini?\" Jawab Petrus kepada-Nya: \"Benar Tuhan,",
+      "ref_id": "Yohanes 21:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 24
     },
     {
       "id": 68,
       "diatessaron_verse": "40",
       "ref": "John 21:15",
       "arabic_page": 207,
-      "text": "Engkau tahu, bahwa aku mengasihi Engkau.\" Kata Yesus kepadanya: \"Gembalakanlah domba-domba-Ku.\""
+      "text": "Engkau tahu, bahwa aku mengasihi Engkau.\" Kata Yesus kepadanya: \"Gembalakanlah domba-domba-Ku.\"",
+      "ref_id": "Yohanes 21:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 69,
       "diatessaron_verse": "40",
       "ref": "John 21:16",
       "arabic_page": 207,
-      "text": "Kata Yesus pula kepadanya untuk kedua kalinya: \"Simon, anak Yohanes, apakah engkau mengasihi Aku?\"* Jawab Petrus kepada-Nya: \"Benar Tuhan, Engkau tahu, bahwa aku mengasihi Engkau.\" Kata Yesus kepadanya: /\"Gembalakanlah"
+      "text": "Kata Yesus pula kepadanya untuk kedua kalinya: \"Simon, anak Yohanes, apakah engkau mengasihi Aku?\"* Jawab Petrus kepada-Nya: \"Benar Tuhan, Engkau tahu, bahwa aku mengasihi Engkau.\" Kata Yesus kepadanya: /\"Gembalakanlah",
+      "ref_id": "Yohanes 21:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 29
     },
     {
       "id": 70,
       "diatessaron_verse": "41",
       "ref": "John 21:16",
       "arabic_page": 207,
-      "text": "domba-domba-Ku.\""
+      "text": "domba-domba-Ku.\"",
+      "ref_id": "Yohanes 21:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 71,
       "diatessaron_verse": "41",
       "ref": "John 21:17",
       "arabic_page": 207,
-      "text": "Kata Yesus kepadanya untuk ketiga kalinya: \"Simon, anak Yohanes, apakah engkau mengasihi Aku?\"* Maka sedih hati Petrus karena Yesus berkata untuk ketiga kalinya: /\"Apakah engkau mengasihi Aku?\"* Dan ia berkata kepada-Nya: \"Tuhan, Engkau tahu segala sesuatu, Engkau tahu, bahwa aku"
+      "text": "Kata Yesus kepadanya untuk ketiga kalinya: \"Simon, anak Yohanes, apakah engkau mengasihi Aku?\"* Maka sedih hati Petrus karena Yesus berkata untuk ketiga kalinya: /\"Apakah engkau mengasihi Aku?\"* Dan ia berkata kepada-Nya: \"Tuhan, Engkau tahu segala sesuatu, Engkau tahu, bahwa aku",
+      "ref_id": "Yohanes 21:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 40
     },
     {
       "id": 72,
       "diatessaron_verse": "42",
       "ref": "John 21:17",
       "arabic_page": 207,
-      "text": "mengasihi Engkau.\" Kata Yesus kepadanya: /\"Gembalakanlah domba-domba-Ku."
+      "text": "mengasihi Engkau.\" Kata Yesus kepadanya: /\"Gembalakanlah domba-domba-Ku.",
+      "ref_id": "Yohanes 21:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 73,
       "diatessaron_verse": "42",
       "ref": "John 21:18",
       "arabic_page": 208,
-      "text": "Aku berkata kepadamu: Sesungguhnya ketika engkau masih muda engkau mengikat pinggangmu sendiri dan engkau berjalan ke mana saja kaukehendaki, tetapi jika engkau sudah menjadi tua, engkau akan mengulurkan tanganmu dan orang lain akan mengikat engkau dan membawa engkau ke tempat yang tidak kaukehendaki.\""
+      "text": "Aku berkata kepadamu: Sesungguhnya ketika engkau masih muda engkau mengikat pinggangmu sendiri dan engkau berjalan ke mana saja kaukehendaki, tetapi jika engkau sudah menjadi tua, engkau akan mengulurkan tanganmu dan orang lain akan mengikat engkau dan membawa engkau ke tempat yang tidak kaukehendaki.\"",
+      "ref_id": "Yohanes 21:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 43
     },
     {
       "id": 74,
       "diatessaron_verse": "43",
       "ref": "John 21:19",
       "arabic_page": 208,
-      "text": "Dan hal ini dikatakan-Nya untuk menyatakan bagaimana Petrus akan mati dan memuliakan Allah. Sesudah"
+      "text": "Dan hal ini dikatakan-Nya untuk menyatakan bagaimana Petrus akan mati dan memuliakan Allah. Sesudah",
+      "ref_id": "Yohanes 21:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 75,
       "diatessaron_verse": "44",
       "ref": "John 21:19",
       "arabic_page": 208,
-      "text": "mengatakan demikian Ia berkata kepada Petrus: \"Ikutlah Aku.\""
+      "text": "mengatakan demikian Ia berkata kepada Petrus: \"Ikutlah Aku.\"",
+      "ref_id": "Yohanes 21:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 76,
       "diatessaron_verse": "44",
       "ref": "John 21:20",
       "arabic_page": 208,
-      "text": "Ketika Petrus berpaling, ia melihat bahwa murid yang dikasihi Yesus sedang mengikuti mereka, yaitu murid yang pada waktu mereka sedang makan bersama duduk"
+      "text": "Ketika Petrus berpaling, ia melihat bahwa murid yang dikasihi Yesus sedang mengikuti mereka, yaitu murid yang pada waktu mereka sedang makan bersama duduk",
+      "ref_id": "Yohanes 21:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 23
     },
     {
       "id": 77,
       "diatessaron_verse": "45",
       "ref": "John 21:20",
       "arabic_page": 208,
-      "text": "dekat Yesus dan yang berkata: \"Tuhan, siapakah dia yang akan menyerahkan Engkau?\""
+      "text": "dekat Yesus dan yang berkata: \"Tuhan, siapakah dia yang akan menyerahkan Engkau?\"",
+      "ref_id": "Yohanes 21:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 78,
       "diatessaron_verse": "45",
       "ref": "John 21:21",
       "arabic_page": 208,
-      "text": "Ketika Petrus melihat murid itu, ia berkata kepada Yesus: \"Tuhan, apakah yang akan terjadi dengan"
+      "text": "Ketika Petrus melihat murid itu, ia berkata kepada Yesus: \"Tuhan, apakah yang akan terjadi dengan",
+      "ref_id": "Yohanes 21:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 79,
       "diatessaron_verse": "46",
       "ref": "John 21:21",
       "arabic_page": 208,
-      "text": "dia ini?\""
+      "text": "dia ini?\"",
+      "ref_id": "Yohanes 21:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 80,
       "diatessaron_verse": "46",
       "ref": "John 21:22",
       "arabic_page": 208,
-      "text": "Jawab Yesus: \"Jikalau Aku menghendaki, supaya ia tinggal hidup sampai Aku datang, itu"
+      "text": "Jawab Yesus: \"Jikalau Aku menghendaki, supaya ia tinggal hidup sampai Aku datang, itu",
+      "ref_id": "Yohanes 21:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 81,
       "diatessaron_verse": "47",
       "ref": "John 21:22",
       "arabic_page": 208,
-      "text": "bukan urusanmu. Tetapi engkau: ikutlah Aku.\""
+      "text": "bukan urusanmu. Tetapi engkau: ikutlah Aku.\"",
+      "ref_id": "Yohanes 21:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 82,
       "diatessaron_verse": "47",
       "ref": "John 21:23",
       "arabic_page": 208,
-      "text": "Maka tersebarlah kabar di antara saudara-saudara itu, bahwa murid itu tidak akan mati. Tetapi Yesus tidak mengatakan kepada Petrus, bahwa murid itu tidak akan mati, melainkan: \"Jikalau Aku menghendaki supaya ia tinggal hidup sampai Aku datang, itu bukan urusanmu.\""
+      "text": "Maka tersebarlah kabar di antara saudara-saudara itu, bahwa murid itu tidak akan mati. Tetapi Yesus tidak mengatakan kepada Petrus, bahwa murid itu tidak akan mati, melainkan: \"Jikalau Aku menghendaki supaya ia tinggal hidup sampai Aku datang, itu bukan urusanmu.\"",
+      "ref_id": "Yohanes 21:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 39
     },
     {
       "id": 83,
       "diatessaron_verse": "48",
       "ref": "John 21:24",
       "arabic_page": 208,
-      "text": "Dialah murid, yang memberi kesaksian tentang semuanya ini dan yang telah menuliskannya dan kita tahu, bahwa kesaksiannya itu benar."
-    },
+      "text": "Dialah murid, yang memberi kesaksian tentang semuanya ini dan yang telah menuliskannya dan kita tahu, bahwa kesaksiannya itu benar.",
+      "ref_id": "Yohanes 21:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
+    }
+  ],
+  "title_id": "Perjalanan ke Emaus, Penampakan kepada Murid & Tomas",
+  "title_en": "Road to Emmaus & Appearances to Apostles and Thomas",
+  "epoch_id": 8,
+  "total_words": 1090,
+  "arabic_page_range": "p. 205 - p. 208",
+  "arabic_pages": [
+    205,
+    206,
+    207,
+    208
+  ],
+  "stats": {
+    "mat": 0,
+    "mrk": 0,
+    "luk": 22,
+    "yoh": 61,
+    "unk": 0
+  },
+  "footnotes": [
     {
-      "id": 84,
-      "diatessaron_verse": "Catatan kaki:",
-      "ref": "John 21:24",
-      "arabic_page": 208,
+      "id": 1,
+      "target_ref": "Luke 24:42",
+      "title": "Varian Naskah Luke 24:42 (\"dan madu lebah\")",
       "text": "Kata \"dan madu lebah\" pada ayat Luke 24:42 tidak terdapat dalam manuscript UBS/Westcott and Hort yang digunakan oleh terjemahan LAI TB tetapi terdapat dalam Diatessaron serta manuscript Textus Receptus (TR) yang digunakan oleh terjemahan MILT (2008)"
     }
   ]

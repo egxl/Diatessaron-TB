@@ -26,742 +26,1291 @@
       "diatessaron_verse": "1",
       "ref": "Mark 11:19",
       "arabic_page": 125,
-      "text": "Menjelang malam"
+      "text": "Menjelang malam",
+      "ref_id": "Markus 11:19",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 2
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "Mark 11:19",
       "arabic_page": 125,
-      "text": "mereka keluar lagi dari kota."
+      "text": "mereka keluar lagi dari kota.",
+      "ref_id": "Markus 11:19",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "Mark 11:20",
       "arabic_page": 125,
-      "text": "Pagi-pagi ketika Yesus dan murid-murid-Nya lewat, mereka melihat pohon ara tadi"
+      "text": "Pagi-pagi ketika Yesus dan murid-murid-Nya lewat, mereka melihat pohon ara tadi",
+      "ref_id": "Markus 11:20",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "Mark 11:20",
       "arabic_page": 125,
-      "text": "sudah kering sampai ke akar-akarnya."
+      "text": "sudah kering sampai ke akar-akarnya.",
+      "ref_id": "Markus 11:20",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "Matthew 21:20b",
       "arabic_page": 125,
-      "text": "lalu berkata: \"Bagaimana mungkin pohon ara itu sekonyong-konyong menjadi"
+      "text": "lalu berkata: \"Bagaimana mungkin pohon ara itu sekonyong-konyong menjadi",
+      "ref_id": "Matius 21:20b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "Matthew 21:20b",
       "arabic_page": 125,
-      "text": "kering?\""
+      "text": "kering?\"",
+      "ref_id": "Matius 21:20b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 7,
       "diatessaron_verse": "4",
       "ref": "Mark 11:21",
       "arabic_page": 125,
-      "text": "Maka teringatlah Petrus akan apa yang telah terjadi, lalu ia berkata kepada Yesus: \"Rabi, lihatlah,"
+      "text": "Maka teringatlah Petrus akan apa yang telah terjadi, lalu ia berkata kepada Yesus: \"Rabi, lihatlah,",
+      "ref_id": "Markus 11:21",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 15
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
       "ref": "Mark 11:21",
       "arabic_page": 125,
-      "text": "pohon ara yang Kaukutuk itu sudah kering."
+      "text": "pohon ara yang Kaukutuk itu sudah kering.",
+      "ref_id": "Markus 11:21",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 9,
       "diatessaron_verse": "5",
       "ref": "Mark 11:22",
       "arabic_page": 125,
-      "text": "Yesus menjawab"
+      "text": "Yesus menjawab",
+      "ref_id": "Markus 11:22",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 2
     },
     {
       "id": 10,
       "diatessaron_verse": "6",
       "ref": "Mark 11:22",
       "arabic_page": 125,
-      "text": "mereka: \"Percayalah kepada Allah!"
+      "text": "mereka: \"Percayalah kepada Allah!",
+      "ref_id": "Markus 11:22",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 11,
       "diatessaron_verse": "6",
       "ref": "Mark 11:23",
       "arabic_page": 125,
-      "text": "Aku berkata kepadamu: Sesungguhnya barangsiapa berkata kepada gunung ini: Beranjaklah dan tercampaklah ke dalam laut! asal tidak bimbang hatinya, tetapi percaya, bahwa apa yang"
+      "text": "Aku berkata kepadamu: Sesungguhnya barangsiapa berkata kepada gunung ini: Beranjaklah dan tercampaklah ke dalam laut! asal tidak bimbang hatinya, tetapi percaya, bahwa apa yang",
+      "ref_id": "Markus 11:23",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 24
     },
     {
       "id": 12,
       "diatessaron_verse": "7",
       "ref": "Mark 11:23",
       "arabic_page": 125,
-      "text": "dikatakannya itu akan terjadi, maka hal itu akan terjadi baginya."
+      "text": "dikatakannya itu akan terjadi, maka hal itu akan terjadi baginya.",
+      "ref_id": "Markus 11:23",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     },
     {
       "id": 13,
       "diatessaron_verse": "7",
       "ref": "Matthew 21:21b",
       "arabic_page": 125,
-      "text": "tetapi juga jikalau kamu berkata kepada gunung ini: Beranjaklah dan"
+      "text": "tetapi juga jikalau kamu berkata kepada gunung ini: Beranjaklah dan",
+      "ref_id": "Matius 21:21b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 14,
       "diatessaron_verse": "8",
       "ref": "Matthew 21:21b",
       "arabic_page": 125,
-      "text": "tercampaklah ke dalam laut! hal itu akan terjadi."
+      "text": "tercampaklah ke dalam laut! hal itu akan terjadi.",
+      "ref_id": "Matius 21:21b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 15,
       "diatessaron_verse": "8",
       "ref": "Matthew 21:22",
       "arabic_page": 125,
-      "text": "Dan apa saja yang kamu minta dalam doa dengan penuh kepercayaan,"
+      "text": "Dan apa saja yang kamu minta dalam doa dengan penuh kepercayaan,",
+      "ref_id": "Matius 21:22",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 16,
       "diatessaron_verse": "9, 10",
       "ref": "Matthew 21:22",
       "arabic_page": 125,
-      "text": "kamu akan menerimanya.\""
+      "text": "kamu akan menerimanya.\"",
+      "ref_id": "Matius 21:22",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 17,
       "diatessaron_verse": "9, 10",
       "ref": "Luke 17:5",
       "arabic_page": 125,
-      "text": "Lalu kata rasul-rasul itu kepada Tuhan: \"Tambahkanlah iman kami!\""
+      "text": "Lalu kata rasul-rasul itu kepada Tuhan: \"Tambahkanlah iman kami!\"",
+      "ref_id": "Lukas 17:5",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 18,
       "diatessaron_verse": "9, 10",
       "ref": "Luke 17:6",
       "arabic_page": 125,
-      "text": "Jawab Tuhan: \"Kalau sekiranya kamu mempunyai iman sebesar biji sesawi saja, kamu dapat berkata kepada pohon ara ini: Terbantunlah engkau dan tertanamlah di dalam laut, dan ia akan taat kepadamu.\""
+      "text": "Jawab Tuhan: \"Kalau sekiranya kamu mempunyai iman sebesar biji sesawi saja, kamu dapat berkata kepada pohon ara ini: Terbantunlah engkau dan tertanamlah di dalam laut, dan ia akan taat kepadamu.\"",
+      "ref_id": "Lukas 17:6",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 30
     },
     {
       "id": 19,
       "diatessaron_verse": "11",
       "ref": "Luke 17:7",
       "arabic_page": 125,
-      "text": "\"Siapa di antara kamu yang mempunyai seorang hamba yang membajak atau"
+      "text": "\"Siapa di antara kamu yang mempunyai seorang hamba yang membajak atau",
+      "ref_id": "Lukas 17:7",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 20,
       "diatessaron_verse": "12",
       "ref": "Luke 17:7",
       "arabic_page": 125,
-      "text": "menggembalakan ternak baginya, akan berkata kepada hamba itu, setelah ia pulang dari ladang: Mari segera makan!"
+      "text": "menggembalakan ternak baginya, akan berkata kepada hamba itu, setelah ia pulang dari ladang: Mari segera makan!",
+      "ref_id": "Lukas 17:7",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 21,
       "diatessaron_verse": "12",
       "ref": "Luke 17:8",
       "arabic_page": 125,
-      "text": "Bukankah sebaliknya ia akan berkata kepada hamba itu: Sediakanlah makananku. Ikatlah pinggangmu dan layanilah aku sampai selesai aku makan dan minum. Dan sesudah itu engkau boleh makan dan minum."
+      "text": "Bukankah sebaliknya ia akan berkata kepada hamba itu: Sediakanlah makananku. Ikatlah pinggangmu dan layanilah aku sampai selesai aku makan dan minum. Dan sesudah itu engkau boleh makan dan minum.",
+      "ref_id": "Lukas 17:8",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 29
     },
     {
       "id": 22,
       "diatessaron_verse": "13",
       "ref": "Luke 17:9",
       "arabic_page": 125,
-      "text": "Adakah ia berterima kasih kepada hamba itu, karena hamba itu telah melakukan apa yang ditugaskan"
+      "text": "Adakah ia berterima kasih kepada hamba itu, karena hamba itu telah melakukan apa yang ditugaskan",
+      "ref_id": "Lukas 17:9",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 23,
       "diatessaron_verse": "14",
       "ref": "Luke 17:9",
       "arabic_page": 125,
-      "text": "kepadanya?."
+      "text": "kepadanya?.",
+      "ref_id": "Lukas 17:9",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 24,
       "diatessaron_verse": "14",
       "ref": "Luke 17:10",
       "arabic_page": 125,
-      "text": "Demikian jugalah kamu. Apabila kamu telah melakukan segala sesuatu yang ditugaskan kepadamu, hendaklah kamu berkata: Kami adalah hamba-hamba yang tidak berguna; kami hanya melakukan apa yang kami harus lakukan.\""
+      "text": "Demikian jugalah kamu. Apabila kamu telah melakukan segala sesuatu yang ditugaskan kepadamu, hendaklah kamu berkata: Kami adalah hamba-hamba yang tidak berguna; kami hanya melakukan apa yang kami harus lakukan.\"",
+      "ref_id": "Lukas 17:10",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 29
     },
     {
       "id": 25,
       "diatessaron_verse": "15",
       "ref": "Mark 11:24",
       "arabic_page": 125,
-      "text": "Karena itu Aku berkata kepadamu: apa saja yang kamu minta dan doakan, percayalah bahwa kamu telah"
+      "text": "Karena itu Aku berkata kepadamu: apa saja yang kamu minta dan doakan, percayalah bahwa kamu telah",
+      "ref_id": "Markus 11:24",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 16
     },
     {
       "id": 26,
       "diatessaron_verse": "16",
       "ref": "Mark 11:24",
       "arabic_page": 126,
-      "text": "menerimanya, maka hal itu akan diberikan kepadamu."
+      "text": "menerimanya, maka hal itu akan diberikan kepadamu.",
+      "ref_id": "Markus 11:24",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 27,
       "diatessaron_verse": "16",
       "ref": "Mark 11:25",
       "arabic_page": 126,
-      "text": "Dan jika kamu berdiri untuk berdoa, ampunilah dahulu sekiranya ada barang sesuatu dalam hatimu terhadap seseorang, supaya juga Bapamu yang di sorga"
+      "text": "Dan jika kamu berdiri untuk berdoa, ampunilah dahulu sekiranya ada barang sesuatu dalam hatimu terhadap seseorang, supaya juga Bapamu yang di sorga",
+      "ref_id": "Markus 11:25",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 22
     },
     {
       "id": 28,
       "diatessaron_verse": "17",
       "ref": "Mark 11:25",
       "arabic_page": 126,
-      "text": "mengampuni kesalahan-kesalahanmu.\""
+      "text": "mengampuni kesalahan-kesalahanmu.\"",
+      "ref_id": "Markus 11:25",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 2
     },
     {
       "id": 29,
       "diatessaron_verse": "17",
       "ref": "Mark 11:26",
       "arabic_page": 126,
-      "text": "(Tetapi jika kamu tidak mengampuni, maka Bapamu yang di sorga juga tidak akan mengampuni kesalahan-kesalahanmu.)"
+      "text": "(Tetapi jika kamu tidak mengampuni, maka Bapamu yang di sorga juga tidak akan mengampuni kesalahan-kesalahanmu.)",
+      "ref_id": "Markus 11:26",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 15
     },
     {
       "id": 30,
       "diatessaron_verse": "18",
       "ref": "Luke 18:1",
       "arabic_page": 126,
-      "text": "Yesus mengatakan suatu perumpamaan kepada mereka untuk menegaskan, bahwa mereka harus selalu berdoa dengan"
+      "text": "Yesus mengatakan suatu perumpamaan kepada mereka untuk menegaskan, bahwa mereka harus selalu berdoa dengan",
+      "ref_id": "Lukas 18:1",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 31,
       "diatessaron_verse": "19",
       "ref": "Luke 18:1",
       "arabic_page": 126,
-      "text": "tidak jemu-jemu."
+      "text": "tidak jemu-jemu.",
+      "ref_id": "Lukas 18:1",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 32,
       "diatessaron_verse": "19",
       "ref": "Luke 18:2",
       "arabic_page": 126,
-      "text": "Kata-Nya: \"Dalam sebuah kota ada seorang hakim yang tidak takut akan Allah dan tidak menghormati"
+      "text": "Kata-Nya: \"Dalam sebuah kota ada seorang hakim yang tidak takut akan Allah dan tidak menghormati",
+      "ref_id": "Lukas 18:2",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 33,
       "diatessaron_verse": "20",
       "ref": "Luke 18:2",
       "arabic_page": 126,
-      "text": "seorangpun."
+      "text": "seorangpun.",
+      "ref_id": "Lukas 18:2",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 34,
       "diatessaron_verse": "20",
       "ref": "Luke 18:3",
       "arabic_page": 126,
-      "text": "Dan di kota itu ada seorang janda yang selalu datang kepada hakim itu dan berkata:"
+      "text": "Dan di kota itu ada seorang janda yang selalu datang kepada hakim itu dan berkata:",
+      "ref_id": "Lukas 18:3",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 35,
       "diatessaron_verse": "21",
       "ref": "Luke 18:3",
       "arabic_page": 126,
-      "text": "Belalah hakku terhadap lawanku."
+      "text": "Belalah hakku terhadap lawanku.",
+      "ref_id": "Lukas 18:3",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 36,
       "diatessaron_verse": "21",
       "ref": "Luke 18:4",
       "arabic_page": 126,
-      "text": "Beberapa waktu lamanya hakim itu menolak. Tetapi kemudian ia berkata dalam hatinya: Walaupun aku tidak takut akan Allah dan tidak menghormati seorangpun,"
+      "text": "Beberapa waktu lamanya hakim itu menolak. Tetapi kemudian ia berkata dalam hatinya: Walaupun aku tidak takut akan Allah dan tidak menghormati seorangpun,",
+      "ref_id": "Lukas 18:4",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 22
     },
     {
       "id": 37,
       "diatessaron_verse": "22",
       "ref": "Luke 18:5",
       "arabic_page": 126,
-      "text": "namun karena janda ini menyusahkan aku, baiklah aku membenarkan dia, supaya jangan terus saja ia datang dan akhirnya"
+      "text": "namun karena janda ini menyusahkan aku, baiklah aku membenarkan dia, supaya jangan terus saja ia datang dan akhirnya",
+      "ref_id": "Lukas 18:5",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 18
     },
     {
       "id": 38,
       "diatessaron_verse": "23, 24",
       "ref": "Luke 18:5",
       "arabic_page": 126,
-      "text": "menyerang aku.\""
+      "text": "menyerang aku.\"",
+      "ref_id": "Lukas 18:5",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 39,
       "diatessaron_verse": "23, 24",
       "ref": "Luke 18:6",
       "arabic_page": 126,
-      "text": "Kata Tuhan: \"Camkanlah apa yang dikatakan hakim yang lalim itu."
+      "text": "Kata Tuhan: \"Camkanlah apa yang dikatakan hakim yang lalim itu.",
+      "ref_id": "Lukas 18:6",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 40,
       "diatessaron_verse": "23, 24",
       "ref": "Luke 18:7",
       "arabic_page": 126,
-      "text": "Tidakkah Allah akan membenarkan orang-orang pilihan-Nya yang siang"
+      "text": "Tidakkah Allah akan membenarkan orang-orang pilihan-Nya yang siang",
+      "ref_id": "Lukas 18:7",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 41,
       "diatessaron_verse": "25",
       "ref": "Luke 18:7",
       "arabic_page": 126,
-      "text": "malam berseru kepada-Nya? Dan adakah Ia mengulur-ulur waktu sebelum menolong mereka?"
+      "text": "malam berseru kepada-Nya? Dan adakah Ia mengulur-ulur waktu sebelum menolong mereka?",
+      "ref_id": "Lukas 18:7",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 42,
       "diatessaron_verse": "25",
       "ref": "Luke 18:8",
       "arabic_page": 126,
-      "text": "Aku berkata kepadamu: Ia akan segera membenarkan mereka. Akan tetapi, jika Anak Manusia itu datang, adakah Ia mendapati iman di bumi?\""
+      "text": "Aku berkata kepadamu: Ia akan segera membenarkan mereka. Akan tetapi, jika Anak Manusia itu datang, adakah Ia mendapati iman di bumi?\"",
+      "ref_id": "Lukas 18:8",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 21
     },
     {
       "id": 43,
       "diatessaron_verse": "26, 27",
       "ref": "Mark 11:15a",
       "arabic_page": 126,
-      "text": "Lalu tibalah Yesus dan murid-murid-Nya di Yerusalem."
+      "text": "Lalu tibalah Yesus dan murid-murid-Nya di Yerusalem.",
+      "ref_id": "Markus 11:15a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 44,
       "diatessaron_verse": "26, 27",
       "ref": "Luke 20:1",
       "arabic_page": 126,
-      "text": "Pada suatu hari ketika Yesus mengajar orang banyak di Bait Allah dan memberitakan"
+      "text": "Pada suatu hari ketika Yesus mengajar orang banyak di Bait Allah dan memberitakan",
+      "ref_id": "Lukas 20:1",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 45,
       "diatessaron_verse": "28",
       "ref": "Luke 20:1",
       "arabic_page": 126,
-      "text": "Injil, datanglah imam-imam kepala dan ahli-ahli Taurat serta tua-tua ke situ,"
+      "text": "Injil, datanglah imam-imam kepala dan ahli-ahli Taurat serta tua-tua ke situ,",
+      "ref_id": "Lukas 20:1",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 46,
       "diatessaron_verse": "28",
       "ref": "Luke 20:2a",
       "arabic_page": 126,
-      "text": "dan mereka berkata kepada Yesus: \"Katakanlah kepada kami"
+      "text": "dan mereka berkata kepada Yesus: \"Katakanlah kepada kami",
+      "ref_id": "Lukas 20:2a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 47,
       "diatessaron_verse": "28",
       "ref": "Mark 11:28b",
       "arabic_page": 126,
-      "text": "\"Dengan kuasa manakah Engkau melakukan hal-hal itu? Dan siapakah yang memberikan"
+      "text": "\"Dengan kuasa manakah Engkau melakukan hal-hal itu? Dan siapakah yang memberikan",
+      "ref_id": "Markus 11:28b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 48,
       "diatessaron_verse": "29",
       "ref": "Mark 11:28b",
       "arabic_page": 126,
-      "text": "kuasa itu kepada-Mu, sehingga Engkau melakukan hal-hal itu?\""
+      "text": "kuasa itu kepada-Mu, sehingga Engkau melakukan hal-hal itu?\"",
+      "ref_id": "Markus 11:28b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 49,
       "diatessaron_verse": "29",
       "ref": "Mark 11:29",
       "arabic_page": 126,
-      "text": "Jawab Yesus kepada mereka: \"Aku akan mengajukan satu pertanyaan kepadamu. Berikanlah"
+      "text": "Jawab Yesus kepada mereka: \"Aku akan mengajukan satu pertanyaan kepadamu. Berikanlah",
+      "ref_id": "Markus 11:29",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 50,
       "diatessaron_verse": "30",
       "ref": "Mark 11:29",
       "arabic_page": 126,
-      "text": "Aku jawabnya, maka Aku akan mengatakan kepadamu dengan kuasa manakah Aku melakukan hal-hal itu."
+      "text": "Aku jawabnya, maka Aku akan mengatakan kepadamu dengan kuasa manakah Aku melakukan hal-hal itu.",
+      "ref_id": "Markus 11:29",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 14
     },
     {
       "id": 51,
       "diatessaron_verse": "30",
       "ref": "Matthew 21:25a",
       "arabic_page": 126,
-      "text": "Dari"
+      "text": "Dari",
+      "ref_id": "Matius 21:25a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 52,
       "diatessaron_verse": "31",
       "ref": "Matthew 21:25a",
       "arabic_page": 126,
-      "text": "manakah baptisan Yohanes? Dari sorga atau dari manusia?\""
+      "text": "manakah baptisan Yohanes? Dari sorga atau dari manusia?\"",
+      "ref_id": "Matius 21:25a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 53,
       "diatessaron_verse": "31",
       "ref": "Mark 11:30b",
       "arabic_page": 126,
-      "text": "Berikanlah Aku jawabnya!\""
+      "text": "Berikanlah Aku jawabnya!\"",
+      "ref_id": "Markus 11:30b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 54,
       "diatessaron_verse": "31",
       "ref": "Matthew 21:25b",
       "arabic_page": 127,
-      "text": "Mereka memperbincangkannya di antara mereka, dan berkata: \"Jikalau kita katakan: Dari sorga, Ia akan berkata kepada"
+      "text": "Mereka memperbincangkannya di antara mereka, dan berkata: \"Jikalau kita katakan: Dari sorga, Ia akan berkata kepada",
+      "ref_id": "Matius 21:25b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 16
     },
     {
       "id": 55,
       "diatessaron_verse": "32",
       "ref": "Matthew 21:25b",
       "arabic_page": 127,
-      "text": "kita: Kalau begitu, mengapakah kamu tidak percaya kepadanya?"
+      "text": "kita: Kalau begitu, mengapakah kamu tidak percaya kepadanya?",
+      "ref_id": "Matius 21:25b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 56,
       "diatessaron_verse": "32",
       "ref": "Luke 20:6",
       "arabic_page": 127,
-      "text": "Tetapi jikalau kita katakan: Dari manusia,"
+      "text": "Tetapi jikalau kita katakan: Dari manusia,",
+      "ref_id": "Lukas 20:6",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 57,
       "diatessaron_verse": "33",
       "ref": "Luke 20:6",
       "arabic_page": 127,
-      "text": "seluruh rakyat akan melempari kita dengan batu, sebab mereka yakin,"
+      "text": "seluruh rakyat akan melempari kita dengan batu, sebab mereka yakin,",
+      "ref_id": "Lukas 20:6",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 58,
       "diatessaron_verse": "34",
       "ref": "Luke 20:6",
       "arabic_page": 127,
-      "text": "bahwa Yohanes adalah seorang nabi."
+      "text": "bahwa Yohanes adalah seorang nabi.",
+      "ref_id": "Lukas 20:6",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 59,
       "diatessaron_verse": "34",
       "ref": "Mark 11:33",
       "arabic_page": 127,
-      "text": "Lalu mereka menjawab Yesus: \"Kami"
+      "text": "Lalu mereka menjawab Yesus: \"Kami",
+      "ref_id": "Markus 11:33",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 60,
       "diatessaron_verse": "35",
       "ref": "Mark 11:33",
       "arabic_page": 127,
-      "text": "tidak tahu.\" Maka kata Yesus kepada mereka: \"Jika demikian, Aku juga tidak mengatakan kepadamu dengan kuasa manakah Aku melakukan hal-hal itu.\""
+      "text": "tidak tahu.\" Maka kata Yesus kepada mereka: \"Jika demikian, Aku juga tidak mengatakan kepadamu dengan kuasa manakah Aku melakukan hal-hal itu.\"",
+      "ref_id": "Markus 11:33",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 21
     },
     {
       "id": 61,
       "diatessaron_verse": "35",
       "ref": "Matthew 21:28",
       "arabic_page": 127,
-      "text": "\"Tetapi apakah pendapatmu tentang ini: Seorang mempunyai dua anak laki-laki. Ia pergi kepada anak yang sulung dan berkata:"
+      "text": "\"Tetapi apakah pendapatmu tentang ini: Seorang mempunyai dua anak laki-laki. Ia pergi kepada anak yang sulung dan berkata:",
+      "ref_id": "Matius 21:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 18
     },
     {
       "id": 62,
       "diatessaron_verse": "36",
       "ref": "Matthew 21:28",
       "arabic_page": 127,
-      "text": "Anakku, pergi dan bekerjalah hari ini dalam kebun anggur."
+      "text": "Anakku, pergi dan bekerjalah hari ini dalam kebun anggur.",
+      "ref_id": "Matius 21:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 63,
       "diatessaron_verse": "36",
       "ref": "Matthew 21:29",
       "arabic_page": 127,
-      "text": "Jawab anak itu:"
+      "text": "Jawab anak itu:",
+      "ref_id": "Matius 21:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 64,
       "diatessaron_verse": "37",
       "ref": "Matthew 21:29",
       "arabic_page": 127,
-      "text": "Baik, bapa. Tetapi ia tidak pergi."
+      "text": "Baik, bapa. Tetapi ia tidak pergi.",
+      "ref_id": "Matius 21:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 65,
       "diatessaron_verse": "37",
       "ref": "Matthew 21:30",
       "arabic_page": 127,
-      "text": "Lalu orang itu pergi kepada anak yang kedua dan"
+      "text": "Lalu orang itu pergi kepada anak yang kedua dan",
+      "ref_id": "Matius 21:30",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 66,
       "diatessaron_verse": "38",
       "ref": "Matthew 21:30",
       "arabic_page": 127,
-      "text": "berkata demikian juga. Dan anak itu menjawab: Aku tidak mau. Tetapi kemudian ia menyesal lalu pergi juga."
+      "text": "berkata demikian juga. Dan anak itu menjawab: Aku tidak mau. Tetapi kemudian ia menyesal lalu pergi juga.",
+      "ref_id": "Matius 21:30",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 67,
       "diatessaron_verse": "38",
       "ref": "Matthew 21:31",
       "arabic_page": 127,
-      "text": "Siapakah di antara kedua orang itu yang melakukan kehendak ayahnya?\"* Jawab mereka: \"Yang terakhir.\" Kata Yesus kepada mereka: /\"Aku berkata kepadamu, sesungguhnya pemungut-pemungut cukai dan perempuan-perempuan sundal akan mendahului kamu masuk ke dalam"
+      "text": "Siapakah di antara kedua orang itu yang melakukan kehendak ayahnya?\"* Jawab mereka: \"Yang terakhir.\" Kata Yesus kepada mereka: /\"Aku berkata kepadamu, sesungguhnya pemungut-pemungut cukai dan perempuan-perempuan sundal akan mendahului kamu masuk ke dalam",
+      "ref_id": "Matius 21:31",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 33
     },
     {
       "id": 68,
       "diatessaron_verse": "39",
       "ref": "Matthew 21:31",
       "arabic_page": 127,
-      "text": "Kerajaan Allah."
+      "text": "Kerajaan Allah.",
+      "ref_id": "Matius 21:31",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 69,
       "diatessaron_verse": "39",
       "ref": "Matthew 21:32",
       "arabic_page": 127,
-      "text": "Sebab Yohanes datang untuk menunjukkan jalan kebenaran kepadamu, dan kamu tidak percaya kepadanya. Tetapi pemungut-pemungut cukai dan perempuan-perempuan sundal percaya kepadanya. Dan meskipun kamu melihatnya, tetapi kemudian kamu tidak menyesal dan kamu tidak juga percaya kepadanya.\""
+      "text": "Sebab Yohanes datang untuk menunjukkan jalan kebenaran kepadamu, dan kamu tidak percaya kepadanya. Tetapi pemungut-pemungut cukai dan perempuan-perempuan sundal percaya kepadanya. Dan meskipun kamu melihatnya, tetapi kemudian kamu tidak menyesal dan kamu tidak juga percaya kepadanya.\"",
+      "ref_id": "Matius 21:32",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 36
     },
     {
       "id": 70,
       "diatessaron_verse": "40",
       "ref": "Matthew 21:33a",
       "arabic_page": 127,
-      "text": "\"Dengarkanlah suatu perumpamaan yang lain. Adalah seorang tuan tanah membuka kebun anggur dan menanam pagar sekelilingnya. Ia menggali lobang tempat memeras anggur dan mendirikan menara jaga di dalam kebun itu. Kemudian"
+      "text": "\"Dengarkanlah suatu perumpamaan yang lain. Adalah seorang tuan tanah membuka kebun anggur dan menanam pagar sekelilingnya. Ia menggali lobang tempat memeras anggur dan mendirikan menara jaga di dalam kebun itu. Kemudian",
+      "ref_id": "Matius 21:33a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 31
     },
     {
       "id": 71,
       "diatessaron_verse": "41,42",
       "ref": "Matthew 21:33a",
       "arabic_page": 127,
-      "text": "ia menyewakan kebun itu kepada penggarap-penggarap lalu berangkat ke negeri lain."
+      "text": "ia menyewakan kebun itu kepada penggarap-penggarap lalu berangkat ke negeri lain.",
+      "ref_id": "Matius 21:33a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 72,
       "diatessaron_verse": "41,42",
       "ref": "Mark 12:34",
       "arabic_page": 127,
-      "text": "Dan ketika sudah tiba musimnya, ia menyuruh seorang hamba kepada penggarap-penggarap itu"
+      "text": "Dan ketika sudah tiba musimnya, ia menyuruh seorang hamba kepada penggarap-penggarap itu",
+      "ref_id": "Markus 12:34",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 12
     },
     {
       "id": 73,
       "diatessaron_verse": "43",
       "ref": "Mark 12:34",
       "arabic_page": 127,
-      "text": "untuk menerima sebagian dari hasil kebun itu dari mereka."
+      "text": "untuk menerima sebagian dari hasil kebun itu dari mereka.",
+      "ref_id": "Markus 12:34",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 9
     },
     {
       "id": 74,
       "diatessaron_verse": "43",
       "ref": "Mark 12:3b",
       "arabic_page": 127,
-      "text": "Tetapi mereka menangkap hamba itu dan memukulnya, lalu"
+      "text": "Tetapi mereka menangkap hamba itu dan memukulnya, lalu",
+      "ref_id": "Markus 12:3b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 75,
       "diatessaron_verse": "44",
       "ref": "Mark 12:3b",
       "arabic_page": 127,
-      "text": "menyuruhnya pergi dengan tangan hampa."
+      "text": "menyuruhnya pergi dengan tangan hampa.",
+      "ref_id": "Markus 12:3b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 76,
       "diatessaron_verse": "44",
       "ref": "Mark 12:4",
       "arabic_page": 127,
-      "text": "Kemudian ia menyuruh pula seorang hamba lain kepada mereka. Orang ini mereka"
+      "text": "Kemudian ia menyuruh pula seorang hamba lain kepada mereka. Orang ini mereka",
+      "ref_id": "Markus 12:4",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 12
     },
     {
       "id": 77,
       "diatessaron_verse": "45",
       "ref": "Mark 12:4",
       "arabic_page": 127,
-      "text": "pukul sampai luka kepalanya dan sangat mereka permalukan."
+      "text": "pukul sampai luka kepalanya dan sangat mereka permalukan.",
+      "ref_id": "Markus 12:4",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 78,
       "diatessaron_verse": "45",
       "ref": "Mark 12:5",
       "arabic_page": 127,
-      "text": "Lalu ia menyuruh seorang hamba lain lagi, dan orang ini mereka bunuh. Dan banyak lagi yang lain, ada yang mereka pukul dan ada yang"
+      "text": "Lalu ia menyuruh seorang hamba lain lagi, dan orang ini mereka bunuh. Dan banyak lagi yang lain, ada yang mereka pukul dan ada yang",
+      "ref_id": "Markus 12:5",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 24
     },
     {
       "id": 79,
       "diatessaron_verse": "46",
       "ref": "Mark 12:5",
       "arabic_page": 127,
-      "text": "mereka bunuh."
+      "text": "mereka bunuh.",
+      "ref_id": "Markus 12:5",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 2
     },
     {
       "id": 80,
       "diatessaron_verse": "46",
       "ref": "Matthew 21:35",
       "arabic_page": 127,
-      "text": "Tetapi penggarap-penggarap itu menangkap hamba-hambanya itu: mereka memukul yang seorang, membunuh yang lain dan"
+      "text": "Tetapi penggarap-penggarap itu menangkap hamba-hambanya itu: mereka memukul yang seorang, membunuh yang lain dan",
+      "ref_id": "Matius 21:35",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 81,
       "diatessaron_verse": "47",
       "ref": "Matthew 21:35",
       "arabic_page": 127,
-      "text": "melempari yang lain pula dengan batu."
+      "text": "melempari yang lain pula dengan batu.",
+      "ref_id": "Matius 21:35",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 82,
       "diatessaron_verse": "47",
       "ref": "Matthew 21:36",
       "arabic_page": 127,
-      "text": "Kemudian tuan itu menyuruh pula hamba-hamba yang lain, lebih banyak dari pada yang semula, tetapi merekapun"
+      "text": "Kemudian tuan itu menyuruh pula hamba-hamba yang lain, lebih banyak dari pada yang semula, tetapi merekapun",
+      "ref_id": "Matius 21:36",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 16
     },
     {
       "id": 83,
       "diatessaron_verse": "48",
       "ref": "Matthew 21:36",
       "arabic_page": 128,
-      "text": "diperlakukan sama seperti kawan-kawan mereka."
+      "text": "diperlakukan sama seperti kawan-kawan mereka.",
+      "ref_id": "Matius 21:36",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 84,
       "diatessaron_verse": "48",
       "ref": "Luke 20:13",
       "arabic_page": 128,
-      "text": "Maka kata tuan kebun anggur itu: Apakah yang harus kuperbuat? Aku akan menyuruh anakku yang kekasih; tentu ia mereka"
+      "text": "Maka kata tuan kebun anggur itu: Apakah yang harus kuperbuat? Aku akan menyuruh anakku yang kekasih; tentu ia mereka",
+      "ref_id": "Lukas 20:13",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 19
     },
     {
       "id": 85,
       "diatessaron_verse": "49, 50",
       "ref": "Luke 20:13",
       "arabic_page": 128,
-      "text": "segani."
+      "text": "segani.",
+      "ref_id": "Lukas 20:13",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 86,
       "diatessaron_verse": "49, 50",
       "ref": "Mark 12:6a",
       "arabic_page": 128,
-      "text": "Sekarang tinggal hanya satu orang anaknya yang kekasih."
+      "text": "Sekarang tinggal hanya satu orang anaknya yang kekasih.",
+      "ref_id": "Markus 12:6a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 87,
       "diatessaron_verse": "49, 50",
       "ref": "Matthew 21:38a",
       "arabic_page": 128,
-      "text": "Tetapi ketika penggarap-penggarap itu melihat anaknya itu, mereka berkata seorang kepada yang lain: Ia adalah ahli waris,"
+      "text": "Tetapi ketika penggarap-penggarap itu melihat anaknya itu, mereka berkata seorang kepada yang lain: Ia adalah ahli waris,",
+      "ref_id": "Matius 21:38a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 88,
       "diatessaron_verse": "51, 52",
       "ref": "Luke 20:14b",
       "arabic_page": 128,
-      "text": "mari kita bunuh dia, supaya warisan ini menjadi milik kita."
+      "text": "mari kita bunuh dia, supaya warisan ini menjadi milik kita.",
+      "ref_id": "Lukas 20:14b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 89,
       "diatessaron_verse": "51, 52",
       "ref": "Matthew 21:39",
       "arabic_page": 128,
-      "text": "Mereka"
+      "text": "Mereka",
+      "ref_id": "Matius 21:39",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 90,
       "diatessaron_verse": "53",
       "ref": "Matthew 21:39",
       "arabic_page": 128,
-      "text": "menangkapnya dan melemparkannya ke luar kebun anggur itu, lalu membunuhnya."
+      "text": "menangkapnya dan melemparkannya ke luar kebun anggur itu, lalu membunuhnya.",
+      "ref_id": "Matius 21:39",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 91,
       "diatessaron_verse": "53",
       "ref": "Matthew 21:40",
       "arabic_page": 128,
-      "text": "Maka apabila tuan"
+      "text": "Maka apabila tuan",
+      "ref_id": "Matius 21:40",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 92,
       "diatessaron_verse": "54",
       "ref": "Matthew 21:40",
       "arabic_page": 128,
-      "text": "kebun anggur itu datang, apakah yang akan dilakukannya dengan penggarap-penggarap itu?\""
+      "text": "kebun anggur itu datang, apakah yang akan dilakukannya dengan penggarap-penggarap itu?\"",
+      "ref_id": "Matius 21:40",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 93,
       "diatessaron_verse": "54",
       "ref": "Matthew 21:41",
       "arabic_page": 128,
-      "text": "Kata mereka kepada-Nya: \"Ia akan membinasakan orang-orang jahat itu dan kebun anggurnya akan disewakannya kepada"
+      "text": "Kata mereka kepada-Nya: \"Ia akan membinasakan orang-orang jahat itu dan kebun anggurnya akan disewakannya kepada",
+      "ref_id": "Matius 21:41",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 15
     },
     {
       "id": 94,
       "diatessaron_verse": "55",
       "ref": "Matthew 21:41",
       "arabic_page": 128,
-      "text": "penggarap-penggarap lain, yang akan menyerahkan hasilnya kepadanya pada waktunya.\""
+      "text": "penggarap-penggarap lain, yang akan menyerahkan hasilnya kepadanya pada waktunya.\"",
+      "ref_id": "Matius 21:41",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 95,
       "diatessaron_verse": "55",
       "ref": "Matthew 21:42a",
       "arabic_page": 128,
-      "text": "Kata Yesus kepada mereka: \"Belum pernahkah kamu baca dalam Kitab Suci:"
+      "text": "Kata Yesus kepada mereka: \"Belum pernahkah kamu baca dalam Kitab Suci:",
+      "ref_id": "Matius 21:42a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 96,
       "diatessaron_verse": "55",
       "ref": "Matthew 21:42a",
       "arabic_page": 128,
-      "text": "Batu yang dibuang oleh tukang-tukang bangunan"
+      "text": "Batu yang dibuang oleh tukang-tukang bangunan",
+      "ref_id": "Matius 21:42a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 97,
       "diatessaron_verse": "55",
       "ref": "Luke 20:17b",
       "arabic_page": 128,
-      "text": "telah menjadi batu penjuru?"
+      "text": "telah menjadi batu penjuru?",
+      "ref_id": "Lukas 20:17b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 98,
       "diatessaron_verse": "56",
       "ref": "Matthew 21:42c",
       "arabic_page": 128,
-      "text": "hal itu terjadi dari pihak Tuhan,"
+      "text": "hal itu terjadi dari pihak Tuhan,",
+      "ref_id": "Matius 21:42c",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 99,
       "diatessaron_verse": "56",
       "ref": "Matthew 21:42c",
       "arabic_page": 128,
-      "text": "suatu perbuatan ajaib di mata kita."
+      "text": "suatu perbuatan ajaib di mata kita.",
+      "ref_id": "Matius 21:42c",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 100,
       "diatessaron_verse": "57",
       "ref": "Matthew 21:43",
       "arabic_page": 128,
-      "text": "Sebab itu, Aku berkata kepadamu, bahwa Kerajaan Allah akan diambil dari padamu"
+      "text": "Sebab itu, Aku berkata kepadamu, bahwa Kerajaan Allah akan diambil dari padamu",
+      "ref_id": "Matius 21:43",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 101,
       "diatessaron_verse": "57",
-      "ref": "58",
+      "ref": "Matthew 21:43",
       "arabic_page": 128,
-      "text": "dan akan diberikan kepada suatu bangsa yang akan menghasilkan buah Kerajaan itu."
+      "text": "dan akan diberikan kepada suatu bangsa yang akan menghasilkan buah Kerajaan itu.",
+      "ref_id": "Matius 21:43",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 102,
       "diatessaron_verse": "57",
       "ref": "Matthew 21:44",
       "arabic_page": 128,
-      "text": "(Dan barangsiapa jatuh ke atas batu itu, ia akan hancur dan barangsiapa ditimpa batu itu, ia akan"
+      "text": "(Dan barangsiapa jatuh ke atas batu itu, ia akan hancur dan barangsiapa ditimpa batu itu, ia akan",
+      "ref_id": "Matius 21:44",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 103,
       "diatessaron_verse": "59",
       "ref": "Matthew 21:44",
       "arabic_page": 128,
-      "text": "remuk.)\""
+      "text": "remuk.)\"",
+      "ref_id": "Matius 21:44",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 104,
       "diatessaron_verse": "59",
       "ref": "Matthew 21:45",
       "arabic_page": 128,
-      "text": "Ketika imam-imam kepala dan orang-orang Farisi mendengar perumpamaan-perumpamaan Yesus, mereka"
+      "text": "Ketika imam-imam kepala dan orang-orang Farisi mendengar perumpamaan-perumpamaan Yesus, mereka",
+      "ref_id": "Matius 21:45",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 105,
       "diatessaron_verse": "60",
       "ref": "Matthew 21:45",
       "arabic_page": 128,
-      "text": "mengerti, bahwa merekalah yang dimaksudkan-Nya."
+      "text": "mengerti, bahwa merekalah yang dimaksudkan-Nya.",
+      "ref_id": "Matius 21:45",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 106,
       "diatessaron_verse": "60",
       "ref": "Matthew 21:46",
       "arabic_page": 128,
-      "text": "Dan mereka berusaha untuk menangkap Dia, tetapi mereka takut kepada orang banyak, karena orang banyak itu menganggap Dia nabi."
+      "text": "Dan mereka berusaha untuk menangkap Dia, tetapi mereka takut kepada orang banyak, karena orang banyak itu menganggap Dia nabi.",
+      "ref_id": "Matius 21:46",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 19
     }
-  ]
+  ],
+  "title_id": "Pohon Ara yang Dikutuk & Perumpamaan Penggarap Kebun Anggur",
+  "title_en": "Cursing the Fig Tree & Parable of the Wicked Tenants",
+  "epoch_id": 5,
+  "total_words": 1147,
+  "arabic_page_range": "p. 125 - p. 128",
+  "arabic_pages": [
+    125,
+    126,
+    127,
+    128
+  ],
+  "stats": {
+    "mat": 43,
+    "mrk": 32,
+    "luk": 31,
+    "yoh": 0,
+    "unk": 0
+  },
+  "footnotes": []
 }

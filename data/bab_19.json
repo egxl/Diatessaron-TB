@@ -28,658 +28,1147 @@
       "diatessaron_verse": "1",
       "ref": "Matthew 14:25",
       "arabic_page": null,
-      "text": "Kira-kira jam tiga malam datanglah Yesus kepada mereka"
+      "text": "Kira-kira jam tiga malam datanglah Yesus kepada mereka",
+      "ref_id": "Matius 14:25",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "Matthew 14:25",
       "arabic_page": null,
-      "text": "berjalan di atas air."
+      "text": "berjalan di atas air.",
+      "ref_id": "Matius 14:25",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
-      "ref": "Yoh.6:19",
+      "ref": "John 6:19",
       "arabic_page": null,
-      "text": "Sesudah mereka mendayung kira-kira dua tiga mil jauhnya,"
+      "text": "Sesudah mereka mendayung kira-kira dua tiga mil jauhnya,",
+      "ref_id": "Yohanes 6:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
-      "ref": "Yoh.6:19",
+      "ref": "John 6:19",
       "arabic_page": null,
-      "text": "Ketika murid-murid-Nya melihat Dia berjalan di atas air, mereka terkejut dan berseru: \"Itu hantu!\", lalu"
+      "text": "Ketika murid-murid-Nya melihat Dia berjalan di atas air, mereka terkejut dan berseru: \"Itu hantu!\", lalu",
+      "ref_id": "Yohanes 6:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 5,
       "diatessaron_verse": "4",
-      "ref": "Yoh.6:19",
+      "ref": "John 6:19",
       "arabic_page": null,
-      "text": "berteriak-teriak karena takut."
+      "text": "berteriak-teriak karena takut.",
+      "ref_id": "Yohanes 6:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "Matthew 14:27",
       "arabic_page": null,
-      "text": "Tetapi segera Yesus berkata kepada mereka:"
+      "text": "Tetapi segera Yesus berkata kepada mereka:",
+      "ref_id": "Matius 14:27",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 7,
       "diatessaron_verse": "5",
       "ref": "Matthew 14:27",
       "arabic_page": null,
-      "text": "\"Tenanglah! Aku ini, jangan takut!\""
+      "text": "\"Tenanglah! Aku ini, jangan takut!\"",
+      "ref_id": "Matius 14:27",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
       "ref": "Matthew 14:28",
       "arabic_page": null,
-      "text": "Lalu Petrus berseru dan menjawab Dia: \"Tuhan, apabila Engkau itu,"
+      "text": "Lalu Petrus berseru dan menjawab Dia: \"Tuhan, apabila Engkau itu,",
+      "ref_id": "Matius 14:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 9,
       "diatessaron_verse": "6",
       "ref": "Matthew 14:28",
       "arabic_page": null,
-      "text": "suruhlah aku datang kepada-Mu berjalan di atas air.\""
+      "text": "suruhlah aku datang kepada-Mu berjalan di atas air.\"",
+      "ref_id": "Matius 14:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 10,
       "diatessaron_verse": "6",
       "ref": "Matthew 14:29",
       "arabic_page": null,
-      "text": "Kata Yesus: \"Datanglah!\""
+      "text": "Kata Yesus: \"Datanglah!\"",
+      "ref_id": "Matius 14:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 11,
       "diatessaron_verse": "7",
       "ref": "Matthew 14:29",
       "arabic_page": null,
-      "text": "Maka Petrus turun dari perahu dan berjalan di atas air mendapatkan Yesus."
+      "text": "Maka Petrus turun dari perahu dan berjalan di atas air mendapatkan Yesus.",
+      "ref_id": "Matius 14:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 12,
       "diatessaron_verse": "7",
       "ref": "Matthew 14:30",
       "arabic_page": 74,
-      "text": "Tetapi ketika dirasanya tiupan angin, takutlah ia dan mulai tenggelam lalu berteriak: \"Tuhan, tolonglah aku!\""
+      "text": "Tetapi ketika dirasanya tiupan angin, takutlah ia dan mulai tenggelam lalu berteriak: \"Tuhan, tolonglah aku!\"",
+      "ref_id": "Matius 14:30",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 15
     },
     {
       "id": 13,
       "diatessaron_verse": "7",
       "ref": "Matthew 14:31",
       "arabic_page": 74,
-      "text": "Segera Yesus mengulurkan tangan-Nya, memegang dia dan berkata:"
+      "text": "Segera Yesus mengulurkan tangan-Nya, memegang dia dan berkata:",
+      "ref_id": "Matius 14:31",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 14,
       "diatessaron_verse": "9",
       "ref": "Matthew 14:31",
       "arabic_page": 74,
-      "text": "\"Hai orang yang kurang percaya, mengapa engkau bimbang?\""
+      "text": "\"Hai orang yang kurang percaya, mengapa engkau bimbang?\"",
+      "ref_id": "Matius 14:31",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 15,
       "diatessaron_verse": "9",
       "ref": "Matthew 14:32",
       "arabic_page": 74,
-      "text": "Lalu mereka naik"
+      "text": "Lalu mereka naik",
+      "ref_id": "Matius 14:32",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 16,
       "diatessaron_verse": "10",
       "ref": "Matthew 14:32",
       "arabic_page": 74,
-      "text": "ke perahu dan anginpun redalah."
+      "text": "ke perahu dan anginpun redalah.",
+      "ref_id": "Matius 14:32",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 17,
       "diatessaron_verse": "10",
       "ref": "Matthew 14:33",
       "arabic_page": 74,
-      "text": "Dan orang-orang yang ada di perahu menyembah Dia, katanya: \"Sesungguhnya Engkau"
+      "text": "Dan orang-orang yang ada di perahu menyembah Dia, katanya: \"Sesungguhnya Engkau",
+      "ref_id": "Matius 14:33",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 18,
       "diatessaron_verse": "11",
       "ref": "Matthew 14:33",
       "arabic_page": 74,
-      "text": "Anak Allah.\""
+      "text": "Anak Allah.\"",
+      "ref_id": "Matius 14:33",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 19,
       "diatessaron_verse": "11",
       "ref": "John 6:21b",
       "arabic_page": 74,
-      "text": "dan seketika juga perahu itu sampai ke pantai yang mereka tujui."
+      "text": "dan seketika juga perahu itu sampai ke pantai yang mereka tujui.",
+      "ref_id": "Yohanes 6:21b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 20,
       "diatessaron_verse": "12",
-      "ref": "Mat. 14:34",
+      "ref": "Matthew 14:34",
       "arabic_page": 74,
-      "text": "Setibanya di seberang mereka mendarat di Genesaret."
+      "text": "Setibanya di seberang mereka mendarat di Genesaret.",
+      "ref_id": "Matius 14:34",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 21,
       "diatessaron_verse": "12",
       "ref": "Mark 6:51b",
       "arabic_page": 74,
-      "text": "Mereka sangat tercengang dan bingung,"
+      "text": "Mereka sangat tercengang dan bingung,",
+      "ref_id": "Markus 6:51b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 22,
       "diatessaron_verse": "12",
       "ref": "Mark 6:52",
       "arabic_page": 74,
-      "text": "sebab sesudah peristiwa roti itu mereka belum juga mengerti, dan hati mereka tetap degil."
+      "text": "sebab sesudah peristiwa roti itu mereka belum juga mengerti, dan hati mereka tetap degil.",
+      "ref_id": "Markus 6:52",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 14
     },
     {
       "id": 23,
       "diatessaron_verse": "14",
-      "ref": "Mat.14:35",
+      "ref": "Matthew 14:35",
       "arabic_page": 74,
-      "text": "Ketika Yesus dikenal oleh orang-orang di tempat itu, mereka memberitahukannya ke seluruh daerah itu. Maka semua orang yang sakit dibawa kepada-Nya."
+      "text": "Ketika Yesus dikenal oleh orang-orang di tempat itu, mereka memberitahukannya ke seluruh daerah itu. Maka semua orang yang sakit dibawa kepada-Nya.",
+      "ref_id": "Matius 14:35",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 21
     },
     {
       "id": 24,
       "diatessaron_verse": "14",
-      "ref": "Mark. 6:55b",
+      "ref": "Mark 6:55b",
       "arabic_page": 74,
-      "text": "dan mulai mengusung orang-orang sakit"
+      "text": "dan mulai mengusung orang-orang sakit",
+      "ref_id": "Markus 6:55b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 25,
       "diatessaron_verse": "15",
-      "ref": "Mark. 6:55b",
+      "ref": "Mark 6:55b",
       "arabic_page": 74,
-      "text": "di atas tilamnya kepada Yesus, di mana saja kabarnya Ia berada."
+      "text": "di atas tilamnya kepada Yesus, di mana saja kabarnya Ia berada.",
+      "ref_id": "Markus 6:55b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 26,
       "diatessaron_verse": "15",
       "ref": "Mark 6:56",
       "arabic_page": 74,
-      "text": "Ke manapun Ia pergi, ke desa-desa, ke kota-kota, atau ke kampung-kampung, orang meletakkan orang-orang sakit di pasar dan memohon kepada-Nya, supaya mereka diperkenankan hanya menjamah jumbai jubah-Nya saja. Dan semua orang yang menjamah-Nya menjadi sembuh."
+      "text": "Ke manapun Ia pergi, ke desa-desa, ke kota-kota, atau ke kampung-kampung, orang meletakkan orang-orang sakit di pasar dan memohon kepada-Nya, supaya mereka diperkenankan hanya menjamah jumbai jubah-Nya saja. Dan semua orang yang menjamah-Nya menjadi sembuh.",
+      "ref_id": "Markus 6:56",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 35
     },
     {
       "id": 27,
       "diatessaron_verse": "16",
       "ref": "John 6:22",
       "arabic_page": 74,
-      "text": "Pada keesokan harinya orang banyak, yang masih tinggal di seberang, melihat bahwa di situ tidak ada perahu selain dari pada yang satu tadi dan bahwa Yesus tidak turut naik ke perahu itu bersama-sama dengan murid-murid-Nya, dan bahwa"
+      "text": "Pada keesokan harinya orang banyak, yang masih tinggal di seberang, melihat bahwa di situ tidak ada perahu selain dari pada yang satu tadi dan bahwa Yesus tidak turut naik ke perahu itu bersama-sama dengan murid-murid-Nya, dan bahwa",
+      "ref_id": "Yohanes 6:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 37
     },
     {
       "id": 28,
       "diatessaron_verse": "17",
       "ref": "John 6:22",
       "arabic_page": 74,
-      "text": "murid-murid-Nya saja yang berangkat."
+      "text": "murid-murid-Nya saja yang berangkat.",
+      "ref_id": "Yohanes 6:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 29,
       "diatessaron_verse": "17",
       "ref": "John 6:23",
       "arabic_page": 74,
-      "text": "Tetapi sementara itu beberapa perahu lain datang dari Tiberias dekat ke tempat mereka makan roti, sesudah Tuhan mengucapkan syukur atasnya."
+      "text": "Tetapi sementara itu beberapa perahu lain datang dari Tiberias dekat ke tempat mereka makan roti, sesudah Tuhan mengucapkan syukur atasnya.",
+      "ref_id": "Yohanes 6:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 30,
       "diatessaron_verse": "17",
       "ref": "John 6:24",
       "arabic_page": 74,
-      "text": "Ketika orang banyak melihat, bahwa Yesus tidak ada di situ dan murid-murid-Nya juga tidak,"
+      "text": "Ketika orang banyak melihat, bahwa Yesus tidak ada di situ dan murid-murid-Nya juga tidak,",
+      "ref_id": "Yohanes 6:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 31,
       "diatessaron_verse": "19",
       "ref": "John 6:24",
       "arabic_page": 75,
-      "text": "mereka naik ke perahu-perahu itu lalu berangkat ke Kapernaum untuk mencari Yesus."
+      "text": "mereka naik ke perahu-perahu itu lalu berangkat ke Kapernaum untuk mencari Yesus.",
+      "ref_id": "Yohanes 6:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 32,
       "diatessaron_verse": "19",
       "ref": "John 6:25",
       "arabic_page": 75,
-      "text": "Ketika orang banyak menemukan Yesus di seberang laut itu, mereka berkata kepada-Nya:"
+      "text": "Ketika orang banyak menemukan Yesus di seberang laut itu, mereka berkata kepada-Nya:",
+      "ref_id": "Yohanes 6:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 33,
       "diatessaron_verse": "20",
       "ref": "John 6:25",
       "arabic_page": 75,
-      "text": "\"Rabi, bilamana Engkau tiba di sini?\""
+      "text": "\"Rabi, bilamana Engkau tiba di sini?\"",
+      "ref_id": "Yohanes 6:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 34,
       "diatessaron_verse": "20",
       "ref": "John 6:26",
       "arabic_page": 75,
-      "text": "Yesus menjawab mereka: \"Aku berkata kepadamu, sesungguhnya kamu mencari Aku, bukan karena kamu telah melihat tanda-tanda, melainkan karena kamu"
+      "text": "Yesus menjawab mereka: \"Aku berkata kepadamu, sesungguhnya kamu mencari Aku, bukan karena kamu telah melihat tanda-tanda, melainkan karena kamu",
+      "ref_id": "Yohanes 6:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 35,
       "diatessaron_verse": "21",
       "ref": "John 6:26",
       "arabic_page": 75,
-      "text": "telah makan roti itu dan kamu kenyang."
+      "text": "telah makan roti itu dan kamu kenyang.",
+      "ref_id": "Yohanes 6:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 36,
       "diatessaron_verse": "21",
       "ref": "John 6:27",
       "arabic_page": 75,
-      "text": "Bekerjalah, bukan untuk makanan yang akan dapat binasa, melainkan untuk makanan yang bertahan sampai kepada hidup yang kekal, yang akan diberikan Anak Manusia kepadamu; sebab Dialah"
+      "text": "Bekerjalah, bukan untuk makanan yang akan dapat binasa, melainkan untuk makanan yang bertahan sampai kepada hidup yang kekal, yang akan diberikan Anak Manusia kepadamu; sebab Dialah",
+      "ref_id": "Yohanes 6:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 26
     },
     {
       "id": 37,
       "diatessaron_verse": "22",
       "ref": "John 6:27",
       "arabic_page": 75,
-      "text": "yang disahkan oleh Bapa, Allah, dengan meterai-Nya.\""
+      "text": "yang disahkan oleh Bapa, Allah, dengan meterai-Nya.\"",
+      "ref_id": "Yohanes 6:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 38,
       "diatessaron_verse": "22",
       "ref": "John 6:28",
       "arabic_page": 75,
-      "text": "Lalu kata mereka kepada-Nya: \"Apakah yang harus kami perbuat, supaya kami"
+      "text": "Lalu kata mereka kepada-Nya: \"Apakah yang harus kami perbuat, supaya kami",
+      "ref_id": "Yohanes 6:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 39,
       "diatessaron_verse": "23",
       "ref": "John 6:28",
       "arabic_page": 75,
-      "text": "mengerjakan pekerjaan yang dikehendaki Allah?\""
+      "text": "mengerjakan pekerjaan yang dikehendaki Allah?\"",
+      "ref_id": "Yohanes 6:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 40,
       "diatessaron_verse": "23",
       "ref": "John 6:29",
       "arabic_page": 75,
-      "text": "Jawab Yesus kepada mereka: \"Inilah pekerjaan yang dikehendaki Allah,"
+      "text": "Jawab Yesus kepada mereka: \"Inilah pekerjaan yang dikehendaki Allah,",
+      "ref_id": "Yohanes 6:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 41,
       "diatessaron_verse": "24",
       "ref": "John 6:29",
       "arabic_page": 75,
-      "text": "yaitu hendaklah kamu percaya kepada Dia yang telah diutus Allah.\""
+      "text": "yaitu hendaklah kamu percaya kepada Dia yang telah diutus Allah.\"",
+      "ref_id": "Yohanes 6:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 42,
       "diatessaron_verse": "24",
       "ref": "John 6:30",
       "arabic_page": 75,
-      "text": "Maka kata mereka kepada-Nya: \"Tanda apakah yang Engkau perbuat, supaya dapat kami melihatnya dan percaya kepada-Mu? Pekerjaan apakah yang Engkau lakukan?"
+      "text": "Maka kata mereka kepada-Nya: \"Tanda apakah yang Engkau perbuat, supaya dapat kami melihatnya dan percaya kepada-Mu? Pekerjaan apakah yang Engkau lakukan?",
+      "ref_id": "Yohanes 6:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 21
     },
     {
       "id": 43,
       "diatessaron_verse": "25",
       "ref": "John 6:31",
       "arabic_page": 75,
-      "text": "Nenek moyang kami telah makan manna di padang gurun, seperti ada tertulis:"
+      "text": "Nenek moyang kami telah makan manna di padang gurun, seperti ada tertulis:",
+      "ref_id": "Yohanes 6:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 44,
       "diatessaron_verse": "26",
       "ref": "John 6:31",
       "arabic_page": 75,
-      "text": "Mereka diberi-Nya makan roti dari sorga.\""
+      "text": "Mereka diberi-Nya makan roti dari sorga.\"",
+      "ref_id": "Yohanes 6:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 45,
       "diatessaron_verse": "26",
       "ref": "John 6:32",
       "arabic_page": 75,
-      "text": "Maka kata Yesus kepada mereka: \"Aku berkata kepadamu, sesungguhnya bukan Musa yang memberikan kamu roti dari sorga,"
+      "text": "Maka kata Yesus kepada mereka: \"Aku berkata kepadamu, sesungguhnya bukan Musa yang memberikan kamu roti dari sorga,",
+      "ref_id": "Yohanes 6:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     },
     {
       "id": 46,
       "diatessaron_verse": "27",
       "ref": "John 6:32",
       "arabic_page": 75,
-      "text": "melainkan Bapa-Ku yang memberikan kamu roti yang benar dari sorga."
+      "text": "melainkan Bapa-Ku yang memberikan kamu roti yang benar dari sorga.",
+      "ref_id": "Yohanes 6:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 47,
       "diatessaron_verse": "27",
       "ref": "John 6:33",
       "arabic_page": 75,
-      "text": "Karena roti yang dari Allah ialah roti yang turun dari sorga dan yang"
+      "text": "Karena roti yang dari Allah ialah roti yang turun dari sorga dan yang",
+      "ref_id": "Yohanes 6:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 48,
       "diatessaron_verse": "28, 29",
       "ref": "John 6:33",
       "arabic_page": 75,
-      "text": "memberi hidup kepada dunia.\""
+      "text": "memberi hidup kepada dunia.\"",
+      "ref_id": "Yohanes 6:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 49,
       "diatessaron_verse": "28, 29",
       "ref": "John 6:34",
       "arabic_page": 75,
-      "text": "Maka kata mereka kepada-Nya: \"Tuhan, berikanlah kami roti itu senantiasa.\""
+      "text": "Maka kata mereka kepada-Nya: \"Tuhan, berikanlah kami roti itu senantiasa.\"",
+      "ref_id": "Yohanes 6:34",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 50,
       "diatessaron_verse": "28, 29",
       "ref": "John 6:35",
       "arabic_page": 75,
-      "text": "Kata Yesus kepada mereka: \"Akulah roti hidup; barangsiapa datang kepada-Ku, ia tidak akan lapar lagi,"
+      "text": "Kata Yesus kepada mereka: \"Akulah roti hidup; barangsiapa datang kepada-Ku, ia tidak akan lapar lagi,",
+      "ref_id": "Yohanes 6:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 51,
       "diatessaron_verse": "30",
       "ref": "John 6:35",
       "arabic_page": 75,
-      "text": "dan barangsiapa percaya kepada-Ku, ia tidak akan haus lagi."
+      "text": "dan barangsiapa percaya kepada-Ku, ia tidak akan haus lagi.",
+      "ref_id": "Yohanes 6:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 52,
       "diatessaron_verse": "30",
       "ref": "John 6:36",
       "arabic_page": 75,
-      "text": "Tetapi Aku telah berkata kepadamu: Sungguhpun"
+      "text": "Tetapi Aku telah berkata kepadamu: Sungguhpun",
+      "ref_id": "Yohanes 6:36",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 53,
       "diatessaron_verse": "31",
       "ref": "John 6:36",
       "arabic_page": 75,
-      "text": "kamu telah melihat Aku, kamu tidak percaya."
+      "text": "kamu telah melihat Aku, kamu tidak percaya.",
+      "ref_id": "Yohanes 6:36",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 54,
       "diatessaron_verse": "31",
       "ref": "John 6:37",
       "arabic_page": 75,
-      "text": "Semua yang diberikan Bapa kepada-Ku akan datang kepada-Ku, dan barangsiapa datang kepada-Ku, ia tidak akan Kubuang."
+      "text": "Semua yang diberikan Bapa kepada-Ku akan datang kepada-Ku, dan barangsiapa datang kepada-Ku, ia tidak akan Kubuang.",
+      "ref_id": "Yohanes 6:37",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 55,
       "diatessaron_verse": "32",
       "ref": "John 6:38",
       "arabic_page": 75,
-      "text": "Sebab Aku telah turun dari sorga bukan untuk melakukan kehendak-Ku, tetapi untuk melakukan kehendak Dia"
+      "text": "Sebab Aku telah turun dari sorga bukan untuk melakukan kehendak-Ku, tetapi untuk melakukan kehendak Dia",
+      "ref_id": "Yohanes 6:38",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 56,
       "diatessaron_verse": "33",
       "ref": "John 6:38",
       "arabic_page": 75,
-      "text": "yang telah mengutus Aku."
+      "text": "yang telah mengutus Aku.",
+      "ref_id": "Yohanes 6:38",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 57,
       "diatessaron_verse": "33",
       "ref": "John 6:39",
       "arabic_page": 75,
-      "text": "Dan Inilah kehendak Dia yang telah mengutus Aku, yaitu supaya dari semua"
+      "text": "Dan Inilah kehendak Dia yang telah mengutus Aku, yaitu supaya dari semua",
+      "ref_id": "Yohanes 6:39",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 58,
       "diatessaron_verse": "34",
       "ref": "John 6:39",
       "arabic_page": 76,
-      "text": "yang telah diberikan-Nya kepada-Ku jangan ada yang hilang, tetapi supaya Kubangkitkan pada akhir zaman."
+      "text": "yang telah diberikan-Nya kepada-Ku jangan ada yang hilang, tetapi supaya Kubangkitkan pada akhir zaman.",
+      "ref_id": "Yohanes 6:39",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 59,
       "diatessaron_verse": "34",
       "ref": "John 6:40",
       "arabic_page": 76,
-      "text": "Sebab inilah kehendak Bapa-Ku, yaitu supaya setiap orang, yang melihat Anak dan yang percaya kepada-Nya beroleh hidup yang kekal, dan supaya Aku membangkitkannya pada akhir zaman.\""
+      "text": "Sebab inilah kehendak Bapa-Ku, yaitu supaya setiap orang, yang melihat Anak dan yang percaya kepada-Nya beroleh hidup yang kekal, dan supaya Aku membangkitkannya pada akhir zaman.\"",
+      "ref_id": "Yohanes 6:40",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 26
     },
     {
       "id": 60,
       "diatessaron_verse": "35",
       "ref": "John 6:41",
       "arabic_page": 76,
-      "text": "Maka bersungut-sungutlah orang Yahudi tentang Dia, karena Ia telah mengatakan: \"Akulah roti"
+      "text": "Maka bersungut-sungutlah orang Yahudi tentang Dia, karena Ia telah mengatakan: \"Akulah roti",
+      "ref_id": "Yohanes 6:41",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 61,
       "diatessaron_verse": "36",
       "ref": "John 6:41",
       "arabic_page": 76,
-      "text": "yang telah turun dari sorga.\""
+      "text": "yang telah turun dari sorga.\"",
+      "ref_id": "Yohanes 6:41",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 62,
       "diatessaron_verse": "36",
       "ref": "John 6:42",
       "arabic_page": 76,
-      "text": "Kata mereka: \"Bukankah Ia ini Yesus, anak Yusuf, yang ibu bapanya kita kenal? Bagaimana Ia dapat berkata: Aku telah"
+      "text": "Kata mereka: \"Bukankah Ia ini Yesus, anak Yusuf, yang ibu bapanya kita kenal? Bagaimana Ia dapat berkata: Aku telah",
+      "ref_id": "Yohanes 6:42",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 63,
       "diatessaron_verse": "37, 38",
       "ref": "John 6:42",
       "arabic_page": 76,
-      "text": "turun dari sorga?\""
+      "text": "turun dari sorga?\"",
+      "ref_id": "Yohanes 6:42",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 64,
       "diatessaron_verse": "37, 38",
       "ref": "John 6:43",
       "arabic_page": 76,
-      "text": "Jawab Yesus kepada mereka: \"Jangan kamu bersungut-sungut."
+      "text": "Jawab Yesus kepada mereka: \"Jangan kamu bersungut-sungut.",
+      "ref_id": "Yohanes 6:43",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 65,
       "diatessaron_verse": "37, 38",
       "ref": "John 6:44",
       "arabic_page": 76,
-      "text": "Tidak ada seorangpun yang dapat datang kepada-Ku, jikalau ia tidak ditarik oleh Bapa yang mengutus Aku, dan ia akan"
+      "text": "Tidak ada seorangpun yang dapat datang kepada-Ku, jikalau ia tidak ditarik oleh Bapa yang mengutus Aku, dan ia akan",
+      "ref_id": "Yohanes 6:44",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 66,
       "diatessaron_verse": "39",
       "ref": "John 6:44",
       "arabic_page": 76,
-      "text": "Kubangkitkan pada akhir zaman."
+      "text": "Kubangkitkan pada akhir zaman.",
+      "ref_id": "Yohanes 6:44",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 67,
       "diatessaron_verse": "39",
       "ref": "John 6:45",
       "arabic_page": 76,
-      "text": "Ada tertulis dalam kitab nabi-nabi: Dan mereka semua akan diajar oleh Allah. Dan setiap orang, yang telah mendengar dan menerima pengajaran dari Bapa,"
+      "text": "Ada tertulis dalam kitab nabi-nabi: Dan mereka semua akan diajar oleh Allah. Dan setiap orang, yang telah mendengar dan menerima pengajaran dari Bapa,",
+      "ref_id": "Yohanes 6:45",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 23
     },
     {
       "id": 68,
       "diatessaron_verse": "40",
       "ref": "John 6:45",
       "arabic_page": 76,
-      "text": "datang kepada-Ku."
+      "text": "datang kepada-Ku.",
+      "ref_id": "Yohanes 6:45",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 69,
       "diatessaron_verse": "40",
       "ref": "John 6:46",
       "arabic_page": 76,
-      "text": "Hal itu tidak berarti, bahwa ada orang yang telah melihat Bapa. Hanya Dia yang datang dari Allah, Dialah yang"
+      "text": "Hal itu tidak berarti, bahwa ada orang yang telah melihat Bapa. Hanya Dia yang datang dari Allah, Dialah yang",
+      "ref_id": "Yohanes 6:46",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 70,
       "diatessaron_verse": "41",
       "ref": "John 6:46",
       "arabic_page": 76,
-      "text": "telah melihat Bapa."
+      "text": "telah melihat Bapa.",
+      "ref_id": "Yohanes 6:46",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 71,
       "diatessaron_verse": "41",
       "ref": "John 6:47",
       "arabic_page": 76,
-      "text": "Aku berkata kepadamu: Sesungguhnya barangsiapa percaya, ia mempunyai"
+      "text": "Aku berkata kepadamu: Sesungguhnya barangsiapa percaya, ia mempunyai",
+      "ref_id": "Yohanes 6:47",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 72,
       "diatessaron_verse": "42, 43",
       "ref": "John 6:47",
       "arabic_page": 76,
-      "text": "hidup yang kekal."
+      "text": "hidup yang kekal.",
+      "ref_id": "Yohanes 6:47",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 73,
       "diatessaron_verse": "42, 43",
       "ref": "John 6:48",
       "arabic_page": 76,
-      "text": "Akulah roti hidup."
+      "text": "Akulah roti hidup.",
+      "ref_id": "Yohanes 6:48",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 74,
       "diatessaron_verse": "42, 43",
       "ref": "John 6:49",
       "arabic_page": 76,
-      "text": "Nenek moyangmu telah makan manna di padang gurun dan"
+      "text": "Nenek moyangmu telah makan manna di padang gurun dan",
+      "ref_id": "Yohanes 6:49",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 75,
       "diatessaron_verse": "44",
       "ref": "John 6:49",
       "arabic_page": 76,
-      "text": "mereka telah mati."
+      "text": "mereka telah mati.",
+      "ref_id": "Yohanes 6:49",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 76,
       "diatessaron_verse": "44",
       "ref": "John 6:50",
       "arabic_page": 76,
-      "text": "Inilah roti yang turun dari sorga: Barangsiapa makan dari padanya,"
+      "text": "Inilah roti yang turun dari sorga: Barangsiapa makan dari padanya,",
+      "ref_id": "Yohanes 6:50",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 77,
       "diatessaron_verse": "45",
       "ref": "John 6:50",
       "arabic_page": 76,
-      "text": "ia tidak akan mati."
+      "text": "ia tidak akan mati.",
+      "ref_id": "Yohanes 6:50",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 78,
       "diatessaron_verse": "45",
       "ref": "John 6:51",
       "arabic_page": 76,
-      "text": "Akulah roti hidup yang telah turun dari sorga. Jikalau seorang makan dari roti ini, ia akan hidup selama-lamanya, dan roti yang Kuberikan itu ialah daging-Ku, yang akan Kuberikan untuk hidup dunia.\""
+      "text": "Akulah roti hidup yang telah turun dari sorga. Jikalau seorang makan dari roti ini, ia akan hidup selama-lamanya, dan roti yang Kuberikan itu ialah daging-Ku, yang akan Kuberikan untuk hidup dunia.\"",
+      "ref_id": "Yohanes 6:51",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 31
     },
     {
       "id": 79,
       "diatessaron_verse": "46",
       "ref": "John 6:52",
       "arabic_page": 76,
-      "text": "Orang-orang Yahudi bertengkar antara sesama mereka dan berkata: \"Bagaimana Ia ini dapat memberikan"
+      "text": "Orang-orang Yahudi bertengkar antara sesama mereka dan berkata: \"Bagaimana Ia ini dapat memberikan",
+      "ref_id": "Yohanes 6:52",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 80,
       "diatessaron_verse": "47",
       "ref": "John 6:52",
       "arabic_page": 77,
-      "text": "daging-Nya kepada kita untuk dimakan.\""
+      "text": "daging-Nya kepada kita untuk dimakan.\"",
+      "ref_id": "Yohanes 6:52",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 81,
       "diatessaron_verse": "47",
       "ref": "John 6:53",
       "arabic_page": 77,
-      "text": "Maka kata Yesus kepada mereka: \"Aku berkata kepadamu, sesungguhnya jikalau kamu tidak makan daging Anak Manusia dan minum darah-Nya, kamu"
+      "text": "Maka kata Yesus kepada mereka: \"Aku berkata kepadamu, sesungguhnya jikalau kamu tidak makan daging Anak Manusia dan minum darah-Nya, kamu",
+      "ref_id": "Yohanes 6:53",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 82,
       "diatessaron_verse": "48",
       "ref": "John 6:53",
       "arabic_page": 77,
-      "text": "tidak mempunyai hidup di dalam dirimu."
+      "text": "tidak mempunyai hidup di dalam dirimu.",
+      "ref_id": "Yohanes 6:53",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 83,
       "diatessaron_verse": "48",
       "ref": "John 6:54",
       "arabic_page": 77,
-      "text": "Barangsiapa makan daging-Ku dan minum darah-Ku, ia mempunyai"
+      "text": "Barangsiapa makan daging-Ku dan minum darah-Ku, ia mempunyai",
+      "ref_id": "Yohanes 6:54",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 84,
       "diatessaron_verse": "49",
       "ref": "John 6:54",
       "arabic_page": 77,
-      "text": "hidup yang kekal dan Aku akan membangkitkan dia pada akhir zaman."
+      "text": "hidup yang kekal dan Aku akan membangkitkan dia pada akhir zaman.",
+      "ref_id": "Yohanes 6:54",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 85,
       "diatessaron_verse": "49",
       "ref": "John 6:55",
       "arabic_page": 77,
-      "text": "Sebab daging-Ku adalah benar-benar makanan dan darah-Ku adalah benar-benar minuman."
+      "text": "Sebab daging-Ku adalah benar-benar makanan dan darah-Ku adalah benar-benar minuman.",
+      "ref_id": "Yohanes 6:55",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 86,
       "diatessaron_verse": "49",
       "ref": "John 6:56",
       "arabic_page": 77,
-      "text": "Barangsiapa makan daging-Ku dan minum darah-Ku, ia tinggal"
+      "text": "Barangsiapa makan daging-Ku dan minum darah-Ku, ia tinggal",
+      "ref_id": "Yohanes 6:56",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 87,
       "diatessaron_verse": "51",
       "ref": "John 6:56",
       "arabic_page": 77,
-      "text": "di dalam Aku dan Aku di dalam dia."
+      "text": "di dalam Aku dan Aku di dalam dia.",
+      "ref_id": "Yohanes 6:56",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 88,
       "diatessaron_verse": "51",
       "ref": "John 6:57",
       "arabic_page": 77,
-      "text": "Sama seperti Bapa yang hidup mengutus Aku dan Aku hidup oleh Bapa,"
+      "text": "Sama seperti Bapa yang hidup mengutus Aku dan Aku hidup oleh Bapa,",
+      "ref_id": "Yohanes 6:57",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 89,
       "diatessaron_verse": "52",
       "ref": "John 6:57",
       "arabic_page": 77,
-      "text": "demikian juga barangsiapa yang memakan Aku, akan hidup oleh Aku."
+      "text": "demikian juga barangsiapa yang memakan Aku, akan hidup oleh Aku.",
+      "ref_id": "Yohanes 6:57",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 90,
       "diatessaron_verse": "52",
       "ref": "John 6:58",
       "arabic_page": 77,
-      "text": "Inilah roti yang telah turun dari sorga,"
+      "text": "Inilah roti yang telah turun dari sorga,",
+      "ref_id": "Yohanes 6:58",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 91,
       "diatessaron_verse": "53",
       "ref": "John 6:58",
       "arabic_page": 77,
-      "text": "bukan roti seperti yang dimakan nenek moyangmu dan mereka telah mati. Barangsiapa makan roti ini, ia akan hidup selama-lamanya.\""
+      "text": "bukan roti seperti yang dimakan nenek moyangmu dan mereka telah mati. Barangsiapa makan roti ini, ia akan hidup selama-lamanya.\"",
+      "ref_id": "Yohanes 6:58",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 92,
       "diatessaron_verse": "53",
       "ref": "John 6:59",
       "arabic_page": 77,
-      "text": "Semuanya ini dikatakan Yesus di Kapernaum"
+      "text": "Semuanya ini dikatakan Yesus di Kapernaum",
+      "ref_id": "Yohanes 6:59",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 93,
       "diatessaron_verse": "54",
       "ref": "John 6:59",
       "arabic_page": 77,
-      "text": "ketika Ia mengajar di rumah ibadat."
+      "text": "ketika Ia mengajar di rumah ibadat.",
+      "ref_id": "Yohanes 6:59",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 94,
       "diatessaron_verse": "54",
       "ref": "John 6:60",
       "arabic_page": 77,
-      "text": "Sesudah mendengar semuanya itu banyak dari murid-murid Yesus yang berkata: \"Perkataan ini keras, siapakah yang sanggup mendengarkannya?\""
+      "text": "Sesudah mendengar semuanya itu banyak dari murid-murid Yesus yang berkata: \"Perkataan ini keras, siapakah yang sanggup mendengarkannya?\"",
+      "ref_id": "Yohanes 6:60",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     }
-  ]
+  ],
+  "title_id": "Yesus Berjalan di Atas Air & Khotbah tentang Roti Hidup",
+  "title_en": "Jesus Walks on Water & Discourse on the Bread of Life",
+  "epoch_id": 4,
+  "total_words": 1012,
+  "arabic_page_range": "p. 74 - p. 77",
+  "arabic_pages": [
+    74,
+    75,
+    76,
+    77
+  ],
+  "stats": {
+    "mat": 17,
+    "mrk": 5,
+    "luk": 0,
+    "yoh": 72,
+    "unk": 0
+  },
+  "footnotes": []
 }

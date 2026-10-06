@@ -27,616 +27,1075 @@
       "diatessaron_verse": "1, 2",
       "ref": "John 13:23",
       "arabic_page": 170,
-      "text": "Seorang di antara murid Yesus, yaitu murid yang dikasihi-Nya, bersandar dekat kepada-Nya, di sebelah kanan-Nya."
+      "text": "Seorang di antara murid Yesus, yaitu murid yang dikasihi-Nya, bersandar dekat kepada-Nya, di sebelah kanan-Nya.",
+      "ref_id": "Yohanes 13:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 2,
       "diatessaron_verse": "1, 2",
       "ref": "John 13:24",
       "arabic_page": 170,
-      "text": "Kepada murid itu Simon Petrus memberi isyarat dan berkata: \"Tanyalah"
+      "text": "Kepada murid itu Simon Petrus memberi isyarat dan berkata: \"Tanyalah",
+      "ref_id": "Yohanes 13:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 3,
       "diatessaron_verse": "3",
       "ref": "John 13:24",
       "arabic_page": 170,
-      "text": "siapa yang dimaksudkan-Nya!\""
+      "text": "siapa yang dimaksudkan-Nya!\"",
+      "ref_id": "Yohanes 13:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "John 13:25",
       "arabic_page": 170,
-      "text": "Murid yang duduk dekat Yesus itu berpaling dan berkata kepada-Nya:"
+      "text": "Murid yang duduk dekat Yesus itu berpaling dan berkata kepada-Nya:",
+      "ref_id": "Yohanes 13:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 5,
       "diatessaron_verse": "4",
       "ref": "John 13:25",
       "arabic_page": 170,
-      "text": "\"Tuhan, siapakah itu?\""
+      "text": "\"Tuhan, siapakah itu?\"",
+      "ref_id": "Yohanes 13:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "John 13:26",
       "arabic_page": 170,
-      "text": "Jawab Yesus: \"Dialah itu, yang kepadanya Aku akan memberikan roti, sesudah Aku mencelupkannya.\" Sesudah berkata demikian Ia mengambil roti, mencelupkannya dan memberikannya kepada Yudas, anak Simon Iskariot."
+      "text": "Jawab Yesus: \"Dialah itu, yang kepadanya Aku akan memberikan roti, sesudah Aku mencelupkannya.\" Sesudah berkata demikian Ia mengambil roti, mencelupkannya dan memberikannya kepada Yudas, anak Simon Iskariot.",
+      "ref_id": "Yohanes 13:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 27
     },
     {
       "id": 7,
       "diatessaron_verse": "5",
       "ref": "John 13:27",
       "arabic_page": 170,
-      "text": "Dan sesudah Yudas menerima roti itu, ia kerasukan Iblis. Maka Yesus berkata kepadanya: \"Apa yang"
+      "text": "Dan sesudah Yudas menerima roti itu, ia kerasukan Iblis. Maka Yesus berkata kepadanya: \"Apa yang",
+      "ref_id": "Yohanes 13:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 8,
       "diatessaron_verse": "6",
       "ref": "John 13:27",
       "arabic_page": 170,
-      "text": "hendak kauperbuat, perbuatlah dengan segera.\""
+      "text": "hendak kauperbuat, perbuatlah dengan segera.\"",
+      "ref_id": "Yohanes 13:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 9,
       "diatessaron_verse": "6",
       "ref": "John 13:28",
       "arabic_page": 170,
-      "text": "Tetapi tidak ada seorangpun dari antara mereka yang duduk makan itu mengerti, apa"
+      "text": "Tetapi tidak ada seorangpun dari antara mereka yang duduk makan itu mengerti, apa",
+      "ref_id": "Yohanes 13:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 10,
       "diatessaron_verse": "7",
       "ref": "John 13:28",
       "arabic_page": 170,
-      "text": "maksud Yesus mengatakan itu kepada Yudas."
+      "text": "maksud Yesus mengatakan itu kepada Yudas.",
+      "ref_id": "Yohanes 13:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 11,
       "diatessaron_verse": "7",
       "ref": "John 13:29",
       "arabic_page": 170,
-      "text": "Karena Yudas memegang kas ada yang menyangka, bahwa Yesus menyuruh dia membeli apa-apa yang perlu untuk perayaan itu, atau memberi"
+      "text": "Karena Yudas memegang kas ada yang menyangka, bahwa Yesus menyuruh dia membeli apa-apa yang perlu untuk perayaan itu, atau memberi",
+      "ref_id": "Yohanes 13:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 12,
       "diatessaron_verse": "8",
       "ref": "John 13:29",
       "arabic_page": 170,
-      "text": "apa-apa kepada orang miskin."
+      "text": "apa-apa kepada orang miskin.",
+      "ref_id": "Yohanes 13:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 13,
       "diatessaron_verse": "8",
       "ref": "Matthew 26:25",
       "arabic_page": 170,
-      "text": "Yudas, yang hendak menyerahkan Dia itu menjawab, katanya: \"Bukan aku, ya"
+      "text": "Yudas, yang hendak menyerahkan Dia itu menjawab, katanya: \"Bukan aku, ya",
+      "ref_id": "Matius 26:25",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 14,
       "diatessaron_verse": "9",
       "ref": "Matthew 26:25",
       "arabic_page": 170,
-      "text": "Rabi?\" Kata Yesus kepadanya: \"Engkau telah mengatakannya.\""
+      "text": "Rabi?\" Kata Yesus kepadanya: \"Engkau telah mengatakannya.\"",
+      "ref_id": "Matius 26:25",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 15,
       "diatessaron_verse": "9",
       "ref": "John 13:30",
       "arabic_page": 170,
-      "text": "Yudas menerima roti itu lalu segera pergi. Pada waktu itu hari sudah malam."
+      "text": "Yudas menerima roti itu lalu segera pergi. Pada waktu itu hari sudah malam.",
+      "ref_id": "Yohanes 13:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 16,
       "diatessaron_verse": "10",
       "ref": "John 13:31",
       "arabic_page": 170,
-      "text": "Sesudah Yudas pergi, berkatalah Yesus: \"Sekarang Anak Manusia dipermuliakan dan Allah dipermuliakan"
+      "text": "Sesudah Yudas pergi, berkatalah Yesus: \"Sekarang Anak Manusia dipermuliakan dan Allah dipermuliakan",
+      "ref_id": "Yohanes 13:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 17,
       "diatessaron_verse": "11",
       "ref": "John 13:31",
       "arabic_page": 170,
-      "text": "di dalam Dia."
+      "text": "di dalam Dia.",
+      "ref_id": "Yohanes 13:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 18,
       "diatessaron_verse": "11",
       "ref": "John 13:32",
       "arabic_page": 170,
-      "text": "Jikalau Allah dipermuliakan di dalam Dia, Allah akan mempermuliakan Dia juga di dalam diri-Nya, dan akan mempermuliakan Dia dengan segera."
+      "text": "Jikalau Allah dipermuliakan di dalam Dia, Allah akan mempermuliakan Dia juga di dalam diri-Nya, dan akan mempermuliakan Dia dengan segera.",
+      "ref_id": "Yohanes 13:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 19,
       "diatessaron_verse": "12",
       "ref": "Mark 14:22a",
       "arabic_page": 170,
-      "text": "Dan ketika Yesus dan murid-murid-Nya sedang makan, Yesus mengambil roti, mengucap berkat, memecah-mecahkannya"
+      "text": "Dan ketika Yesus dan murid-murid-Nya sedang makan, Yesus mengambil roti, mengucap berkat, memecah-mecahkannya",
+      "ref_id": "Markus 14:22a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 13
     },
     {
       "id": 20,
       "diatessaron_verse": "12",
       "ref": "Matthew 26:26b",
       "arabic_page": 170,
-      "text": "lalu"
+      "text": "lalu",
+      "ref_id": "Matius 26:26b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 21,
       "diatessaron_verse": "13",
       "ref": "Matthew 26:26b",
       "arabic_page": 170,
-      "text": "memberikannya kepada murid-murid-Nya dan berkata: \"Ambillah, makanlah, inilah tubuh-Ku.\""
+      "text": "memberikannya kepada murid-murid-Nya dan berkata: \"Ambillah, makanlah, inilah tubuh-Ku.\"",
+      "ref_id": "Matius 26:26b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 22,
       "diatessaron_verse": "13",
       "ref": "Mark 14:23a",
       "arabic_page": 171,
-      "text": "Sesudah itu Ia mengambil cawan, mengucap syukur lalu memberikannya kepada mereka,"
+      "text": "Sesudah itu Ia mengambil cawan, mengucap syukur lalu memberikannya kepada mereka,",
+      "ref_id": "Markus 14:23a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 23,
       "diatessaron_verse": "13",
       "ref": "Matthew 26:27b",
       "arabic_page": 171,
-      "text": "dan berkata: \"Minumlah, kamu semua,"
+      "text": "dan berkata: \"Minumlah, kamu semua,",
+      "ref_id": "Matius 26:27b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 24,
       "diatessaron_verse": "14,15",
       "ref": "Matthew 26:27b",
       "arabic_page": 171,
-      "text": "dari cawan ini."
+      "text": "dari cawan ini.",
+      "ref_id": "Matius 26:27b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 25,
       "diatessaron_verse": "14,15",
       "ref": "Mark 14:23b",
       "arabic_page": 171,
-      "text": "dan mereka semuanya minum dari cawan itu."
+      "text": "dan mereka semuanya minum dari cawan itu.",
+      "ref_id": "Markus 14:23b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 26,
       "diatessaron_verse": "14,15",
       "ref": "Mark 14:24a",
       "arabic_page": 171,
-      "text": "Dan Ia berkata kepada mereka:"
+      "text": "Dan Ia berkata kepada mereka:",
+      "ref_id": "Markus 14:24a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 27,
       "diatessaron_verse": "14,15",
       "ref": "Matthew 26:28",
       "arabic_page": 171,
-      "text": "Sebab inilah darah-Ku, darah perjanjian, yang ditumpahkan bagi banyak orang untuk"
+      "text": "Sebab inilah darah-Ku, darah perjanjian, yang ditumpahkan bagi banyak orang untuk",
+      "ref_id": "Matius 26:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 28,
       "diatessaron_verse": "16",
       "ref": "Matthew 26:28",
       "arabic_page": 171,
-      "text": "pengampunan dosa."
+      "text": "pengampunan dosa.",
+      "ref_id": "Matius 26:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 29,
       "diatessaron_verse": "16",
       "ref": "Matthew 26:29",
       "arabic_page": 171,
-      "text": "Akan tetapi Aku berkata kepadamu: mulai dari sekarang Aku tidak akan minum lagi hasil pokok anggur ini sampai pada hari Aku meminumnya, yaitu yang baru, bersama-sama dengan kamu dalam Kerajaan"
+      "text": "Akan tetapi Aku berkata kepadamu: mulai dari sekarang Aku tidak akan minum lagi hasil pokok anggur ini sampai pada hari Aku meminumnya, yaitu yang baru, bersama-sama dengan kamu dalam Kerajaan",
+      "ref_id": "Matius 26:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 30
     },
     {
       "id": 30,
       "diatessaron_verse": "17",
       "ref": "Matthew 26:29",
       "arabic_page": 171,
-      "text": "Bapa-Ku."
+      "text": "Bapa-Ku.",
+      "ref_id": "Matius 26:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 31,
       "diatessaron_verse": "17",
       "ref": "Luke 22:19b",
       "arabic_page": 171,
-      "text": "perbuatlah ini menjadi peringatan akan Aku.\""
+      "text": "perbuatlah ini menjadi peringatan akan Aku.\"",
+      "ref_id": "Lukas 22:19b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 32,
       "diatessaron_verse": "17",
       "ref": "Luke 22:31",
       "arabic_page": 171,
-      "text": "Simon, Simon,"
+      "text": "Simon, Simon,",
+      "ref_id": "Lukas 22:31",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 33,
       "diatessaron_verse": "18",
       "ref": "Luke 22:31",
       "arabic_page": 171,
-      "text": "lihat, Iblis telah menuntut untuk menampi kamu seperti gandum,"
+      "text": "lihat, Iblis telah menuntut untuk menampi kamu seperti gandum,",
+      "ref_id": "Lukas 22:31",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 34,
       "diatessaron_verse": "18",
       "ref": "Luke 22:32",
       "arabic_page": 171,
-      "text": "tetapi Aku telah berdoa untuk engkau, supaya imanmu jangan gugur. Dan engkau, jikalau engkau sudah insaf, kuatkanlah saudara-saudaramu.\""
+      "text": "tetapi Aku telah berdoa untuk engkau, supaya imanmu jangan gugur. Dan engkau, jikalau engkau sudah insaf, kuatkanlah saudara-saudaramu.\"",
+      "ref_id": "Lukas 22:32",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 18
     },
     {
       "id": 35,
       "diatessaron_verse": "19",
       "ref": "John 13:33",
       "arabic_page": 171,
-      "text": "Hai anak-anak-Ku, hanya seketika saja lagi Aku ada bersama kamu. Kamu akan mencari Aku, dan seperti yang telah"
+      "text": "Hai anak-anak-Ku, hanya seketika saja lagi Aku ada bersama kamu. Kamu akan mencari Aku, dan seperti yang telah",
+      "ref_id": "Yohanes 13:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 36,
       "diatessaron_verse": "20",
       "ref": "John 13:33",
       "arabic_page": 171,
-      "text": "Kukatakan kepada orang-orang Yahudi: Ke tempat Aku pergi, tidak mungkin kamu datang, demikian pula Aku mengatakannya sekarang juga kepada kamu."
+      "text": "Kukatakan kepada orang-orang Yahudi: Ke tempat Aku pergi, tidak mungkin kamu datang, demikian pula Aku mengatakannya sekarang juga kepada kamu.",
+      "ref_id": "Yohanes 13:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 37,
       "diatessaron_verse": "20",
       "ref": "John 13:34",
       "arabic_page": 171,
-      "text": "Aku memberikan perintah baru kepada kamu, yaitu supaya kamu saling mengasihi; sama seperti Aku telah mengasihi"
+      "text": "Aku memberikan perintah baru kepada kamu, yaitu supaya kamu saling mengasihi; sama seperti Aku telah mengasihi",
+      "ref_id": "Yohanes 13:34",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 38,
       "diatessaron_verse": "21",
       "ref": "John 13:34",
       "arabic_page": 171,
-      "text": "kamu demikian pula kamu harus saling mengasihi."
+      "text": "kamu demikian pula kamu harus saling mengasihi.",
+      "ref_id": "Yohanes 13:34",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 39,
       "diatessaron_verse": "21",
       "ref": "John 13:35",
       "arabic_page": 171,
-      "text": "Dengan demikian semua orang akan tahu, bahwa kamu adalah"
+      "text": "Dengan demikian semua orang akan tahu, bahwa kamu adalah",
+      "ref_id": "Yohanes 13:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 40,
       "diatessaron_verse": "22",
       "ref": "John 13:35",
       "arabic_page": 171,
-      "text": "murid-murid-Ku, yaitu jikalau kamu saling mengasihi.\""
+      "text": "murid-murid-Ku, yaitu jikalau kamu saling mengasihi.\"",
+      "ref_id": "Yohanes 13:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 41,
       "diatessaron_verse": "22",
       "ref": "John 13:36",
       "arabic_page": 171,
-      "text": "Simon Petrus berkata kepada Yesus: \"Tuhan, ke manakah Engkau pergi?\" Jawab Yesus: \"Ke tempat Aku pergi, engkau tidak dapat mengikuti Aku sekarang, tetapi kelak engkau akan mengikuti Aku.\""
+      "text": "Simon Petrus berkata kepada Yesus: \"Tuhan, ke manakah Engkau pergi?\" Jawab Yesus: \"Ke tempat Aku pergi, engkau tidak dapat mengikuti Aku sekarang, tetapi kelak engkau akan mengikuti Aku.\"",
+      "ref_id": "Yohanes 13:36",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 28
     },
     {
       "id": 42,
       "diatessaron_verse": "23",
       "ref": "Matthew 26:31",
       "arabic_page": 171,
-      "text": "Maka berkatalah Yesus kepada mereka: \"Malam ini kamu semua akan tergoncang imanmu karena Aku. Sebab ada tertulis: Aku"
+      "text": "Maka berkatalah Yesus kepada mereka: \"Malam ini kamu semua akan tergoncang imanmu karena Aku. Sebab ada tertulis: Aku",
+      "ref_id": "Matius 26:31",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 18
     },
     {
       "id": 43,
       "diatessaron_verse": "24",
       "ref": "Matthew 26:31",
       "arabic_page": 171,
-      "text": "akan membunuh gembala dan kawanan domba itu akan tercerai-berai."
+      "text": "akan membunuh gembala dan kawanan domba itu akan tercerai-berai.",
+      "ref_id": "Matius 26:31",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 44,
       "diatessaron_verse": "24",
       "ref": "Matthew 26:32",
       "arabic_page": 171,
-      "text": "Akan tetapi sesudah Aku"
+      "text": "Akan tetapi sesudah Aku",
+      "ref_id": "Matius 26:32",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 45,
       "diatessaron_verse": "25",
       "ref": "Matthew 26:32",
       "arabic_page": 171,
-      "text": "bangkit, Aku akan mendahului kamu ke Galilea.\""
+      "text": "bangkit, Aku akan mendahului kamu ke Galilea.\"",
+      "ref_id": "Matius 26:32",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 46,
       "diatessaron_verse": "25",
       "ref": "Matthew 26:33",
       "arabic_page": 171,
-      "text": "Petrus"
+      "text": "Petrus",
+      "ref_id": "Matius 26:33",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 47,
       "diatessaron_verse": "26",
       "ref": "Matthew 26:33",
       "arabic_page": 171,
-      "text": "menjawab-Nya: \"Biarpun mereka semua tergoncang imannya karena Engkau, aku sekali-kali tidak.\""
+      "text": "menjawab-Nya: \"Biarpun mereka semua tergoncang imannya karena Engkau, aku sekali-kali tidak.\"",
+      "ref_id": "Matius 26:33",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 48,
       "diatessaron_verse": "26",
       "ref": "Luke 22:33b",
       "arabic_page": 171,
-      "text": "\"Tuhan, aku bersedia masuk penjara dan mati bersama-sama dengan Engkau!\""
+      "text": "\"Tuhan, aku bersedia masuk penjara dan mati bersama-sama dengan Engkau!\"",
+      "ref_id": "Lukas 22:33b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 49,
       "diatessaron_verse": "26",
       "ref": "John 13:37b",
       "arabic_page": 171,
-      "text": "Aku akan memberikan nyawaku bagi-Mu!\""
+      "text": "Aku akan memberikan nyawaku bagi-Mu!\"",
+      "ref_id": "Yohanes 13:37b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 50,
       "diatessaron_verse": "27",
       "ref": "John 13:38a",
       "arabic_page": 172,
-      "text": "Jawab Yesus: \"Nyawamu akan kauberikan bagi-Ku?"
+      "text": "Jawab Yesus: \"Nyawamu akan kauberikan bagi-Ku?",
+      "ref_id": "Yohanes 13:38a",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 51,
       "diatessaron_verse": "27",
       "ref": "Mark 14:30b",
       "arabic_page": 172,
-      "text": "\"Aku berkata kepadamu, sesungguhnya pada hari ini, malam ini juga, sebelum ayam berkokok"
+      "text": "\"Aku berkata kepadamu, sesungguhnya pada hari ini, malam ini juga, sebelum ayam berkokok",
+      "ref_id": "Markus 14:30b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 13
     },
     {
       "id": 52,
       "diatessaron_verse": "28",
       "ref": "Mark 14:30b",
       "arabic_page": 172,
-      "text": "dua kali, engkau telah menyangkal Aku tiga kali.\""
+      "text": "dua kali, engkau telah menyangkal Aku tiga kali.\"",
+      "ref_id": "Markus 14:30b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 53,
       "diatessaron_verse": "28",
       "ref": "Mark 14:31",
       "arabic_page": 172,
-      "text": "Tetapi dengan lebih bersungguh-sungguh Petrus berkata: \"Sekalipun aku harus mati bersama-sama Engkau, aku takkan menyangkal Engkau.\" Semua yang lainpun berkata demikian juga."
+      "text": "Tetapi dengan lebih bersungguh-sungguh Petrus berkata: \"Sekalipun aku harus mati bersama-sama Engkau, aku takkan menyangkal Engkau.\" Semua yang lainpun berkata demikian juga.",
+      "ref_id": "Markus 14:31",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 22
     },
     {
       "id": 54,
       "diatessaron_verse": "29",
       "ref": "John 14:1",
       "arabic_page": 172,
-      "text": "\"Janganlah gelisah hatimu; percayalah kepada Allah,"
+      "text": "\"Janganlah gelisah hatimu; percayalah kepada Allah,",
+      "ref_id": "Yohanes 14:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 55,
       "diatessaron_verse": "30",
       "ref": "John 14:1",
       "arabic_page": 172,
-      "text": "percayalah juga kepada-Ku."
+      "text": "percayalah juga kepada-Ku.",
+      "ref_id": "Yohanes 14:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 56,
       "diatessaron_verse": "30",
       "ref": "John 14:2",
       "arabic_page": 172,
-      "text": "Di rumah Bapa-Ku banyak tempat tinggal. Jika tidak demikian, tentu Aku"
+      "text": "Di rumah Bapa-Ku banyak tempat tinggal. Jika tidak demikian, tentu Aku",
+      "ref_id": "Yohanes 14:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 57,
       "diatessaron_verse": "31",
       "ref": "John 14:2",
       "arabic_page": 172,
-      "text": "mengatakannya kepadamu. Sebab Aku pergi ke situ untuk menyediakan tempat bagimu."
+      "text": "mengatakannya kepadamu. Sebab Aku pergi ke situ untuk menyediakan tempat bagimu.",
+      "ref_id": "Yohanes 14:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 58,
       "diatessaron_verse": "31",
       "ref": "John 14:3",
       "arabic_page": 172,
-      "text": "Dan apabila Aku telah pergi ke situ dan telah menyediakan tempat bagimu, Aku akan datang kembali dan membawa kamu ke tempat-Ku, supaya di tempat di mana Aku berada, kamupun"
+      "text": "Dan apabila Aku telah pergi ke situ dan telah menyediakan tempat bagimu, Aku akan datang kembali dan membawa kamu ke tempat-Ku, supaya di tempat di mana Aku berada, kamupun",
+      "ref_id": "Yohanes 14:3",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 29
     },
     {
       "id": 59,
       "diatessaron_verse": "32, 33",
       "ref": "John 14:3",
       "arabic_page": 172,
-      "text": "berada."
+      "text": "berada.",
+      "ref_id": "Yohanes 14:3",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 60,
       "diatessaron_verse": "32, 33",
       "ref": "John 14:4",
       "arabic_page": 172,
-      "text": "Dan ke mana Aku pergi, kamu tahu jalan ke situ.\""
+      "text": "Dan ke mana Aku pergi, kamu tahu jalan ke situ.\"",
+      "ref_id": "Yohanes 14:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 61,
       "diatessaron_verse": "32, 33",
       "ref": "John 14:5",
       "arabic_page": 172,
-      "text": "Kata Tomas kepada-Nya: \"Tuhan, kami tidak tahu ke mana Engkau pergi; jadi bagaimana"
+      "text": "Kata Tomas kepada-Nya: \"Tuhan, kami tidak tahu ke mana Engkau pergi; jadi bagaimana",
+      "ref_id": "Yohanes 14:5",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 62,
       "diatessaron_verse": "34",
       "ref": "John 14:5",
       "arabic_page": 172,
-      "text": "kami tahu jalan ke situ?\""
+      "text": "kami tahu jalan ke situ?\"",
+      "ref_id": "Yohanes 14:5",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 63,
       "diatessaron_verse": "34",
       "ref": "John 14:6",
       "arabic_page": 172,
-      "text": "Kata Yesus kepadanya: \"Akulah jalan dan kebenaran"
+      "text": "Kata Yesus kepadanya: \"Akulah jalan dan kebenaran",
+      "ref_id": "Yohanes 14:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 64,
       "diatessaron_verse": "35",
       "ref": "John 14:6",
       "arabic_page": 172,
-      "text": "dan hidup. Tidak ada seorangpun yang datang kepada Bapa, kalau tidak melalui Aku."
+      "text": "dan hidup. Tidak ada seorangpun yang datang kepada Bapa, kalau tidak melalui Aku.",
+      "ref_id": "Yohanes 14:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 65,
       "diatessaron_verse": "35",
       "ref": "John 14:7",
       "arabic_page": 172,
-      "text": "Sekiranya kamu mengenal Aku, pasti kamu juga mengenal Bapa-Ku. Sekarang ini kamu mengenal Dia"
+      "text": "Sekiranya kamu mengenal Aku, pasti kamu juga mengenal Bapa-Ku. Sekarang ini kamu mengenal Dia",
+      "ref_id": "Yohanes 14:7",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 66,
       "diatessaron_verse": "36",
       "ref": "John 14:7",
       "arabic_page": 172,
-      "text": "dan kamu telah melihat Dia.\""
+      "text": "dan kamu telah melihat Dia.\"",
+      "ref_id": "Yohanes 14:7",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 67,
       "diatessaron_verse": "36",
       "ref": "John 14:8",
       "arabic_page": 172,
-      "text": "Kata Filipus kepada-Nya: \"Tuhan, tunjukkanlah Bapa itu kepada kami, itu sudah cukup bagi"
+      "text": "Kata Filipus kepada-Nya: \"Tuhan, tunjukkanlah Bapa itu kepada kami, itu sudah cukup bagi",
+      "ref_id": "Yohanes 14:8",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 68,
       "diatessaron_verse": "37",
       "ref": "John 14:8",
       "arabic_page": 172,
-      "text": "kami.\""
+      "text": "kami.\"",
+      "ref_id": "Yohanes 14:8",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 69,
       "diatessaron_verse": "37",
       "ref": "John 14:9",
       "arabic_page": 172,
-      "text": "Kata Yesus kepadanya: \"Telah sekian lama Aku bersama-sama kamu, Filipus, namun engkau tidak mengenal Aku? Barangsiapa telah melihat Aku, ia telah melihat Bapa; bagaimana engkau berkata:"
+      "text": "Kata Yesus kepadanya: \"Telah sekian lama Aku bersama-sama kamu, Filipus, namun engkau tidak mengenal Aku? Barangsiapa telah melihat Aku, ia telah melihat Bapa; bagaimana engkau berkata:",
+      "ref_id": "Yohanes 14:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 26
     },
     {
       "id": 70,
       "diatessaron_verse": "38",
       "ref": "John 14:9",
       "arabic_page": 172,
-      "text": "Tunjukkanlah Bapa itu kepada kami."
+      "text": "Tunjukkanlah Bapa itu kepada kami.",
+      "ref_id": "Yohanes 14:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 71,
       "diatessaron_verse": "38",
       "ref": "John 14:10",
       "arabic_page": 172,
-      "text": "Tidak percayakah engkau, bahwa Aku di dalam Bapa dan Bapa di dalam Aku? Apa yang Aku katakan kepadamu, tidak Aku katakan dari diri-Ku sendiri, tetapi Bapa, yang diam di dalam"
+      "text": "Tidak percayakah engkau, bahwa Aku di dalam Bapa dan Bapa di dalam Aku? Apa yang Aku katakan kepadamu, tidak Aku katakan dari diri-Ku sendiri, tetapi Bapa, yang diam di dalam",
+      "ref_id": "Yohanes 14:10",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 30
     },
     {
       "id": 72,
       "diatessaron_verse": "39",
       "ref": "John 14:10",
       "arabic_page": 172,
-      "text": "Aku, Dialah yang melakukan pekerjaan-Nya."
+      "text": "Aku, Dialah yang melakukan pekerjaan-Nya.",
+      "ref_id": "Yohanes 14:10",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 73,
       "diatessaron_verse": "39",
       "ref": "John 14:11",
       "arabic_page": 172,
-      "text": "Percayalah kepada-Ku, bahwa Aku di dalam Bapa dan Bapa di dalam Aku;"
+      "text": "Percayalah kepada-Ku, bahwa Aku di dalam Bapa dan Bapa di dalam Aku;",
+      "ref_id": "Yohanes 14:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 74,
       "diatessaron_verse": "40",
       "ref": "John 14:11",
       "arabic_page": 173,
-      "text": "atau setidak-tidaknya, percayalah karena pekerjaan-pekerjaan itu sendiri."
+      "text": "atau setidak-tidaknya, percayalah karena pekerjaan-pekerjaan itu sendiri.",
+      "ref_id": "Yohanes 14:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 75,
       "diatessaron_verse": "40",
       "ref": "John 14:12",
       "arabic_page": 173,
-      "text": "Aku berkata kepadamu: Sesungguhnya barangsiapa percaya kepada-Ku, ia akan melakukan juga pekerjaan-pekerjaan yang Aku lakukan, bahkan"
+      "text": "Aku berkata kepadamu: Sesungguhnya barangsiapa percaya kepada-Ku, ia akan melakukan juga pekerjaan-pekerjaan yang Aku lakukan, bahkan",
+      "ref_id": "Yohanes 14:12",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 76,
       "diatessaron_verse": "41",
       "ref": "John 14:12",
       "arabic_page": 173,
-      "text": "pekerjaan-pekerjaan yang lebih besar dari pada itu. Sebab Aku pergi kepada Bapa;"
+      "text": "pekerjaan-pekerjaan yang lebih besar dari pada itu. Sebab Aku pergi kepada Bapa;",
+      "ref_id": "Yohanes 14:12",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 77,
       "diatessaron_verse": "41",
       "ref": "John 14:13",
       "arabic_page": 173,
-      "text": "dan apa juga yang kamu minta dalam"
+      "text": "dan apa juga yang kamu minta dalam",
+      "ref_id": "Yohanes 14:13",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 78,
       "diatessaron_verse": "42",
       "ref": "John 14:13",
       "arabic_page": 173,
-      "text": "nama-Ku, Aku akan melakukannya, supaya Bapa dipermuliakan di dalam Anak."
+      "text": "nama-Ku, Aku akan melakukannya, supaya Bapa dipermuliakan di dalam Anak.",
+      "ref_id": "Yohanes 14:13",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 79,
       "diatessaron_verse": "42",
       "ref": "John 14:14",
       "arabic_page": 173,
-      "text": "Jika kamu"
+      "text": "Jika kamu",
+      "ref_id": "Yohanes 14:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 80,
       "diatessaron_verse": "43, 44",
       "ref": "John 14:14",
       "arabic_page": 173,
-      "text": "meminta sesuatu kepada-Ku dalam nama-Ku, Aku akan melakukannya.\""
+      "text": "meminta sesuatu kepada-Ku dalam nama-Ku, Aku akan melakukannya.\"",
+      "ref_id": "Yohanes 14:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 81,
       "diatessaron_verse": "43, 44",
       "ref": "John 14:15",
       "arabic_page": 173,
-      "text": "\"Jikalau kamu mengasihi Aku, kamu akan menuruti segala perintah-Ku."
+      "text": "\"Jikalau kamu mengasihi Aku, kamu akan menuruti segala perintah-Ku.",
+      "ref_id": "Yohanes 14:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 82,
       "diatessaron_verse": "43, 44",
       "ref": "John 14:16",
       "arabic_page": 173,
-      "text": "Aku akan minta kepada Bapa, dan Ia akan memberikan kepadamu seorang Penolong yang lain, supaya Ia"
+      "text": "Aku akan minta kepada Bapa, dan Ia akan memberikan kepadamu seorang Penolong yang lain, supaya Ia",
+      "ref_id": "Yohanes 14:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 83,
       "diatessaron_verse": "45",
       "ref": "John 14:16",
       "arabic_page": 173,
-      "text": "menyertai kamu selama-lamanya,"
+      "text": "menyertai kamu selama-lamanya,",
+      "ref_id": "Yohanes 14:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 84,
       "diatessaron_verse": "45",
       "ref": "John 14:17",
       "arabic_page": 173,
-      "text": "yaitu Roh Kebenaran. Dunia tidak dapat menerima Dia, sebab dunia tidak melihat Dia dan tidak mengenal Dia. Tetapi kamu mengenal Dia, sebab Ia"
+      "text": "yaitu Roh Kebenaran. Dunia tidak dapat menerima Dia, sebab dunia tidak melihat Dia dan tidak mengenal Dia. Tetapi kamu mengenal Dia, sebab Ia",
+      "ref_id": "Yohanes 14:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 23
     },
     {
       "id": 85,
       "diatessaron_verse": "46",
       "ref": "John 14:17",
       "arabic_page": 173,
-      "text": "menyertai kamu dan akan diam di dalam kamu."
+      "text": "menyertai kamu dan akan diam di dalam kamu.",
+      "ref_id": "Yohanes 14:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 86,
       "diatessaron_verse": "46",
       "ref": "John 14:18",
       "arabic_page": 173,
-      "text": "Aku tidak akan meninggalkan kamu sebagai yatim piatu. Aku datang kembali kepadamu."
+      "text": "Aku tidak akan meninggalkan kamu sebagai yatim piatu. Aku datang kembali kepadamu.",
+      "ref_id": "Yohanes 14:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 87,
       "diatessaron_verse": "47",
       "ref": "John 14:19",
       "arabic_page": 173,
-      "text": "Tinggal sesaat lagi dan dunia tidak akan melihat Aku lagi, tetapi kamu melihat Aku, sebab Aku hidup dan 48 kamupun akan hidup."
+      "text": "Tinggal sesaat lagi dan dunia tidak akan melihat Aku lagi, tetapi kamu melihat Aku, sebab Aku hidup dan 48 kamupun akan hidup.",
+      "ref_id": "Yohanes 14:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 22
     },
     {
       "id": 88,
       "diatessaron_verse": "47",
       "ref": "John 14:20",
       "arabic_page": 173,
-      "text": "Pada waktu itulah kamu akan tahu, bahwa Aku di dalam Bapa-Ku dan kamu di dalam Aku dan Aku di dalam kamu."
+      "text": "Pada waktu itulah kamu akan tahu, bahwa Aku di dalam Bapa-Ku dan kamu di dalam Aku dan Aku di dalam kamu.",
+      "ref_id": "Yohanes 14:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 21
     }
-  ]
+  ],
+  "title_id": "Pembasuhan Kaki Murid-murid & Janji Penghibur (Roh Kudus)",
+  "title_en": "Washing the Disciples' Feet & The Promised Comforter",
+  "epoch_id": 6,
+  "total_words": 944,
+  "arabic_page_range": "p. 170 - p. 173",
+  "arabic_pages": [
+    170,
+    171,
+    172,
+    173
+  ],
+  "stats": {
+    "mat": 16,
+    "mrk": 7,
+    "luk": 5,
+    "yoh": 60,
+    "unk": 0
+  },
+  "footnotes": []
 }

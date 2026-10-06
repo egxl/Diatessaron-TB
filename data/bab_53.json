@@ -27,812 +27,1411 @@
       "diatessaron_verse": "1",
       "ref": "Luke 24:4",
       "arabic_page": null,
-      "text": "Sementara mereka berdiri termangu-mangu karena hal itu, tiba-tiba ada dua orang berdiri dekat mereka memakai"
+      "text": "Sementara mereka berdiri termangu-mangu karena hal itu, tiba-tiba ada dua orang berdiri dekat mereka memakai",
+      "ref_id": "Lukas 24:4",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "Luke 24:4",
       "arabic_page": null,
-      "text": "pakaian yang berkilau-kilauan."
+      "text": "pakaian yang berkilau-kilauan.",
+      "ref_id": "Lukas 24:4",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "Luke 24:5",
       "arabic_page": null,
-      "text": "Mereka sangat ketakutan dan"
+      "text": "Mereka sangat ketakutan dan",
+      "ref_id": "Lukas 24:5",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "Luke 24:5",
       "arabic_page": null,
-      "text": "menundukkan kepala, tetapi kedua orang itu berkata kepada mereka: \"Mengapa kamu mencari Dia yang hidup, di antara orang mati?"
+      "text": "menundukkan kepala, tetapi kedua orang itu berkata kepada mereka: \"Mengapa kamu mencari Dia yang hidup, di antara orang mati?",
+      "ref_id": "Lukas 24:5",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 19
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "Luke 24:6",
       "arabic_page": null,
-      "text": "Ia tidak ada di sini, Ia telah bangkit. Ingatlah apa yang dikatakan-Nya kepada kamu, ketika Ia masih di"
+      "text": "Ia tidak ada di sini, Ia telah bangkit. Ingatlah apa yang dikatakan-Nya kepada kamu, ketika Ia masih di",
+      "ref_id": "Lukas 24:6",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 18
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "Luke 24:6",
       "arabic_page": null,
-      "text": "Galilea,"
+      "text": "Galilea,",
+      "ref_id": "Lukas 24:6",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 7,
       "diatessaron_verse": "4",
       "ref": "Luke 24:7",
       "arabic_page": null,
-      "text": "yaitu bahwa Anak Manusia harus diserahkan ke tangan orang-orang berdosa dan"
+      "text": "yaitu bahwa Anak Manusia harus diserahkan ke tangan orang-orang berdosa dan",
+      "ref_id": "Lukas 24:7",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
       "ref": "Luke 24:7",
       "arabic_page": null,
-      "text": "disalibkan, dan akan bangkit pada hari yang ketiga.\""
+      "text": "disalibkan, dan akan bangkit pada hari yang ketiga.\"",
+      "ref_id": "Lukas 24:7",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 9,
       "diatessaron_verse": "5",
       "ref": "Matthew 28:7a",
       "arabic_page": null,
-      "text": "Dan segeralah pergi, dan katakanlah"
+      "text": "Dan segeralah pergi, dan katakanlah",
+      "ref_id": "Matius 28:7a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 10,
       "diatessaron_verse": "5",
       "ref": "Mark 16:7b",
       "arabic_page": null,
-      "text": "kepada murid-murid-Nya dan kepada Petrus:"
+      "text": "kepada murid-murid-Nya dan kepada Petrus:",
+      "ref_id": "Markus 16:7b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 11,
       "diatessaron_verse": "5",
       "ref": "Matthew 28:7b",
       "arabic_page": null,
-      "text": "] Ia telah bangkit dari antara orang mati. Ia mendahului"
+      "text": "] Ia telah bangkit dari antara orang mati. Ia mendahului",
+      "ref_id": "Matius 28:7b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 12,
       "diatessaron_verse": "6",
       "ref": "Matthew 28:7b",
       "arabic_page": null,
-      "text": "kamu ke Galilea; di sana kamu akan melihat Dia. Sesungguhnya aku telah"
+      "text": "kamu ke Galilea; di sana kamu akan melihat Dia. Sesungguhnya aku telah",
+      "ref_id": "Matius 28:7b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 13,
       "diatessaron_verse": "7",
       "ref": "Matthew 28:7b",
       "arabic_page": null,
-      "text": "mengatakannya kepadamu.\""
+      "text": "mengatakannya kepadamu.\"",
+      "ref_id": "Matius 28:7b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 14,
       "diatessaron_verse": "7",
       "ref": "Luke 24:8",
       "arabic_page": null,
-      "text": "Maka teringatlah mereka akan perkataan Yesus itu."
+      "text": "Maka teringatlah mereka akan perkataan Yesus itu.",
+      "ref_id": "Lukas 24:8",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 15,
       "diatessaron_verse": "7",
       "ref": "Matthew 28:8a",
       "arabic_page": null,
-      "text": "Mereka segera pergi dari"
+      "text": "Mereka segera pergi dari",
+      "ref_id": "Matius 28:8a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 16,
       "diatessaron_verse": "8",
       "ref": "Matthew 28:8a",
       "arabic_page": null,
-      "text": "kubur itu, dengan takut dan dengan sukacita yang besar dan berlari cepat-cepat"
+      "text": "kubur itu, dengan takut dan dengan sukacita yang besar dan berlari cepat-cepat",
+      "ref_id": "Matius 28:8a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 17,
       "diatessaron_verse": "8",
       "ref": "Mark 16:8b",
       "arabic_page": null,
-      "text": "sebab gentar dan dahsyat"
+      "text": "sebab gentar dan dahsyat",
+      "ref_id": "Markus 16:8b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 18,
       "diatessaron_verse": "9",
       "ref": "Mark 16:8b",
       "arabic_page": null,
-      "text": "menimpa mereka. Mereka tidak mengatakan apa-apa kepada siapapun juga karena takut."
+      "text": "menimpa mereka. Mereka tidak mengatakan apa-apa kepada siapapun juga karena takut.",
+      "ref_id": "Markus 16:8b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 19,
       "diatessaron_verse": "9",
       "ref": "John 20:2",
       "arabic_page": null,
-      "text": "Ia berlari-lari mendapatkan Simon Petrus dan murid yang lain yang dikasihi Yesus, dan berkata kepada mereka: \"Tuhan telah diambil orang dari kuburnya dan kami"
+      "text": "Ia berlari-lari mendapatkan Simon Petrus dan murid yang lain yang dikasihi Yesus, dan berkata kepada mereka: \"Tuhan telah diambil orang dari kuburnya dan kami",
+      "ref_id": "Yohanes 20:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 24
     },
     {
       "id": 20,
       "diatessaron_verse": "10",
       "ref": "John 20:2",
       "arabic_page": null,
-      "text": "tidak tahu di mana Ia diletakkan.\""
+      "text": "tidak tahu di mana Ia diletakkan.\"",
+      "ref_id": "Yohanes 20:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 21,
       "diatessaron_verse": "10",
       "ref": "John 20:3",
       "arabic_page": null,
-      "text": "Maka berangkatlah Petrus dan murid yang lain"
+      "text": "Maka berangkatlah Petrus dan murid yang lain",
+      "ref_id": "Yohanes 20:3",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 22,
       "diatessaron_verse": "11",
       "ref": "John 20:3",
       "arabic_page": null,
-      "text": "itu ke kubur."
+      "text": "itu ke kubur.",
+      "ref_id": "Yohanes 20:3",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 23,
       "diatessaron_verse": "11",
       "ref": "John 20:4",
       "arabic_page": null,
-      "text": "Keduanya berlari bersama-sama, tetapi murid yang lain itu"
+      "text": "Keduanya berlari bersama-sama, tetapi murid yang lain itu",
+      "ref_id": "Yohanes 20:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 24,
       "diatessaron_verse": "12",
       "ref": "John 20:4",
       "arabic_page": null,
-      "text": "berlari lebih cepat dari pada Petrus sehingga lebih dahulu sampai di kubur."
+      "text": "berlari lebih cepat dari pada Petrus sehingga lebih dahulu sampai di kubur.",
+      "ref_id": "Yohanes 20:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 25,
       "diatessaron_verse": "12",
       "ref": "John 20:5",
       "arabic_page": null,
-      "text": "Ia menjenguk ke dalam, dan melihat"
+      "text": "Ia menjenguk ke dalam, dan melihat",
+      "ref_id": "Yohanes 20:5",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 26,
       "diatessaron_verse": "13",
       "ref": "John 20:5",
       "arabic_page": null,
-      "text": "kain kapan terletak di tanah; akan tetapi ia tidak masuk ke dalam."
+      "text": "kain kapan terletak di tanah; akan tetapi ia tidak masuk ke dalam.",
+      "ref_id": "Yohanes 20:5",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 27,
       "diatessaron_verse": "13",
       "ref": "John 20:6",
       "arabic_page": null,
-      "text": "Maka datanglah Simon Petrus juga menyusul dia dan masuk ke dalam"
+      "text": "Maka datanglah Simon Petrus juga menyusul dia dan masuk ke dalam",
+      "ref_id": "Yohanes 20:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 28,
       "diatessaron_verse": "14",
       "ref": "John 20:6",
       "arabic_page": 201,
-      "text": "kubur itu. Ia melihat kain kapan terletak di tanah,"
+      "text": "kubur itu. Ia melihat kain kapan terletak di tanah,",
+      "ref_id": "Yohanes 20:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 29,
       "diatessaron_verse": "14",
       "ref": "John 20:7",
       "arabic_page": 201,
-      "text": "sedang kain peluh yang tadinya ada di kepala Yesus tidak terletak dekat kain kapan itu, tetapi agak di samping di tempat yang lain dan sudah tergulung."
+      "text": "sedang kain peluh yang tadinya ada di kepala Yesus tidak terletak dekat kain kapan itu, tetapi agak di samping di tempat yang lain dan sudah tergulung.",
+      "ref_id": "Yohanes 20:7",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 26
     },
     {
       "id": 30,
       "diatessaron_verse": "15",
       "ref": "John 20:8",
       "arabic_page": 201,
-      "text": "Maka masuklah juga murid yang lain, yang lebih dahulu sampai di kubur itu dan ia melihatnya dan percaya."
+      "text": "Maka masuklah juga murid yang lain, yang lebih dahulu sampai di kubur itu dan ia melihatnya dan percaya.",
+      "ref_id": "Yohanes 20:8",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 31,
       "diatessaron_verse": "16",
       "ref": "John 20:9",
       "arabic_page": 201,
-      "text": "Sebab selama itu mereka belum mengerti isi Kitab Suci yang mengatakan, bahwa Ia harus bangkit dari antara"
+      "text": "Sebab selama itu mereka belum mengerti isi Kitab Suci yang mengatakan, bahwa Ia harus bangkit dari antara",
+      "ref_id": "Yohanes 20:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     },
     {
       "id": 32,
       "diatessaron_verse": "17",
       "ref": "John 20:9",
       "arabic_page": 201,
-      "text": "orang mati."
+      "text": "orang mati.",
+      "ref_id": "Yohanes 20:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 33,
       "diatessaron_verse": "17",
       "ref": "John 20:10",
       "arabic_page": 201,
-      "text": "Lalu pulanglah kedua murid itu ke rumah."
+      "text": "Lalu pulanglah kedua murid itu ke rumah.",
+      "ref_id": "Yohanes 20:10",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 34,
       "diatessaron_verse": "18",
       "ref": "John 20:11",
       "arabic_page": 201,
-      "text": "Tetapi Maria berdiri dekat kubur itu dan menangis. Sambil menangis ia"
+      "text": "Tetapi Maria berdiri dekat kubur itu dan menangis. Sambil menangis ia",
+      "ref_id": "Yohanes 20:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 35,
       "diatessaron_verse": "19",
       "ref": "John 20:11",
       "arabic_page": 201,
-      "text": "menjenguk ke dalam kubur itu,"
+      "text": "menjenguk ke dalam kubur itu,",
+      "ref_id": "Yohanes 20:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 36,
       "diatessaron_verse": "19",
       "ref": "John 20:1",
       "arabic_page": 201,
-      "text": "2 dan tampaklah olehnya dua orang malaikat berpakaian putih, yang seorang duduk di sebelah kepala dan yang lain di sebelah kaki di tempat mayat Yesus"
+      "text": "2 dan tampaklah olehnya dua orang malaikat berpakaian putih, yang seorang duduk di sebelah kepala dan yang lain di sebelah kaki di tempat mayat Yesus",
+      "ref_id": "Yohanes 20:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 25
     },
     {
       "id": 37,
       "diatessaron_verse": "20",
       "ref": "John 20:1",
       "arabic_page": 201,
-      "text": "terbaring."
+      "text": "terbaring.",
+      "ref_id": "Yohanes 20:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 38,
       "diatessaron_verse": "20",
       "ref": "John 20:13",
       "arabic_page": 201,
-      "text": "Kata malaikat-malaikat itu kepadanya: \"Ibu, mengapa engkau menangis?\" Jawab Maria kepada mereka:"
+      "text": "Kata malaikat-malaikat itu kepadanya: \"Ibu, mengapa engkau menangis?\" Jawab Maria kepada mereka:",
+      "ref_id": "Yohanes 20:13",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 39,
       "diatessaron_verse": "21",
       "ref": "John 20:13",
       "arabic_page": 201,
-      "text": "\"Tuhanku telah diambil orang dan aku tidak tahu di mana Ia diletakkan.\""
+      "text": "\"Tuhanku telah diambil orang dan aku tidak tahu di mana Ia diletakkan.\"",
+      "ref_id": "Yohanes 20:13",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 40,
       "diatessaron_verse": "21",
       "ref": "John 20:14",
       "arabic_page": 201,
-      "text": "Sesudah berkata demikian ia menoleh ke belakang dan melihat Yesus berdiri di situ, tetapi ia tidak tahu, bahwa itu adalah"
+      "text": "Sesudah berkata demikian ia menoleh ke belakang dan melihat Yesus berdiri di situ, tetapi ia tidak tahu, bahwa itu adalah",
+      "ref_id": "Yohanes 20:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 41,
       "diatessaron_verse": "22",
       "ref": "John 20:14",
       "arabic_page": 201,
-      "text": "Yesus."
+      "text": "Yesus.",
+      "ref_id": "Yohanes 20:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 42,
       "diatessaron_verse": "22",
       "ref": "John 20:15",
       "arabic_page": 201,
-      "text": "Kata Yesus kepadanya: \"Ibu, mengapa engkau menangis? Siapakah yang engkau cari?\" Maria menyangka orang itu adalah penunggu taman, lalu berkata kepada-Nya: \"Tuan, jikalau tuan yang mengambil Dia,"
+      "text": "Kata Yesus kepadanya: \"Ibu, mengapa engkau menangis? Siapakah yang engkau cari?\" Maria menyangka orang itu adalah penunggu taman, lalu berkata kepada-Nya: \"Tuan, jikalau tuan yang mengambil Dia,",
+      "ref_id": "Yohanes 20:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 27
     },
     {
       "id": 43,
       "diatessaron_verse": "23",
       "ref": "John 20:15",
       "arabic_page": 201,
-      "text": "katakanlah kepadaku, di mana tuan meletakkan Dia, supaya aku dapat mengambil-Nya.\""
+      "text": "katakanlah kepadaku, di mana tuan meletakkan Dia, supaya aku dapat mengambil-Nya.\"",
+      "ref_id": "Yohanes 20:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 44,
       "diatessaron_verse": "23",
       "ref": "John 20:16",
       "arabic_page": 201,
-      "text": "Kata Yesus kepadanya: \"Maria!\" Maria berpaling dan berkata kepada-Nya dalam bahasa Ibrani: \"Rabuni!\","
+      "text": "Kata Yesus kepadanya: \"Maria!\" Maria berpaling dan berkata kepada-Nya dalam bahasa Ibrani: \"Rabuni!\",",
+      "ref_id": "Yohanes 20:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 45,
       "diatessaron_verse": "24",
       "ref": "John 20:16",
       "arabic_page": 201,
-      "text": "artinya Guru."
+      "text": "artinya Guru.",
+      "ref_id": "Yohanes 20:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 46,
       "diatessaron_verse": "24",
       "ref": "John 20:17",
       "arabic_page": 201,
-      "text": "Kata Yesus kepadanya: \"Janganlah engkau memegang Aku, sebab Aku belum pergi kepada Bapa, tetapi pergilah kepada saudara-saudara-Ku dan katakanlah kepada mereka, bahwa sekarang Aku akan pergi kepada Bapa-Ku dan Bapamu, kepada Allah-Ku dan Allahmu.\""
+      "text": "Kata Yesus kepadanya: \"Janganlah engkau memegang Aku, sebab Aku belum pergi kepada Bapa, tetapi pergilah kepada saudara-saudara-Ku dan katakanlah kepada mereka, bahwa sekarang Aku akan pergi kepada Bapa-Ku dan Bapamu, kepada Allah-Ku dan Allahmu.\"",
+      "ref_id": "Yohanes 20:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 34
     },
     {
       "id": 47,
       "diatessaron_verse": "25",
       "ref": "Mark 16:9",
       "arabic_page": 201,
-      "text": "Setelah Yesus bangkit pagi-pagi pada hari pertama minggu itu, Ia mula-mula menampakkan diri-Nya kepada Maria Magdalena. Dari padanya Yesus pernah mengusir tujuh setan."
+      "text": "Setelah Yesus bangkit pagi-pagi pada hari pertama minggu itu, Ia mula-mula menampakkan diri-Nya kepada Maria Magdalena. Dari padanya Yesus pernah mengusir tujuh setan.",
+      "ref_id": "Markus 16:9",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 23
     },
     {
       "id": 48,
       "diatessaron_verse": "26",
       "ref": "Matthew 28:11b",
       "arabic_page": 201,
-      "text": "datanglah beberapa orang dari penjaga itu ke kota dan memberitahukan"
+      "text": "datanglah beberapa orang dari penjaga itu ke kota dan memberitahukan",
+      "ref_id": "Matius 28:11b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 49,
       "diatessaron_verse": "27",
       "ref": "Matthew 28:11b",
       "arabic_page": 202,
-      "text": "segala yang terjadi itu kepada imam-imam kepala."
+      "text": "segala yang terjadi itu kepada imam-imam kepala.",
+      "ref_id": "Matius 28:11b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 50,
       "diatessaron_verse": "27",
       "ref": "Matthew 28:12",
       "arabic_page": 202,
-      "text": "Dan sesudah berunding dengan tua-tua, mereka mengambil"
+      "text": "Dan sesudah berunding dengan tua-tua, mereka mengambil",
+      "ref_id": "Matius 28:12",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 51,
       "diatessaron_verse": "28",
       "ref": "Matthew 28:12",
       "arabic_page": 202,
-      "text": "keputusan lalu memberikan sejumlah besar uang kepada serdadu-serdadu itu"
+      "text": "keputusan lalu memberikan sejumlah besar uang kepada serdadu-serdadu itu",
+      "ref_id": "Matius 28:12",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 52,
       "diatessaron_verse": "28",
       "ref": "Matthew 28:13",
       "arabic_page": 202,
-      "text": "dan berkata: \"Kamu harus mengatakan, bahwa murid-murid-Nya datang malam-malam dan mencuri-Nya ketika kamu sedang tidur."
+      "text": "dan berkata: \"Kamu harus mengatakan, bahwa murid-murid-Nya datang malam-malam dan mencuri-Nya ketika kamu sedang tidur.",
+      "ref_id": "Matius 28:13",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 15
     },
     {
       "id": 53,
       "diatessaron_verse": "29",
       "ref": "Matthew 28:14",
       "arabic_page": 202,
-      "text": "Dan apabila hal ini kedengaran oleh wali negeri, kami akan berbicara dengan dia, sehingga kamu tidak beroleh kesulitan apa-apa.\""
+      "text": "Dan apabila hal ini kedengaran oleh wali negeri, kami akan berbicara dengan dia, sehingga kamu tidak beroleh kesulitan apa-apa.\"",
+      "ref_id": "Matius 28:14",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 19
     },
     {
       "id": 54,
       "diatessaron_verse": "30",
       "ref": "Matthew 28:15",
       "arabic_page": 202,
-      "text": "Mereka menerima uang itu dan berbuat seperti yang dipesankan kepada mereka. Dan ceritera ini tersiar di antara orang Yahudi sampai sekarang ini."
+      "text": "Mereka menerima uang itu dan berbuat seperti yang dipesankan kepada mereka. Dan ceritera ini tersiar di antara orang Yahudi sampai sekarang ini.",
+      "ref_id": "Matius 28:15",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 22
     },
     {
       "id": 55,
       "diatessaron_verse": "31",
       "ref": "John 20:18",
       "arabic_page": 202,
-      "text": "Maria Magdalena pergi dan berkata kepada murid-murid: \"Aku telah melihat Tuhan!\" dan juga bahwa Dia yang mengatakan hal-hal itu kepadanya."
+      "text": "Maria Magdalena pergi dan berkata kepada murid-murid: \"Aku telah melihat Tuhan!\" dan juga bahwa Dia yang mengatakan hal-hal itu kepadanya.",
+      "ref_id": "Yohanes 20:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 56,
       "diatessaron_verse": "32",
       "ref": "Matthew 28:8b",
       "arabic_page": 202,
-      "text": "dengan takut dan dengan sukacita yang besar dan berlari cepat-cepat untuk memberitahukannya kepada murid-murid Yesus."
+      "text": "dengan takut dan dengan sukacita yang besar dan berlari cepat-cepat untuk memberitahukannya kepada murid-murid Yesus.",
+      "ref_id": "Matius 28:8b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 15
     },
     {
       "id": 57,
       "diatessaron_verse": "33",
       "ref": "Matthew 28:9",
       "arabic_page": 202,
-      "text": "Tiba-tiba Yesus berjumpa dengan mereka dan berkata: \"Salam bagimu.\" Mereka mendekati-Nya dan"
+      "text": "Tiba-tiba Yesus berjumpa dengan mereka dan berkata: \"Salam bagimu.\" Mereka mendekati-Nya dan",
+      "ref_id": "Matius 28:9",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 58,
       "diatessaron_verse": "34",
       "ref": "Matthew 28:9",
       "arabic_page": 202,
-      "text": "memeluk kaki-Nya serta menyembah-Nya."
+      "text": "memeluk kaki-Nya serta menyembah-Nya.",
+      "ref_id": "Matius 28:9",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 59,
       "diatessaron_verse": "34",
       "ref": "Matthew 28:10",
       "arabic_page": 202,
-      "text": "Maka kata Yesus kepada mereka: \"Jangan takut. Pergi dan katakanlah kepada saudara-saudara-Ku, supaya mereka pergi ke Galilea, dan di sanalah mereka akan melihat"
+      "text": "Maka kata Yesus kepada mereka: \"Jangan takut. Pergi dan katakanlah kepada saudara-saudara-Ku, supaya mereka pergi ke Galilea, dan di sanalah mereka akan melihat",
+      "ref_id": "Matius 28:10",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 23
     },
     {
       "id": 60,
       "diatessaron_verse": "35",
       "ref": "Matthew 28:10",
       "arabic_page": 202,
-      "text": "Aku.\""
+      "text": "Aku.\"",
+      "ref_id": "Matius 28:10",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 61,
       "diatessaron_verse": "35",
       "ref": "Luke 24:9",
       "arabic_page": 202,
-      "text": "Dan setelah mereka kembali dari kubur, mereka menceriterakan semuanya itu kepada kesebelas murid dan kepada semua saudara yang lain,"
+      "text": "Dan setelah mereka kembali dari kubur, mereka menceriterakan semuanya itu kepada kesebelas murid dan kepada semua saudara yang lain,",
+      "ref_id": "Lukas 24:9",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 19
     },
     {
       "id": 62,
       "diatessaron_verse": "35",
       "ref": "Mark 16:10b",
       "arabic_page": 202,
-      "text": "kepada mereka yang selalu mengiringi Yesus, dan yang pada waktu itu sedang berkabung dan"
+      "text": "kepada mereka yang selalu mengiringi Yesus, dan yang pada waktu itu sedang berkabung dan",
+      "ref_id": "Markus 16:10b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 14
     },
     {
       "id": 63,
       "diatessaron_verse": "36",
       "ref": "Mark 16:10b",
       "arabic_page": 202,
-      "text": "menangis."
+      "text": "menangis.",
+      "ref_id": "Markus 16:10b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 1
     },
     {
       "id": 64,
       "diatessaron_verse": "36",
       "ref": "Luke 24:10",
       "arabic_page": 202,
-      "text": "Perempuan-perempuan itu ialah Maria dari Magdala, dan Yohana, dan Maria ibu Yakobus. Dan perempuan-perempuan lain juga yang bersama-sama dengan mereka memberitahukannya kepada rasul-rasul."
+      "text": "Perempuan-perempuan itu ialah Maria dari Magdala, dan Yohana, dan Maria ibu Yakobus. Dan perempuan-perempuan lain juga yang bersama-sama dengan mereka memberitahukannya kepada rasul-rasul.",
+      "ref_id": "Lukas 24:10",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 23
     },
     {
       "id": 65,
       "diatessaron_verse": "37",
       "ref": "Mark 16:11",
       "arabic_page": 202,
-      "text": "Tetapi ketika mereka mendengar, bahwa Yesus hidup dan telah dilihat olehnya, mereka"
+      "text": "Tetapi ketika mereka mendengar, bahwa Yesus hidup dan telah dilihat olehnya, mereka",
+      "ref_id": "Markus 16:11",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 12
     },
     {
       "id": 66,
       "diatessaron_verse": "38",
       "ref": "Mark 16:11",
       "arabic_page": 202,
-      "text": "tidak percaya."
+      "text": "tidak percaya.",
+      "ref_id": "Markus 16:11",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 2
     },
     {
       "id": 67,
       "diatessaron_verse": "38",
       "ref": "Luke 24:11a",
       "arabic_page": 202,
-      "text": "Tetapi bagi mereka perkataan-perkataan itu seakan-akan omong kosong"
+      "text": "Tetapi bagi mereka perkataan-perkataan itu seakan-akan omong kosong",
+      "ref_id": "Lukas 24:11a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 68,
       "diatessaron_verse": "39",
       "ref": "Mark 16:12a",
       "arabic_page": 203,
-      "text": "Sesudah itu Ia menampakkan diri dalam rupa yang lain,"
+      "text": "Sesudah itu Ia menampakkan diri dalam rupa yang lain,",
+      "ref_id": "Markus 16:12a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 9
     },
     {
       "id": 69,
       "diatessaron_verse": "39",
       "ref": "Luke 24:13a",
       "arabic_page": 203,
-      "text": "Pada hari itu juga,"
+      "text": "Pada hari itu juga,",
+      "ref_id": "Lukas 24:13a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 70,
       "diatessaron_verse": "39",
       "ref": "Mark 16:12a",
       "arabic_page": 203,
-      "text": "kepada dua orang dari mereka,"
+      "text": "kepada dua orang dari mereka,",
+      "ref_id": "Markus 16:12a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 71,
       "diatessaron_verse": "39",
       "ref": "Mark 16:12b",
       "arabic_page": 203,
-      "text": "ketika keduanya dalam perjalanan ke"
+      "text": "ketika keduanya dalam perjalanan ke",
+      "ref_id": "Markus 16:12b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 72,
       "diatessaron_verse": "39",
       "ref": "Luke 24:13b",
       "arabic_page": 203,
-      "text": "sebuah kampung bernama Emaus, yang terletak kira-kira tujuh mil jauhnya"
+      "text": "sebuah kampung bernama Emaus, yang terletak kira-kira tujuh mil jauhnya",
+      "ref_id": "Lukas 24:13b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 73,
       "diatessaron_verse": "40",
       "ref": "Luke 24:13b",
       "arabic_page": 203,
-      "text": "dari Yerusalem,"
+      "text": "dari Yerusalem,",
+      "ref_id": "Lukas 24:13b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 74,
       "diatessaron_verse": "40",
       "ref": "Luke 24:14",
       "arabic_page": 203,
-      "text": "dan mereka"
+      "text": "dan mereka",
+      "ref_id": "Lukas 24:14",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 75,
       "diatessaron_verse": "41",
       "ref": "Luke 24:14",
       "arabic_page": 203,
-      "text": "bercakap-cakap tentang segala sesuatu yang telah terjadi."
+      "text": "bercakap-cakap tentang segala sesuatu yang telah terjadi.",
+      "ref_id": "Lukas 24:14",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 76,
       "diatessaron_verse": "41",
       "ref": "Luke 24:15",
       "arabic_page": 203,
-      "text": "Ketika mereka sedang bercakap-cakap dan"
+      "text": "Ketika mereka sedang bercakap-cakap dan",
+      "ref_id": "Lukas 24:15",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 77,
       "diatessaron_verse": "42",
       "ref": "Luke 24:15",
       "arabic_page": 203,
-      "text": "bertukar pikiran, datanglah Yesus sendiri mendekati mereka, lalu berjalan bersama-sama dengan mereka."
+      "text": "bertukar pikiran, datanglah Yesus sendiri mendekati mereka, lalu berjalan bersama-sama dengan mereka.",
+      "ref_id": "Lukas 24:15",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 78,
       "diatessaron_verse": "42",
       "ref": "Luke 24:16",
       "arabic_page": 203,
-      "text": "Tetapi"
+      "text": "Tetapi",
+      "ref_id": "Lukas 24:16",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 79,
       "diatessaron_verse": "43",
       "ref": "Luke 24:16",
       "arabic_page": 203,
-      "text": "ada sesuatu yang menghalangi mata mereka, sehingga mereka tidak dapat mengenal Dia."
+      "text": "ada sesuatu yang menghalangi mata mereka, sehingga mereka tidak dapat mengenal Dia.",
+      "ref_id": "Lukas 24:16",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 80,
       "diatessaron_verse": "43",
       "ref": "Luke 24:17",
       "arabic_page": 203,
-      "text": "Yesus berkata kepada mereka: \"Apakah yang kamu percakapkan sementara kamu berjalan?\" ??Maka berhentilah mereka dengan muka"
+      "text": "Yesus berkata kepada mereka: \"Apakah yang kamu percakapkan sementara kamu berjalan?\" ??Maka berhentilah mereka dengan muka",
+      "ref_id": "Lukas 24:17",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 81,
       "diatessaron_verse": "44",
       "ref": "Luke 24:17",
       "arabic_page": 203,
-      "text": "muram."
+      "text": "muram.",
+      "ref_id": "Lukas 24:17",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 82,
       "diatessaron_verse": "44",
       "ref": "Luke 24:18",
       "arabic_page": 203,
-      "text": "Seorang dari mereka, namanya Kleopas, menjawab-Nya: \"Adakah Engkau satu-satunya orang asing di Yerusalem, yang tidak tahu apa yang terjadi"
+      "text": "Seorang dari mereka, namanya Kleopas, menjawab-Nya: \"Adakah Engkau satu-satunya orang asing di Yerusalem, yang tidak tahu apa yang terjadi",
+      "ref_id": "Lukas 24:18",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 19
     },
     {
       "id": 83,
       "diatessaron_verse": "45",
       "ref": "Luke 24:18",
       "arabic_page": 203,
-      "text": "di situ pada hari-hari belakangan ini?\""
+      "text": "di situ pada hari-hari belakangan ini?\"",
+      "ref_id": "Lukas 24:18",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 84,
       "diatessaron_verse": "45",
       "ref": "Luke 24:19",
       "arabic_page": 203,
-      "text": "Kata-Nya kepada mereka: \"Apakah itu?\" Jawab mereka: \"Apa yang terjadi dengan Yesus orang Nazaret. Dia adalah seorang nabi, yang berkuasa dalam pekerjaan dan"
+      "text": "Kata-Nya kepada mereka: \"Apakah itu?\" Jawab mereka: \"Apa yang terjadi dengan Yesus orang Nazaret. Dia adalah seorang nabi, yang berkuasa dalam pekerjaan dan",
+      "ref_id": "Lukas 24:19",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 23
     },
     {
       "id": 85,
       "diatessaron_verse": "46",
       "ref": "Luke 24:19",
       "arabic_page": 203,
-      "text": "perkataan di hadapan Allah dan di depan seluruh bangsa kami."
+      "text": "perkataan di hadapan Allah dan di depan seluruh bangsa kami.",
+      "ref_id": "Lukas 24:19",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 86,
       "diatessaron_verse": "46",
       "ref": "Luke 24:20",
       "arabic_page": 203,
-      "text": "Tetapi imam-imam kepala dan"
+      "text": "Tetapi imam-imam kepala dan",
+      "ref_id": "Lukas 24:20",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 87,
       "diatessaron_verse": "47",
       "ref": "Luke 24:20",
       "arabic_page": 203,
-      "text": "pemimpin-pemimpin kami telah menyerahkan Dia untuk dihukum mati dan mereka telah menyalibkan-Nya."
+      "text": "pemimpin-pemimpin kami telah menyerahkan Dia untuk dihukum mati dan mereka telah menyalibkan-Nya.",
+      "ref_id": "Lukas 24:20",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 88,
       "diatessaron_verse": "47",
       "ref": "Luke 24:21",
       "arabic_page": 203,
-      "text": "Padahal kami dahulu mengharapkan, bahwa Dialah yang datang untuk membebaskan bangsa Israel. Tetapi sementara itu telah lewat tiga hari, sejak semuanya"
+      "text": "Padahal kami dahulu mengharapkan, bahwa Dialah yang datang untuk membebaskan bangsa Israel. Tetapi sementara itu telah lewat tiga hari, sejak semuanya",
+      "ref_id": "Lukas 24:21",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 21
     },
     {
       "id": 89,
       "diatessaron_verse": "48",
       "ref": "Luke 24:21",
       "arabic_page": 203,
-      "text": "itu terjadi."
+      "text": "itu terjadi.",
+      "ref_id": "Lukas 24:21",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 90,
       "diatessaron_verse": "48",
       "ref": "Luke 24:22",
       "arabic_page": 203,
-      "text": "Tetapi beberapa perempuan dari kalangan kami telah"
+      "text": "Tetapi beberapa perempuan dari kalangan kami telah",
+      "ref_id": "Lukas 24:22",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 91,
       "diatessaron_verse": "49",
       "ref": "Luke 24:22",
       "arabic_page": 203,
-      "text": "mengejutkan kami: Pagi-pagi buta mereka telah pergi ke kubur,"
+      "text": "mengejutkan kami: Pagi-pagi buta mereka telah pergi ke kubur,",
+      "ref_id": "Lukas 24:22",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 92,
       "diatessaron_verse": "49",
       "ref": "Luke 24:23",
       "arabic_page": 203,
-      "text": "dan tidak menemukan mayat-Nya. Lalu mereka datang dengan berita, bahwa telah kelihatan kepada mereka malaikat-malaikat, yang mengatakan,"
+      "text": "dan tidak menemukan mayat-Nya. Lalu mereka datang dengan berita, bahwa telah kelihatan kepada mereka malaikat-malaikat, yang mengatakan,",
+      "ref_id": "Lukas 24:23",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 17
     },
     {
       "id": 93,
       "diatessaron_verse": "50",
       "ref": "Luke 24:23",
       "arabic_page": 203,
-      "text": "bahwa Ia hidup."
+      "text": "bahwa Ia hidup.",
+      "ref_id": "Lukas 24:23",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 94,
       "diatessaron_verse": "50",
       "ref": "Luke 24:24",
       "arabic_page": 203,
-      "text": "Dan beberapa teman kami telah pergi ke kubur itu dan"
+      "text": "Dan beberapa teman kami telah pergi ke kubur itu dan",
+      "ref_id": "Lukas 24:24",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 95,
       "diatessaron_verse": "51",
       "ref": "Luke 24:24",
       "arabic_page": 203,
-      "text": "mendapati, bahwa memang benar yang dikatakan perempuan-perempuan itu, tetapi Dia tidak mereka lihat.\""
+      "text": "mendapati, bahwa memang benar yang dikatakan perempuan-perempuan itu, tetapi Dia tidak mereka lihat.\"",
+      "ref_id": "Lukas 24:24",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 96,
       "diatessaron_verse": "51",
       "ref": "Luke 24:25",
       "arabic_page": 203,
-      "text": "Lalu Ia berkata"
+      "text": "Lalu Ia berkata",
+      "ref_id": "Lukas 24:25",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 97,
       "diatessaron_verse": "52",
       "ref": "Luke 24:25",
       "arabic_page": 203,
-      "text": "kepada mereka: \"Hai kamu orang bodoh, betapa lambannya hatimu, sehingga kamu tidak percaya segala sesuatu, yang telah dikatakan para nabi!"
+      "text": "kepada mereka: \"Hai kamu orang bodoh, betapa lambannya hatimu, sehingga kamu tidak percaya segala sesuatu, yang telah dikatakan para nabi!",
+      "ref_id": "Lukas 24:25",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 98,
       "diatessaron_verse": "52",
       "ref": "Luke 24:26",
       "arabic_page": 203,
-      "text": "Bukankah Mesias harus menderita semuanya itu untuk"
+      "text": "Bukankah Mesias harus menderita semuanya itu untuk",
+      "ref_id": "Lukas 24:26",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 99,
       "diatessaron_verse": "53",
       "ref": "Luke 24:26",
       "arabic_page": 204,
-      "text": "masuk ke dalam kemuliaan-Nya?\""
+      "text": "masuk ke dalam kemuliaan-Nya?\"",
+      "ref_id": "Lukas 24:26",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 100,
       "diatessaron_verse": "53",
       "ref": "Luke 24:27",
       "arabic_page": 204,
-      "text": "Lalu Ia"
+      "text": "Lalu Ia",
+      "ref_id": "Lukas 24:27",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 101,
       "diatessaron_verse": "54",
       "ref": "Luke 24:27",
       "arabic_page": 204,
-      "text": "menjelaskan kepada mereka apa yang tertulis tentang Dia dalam seluruh Kitab Suci, mulai dari kitab-kitab Musa dan segala kitab nabi-nabi."
+      "text": "menjelaskan kepada mereka apa yang tertulis tentang Dia dalam seluruh Kitab Suci, mulai dari kitab-kitab Musa dan segala kitab nabi-nabi.",
+      "ref_id": "Lukas 24:27",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 102,
       "diatessaron_verse": "54",
       "ref": "Luke 24:28",
       "arabic_page": 204,
-      "text": "Mereka mendekati kampung yang mereka tuju, lalu Ia berbuat"
+      "text": "Mereka mendekati kampung yang mereka tuju, lalu Ia berbuat",
+      "ref_id": "Lukas 24:28",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 103,
       "diatessaron_verse": "55",
       "ref": "Luke 24:28",
       "arabic_page": 204,
-      "text": "seolah-olah hendak meneruskan perjalanan-Nya."
+      "text": "seolah-olah hendak meneruskan perjalanan-Nya.",
+      "ref_id": "Lukas 24:28",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 104,
       "diatessaron_verse": "55",
       "ref": "Luke 24:29",
       "arabic_page": 204,
-      "text": "Tetapi mereka sangat mendesak-Nya, katanya: \"Tinggallah bersama-sama dengan kami, sebab hari telah menjelang malam dan matahari hampir terbenam.\" Lalu masuklah Ia untuk"
+      "text": "Tetapi mereka sangat mendesak-Nya, katanya: \"Tinggallah bersama-sama dengan kami, sebab hari telah menjelang malam dan matahari hampir terbenam.\" Lalu masuklah Ia untuk",
+      "ref_id": "Lukas 24:29",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 22
     },
     {
       "id": 105,
       "diatessaron_verse": "56",
       "ref": "Luke 24:29",
       "arabic_page": 204,
-      "text": "tinggal bersama-sama dengan mereka."
+      "text": "tinggal bersama-sama dengan mereka.",
+      "ref_id": "Lukas 24:29",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 106,
       "diatessaron_verse": "56",
       "ref": "Luke 24:30",
       "arabic_page": 204,
-      "text": "Waktu Ia duduk makan dengan mereka, Ia mengambil roti, mengucap berkat, lalu"
+      "text": "Waktu Ia duduk makan dengan mereka, Ia mengambil roti, mengucap berkat, lalu",
+      "ref_id": "Lukas 24:30",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 107,
       "diatessaron_verse": "57",
       "ref": "Luke 24:30",
       "arabic_page": 204,
-      "text": "memecah-mecahkannya dan memberikannya kepada mereka."
+      "text": "memecah-mecahkannya dan memberikannya kepada mereka.",
+      "ref_id": "Lukas 24:30",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 108,
       "diatessaron_verse": "57",
       "ref": "Luke 24:31",
       "arabic_page": 204,
-      "text": "Ketika itu terbukalah mata mereka dan merekapun"
+      "text": "Ketika itu terbukalah mata mereka dan merekapun",
+      "ref_id": "Lukas 24:31",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 109,
       "diatessaron_verse": "58",
       "ref": "Luke 24:31",
       "arabic_page": 204,
-      "text": "mengenal Dia, tetapi Ia lenyap dari tengah-tengah mereka."
+      "text": "mengenal Dia, tetapi Ia lenyap dari tengah-tengah mereka.",
+      "ref_id": "Lukas 24:31",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 110,
       "diatessaron_verse": "58",
       "ref": "Luke 24:32",
       "arabic_page": 204,
-      "text": "Kata mereka seorang kepada yang lain: \"Bukankah hati kita berkobar-kobar, ketika Ia berbicara dengan kita di tengah jalan dan ketika Ia menerangkan Kitab Suci kepada kita?\""
+      "text": "Kata mereka seorang kepada yang lain: \"Bukankah hati kita berkobar-kobar, ketika Ia berbicara dengan kita di tengah jalan dan ketika Ia menerangkan Kitab Suci kepada kita?\"",
+      "ref_id": "Lukas 24:32",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 26
     },
     {
       "id": 111,
       "diatessaron_verse": "59",
       "ref": "Luke 24:33",
       "arabic_page": 204,
-      "text": "Lalu bangunlah mereka dan terus kembali ke Yerusalem. Di situ mereka mendapati kesebelas murid itu. Mereka sedang"
+      "text": "Lalu bangunlah mereka dan terus kembali ke Yerusalem. Di situ mereka mendapati kesebelas murid itu. Mereka sedang",
+      "ref_id": "Lukas 24:33",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 17
     },
     {
       "id": 112,
       "diatessaron_verse": "60",
       "ref": "Luke 24:33",
       "arabic_page": 204,
-      "text": "berkumpul bersama-sama dengan teman-teman mereka."
+      "text": "berkumpul bersama-sama dengan teman-teman mereka.",
+      "ref_id": "Lukas 24:33",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 113,
       "diatessaron_verse": "60",
       "ref": "Luke 24:34",
       "arabic_page": 204,
-      "text": "Kata mereka itu: \"Sesungguhnya Tuhan telah bangkit dan telah"
+      "text": "Kata mereka itu: \"Sesungguhnya Tuhan telah bangkit dan telah",
+      "ref_id": "Lukas 24:34",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 114,
       "diatessaron_verse": "61",
       "ref": "Luke 24:34",
       "arabic_page": 204,
-      "text": "menampakkan diri kepada Simon.\""
+      "text": "menampakkan diri kepada Simon.\"",
+      "ref_id": "Lukas 24:34",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 115,
       "diatessaron_verse": "61",
       "ref": "Luke 24:35",
       "arabic_page": 204,
-      "text": "Lalu kedua orang itupun menceriterakan apa yang terjadi di tengah jalan dan bagaimana mereka mengenal Dia pada waktu Ia memecah-mecahkan roti."
+      "text": "Lalu kedua orang itupun menceriterakan apa yang terjadi di tengah jalan dan bagaimana mereka mengenal Dia pada waktu Ia memecah-mecahkan roti.",
+      "ref_id": "Lukas 24:35",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 21
     },
     {
       "id": 116,
       "diatessaron_verse": "61",
       "ref": "Mark 16:13",
       "arabic_page": 204,
-      "text": "tetapi kepada merekapun teman-teman itu tidak percaya."
+      "text": "tetapi kepada merekapun teman-teman itu tidak percaya.",
+      "ref_id": "Markus 16:13",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     }
-  ]
+  ],
+  "title_id": "Kebangkitan Kristus, Kubur Kosong & Penampakan Pertama",
+  "title_en": "The Resurrection, Empty Tomb & Holy Women",
+  "epoch_id": 8,
+  "total_words": 1222,
+  "arabic_page_range": "p. 201 - p. 204",
+  "arabic_pages": [
+    201,
+    202,
+    203,
+    204
+  ],
+  "stats": {
+    "mat": 18,
+    "mrk": 12,
+    "luk": 57,
+    "yoh": 29,
+    "unk": 0
+  },
+  "footnotes": []
 }

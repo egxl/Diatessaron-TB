@@ -19,729 +19,1259 @@
     "Mark",
     "Matthew"
   ],
-  "total_segments": 103,
-  "diatessaron_verse_range": "1, 2 - Catatan kaki",
+  "total_segments": 102,
+  "diatessaron_verse_range": "1, 2 - 55",
   "verses": [
     {
       "id": 1,
       "diatessaron_verse": "1, 2",
       "ref": "John 18:19",
       "arabic_page": null,
-      "text": "Maka mulailah Imam Besar menanyai Yesus tentang murid-murid-Nya dan tentang ajaran-Nya."
+      "text": "Maka mulailah Imam Besar menanyai Yesus tentang murid-murid-Nya dan tentang ajaran-Nya.",
+      "ref_id": "Yohanes 18:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 2,
       "diatessaron_verse": "1, 2",
       "ref": "John 18:20",
       "arabic_page": null,
-      "text": "Jawab Yesus kepadanya: \"Aku berbicara terus terang kepada dunia: Aku selalu mengajar di rumah-rumah ibadat dan di Bait Allah, tempat semua orang Yahudi berkumpul; Aku tidak pernah berbicara"
+      "text": "Jawab Yesus kepadanya: \"Aku berbicara terus terang kepada dunia: Aku selalu mengajar di rumah-rumah ibadat dan di Bait Allah, tempat semua orang Yahudi berkumpul; Aku tidak pernah berbicara",
+      "ref_id": "Yohanes 18:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 28
     },
     {
       "id": 3,
       "diatessaron_verse": "3",
       "ref": "John 18:20",
       "arabic_page": 185,
-      "text": "sembunyi-sembunyi."
+      "text": "sembunyi-sembunyi.",
+      "ref_id": "Yohanes 18:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "John 18:21",
       "arabic_page": 185,
-      "text": "Mengapakah engkau menanyai Aku? Tanyailah mereka, yang telah mendengar apa yang Kukatakan kepada"
+      "text": "Mengapakah engkau menanyai Aku? Tanyailah mereka, yang telah mendengar apa yang Kukatakan kepada",
+      "ref_id": "Yohanes 18:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 5,
       "diatessaron_verse": "4",
       "ref": "John 18:21",
       "arabic_page": 185,
-      "text": "mereka; sungguh, mereka tahu apa yang telah Kukatakan.\""
+      "text": "mereka; sungguh, mereka tahu apa yang telah Kukatakan.\"",
+      "ref_id": "Yohanes 18:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "John 18:22",
       "arabic_page": 185,
-      "text": "Ketika Ia mengatakan hal itu, seorang penjaga yang berdiri di situ, menampar muka-Nya sambil berkata:"
+      "text": "Ketika Ia mengatakan hal itu, seorang penjaga yang berdiri di situ, menampar muka-Nya sambil berkata:",
+      "ref_id": "Yohanes 18:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 7,
       "diatessaron_verse": "5",
       "ref": "John 18:22",
       "arabic_page": 185,
-      "text": "\"Begitukah jawab-Mu kepada Imam Besar?\""
+      "text": "\"Begitukah jawab-Mu kepada Imam Besar?\"",
+      "ref_id": "Yohanes 18:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
       "ref": "John 18:23",
       "arabic_page": 185,
-      "text": "Jawab Yesus kepadanya: \"Jikalau kata-Ku"
+      "text": "Jawab Yesus kepadanya: \"Jikalau kata-Ku",
+      "ref_id": "Yohanes 18:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 9,
       "diatessaron_verse": "6",
       "ref": "John 18:23",
       "arabic_page": 185,
-      "text": "itu salah, tunjukkanlah salahnya, tetapi jikalau kata-Ku itu benar, mengapakah engkau menampar Aku?\""
+      "text": "itu salah, tunjukkanlah salahnya, tetapi jikalau kata-Ku itu benar, mengapakah engkau menampar Aku?\"",
+      "ref_id": "Yohanes 18:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 10,
       "diatessaron_verse": "6",
       "ref": "John 18:24",
       "arabic_page": 185,
-      "text": "Maka Hanas mengirim Dia terbelenggu kepada Kayafas, Imam Besar itu."
+      "text": "Maka Hanas mengirim Dia terbelenggu kepada Kayafas, Imam Besar itu.",
+      "ref_id": "Yohanes 18:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 11,
       "diatessaron_verse": "7",
       "ref": "John 18:25",
       "arabic_page": 185,
-      "text": "a Simon Petrus masih berdiri"
+      "text": "a Simon Petrus masih berdiri",
+      "ref_id": "Yohanes 18:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 12,
       "diatessaron_verse": "8",
       "ref": "John 18:25",
       "arabic_page": 185,
-      "text": "berdiang."
+      "text": "berdiang.",
+      "ref_id": "Yohanes 18:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 13,
       "diatessaron_verse": "8",
       "ref": "Mark 14:69a",
       "arabic_page": 185,
-      "text": "Ketika hamba perempuan itu melihat Petrus lagi, berkatalah ia pula kepada orang-orang yang ada"
+      "text": "Ketika hamba perempuan itu melihat Petrus lagi, berkatalah ia pula kepada orang-orang yang ada",
+      "ref_id": "Markus 14:69a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 14
     },
     {
       "id": 14,
       "diatessaron_verse": "9",
       "ref": "Mark 14:69a",
       "arabic_page": 185,
-      "text": "di situ:"
+      "text": "di situ:",
+      "ref_id": "Markus 14:69a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 2
     },
     {
       "id": 15,
       "diatessaron_verse": "9",
       "ref": "Matthew 26:71b",
       "arabic_page": 185,
-      "text": "\"Orang ini bersama-sama dengan Yesus, orang Nazaret itu.\""
+      "text": "\"Orang ini bersama-sama dengan Yesus, orang Nazaret itu.\"",
+      "ref_id": "Matius 26:71b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 16,
       "diatessaron_verse": "9",
       "ref": "John 18:25b",
       "arabic_page": 185,
-      "text": "Kata orang-orang di situ"
+      "text": "Kata orang-orang di situ",
+      "ref_id": "Yohanes 18:25b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 17,
       "diatessaron_verse": "10",
       "ref": "John 18:25b",
       "arabic_page": 185,
-      "text": "kepadanya: \"Bukankah engkau juga seorang murid-Nya?\""
+      "text": "kepadanya: \"Bukankah engkau juga seorang murid-Nya?\"",
+      "ref_id": "Yohanes 18:25b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 18,
       "diatessaron_verse": "10",
       "ref": "Matthew 26:72",
       "arabic_page": 185,
-      "text": "Dan ia"
+      "text": "Dan ia",
+      "ref_id": "Matius 26:72",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 19,
       "diatessaron_verse": "11",
       "ref": "Matthew 26:72",
       "arabic_page": 185,
-      "text": "menyangkalnya pula dengan bersumpah: \"Aku tidak kenal orang itu.\""
+      "text": "menyangkalnya pula dengan bersumpah: \"Aku tidak kenal orang itu.\"",
+      "ref_id": "Matius 26:72",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 20,
       "diatessaron_verse": "11",
       "ref": "Luke 22:58a",
       "arabic_page": 185,
-      "text": "Tidak berapa lama kemudian"
+      "text": "Tidak berapa lama kemudian",
+      "ref_id": "Lukas 22:58a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 21,
       "diatessaron_verse": "11",
       "ref": "John 18:26b",
       "arabic_page": 185,
-      "text": "seorang hamba Imam Besar, seorang keluarga dari hamba yang telinganya dipotong Petrus,"
+      "text": "seorang hamba Imam Besar, seorang keluarga dari hamba yang telinganya dipotong Petrus,",
+      "ref_id": "Yohanes 18:26b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 22,
       "diatessaron_verse": "11",
       "ref": "Luke 22:58a",
       "arabic_page": 185,
-      "text": "melihat dia lalu"
+      "text": "melihat dia lalu",
+      "ref_id": "Lukas 22:58a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 23,
       "diatessaron_verse": "12",
       "ref": "Luke 22:58a",
       "arabic_page": 185,
-      "text": "berkata:"
+      "text": "berkata:",
+      "ref_id": "Lukas 22:58a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 24,
       "diatessaron_verse": "12",
       "ref": "Luke 22:59b",
       "arabic_page": 185,
-      "text": "\"Sungguh, orang ini juga bersama-sama dengan Dia, sebab ia juga orang Galilea.\""
+      "text": "\"Sungguh, orang ini juga bersama-sama dengan Dia, sebab ia juga orang Galilea.\"",
+      "ref_id": "Lukas 22:59b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 25,
       "diatessaron_verse": "13",
       "ref": "Matthew 26:73",
       "arabic_page": 185,
-      "text": "itu nyata dari bahasamu.\""
+      "text": "itu nyata dari bahasamu.\"",
+      "ref_id": "Matius 26:73",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 26,
       "diatessaron_verse": "13",
       "ref": "Matthew 22:73a",
       "arabic_page": 185,
-      "text": "dan berkata:"
+      "text": "dan berkata:",
+      "ref_id": "Matius 22:73a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 27,
       "diatessaron_verse": "13",
       "ref": "John 18:26c",
       "arabic_page": 185,
-      "text": "\"Bukankah engkau kulihat"
+      "text": "\"Bukankah engkau kulihat",
+      "ref_id": "Yohanes 18:26c",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 28,
       "diatessaron_verse": "14",
       "ref": "John 18:26c",
       "arabic_page": 185,
-      "text": "di taman itu bersama-sama dengan Dia?\""
+      "text": "di taman itu bersama-sama dengan Dia?\"",
+      "ref_id": "Yohanes 18:26c",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 29,
       "diatessaron_verse": "14",
       "ref": "Mark 14:71",
       "arabic_page": 185,
-      "text": "Maka mulailah Petrus mengutuk dan bersumpah: \"Aku tidak kenal orang"
+      "text": "Maka mulailah Petrus mengutuk dan bersumpah: \"Aku tidak kenal orang",
+      "ref_id": "Markus 14:71",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     },
     {
       "id": 30,
       "diatessaron_verse": "15",
       "ref": "Mark 14:71",
       "arabic_page": 185,
-      "text": "yang kamu sebut-sebut ini!\""
+      "text": "yang kamu sebut-sebut ini!\"",
+      "ref_id": "Markus 14:71",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 31,
       "diatessaron_verse": "15",
       "ref": "Luke 22:60b",
       "arabic_page": 185,
-      "text": "Seketika itu juga, sementara ia berkata,"
+      "text": "Seketika itu juga, sementara ia berkata,",
+      "ref_id": "Lukas 22:60b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 32,
       "diatessaron_verse": "15",
-      "ref": "Mark 14: 72a",
+      "ref": "Mark 14:72a",
       "arabic_page": 185,
-      "text": "berkokoklah ayam untuk"
+      "text": "berkokoklah ayam untuk",
+      "ref_id": "Markus 14:72a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 33,
       "diatessaron_verse": "16",
-      "ref": "Mark 14: 72a",
+      "ref": "Mark 14:72a",
       "arabic_page": 185,
-      "text": "kedua kalinya."
+      "text": "kedua kalinya.",
+      "ref_id": "Markus 14:72a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 2
     },
     {
       "id": 34,
       "diatessaron_verse": "16",
       "ref": "Luke 22:61a",
       "arabic_page": 185,
-      "text": "Lalu berpalinglah Tuhan memandang Petrus."
+      "text": "Lalu berpalinglah Tuhan memandang Petrus.",
+      "ref_id": "Lukas 22:61a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 35,
       "diatessaron_verse": "16",
       "ref": "Mark 14:72b",
       "arabic_page": 185,
-      "text": "Maka teringatlah Petrus, bahwa Yesus telah berkata kepadanya:"
+      "text": "Maka teringatlah Petrus, bahwa Yesus telah berkata kepadanya:",
+      "ref_id": "Markus 14:72b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 36,
       "diatessaron_verse": "17, 18",
       "ref": "Mark 14:72b",
       "arabic_page": 185,
-      "text": "\"Sebelum ayam berkokok dua kali, engkau telah menyangkal Aku tiga kali.\""
+      "text": "\"Sebelum ayam berkokok dua kali, engkau telah menyangkal Aku tiga kali.\"",
+      "ref_id": "Markus 14:72b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 37,
       "diatessaron_verse": "17, 18",
       "ref": "Luke 22:62",
       "arabic_page": 185,
-      "text": "Lalu ia pergi ke luar dan menangis dengan sedihnya."
+      "text": "Lalu ia pergi ke luar dan menangis dengan sedihnya.",
+      "ref_id": "Lukas 22:62",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 38,
       "diatessaron_verse": "19",
       "ref": "Luke 22:66a",
       "arabic_page": 186,
-      "text": "Dan setelah hari siang berkumpullah sidang para tua-tua bangsa Yahudi dan imam-imam kepala dan ahli-ahli Taurat,"
+      "text": "Dan setelah hari siang berkumpullah sidang para tua-tua bangsa Yahudi dan imam-imam kepala dan ahli-ahli Taurat,",
+      "ref_id": "Lukas 22:66a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 39,
       "diatessaron_verse": "20, 21",
       "ref": "Mark 15:1",
       "arabic_page": 186,
-      "text": "sudah bulat mupakatnya."
+      "text": "sudah bulat mupakatnya.",
+      "ref_id": "Markus 15:1",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 40,
       "diatessaron_verse": "20, 21",
       "ref": "Matthew 27:1b",
       "arabic_page": 186,
-      "text": "dan mengambil keputusan untuk membunuh Yesus"
+      "text": "dan mengambil keputusan untuk membunuh Yesus",
+      "ref_id": "Matius 27:1b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 41,
       "diatessaron_verse": "20, 21",
       "ref": "Matthew 26:59b",
       "arabic_page": 186,
-      "text": "malah seluruh Mahkamah Agama mencari kesaksian palsu terhadap Yesus, supaya Ia dapat dihukum"
+      "text": "malah seluruh Mahkamah Agama mencari kesaksian palsu terhadap Yesus, supaya Ia dapat dihukum",
+      "ref_id": "Matius 26:59b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 42,
       "diatessaron_verse": "22, 23",
       "ref": "Matthew 26:59b",
       "arabic_page": 186,
-      "text": "mati,"
+      "text": "mati,",
+      "ref_id": "Matius 26:59b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 43,
       "diatessaron_verse": "22, 23",
       "ref": "Matthew 26:60a",
       "arabic_page": 186,
-      "text": "tetapi mereka tidak memperolehnya, walaupun tampil banyak saksi dusta."
+      "text": "tetapi mereka tidak memperolehnya, walaupun tampil banyak saksi dusta.",
+      "ref_id": "Matius 26:60a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 44,
       "diatessaron_verse": "22, 23",
       "ref": "Mark 14:56",
       "arabic_page": 186,
-      "text": "tetapi kesaksian-kesaksian itu"
+      "text": "tetapi kesaksian-kesaksian itu",
+      "ref_id": "Markus 14:56",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 45,
       "diatessaron_verse": "24, 25",
       "ref": "Mark 14:56",
       "arabic_page": 186,
-      "text": "tidak sesuai yang satu dengan yang lain."
+      "text": "tidak sesuai yang satu dengan yang lain.",
+      "ref_id": "Markus 14:56",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 46,
       "diatessaron_verse": "24, 25",
       "ref": "Matthew 26:60c",
       "arabic_page": 186,
-      "text": "Tetapi akhirnya tampillah dua orang,"
+      "text": "Tetapi akhirnya tampillah dua orang,",
+      "ref_id": "Matius 26:60c",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 47,
       "diatessaron_verse": "24, 25",
       "ref": "Matthew 26:61a",
       "arabic_page": 186,
-      "text": "yang mengatakan:"
+      "text": "yang mengatakan:",
+      "ref_id": "Matius 26:61a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 48,
       "diatessaron_verse": "24, 25",
       "ref": "Mark 14:58",
       "arabic_page": 186,
-      "text": "\"Kami sudah mendengar orang ini berkata: Aku akan merubuhkan Bait Suci buatan tangan manusia ini dan dalam tiga hari akan Kudirikan yang lain, yang bukan"
+      "text": "\"Kami sudah mendengar orang ini berkata: Aku akan merubuhkan Bait Suci buatan tangan manusia ini dan dalam tiga hari akan Kudirikan yang lain, yang bukan",
+      "ref_id": "Markus 14:58",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 25
     },
     {
       "id": 49,
       "diatessaron_verse": "26, 27",
       "ref": "Mark 14:58",
       "arabic_page": 186,
-      "text": "buatan tangan manusia.\""
+      "text": "buatan tangan manusia.\"",
+      "ref_id": "Markus 14:58",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 50,
       "diatessaron_verse": "26, 27",
-      "ref": "Mark 14: 59",
+      "ref": "Mark 14:59",
       "arabic_page": 186,
-      "text": "Dalam hal inipun kesaksian mereka tidak sesuai yang satu dengan yang lain."
+      "text": "Dalam hal inipun kesaksian mereka tidak sesuai yang satu dengan yang lain.",
+      "ref_id": "Markus 14:59",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 12
     },
     {
       "id": 51,
       "diatessaron_verse": "26, 27",
       "ref": "Matthew 26:63a",
       "arabic_page": 186,
-      "text": "Tetapi Yesus tetap diam."
+      "text": "Tetapi Yesus tetap diam.",
+      "ref_id": "Matius 26:63a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 52,
       "diatessaron_verse": "26, 27",
       "ref": "Mark 14:60a",
       "arabic_page": 186,
-      "text": "Maka Imam Besar bangkit berdiri di tengah-tengah sidang dan bertanya kepada Yesus, katanya:"
+      "text": "Maka Imam Besar bangkit berdiri di tengah-tengah sidang dan bertanya kepada Yesus, katanya:",
+      "ref_id": "Markus 14:60a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 13
     },
     {
       "id": 53,
       "diatessaron_verse": "28",
       "ref": "Matthew 26:62b",
       "arabic_page": 186,
-      "text": "\"Tidakkah Engkau memberi jawab atas tuduhan-tuduhan saksi-saksi ini terhadap"
+      "text": "\"Tidakkah Engkau memberi jawab atas tuduhan-tuduhan saksi-saksi ini terhadap",
+      "ref_id": "Matius 26:62b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 54,
       "diatessaron_verse": "29, 30",
       "ref": "Matthew 26:62b",
       "arabic_page": 186,
-      "text": "Engkau?\""
+      "text": "Engkau?\"",
+      "ref_id": "Matius 26:62b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 55,
       "diatessaron_verse": "29, 30",
       "ref": "Mark 14:61a",
       "arabic_page": 186,
-      "text": "Tetapi Ia tetap diam dan tidak menjawab apa-apa."
+      "text": "Tetapi Ia tetap diam dan tidak menjawab apa-apa.",
+      "ref_id": "Markus 14:61a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 56,
       "diatessaron_verse": "29, 30",
       "ref": "Luke 22:66b",
       "arabic_page": 186,
-      "text": "lalu mereka menghadapkan Dia"
+      "text": "lalu mereka menghadapkan Dia",
+      "ref_id": "Lukas 22:66b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 57,
       "diatessaron_verse": "31",
       "ref": "Luke 22:66b",
       "arabic_page": 186,
-      "text": "ke Mahkamah Agama mereka,"
+      "text": "ke Mahkamah Agama mereka,",
+      "ref_id": "Lukas 22:66b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 58,
       "diatessaron_verse": "31",
       "ref": "Luke 22:67",
       "arabic_page": 186,
-      "text": "katanya: \"Jikalau Engkau adalah Mesias, katakanlah kepada kami.\""
+      "text": "katanya: \"Jikalau Engkau adalah Mesias, katakanlah kepada kami.\"",
+      "ref_id": "Lukas 22:67",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 59,
       "diatessaron_verse": "32",
       "ref": "Luke 22:67",
       "arabic_page": 186,
-      "text": "Jawab Yesus: \"Sekalipun Aku mengatakannya kepada kamu, namun kamu tidak akan percaya;"
+      "text": "Jawab Yesus: \"Sekalipun Aku mengatakannya kepada kamu, namun kamu tidak akan percaya;",
+      "ref_id": "Lukas 22:67",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 60,
       "diatessaron_verse": "32",
       "ref": "Luke 22:68",
       "arabic_page": 186,
-      "text": "dan sekalipun Aku bertanya sesuatu kepada kamu, namun kamu tidak akan"
+      "text": "dan sekalipun Aku bertanya sesuatu kepada kamu, namun kamu tidak akan",
+      "ref_id": "Lukas 22:68",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11,
+      "footnote_id": 1
     },
     {
       "id": 61,
       "diatessaron_verse": "33",
       "ref": "Luke 22:68",
       "arabic_page": 186,
-      "text": "menjawab [ataupun membiarkan pergi.]"
+      "text": "menjawab [ataupun membiarkan pergi.]",
+      "ref_id": "Lukas 22:68",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 62,
       "diatessaron_verse": "33",
       "ref": "Matthew 26:63b",
       "arabic_page": 186,
-      "text": "Lalu kata Imam Besar itu kepada-Nya: \"Demi Allah yang hidup, katakanlah kepada kami, apakah Engkau Mesias,"
+      "text": "Lalu kata Imam Besar itu kepada-Nya: \"Demi Allah yang hidup, katakanlah kepada kami, apakah Engkau Mesias,",
+      "ref_id": "Matius 26:63b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 16
     },
     {
       "id": 63,
       "diatessaron_verse": "34, 35",
       "ref": "Matthew 26:63b",
       "arabic_page": 186,
-      "text": "Anak Allah, atau tidak.\""
+      "text": "Anak Allah, atau tidak.\"",
+      "ref_id": "Matius 26:63b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 64,
       "diatessaron_verse": "34, 35",
       "ref": "Matthew 26:64a",
       "arabic_page": 186,
-      "text": "Jawab Yesus: \"Engkau telah mengatakannya."
+      "text": "Jawab Yesus: \"Engkau telah mengatakannya.",
+      "ref_id": "Matius 26:64a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 65,
       "diatessaron_verse": "34, 35",
       "ref": "Luke 22:70",
       "arabic_page": 186,
-      "text": "Kata mereka semua: \"Kalau begitu, Engkau ini Anak Allah?\" Jawab Yesus: \"Kamu sendiri"
+      "text": "Kata mereka semua: \"Kalau begitu, Engkau ini Anak Allah?\" Jawab Yesus: \"Kamu sendiri",
+      "ref_id": "Lukas 22:70",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 66,
       "diatessaron_verse": "36",
       "ref": "Luke 22:70",
       "arabic_page": 186,
-      "text": "mengatakan, bahwa Akulah Anak Allah.\""
+      "text": "mengatakan, bahwa Akulah Anak Allah.\"",
+      "ref_id": "Lukas 22:70",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 67,
       "diatessaron_verse": "36",
       "ref": "Matthew 26:64b",
       "arabic_page": 186,
-      "text": "Akan tetapi, Aku berkata kepadamu, mulai sekarang kamu akan melihat Anak Manusia duduk"
+      "text": "Akan tetapi, Aku berkata kepadamu, mulai sekarang kamu akan melihat Anak Manusia duduk",
+      "ref_id": "Matius 26:64b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 68,
       "diatessaron_verse": "37",
       "ref": "Matthew 26:64b",
       "arabic_page": 187,
-      "text": "di sebelah kanan Yang Mahakuasa dan datang di atas awan-awan di langit.\""
+      "text": "di sebelah kanan Yang Mahakuasa dan datang di atas awan-awan di langit.\"",
+      "ref_id": "Matius 26:64b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 69,
       "diatessaron_verse": "37",
-      "ref": "Matthew 26: 65a",
+      "ref": "Matthew 26:65a",
       "arabic_page": 187,
-      "text": "Maka"
+      "text": "Maka",
+      "ref_id": "Matius 26:65a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 70,
       "diatessaron_verse": "38",
-      "ref": "Matthew 26: 65a",
+      "ref": "Matthew 26:65a",
       "arabic_page": 187,
-      "text": "Imam Besar itu mengoyakkan pakaiannya dan berkata: \"Ia menghujat Allah."
+      "text": "Imam Besar itu mengoyakkan pakaiannya dan berkata: \"Ia menghujat Allah.",
+      "ref_id": "Matius 26:65a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 71,
       "diatessaron_verse": "38",
       "ref": "Luke 22:71",
       "arabic_page": 187,
-      "text": "Lalu kata mereka: \"Untuk apa kita perlu kesaksian lagi? Kita ini telah mendengarnya dari mulut-Nya sendiri.\""
+      "text": "Lalu kata mereka: \"Untuk apa kita perlu kesaksian lagi? Kita ini telah mendengarnya dari mulut-Nya sendiri.\"",
+      "ref_id": "Lukas 22:71",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 72,
       "diatessaron_verse": "39, 40",
       "ref": "Matthew 26:66",
       "arabic_page": 187,
-      "text": "Bagaimana pendapat kamu?\" Mereka menjawab dan berkata: \"Ia harus dihukum mati!\""
+      "text": "Bagaimana pendapat kamu?\" Mereka menjawab dan berkata: \"Ia harus dihukum mati!\"",
+      "ref_id": "Matius 26:66",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 73,
       "diatessaron_verse": "39, 40",
       "ref": "Mark 14:65a",
       "arabic_page": 187,
-      "text": "Lalu mulailah beberapa orang meludahi Dia dan menutupi muka-Nya dan meninju-Nya"
+      "text": "Lalu mulailah beberapa orang meludahi Dia dan menutupi muka-Nya dan meninju-Nya",
+      "ref_id": "Markus 14:65a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 74,
       "diatessaron_verse": "41",
       "ref": "Mark 14;65b",
       "arabic_page": 187,
-      "text": "Malah para pengawalpun memukul Dia."
+      "text": "Malah para pengawalpun memukul Dia.",
+      "ref_id": "Markus 14;65b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 75,
       "diatessaron_verse": "41",
       "ref": "Matthew 26:68",
       "arabic_page": 187,
-      "text": "dan berkata: \"Cobalah katakan kepada kami, hai Mesias,"
+      "text": "dan berkata: \"Cobalah katakan kepada kami, hai Mesias,",
+      "ref_id": "Matius 26:68",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 76,
       "diatessaron_verse": "42",
       "ref": "Matthew 26:68",
       "arabic_page": 187,
-      "text": "siapakah yang memukul Engkau?\""
+      "text": "siapakah yang memukul Engkau?\"",
+      "ref_id": "Matius 26:68",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 77,
       "diatessaron_verse": "42",
       "ref": "Luke 22:65",
       "arabic_page": 187,
-      "text": "Dan banyak lagi hujat yang diucapkan mereka kepada-Nya."
+      "text": "Dan banyak lagi hujat yang diucapkan mereka kepada-Nya.",
+      "ref_id": "Lukas 22:65",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 78,
       "diatessaron_verse": "43",
       "ref": "Luke 23:1a",
       "arabic_page": 187,
-      "text": "Lalu bangkitlah seluruh sidang itu"
+      "text": "Lalu bangkitlah seluruh sidang itu",
+      "ref_id": "Lukas 23:1a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 79,
       "diatessaron_verse": "43",
       "ref": "Mark 15:1b",
       "arabic_page": 187,
-      "text": "Mereka membelenggu Yesus lalu membawa-Nya"
+      "text": "Mereka membelenggu Yesus lalu membawa-Nya",
+      "ref_id": "Markus 15:1b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 80,
       "diatessaron_verse": "43",
       "ref": "John 18:28a",
       "arabic_page": 187,
-      "text": "ke"
+      "text": "ke",
+      "ref_id": "Yohanes 18:28a",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 81,
       "diatessaron_verse": "44",
       "ref": "John 18:28a",
       "arabic_page": 187,
-      "text": "gedung pengadilan,"
+      "text": "gedung pengadilan,",
+      "ref_id": "Yohanes 18:28a",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 82,
       "diatessaron_verse": "44",
       "ref": "Matthew 27:2",
       "arabic_page": 187,
-      "text": "dan menyerahkan-Nya kepada Pilatus, wali negeri itu."
+      "text": "dan menyerahkan-Nya kepada Pilatus, wali negeri itu.",
+      "ref_id": "Matius 27:2",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 83,
       "diatessaron_verse": "44",
       "ref": "John 18:28c",
       "arabic_page": 187,
-      "text": "Mereka sendiri tidak masuk ke gedung pengadilan itu, supaya jangan menajiskan diri, sebab mereka hendak makan Paskah."
+      "text": "Mereka sendiri tidak masuk ke gedung pengadilan itu, supaya jangan menajiskan diri, sebab mereka hendak makan Paskah.",
+      "ref_id": "Yohanes 18:28c",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     },
     {
       "id": 84,
       "diatessaron_verse": "45",
       "ref": "Matthew 27:11a",
       "arabic_page": 187,
-      "text": "Lalu Yesus dihadapkan kepada wali negeri."
+      "text": "Lalu Yesus dihadapkan kepada wali negeri.",
+      "ref_id": "Matius 27:11a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 85,
       "diatessaron_verse": "45",
       "ref": "John 18:29",
       "arabic_page": 187,
-      "text": "Sebab itu Pilatus keluar mendapatkan mereka dan"
+      "text": "Sebab itu Pilatus keluar mendapatkan mereka dan",
+      "ref_id": "Yohanes 18:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 86,
       "diatessaron_verse": "46",
       "ref": "John 18:29",
       "arabic_page": 187,
-      "text": "berkata: \"Apakah tuduhan kamu terhadap orang ini?\""
+      "text": "berkata: \"Apakah tuduhan kamu terhadap orang ini?\"",
+      "ref_id": "Yohanes 18:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 87,
       "diatessaron_verse": "46",
       "ref": "John 18:30",
       "arabic_page": 187,
-      "text": "Jawab mereka kepadanya: \"Jikalau Ia bukan seorang penjahat, kami tidak menyerahkan-Nya"
+      "text": "Jawab mereka kepadanya: \"Jikalau Ia bukan seorang penjahat, kami tidak menyerahkan-Nya",
+      "ref_id": "Yohanes 18:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 88,
       "diatessaron_verse": "47",
       "ref": "John 18:30",
       "arabic_page": 187,
-      "text": "kepadamu!\""
+      "text": "kepadamu!\"",
+      "ref_id": "Yohanes 18:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 89,
       "diatessaron_verse": "47",
       "ref": "Luke 23:2b",
       "arabic_page": 187,
-      "text": "\"Telah kedapatan oleh kami, bahwa orang ini menyesatkan bangsa kami, dan melarang membayar pajak kepada Kaisar, dan tentang diri-Nya Ia mengatakan, bahwa Ia adalah Kristus, yaitu Raja.\""
+      "text": "\"Telah kedapatan oleh kami, bahwa orang ini menyesatkan bangsa kami, dan melarang membayar pajak kepada Kaisar, dan tentang diri-Nya Ia mengatakan, bahwa Ia adalah Kristus, yaitu Raja.\"",
+      "ref_id": "Lukas 23:2b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 27
     },
     {
       "id": 90,
       "diatessaron_verse": "48",
       "ref": "John 18:31",
       "arabic_page": 188,
-      "text": "Kata Pilatus kepada mereka: \"Ambillah Dia dan hakimilah Dia menurut hukum Tauratmu.\" Kata orang-orang Yahudi itu: \"Kami tidak diperbolehkan membunuh seseorang.\""
+      "text": "Kata Pilatus kepada mereka: \"Ambillah Dia dan hakimilah Dia menurut hukum Tauratmu.\" Kata orang-orang Yahudi itu: \"Kami tidak diperbolehkan membunuh seseorang.\"",
+      "ref_id": "Yohanes 18:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 21
     },
     {
       "id": 91,
       "diatessaron_verse": "49",
       "ref": "John 18:32",
       "arabic_page": 188,
-      "text": "Demikian hendaknya supaya genaplah firman Yesus, yang dikatakan-Nya untuk menyatakan bagaimana caranya Ia akan mati."
+      "text": "Demikian hendaknya supaya genaplah firman Yesus, yang dikatakan-Nya untuk menyatakan bagaimana caranya Ia akan mati.",
+      "ref_id": "Yohanes 18:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 92,
       "diatessaron_verse": "50",
       "ref": "John 18:33",
       "arabic_page": 188,
-      "text": "Maka kembalilah Pilatus ke dalam gedung pengadilan, lalu memanggil Yesus dan bertanya kepada-Nya:"
+      "text": "Maka kembalilah Pilatus ke dalam gedung pengadilan, lalu memanggil Yesus dan bertanya kepada-Nya:",
+      "ref_id": "Yohanes 18:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 93,
       "diatessaron_verse": "51",
       "ref": "John 18:33",
       "arabic_page": 188,
-      "text": "\"Engkau inikah raja orang Yahudi?\""
+      "text": "\"Engkau inikah raja orang Yahudi?\"",
+      "ref_id": "Yohanes 18:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 94,
       "diatessaron_verse": "51",
       "ref": "John 18:34",
       "arabic_page": 188,
-      "text": "Jawab Yesus: \"Apakah engkau katakan hal itu dari hatimu sendiri, atau"
+      "text": "Jawab Yesus: \"Apakah engkau katakan hal itu dari hatimu sendiri, atau",
+      "ref_id": "Yohanes 18:34",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 95,
       "diatessaron_verse": "52",
       "ref": "John 18:34",
       "arabic_page": 188,
-      "text": "adakah orang lain yang mengatakannya kepadamu tentang Aku?\""
+      "text": "adakah orang lain yang mengatakannya kepadamu tentang Aku?\"",
+      "ref_id": "Yohanes 18:34",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 96,
       "diatessaron_verse": "52",
       "ref": "John 18:35",
       "arabic_page": 188,
-      "text": "Kata Pilatus: \"Apakah aku seorang Yahudi? Bangsa-Mu sendiri dan imam-imam kepala yang telah menyerahkan Engkau kepadaku; apakah"
+      "text": "Kata Pilatus: \"Apakah aku seorang Yahudi? Bangsa-Mu sendiri dan imam-imam kepala yang telah menyerahkan Engkau kepadaku; apakah",
+      "ref_id": "Yohanes 18:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     },
     {
       "id": 97,
       "diatessaron_verse": "53",
       "ref": "John 18:35",
       "arabic_page": 188,
-      "text": "yang telah Engkau perbuat?\""
+      "text": "yang telah Engkau perbuat?\"",
+      "ref_id": "Yohanes 18:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 98,
       "diatessaron_verse": "53",
       "ref": "John 18:36",
       "arabic_page": 188,
-      "text": "Jawab Yesus: \"Kerajaan-Ku bukan dari dunia ini; jika Kerajaan-Ku dari dunia ini, pasti hamba-hamba-Ku telah melawan, supaya Aku jangan"
+      "text": "Jawab Yesus: \"Kerajaan-Ku bukan dari dunia ini; jika Kerajaan-Ku dari dunia ini, pasti hamba-hamba-Ku telah melawan, supaya Aku jangan",
+      "ref_id": "Yohanes 18:36",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 99,
       "diatessaron_verse": "54",
       "ref": "John 18:36",
       "arabic_page": 188,
-      "text": "diserahkan kepada orang Yahudi, akan tetapi Kerajaan-Ku bukan dari sini.\""
+      "text": "diserahkan kepada orang Yahudi, akan tetapi Kerajaan-Ku bukan dari sini.\"",
+      "ref_id": "Yohanes 18:36",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 100,
       "diatessaron_verse": "54",
       "ref": "John 18:37",
       "arabic_page": 188,
-      "text": "Maka kata Pilatus kepada-Nya: \"Jadi Engkau adalah raja?\" Jawab Yesus: \"Engkau mengatakan, bahwa Aku adalah raja. Untuk itulah Aku lahir dan untuk itulah Aku datang ke dalam dunia ini, supaya Aku memberi kesaksian tentang"
+      "text": "Maka kata Pilatus kepada-Nya: \"Jadi Engkau adalah raja?\" Jawab Yesus: \"Engkau mengatakan, bahwa Aku adalah raja. Untuk itulah Aku lahir dan untuk itulah Aku datang ke dalam dunia ini, supaya Aku memberi kesaksian tentang",
+      "ref_id": "Yohanes 18:37",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 34
     },
     {
       "id": 101,
       "diatessaron_verse": "55",
       "ref": "John 18:37",
       "arabic_page": 188,
-      "text": "kebenaran; setiap orang yang berasal dari kebenaran mendengarkan suara-Ku.\""
+      "text": "kebenaran; setiap orang yang berasal dari kebenaran mendengarkan suara-Ku.\"",
+      "ref_id": "Yohanes 18:37",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 102,
       "diatessaron_verse": "55",
       "ref": "John 18:38a",
       "arabic_page": 188,
-      "text": "Kata Pilatus kepada-Nya: \"Apakah kebenaran itu?\" (18-38b) Sesudah mengatakan demikian, keluarlah Pilatus lagi mendapatkan orang-orang Yahudi"
-    },
+      "text": "Kata Pilatus kepada-Nya: \"Apakah kebenaran itu?\" (18-38b) Sesudah mengatakan demikian, keluarlah Pilatus lagi mendapatkan orang-orang Yahudi",
+      "ref_id": "Yohanes 18:38a",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
+    }
+  ],
+  "title_id": "Pemeriksaan di Hadapan Hanas, Kayafas & Mahkamah Agama",
+  "title_en": "Trial Before Annas, Caiaphas & The Sanhedrin",
+  "epoch_id": 7,
+  "total_words": 868,
+  "arabic_page_range": "p. 185 - p. 188",
+  "arabic_pages": [
+    185,
+    186,
+    187,
+    188
+  ],
+  "stats": {
+    "mat": 26,
+    "mrk": 19,
+    "luk": 20,
+    "yoh": 37,
+    "unk": 0
+  },
+  "footnotes": [
     {
-      "id": 103,
-      "diatessaron_verse": "Catatan kaki",
-      "ref": "John 18:38a",
-      "arabic_page": 188,
-      "text": ": Frasa \"...ataupun membiarkan pergi\" pada ayat Luke 22:68 tidak terdapat dalam manuscript UBS/Westcott and Hort yang digunakan oleh terjemahan LAI TB tetapi terdapat dalam Diatessaron serta manuscript Textus Receptus (TR) yang digunakan oleh terjemahan MILT (2008)"
+      "id": 1,
+      "target_ref": "Luke 22:68",
+      "title": "Varian Naskah Luke 22:68 (\"...ataupun membiarkan pergi\")",
+      "text": "Frasa \"...ataupun membiarkan pergi\" pada ayat Luke 22:68 tidak terdapat dalam manuscript UBS/Westcott and Hort yang digunakan oleh terjemahan LAI TB tetapi terdapat dalam Diatessaron serta manuscript Textus Receptus (TR) yang digunakan oleh terjemahan MILT (2008)"
     }
   ]
 }

@@ -16,553 +16,957 @@
   "canonical_books": [
     "John"
   ],
-  "total_segments": 78,
-  "diatessaron_verse_range": "1 - Catatan kaki:",
+  "total_segments": 77,
+  "diatessaron_verse_range": "1 - 44",
   "verses": [
     {
       "id": 1,
       "diatessaron_verse": "1",
       "ref": "John 16:16",
       "arabic_page": null,
-      "text": "\"Tinggal sesaat saja dan kamu tidak melihat Aku lagi dan tinggal sesaat saja pula dan kamu akan"
+      "text": "\"Tinggal sesaat saja dan kamu tidak melihat Aku lagi dan tinggal sesaat saja pula dan kamu akan",
+      "ref_id": "Yohanes 16:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17,
+      "footnote_id": 1
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "John 16:16",
       "arabic_page": null,
-      "text": "melihat Aku, [karena Aku pergi kepada Bapa.\"]"
+      "text": "melihat Aku, [karena Aku pergi kepada Bapa.\"]",
+      "ref_id": "Yohanes 16:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "John 16:17",
       "arabic_page": null,
-      "text": "Mendengar itu beberapa dari murid-Nya berkata seorang kepada yang lain: \"Apakah artinya Ia berkata kepada kita: Tinggal sesaat saja dan kamu tidak melihat Aku dan tinggal sesaat saja pula dan kamu akan melihat Aku? Dan: Aku pergi kepada"
+      "text": "Mendengar itu beberapa dari murid-Nya berkata seorang kepada yang lain: \"Apakah artinya Ia berkata kepada kita: Tinggal sesaat saja dan kamu tidak melihat Aku dan tinggal sesaat saja pula dan kamu akan melihat Aku? Dan: Aku pergi kepada",
+      "ref_id": "Yohanes 16:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 38
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "John 16:17",
       "arabic_page": null,
-      "text": "Bapa?\""
+      "text": "Bapa?\"",
+      "ref_id": "Yohanes 16:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "John 16:18",
       "arabic_page": null,
-      "text": "Maka kata mereka: \"Apakah artinya Ia berkata: Tinggal sesaat saja? Kita tidak tahu"
+      "text": "Maka kata mereka: \"Apakah artinya Ia berkata: Tinggal sesaat saja? Kita tidak tahu",
+      "ref_id": "Yohanes 16:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "John 16:18",
       "arabic_page": null,
-      "text": "apa maksud-Nya.\""
+      "text": "apa maksud-Nya.\"",
+      "ref_id": "Yohanes 16:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 7,
       "diatessaron_verse": "4",
       "ref": "John 16:19",
       "arabic_page": null,
-      "text": "Yesus tahu, bahwa mereka hendak menanyakan sesuatu kepada-Nya, lalu Ia berkata kepada mereka: \"Adakah kamu membicarakan seorang dengan yang lain apa yang Kukatakan tadi, yaitu: Tinggal sesaat saja dan kamu tidak melihat Aku dan tinggal sesaat saja pula dan kamu akan"
+      "text": "Yesus tahu, bahwa mereka hendak menanyakan sesuatu kepada-Nya, lalu Ia berkata kepada mereka: \"Adakah kamu membicarakan seorang dengan yang lain apa yang Kukatakan tadi, yaitu: Tinggal sesaat saja dan kamu tidak melihat Aku dan tinggal sesaat saja pula dan kamu akan",
+      "ref_id": "Yohanes 16:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 41
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
       "ref": "John 16:19",
       "arabic_page": null,
-      "text": "melihat Aku?"
+      "text": "melihat Aku?",
+      "ref_id": "Yohanes 16:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 9,
       "diatessaron_verse": "5",
       "ref": "John 16:20",
       "arabic_page": null,
-      "text": "Aku berkata kepadamu: Sesungguhnya kamu akan menangis dan meratap, tetapi dunia akan bergembira; kamu akan berdukacita, tetapi dukacitamu akan berubah menjadi sukacita."
+      "text": "Aku berkata kepadamu: Sesungguhnya kamu akan menangis dan meratap, tetapi dunia akan bergembira; kamu akan berdukacita, tetapi dukacitamu akan berubah menjadi sukacita.",
+      "ref_id": "Yohanes 16:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 22
     },
     {
       "id": 10,
       "diatessaron_verse": "6",
       "ref": "John 16:21",
       "arabic_page": null,
-      "text": "Seorang perempuan berdukacita pada saat ia melahirkan, tetapi sesudah ia melahirkan anaknya, ia tidak ingat lagi akan penderitaannya, karena kegembiraan bahwa seorang manusia telah dilahirkan ke"
+      "text": "Seorang perempuan berdukacita pada saat ia melahirkan, tetapi sesudah ia melahirkan anaknya, ia tidak ingat lagi akan penderitaannya, karena kegembiraan bahwa seorang manusia telah dilahirkan ke",
+      "ref_id": "Yohanes 16:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 26
     },
     {
       "id": 11,
       "diatessaron_verse": "7",
       "ref": "John 16:21",
       "arabic_page": null,
-      "text": "dunia."
+      "text": "dunia.",
+      "ref_id": "Yohanes 16:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 12,
       "diatessaron_verse": "7",
       "ref": "John 16:22",
       "arabic_page": null,
-      "text": "Demikian juga kamu sekarang diliputi dukacita, tetapi Aku akan melihat kamu lagi dan hatimu akan bergembira"
+      "text": "Demikian juga kamu sekarang diliputi dukacita, tetapi Aku akan melihat kamu lagi dan hatimu akan bergembira",
+      "ref_id": "Yohanes 16:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 13,
       "diatessaron_verse": "8",
       "ref": "John 16:22",
       "arabic_page": 178,
-      "text": "dan tidak ada seorangpun yang dapat merampas kegembiraanmu itu dari padamu."
+      "text": "dan tidak ada seorangpun yang dapat merampas kegembiraanmu itu dari padamu.",
+      "ref_id": "Yohanes 16:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 14,
       "diatessaron_verse": "8",
       "ref": "John 16:23",
       "arabic_page": 178,
-      "text": "Dan pada hari itu kamu tidak akan menanyakan apa-apa kepada-Ku. Aku berkata kepadamu: Sesungguhnya segala sesuatu yang kamu minta kepada Bapa, akan diberikan-Nya kepadamu dalam nama-Ku."
+      "text": "Dan pada hari itu kamu tidak akan menanyakan apa-apa kepada-Ku. Aku berkata kepadamu: Sesungguhnya segala sesuatu yang kamu minta kepada Bapa, akan diberikan-Nya kepadamu dalam nama-Ku.",
+      "ref_id": "Yohanes 16:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 26
     },
     {
       "id": 15,
       "diatessaron_verse": "8",
       "ref": "John 16:24",
       "arabic_page": 178,
-      "text": "Sampai sekarang kamu belum meminta sesuatupun"
+      "text": "Sampai sekarang kamu belum meminta sesuatupun",
+      "ref_id": "Yohanes 16:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 16,
       "diatessaron_verse": "9",
       "ref": "John 16:24",
       "arabic_page": 178,
-      "text": "dalam nama-Ku. Mintalah maka kamu akan menerima, supaya penuhlah sukacitamu."
+      "text": "dalam nama-Ku. Mintalah maka kamu akan menerima, supaya penuhlah sukacitamu.",
+      "ref_id": "Yohanes 16:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 17,
       "diatessaron_verse": "10",
       "ref": "John 16:25",
       "arabic_page": 178,
-      "text": "Semuanya ini Kukatakan kepadamu dengan kiasan. Akan tiba saatnya Aku tidak lagi berkata-kata kepadamu dengan kiasan, tetapi terus terang memberitakan Bapa kepadamu."
+      "text": "Semuanya ini Kukatakan kepadamu dengan kiasan. Akan tiba saatnya Aku tidak lagi berkata-kata kepadamu dengan kiasan, tetapi terus terang memberitakan Bapa kepadamu.",
+      "ref_id": "Yohanes 16:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 22
     },
     {
       "id": 18,
       "diatessaron_verse": "11",
       "ref": "John 16:26",
       "arabic_page": 178,
-      "text": "Pada hari itu kamu akan berdoa dalam nama-Ku. Dan tidak Aku katakan kepadamu, bahwa Aku"
+      "text": "Pada hari itu kamu akan berdoa dalam nama-Ku. Dan tidak Aku katakan kepadamu, bahwa Aku",
+      "ref_id": "Yohanes 16:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 19,
       "diatessaron_verse": "12",
       "ref": "John 16:26",
       "arabic_page": 178,
-      "text": "meminta bagimu kepada Bapa,"
+      "text": "meminta bagimu kepada Bapa,",
+      "ref_id": "Yohanes 16:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 20,
       "diatessaron_verse": "12",
       "ref": "John 16:27",
       "arabic_page": 178,
-      "text": "sebab Bapa sendiri mengasihi kamu, karena kamu telah mengasihi Aku"
+      "text": "sebab Bapa sendiri mengasihi kamu, karena kamu telah mengasihi Aku",
+      "ref_id": "Yohanes 16:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 21,
       "diatessaron_verse": "13",
       "ref": "John 16:27",
       "arabic_page": 178,
-      "text": "dan percaya, bahwa Aku datang dari Allah."
+      "text": "dan percaya, bahwa Aku datang dari Allah.",
+      "ref_id": "Yohanes 16:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 22,
       "diatessaron_verse": "13",
       "ref": "John 16:28",
       "arabic_page": 178,
-      "text": "Aku datang dari Bapa dan Aku datang ke dalam dunia; Aku meninggalkan dunia pula dan pergi kepada Bapa.\""
+      "text": "Aku datang dari Bapa dan Aku datang ke dalam dunia; Aku meninggalkan dunia pula dan pergi kepada Bapa.\"",
+      "ref_id": "Yohanes 16:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 23,
       "diatessaron_verse": "14",
       "ref": "John 16:29",
       "arabic_page": 178,
-      "text": "Kata murid-murid-Nya: \"Lihat, sekarang Engkau terus terang berkata-kata dan Engkau tidak"
+      "text": "Kata murid-murid-Nya: \"Lihat, sekarang Engkau terus terang berkata-kata dan Engkau tidak",
+      "ref_id": "Yohanes 16:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 24,
       "diatessaron_verse": "15",
       "ref": "John 16:29",
       "arabic_page": 178,
-      "text": "memakai kiasan."
+      "text": "memakai kiasan.",
+      "ref_id": "Yohanes 16:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 25,
       "diatessaron_verse": "15",
       "ref": "John 16:30",
       "arabic_page": 178,
-      "text": "Sekarang kami tahu, bahwa Engkau mengetahui segala sesuatu dan tidak perlu orang bertanya kepada-Mu. Karena itu kami percaya, bahwa Engkau datang"
+      "text": "Sekarang kami tahu, bahwa Engkau mengetahui segala sesuatu dan tidak perlu orang bertanya kepada-Mu. Karena itu kami percaya, bahwa Engkau datang",
+      "ref_id": "Yohanes 16:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 21
     },
     {
       "id": 26,
       "diatessaron_verse": "16,17",
       "ref": "John 16:30",
       "arabic_page": 178,
-      "text": "dari Allah.\""
+      "text": "dari Allah.\"",
+      "ref_id": "Yohanes 16:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 27,
       "diatessaron_verse": "16,17",
       "ref": "John 16:31",
       "arabic_page": 178,
-      "text": "Jawab Yesus kepada mereka: \"Percayakah kamu sekarang?"
+      "text": "Jawab Yesus kepada mereka: \"Percayakah kamu sekarang?",
+      "ref_id": "Yohanes 16:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 28,
       "diatessaron_verse": "16,17",
       "ref": "John 16:32",
       "arabic_page": 178,
-      "text": "Lihat, saatnya datang, bahkan sudah datang, bahwa kamu diceraiberaikan masing-masing ke tempatnya sendiri dan kamu meninggalkan Aku"
+      "text": "Lihat, saatnya datang, bahkan sudah datang, bahwa kamu diceraiberaikan masing-masing ke tempatnya sendiri dan kamu meninggalkan Aku",
+      "ref_id": "Yohanes 16:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     },
     {
       "id": 29,
       "diatessaron_verse": "18",
       "ref": "John 16:32",
       "arabic_page": 178,
-      "text": "seorang diri. Namun Aku tidak seorang diri, sebab Bapa menyertai Aku."
+      "text": "seorang diri. Namun Aku tidak seorang diri, sebab Bapa menyertai Aku.",
+      "ref_id": "Yohanes 16:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 30,
       "diatessaron_verse": "18",
       "ref": "John 16:33",
       "arabic_page": 178,
-      "text": "Semuanya itu Kukatakan kepadamu, supaya kamu beroleh damai sejahtera dalam Aku. Dalam dunia kamu menderita penganiayaan, tetapi kuatkanlah hatimu, Aku telah mengalahkan dunia.\""
+      "text": "Semuanya itu Kukatakan kepadamu, supaya kamu beroleh damai sejahtera dalam Aku. Dalam dunia kamu menderita penganiayaan, tetapi kuatkanlah hatimu, Aku telah mengalahkan dunia.\"",
+      "ref_id": "Yohanes 16:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 23
     },
     {
       "id": 31,
       "diatessaron_verse": "19",
       "ref": "John 17:1",
       "arabic_page": 178,
-      "text": "Demikianlah kata Yesus. Lalu Ia menengadah ke langit dan berkata: \"Bapa,"
+      "text": "Demikianlah kata Yesus. Lalu Ia menengadah ke langit dan berkata: \"Bapa,",
+      "ref_id": "Yohanes 17:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 32,
       "diatessaron_verse": "20",
       "ref": "John 17:1",
       "arabic_page": 178,
-      "text": "telah tiba saatnya; permuliakanlah Anak-Mu, supaya Anak-Mu mempermuliakan Engkau."
+      "text": "telah tiba saatnya; permuliakanlah Anak-Mu, supaya Anak-Mu mempermuliakan Engkau.",
+      "ref_id": "Yohanes 17:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 33,
       "diatessaron_verse": "20",
       "ref": "John 17:2",
       "arabic_page": 178,
-      "text": "Sama seperti Engkau telah memberikan kepada-Nya kuasa"
+      "text": "Sama seperti Engkau telah memberikan kepada-Nya kuasa",
+      "ref_id": "Yohanes 17:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 34,
       "diatessaron_verse": "21",
       "ref": "John 17:2",
       "arabic_page": 178,
-      "text": "atas segala yang hidup, demikian pula Ia akan memberikan hidup yang kekal kepada semua yang telah Engkau berikan kepada-Nya."
+      "text": "atas segala yang hidup, demikian pula Ia akan memberikan hidup yang kekal kepada semua yang telah Engkau berikan kepada-Nya.",
+      "ref_id": "Yohanes 17:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 35,
       "diatessaron_verse": "21",
       "ref": "John 17:3",
       "arabic_page": 178,
-      "text": "Inilah hidup yang kekal itu, yaitu bahwa mereka mengenal Engkau, satu-satunya Allah yang benar, dan mengenal Yesus Kristus"
+      "text": "Inilah hidup yang kekal itu, yaitu bahwa mereka mengenal Engkau, satu-satunya Allah yang benar, dan mengenal Yesus Kristus",
+      "ref_id": "Yohanes 17:3",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 36,
       "diatessaron_verse": "22",
       "ref": "John 17:3",
       "arabic_page": 179,
-      "text": "yang telah Engkau utus."
+      "text": "yang telah Engkau utus.",
+      "ref_id": "Yohanes 17:3",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 37,
       "diatessaron_verse": "22",
       "ref": "John 17:4",
       "arabic_page": 179,
-      "text": "Aku telah mempermuliakan Engkau di bumi"
+      "text": "Aku telah mempermuliakan Engkau di bumi",
+      "ref_id": "Yohanes 17:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 38,
       "diatessaron_verse": "23",
       "ref": "John 17:4",
       "arabic_page": 179,
-      "text": "dengan jalan menyelesaikan pekerjaan yang Engkau berikan kepada-Ku untuk melakukannya."
+      "text": "dengan jalan menyelesaikan pekerjaan yang Engkau berikan kepada-Ku untuk melakukannya.",
+      "ref_id": "Yohanes 17:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 39,
       "diatessaron_verse": "23",
       "ref": "John 17:5",
       "arabic_page": 179,
-      "text": "Oleh sebab itu, ya Bapa, permuliakanlah Aku pada-Mu sendiri dengan kemuliaan yang Kumiliki di hadirat-Mu 24 sebelum dunia ada."
+      "text": "Oleh sebab itu, ya Bapa, permuliakanlah Aku pada-Mu sendiri dengan kemuliaan yang Kumiliki di hadirat-Mu 24 sebelum dunia ada.",
+      "ref_id": "Yohanes 17:5",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 40,
       "diatessaron_verse": "23",
       "ref": "John 17:6",
       "arabic_page": 179,
-      "text": "Aku telah menyatakan nama-Mu kepada semua orang, yang Engkau berikan kepada-Ku dari dunia. Mereka itu milik-Mu dan Engkau telah memberikan mereka kepada-Ku dan mereka telah menuruti"
+      "text": "Aku telah menyatakan nama-Mu kepada semua orang, yang Engkau berikan kepada-Ku dari dunia. Mereka itu milik-Mu dan Engkau telah memberikan mereka kepada-Ku dan mereka telah menuruti",
+      "ref_id": "Yohanes 17:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 26
     },
     {
       "id": 41,
       "diatessaron_verse": "25, 26",
       "ref": "John 17:6",
       "arabic_page": 179,
-      "text": "firman-Mu."
+      "text": "firman-Mu.",
+      "ref_id": "Yohanes 17:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 42,
       "diatessaron_verse": "25, 26",
       "ref": "John 17:7",
       "arabic_page": 179,
-      "text": "Sekarang mereka tahu, bahwa semua yang Engkau berikan kepada-Ku itu berasal dari pada-Mu."
+      "text": "Sekarang mereka tahu, bahwa semua yang Engkau berikan kepada-Ku itu berasal dari pada-Mu.",
+      "ref_id": "Yohanes 17:7",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 43,
       "diatessaron_verse": "25, 26",
       "ref": "John 17:8",
       "arabic_page": 179,
-      "text": "Sebab segala firman yang Engkau sampaikan kepada-Ku telah Kusampaikan kepada mereka dan mereka telah menerimanya. Mereka tahu benar-benar, bahwa Aku datang dari pada-Mu, dan mereka percaya, bahwa Engkaulah yang telah mengutus Aku."
+      "text": "Sebab segala firman yang Engkau sampaikan kepada-Ku telah Kusampaikan kepada mereka dan mereka telah menerimanya. Mereka tahu benar-benar, bahwa Aku datang dari pada-Mu, dan mereka percaya, bahwa Engkaulah yang telah mengutus Aku.",
+      "ref_id": "Yohanes 17:8",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 32
     },
     {
       "id": 44,
       "diatessaron_verse": "27",
       "ref": "John 17:9",
       "arabic_page": 179,
-      "text": "Aku berdoa untuk mereka. Bukan untuk dunia Aku berdoa, tetapi untuk mereka, yang"
+      "text": "Aku berdoa untuk mereka. Bukan untuk dunia Aku berdoa, tetapi untuk mereka, yang",
+      "ref_id": "Yohanes 17:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 45,
       "diatessaron_verse": "28",
       "ref": "John 17:9",
       "arabic_page": 179,
-      "text": "telah Engkau berikan kepada-Ku, sebab mereka adalah milik-Mu"
+      "text": "telah Engkau berikan kepada-Ku, sebab mereka adalah milik-Mu",
+      "ref_id": "Yohanes 17:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 46,
       "diatessaron_verse": "28",
       "ref": "John 17:10",
       "arabic_page": 179,
-      "text": "dan segala milik-Ku adalah milik-Mu dan"
+      "text": "dan segala milik-Ku adalah milik-Mu dan",
+      "ref_id": "Yohanes 17:10",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 47,
       "diatessaron_verse": "29",
       "ref": "John 17:10",
       "arabic_page": 179,
-      "text": "milik-Mu adalah milik-Ku, dan Aku telah dipermuliakan di dalam mereka."
+      "text": "milik-Mu adalah milik-Ku, dan Aku telah dipermuliakan di dalam mereka.",
+      "ref_id": "Yohanes 17:10",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 48,
       "diatessaron_verse": "29",
       "ref": "John 17:11",
       "arabic_page": 179,
-      "text": "Dan Aku tidak ada lagi di dalam dunia, tetapi mereka masih ada di dalam dunia, dan Aku datang kepada-Mu. Ya Bapa yang kudus, peliharalah mereka dalam nama-Mu, yaitu"
+      "text": "Dan Aku tidak ada lagi di dalam dunia, tetapi mereka masih ada di dalam dunia, dan Aku datang kepada-Mu. Ya Bapa yang kudus, peliharalah mereka dalam nama-Mu, yaitu",
+      "ref_id": "Yohanes 17:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 28
     },
     {
       "id": 49,
       "diatessaron_verse": "30",
       "ref": "John 17:11",
       "arabic_page": 179,
-      "text": "nama-Mu yang telah Engkau berikan kepada-Ku, supaya mereka menjadi satu sama seperti Kita."
+      "text": "nama-Mu yang telah Engkau berikan kepada-Ku, supaya mereka menjadi satu sama seperti Kita.",
+      "ref_id": "Yohanes 17:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 50,
       "diatessaron_verse": "30",
       "ref": "John 17:12",
       "arabic_page": 179,
-      "text": "Selama Aku bersama mereka, Aku memelihara mereka dalam nama-Mu, yaitu nama-Mu yang telah Engkau berikan kepada-Ku; Aku telah menjaga mereka dan tidak ada seorangpun dari mereka yang binasa selain dari pada dia yang telah ditentukan untuk binasa, supaya"
+      "text": "Selama Aku bersama mereka, Aku memelihara mereka dalam nama-Mu, yaitu nama-Mu yang telah Engkau berikan kepada-Ku; Aku telah menjaga mereka dan tidak ada seorangpun dari mereka yang binasa selain dari pada dia yang telah ditentukan untuk binasa, supaya",
+      "ref_id": "Yohanes 17:12",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 38
     },
     {
       "id": 51,
       "diatessaron_verse": "31",
       "ref": "John 17:12",
       "arabic_page": 179,
-      "text": "genaplah yang tertulis dalam Kitab Suci."
+      "text": "genaplah yang tertulis dalam Kitab Suci.",
+      "ref_id": "Yohanes 17:12",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 52,
       "diatessaron_verse": "31",
       "ref": "John 17:13",
       "arabic_page": 179,
-      "text": "Tetapi sekarang, Aku datang kepada-Mu dan Aku mengatakan semuanya ini sementara Aku masih ada di dalam dunia,"
+      "text": "Tetapi sekarang, Aku datang kepada-Mu dan Aku mengatakan semuanya ini sementara Aku masih ada di dalam dunia,",
+      "ref_id": "Yohanes 17:13",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     },
     {
       "id": 53,
       "diatessaron_verse": "32",
       "ref": "John 17:13",
       "arabic_page": 179,
-      "text": "supaya penuhlah sukacita-Ku di dalam diri mereka."
+      "text": "supaya penuhlah sukacita-Ku di dalam diri mereka.",
+      "ref_id": "Yohanes 17:13",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 54,
       "diatessaron_verse": "32",
       "ref": "John 17:14",
       "arabic_page": 179,
-      "text": "Aku telah memberikan firman-Mu kepada mereka dan dunia"
+      "text": "Aku telah memberikan firman-Mu kepada mereka dan dunia",
+      "ref_id": "Yohanes 17:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 55,
       "diatessaron_verse": "33",
       "ref": "John 17:14",
       "arabic_page": 179,
-      "text": "membenci mereka, karena mereka bukan dari dunia, sama seperti Aku bukan dari dunia."
+      "text": "membenci mereka, karena mereka bukan dari dunia, sama seperti Aku bukan dari dunia.",
+      "ref_id": "Yohanes 17:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 56,
       "diatessaron_verse": "33",
       "ref": "John 17:15",
       "arabic_page": 179,
-      "text": "Aku tidak meminta, supaya Engkau mengambil mereka dari dunia, tetapi supaya Engkau melindungi mereka dari pada"
+      "text": "Aku tidak meminta, supaya Engkau mengambil mereka dari dunia, tetapi supaya Engkau melindungi mereka dari pada",
+      "ref_id": "Yohanes 17:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 57,
       "diatessaron_verse": "34, 35",
       "ref": "John 17:15",
       "arabic_page": 179,
-      "text": "yang jahat."
+      "text": "yang jahat.",
+      "ref_id": "Yohanes 17:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 58,
       "diatessaron_verse": "34, 35",
       "ref": "John 17:16",
       "arabic_page": 179,
-      "text": "Mereka bukan dari dunia, sama seperti Aku bukan dari dunia."
+      "text": "Mereka bukan dari dunia, sama seperti Aku bukan dari dunia.",
+      "ref_id": "Yohanes 17:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 59,
       "diatessaron_verse": "34, 35",
       "ref": "John 17:17",
       "arabic_page": 179,
-      "text": "Kuduskanlah"
+      "text": "Kuduskanlah",
+      "ref_id": "Yohanes 17:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 60,
       "diatessaron_verse": "36",
       "ref": "John 17:17",
       "arabic_page": 179,
-      "text": "mereka dalam kebenaran; firman-Mu adalah kebenaran."
+      "text": "mereka dalam kebenaran; firman-Mu adalah kebenaran.",
+      "ref_id": "Yohanes 17:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 61,
       "diatessaron_verse": "36",
       "ref": "John 17:18",
       "arabic_page": 179,
-      "text": "Sama seperti Engkau telah mengutus Aku ke dalam dunia, demikian"
+      "text": "Sama seperti Engkau telah mengutus Aku ke dalam dunia, demikian",
+      "ref_id": "Yohanes 17:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 62,
       "diatessaron_verse": "37",
       "ref": "John 17:18",
       "arabic_page": 180,
-      "text": "pula Aku telah mengutus mereka ke dalam dunia;"
+      "text": "pula Aku telah mengutus mereka ke dalam dunia;",
+      "ref_id": "Yohanes 17:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 63,
       "diatessaron_verse": "37",
       "ref": "John 17:19",
       "arabic_page": 180,
-      "text": "dan Aku menguduskan diri-Ku bagi mereka, supaya merekapun"
+      "text": "dan Aku menguduskan diri-Ku bagi mereka, supaya merekapun",
+      "ref_id": "Yohanes 17:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 64,
       "diatessaron_verse": "38",
       "ref": "John 17:19",
       "arabic_page": 180,
-      "text": "dikuduskan dalam kebenaran."
+      "text": "dikuduskan dalam kebenaran.",
+      "ref_id": "Yohanes 17:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 65,
       "diatessaron_verse": "38",
       "ref": "John 17:20",
       "arabic_page": 180,
-      "text": "Dan bukan untuk mereka ini saja Aku berdoa, tetapi juga untuk"
+      "text": "Dan bukan untuk mereka ini saja Aku berdoa, tetapi juga untuk",
+      "ref_id": "Yohanes 17:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 66,
       "diatessaron_verse": "39",
       "ref": "John 17:20",
       "arabic_page": 180,
-      "text": "orang-orang, yang percaya kepada-Ku oleh pemberitaan mereka;"
+      "text": "orang-orang, yang percaya kepada-Ku oleh pemberitaan mereka;",
+      "ref_id": "Yohanes 17:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 67,
       "diatessaron_verse": "39",
       "ref": "John 17:21",
       "arabic_page": 180,
-      "text": "supaya mereka semua menjadi satu, sama seperti Engkau, ya Bapa, di dalam Aku dan Aku di dalam Engkau, agar mereka juga di dalam Kita, supaya dunia"
+      "text": "supaya mereka semua menjadi satu, sama seperti Engkau, ya Bapa, di dalam Aku dan Aku di dalam Engkau, agar mereka juga di dalam Kita, supaya dunia",
+      "ref_id": "Yohanes 17:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 26
     },
     {
       "id": 68,
       "diatessaron_verse": "40",
       "ref": "John 17:21",
       "arabic_page": 180,
-      "text": "percaya, bahwa Engkaulah yang telah mengutus Aku."
+      "text": "percaya, bahwa Engkaulah yang telah mengutus Aku.",
+      "ref_id": "Yohanes 17:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 69,
       "diatessaron_verse": "40",
       "ref": "John 17:2",
       "arabic_page": 180,
-      "text": "2 Dan Aku telah memberikan kepada mereka kemuliaan, yang Engkau berikan"
+      "text": "2 Dan Aku telah memberikan kepada mereka kemuliaan, yang Engkau berikan",
+      "ref_id": "Yohanes 17:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 70,
       "diatessaron_verse": "41",
       "ref": "John 17:2",
       "arabic_page": 180,
-      "text": "kepada-Ku, supaya mereka menjadi satu, sama seperti Kita adalah satu:"
+      "text": "kepada-Ku, supaya mereka menjadi satu, sama seperti Kita adalah satu:",
+      "ref_id": "Yohanes 17:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 71,
       "diatessaron_verse": "41",
       "ref": "John 17:23",
       "arabic_page": 180,
-      "text": "Aku di dalam mereka dan Engkau di dalam Aku supaya mereka sempurna menjadi satu, agar dunia tahu, bahwa"
+      "text": "Aku di dalam mereka dan Engkau di dalam Aku supaya mereka sempurna menjadi satu, agar dunia tahu, bahwa",
+      "ref_id": "Yohanes 17:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 72,
       "diatessaron_verse": "42",
       "ref": "John 17:23",
       "arabic_page": 180,
-      "text": "Engkau yang telah mengutus Aku dan bahwa Engkau mengasihi mereka, sama seperti Engkau mengasihi Aku."
+      "text": "Engkau yang telah mengutus Aku dan bahwa Engkau mengasihi mereka, sama seperti Engkau mengasihi Aku.",
+      "ref_id": "Yohanes 17:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 73,
       "diatessaron_verse": "42",
       "ref": "John 17:24",
       "arabic_page": 180,
-      "text": "Ya Bapa, Aku mau supaya, di manapun Aku berada, mereka juga berada bersama-sama dengan Aku, mereka yang telah Engkau berikan kepada-Ku, agar mereka memandang kemuliaan-Ku yang telah Engkau berikan kepada-Ku, sebab Engkau telah mengasihi Aku sebelum"
+      "text": "Ya Bapa, Aku mau supaya, di manapun Aku berada, mereka juga berada bersama-sama dengan Aku, mereka yang telah Engkau berikan kepada-Ku, agar mereka memandang kemuliaan-Ku yang telah Engkau berikan kepada-Ku, sebab Engkau telah mengasihi Aku sebelum",
+      "ref_id": "Yohanes 17:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 36
     },
     {
       "id": 74,
       "diatessaron_verse": "43",
       "ref": "John 17:24",
       "arabic_page": 180,
-      "text": "dunia dijadikan."
+      "text": "dunia dijadikan.",
+      "ref_id": "Yohanes 17:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 75,
       "diatessaron_verse": "43",
       "ref": "John 17:25",
       "arabic_page": 180,
-      "text": "Ya Bapa yang adil, memang dunia tidak mengenal Engkau,"
+      "text": "Ya Bapa yang adil, memang dunia tidak mengenal Engkau,",
+      "ref_id": "Yohanes 17:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 76,
       "diatessaron_verse": "44",
       "ref": "John 17:25",
       "arabic_page": 180,
-      "text": "tetapi Aku mengenal Engkau, dan mereka ini tahu, bahwa Engkaulah yang telah mengutus Aku;"
+      "text": "tetapi Aku mengenal Engkau, dan mereka ini tahu, bahwa Engkaulah yang telah mengutus Aku;",
+      "ref_id": "Yohanes 17:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 77,
       "diatessaron_verse": "44",
       "ref": "John 17:26",
       "arabic_page": 180,
-      "text": "dan Aku telah memberitahukan nama-Mu kepada mereka dan Aku akan memberitahukannya, supaya kasih yang Engkau berikan kepada-Ku ada di dalam mereka dan Aku di dalam mereka.\""
-    },
+      "text": "dan Aku telah memberitahukan nama-Mu kepada mereka dan Aku akan memberitahukannya, supaya kasih yang Engkau berikan kepada-Ku ada di dalam mereka dan Aku di dalam mereka.\"",
+      "ref_id": "Yohanes 17:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 26
+    }
+  ],
+  "title_id": "Dukacita Berubah Sukacita & Doa Syafaat Yesus yang Agung",
+  "title_en": "Sorrow Turned to Joy & The Great High Priestly Prayer",
+  "epoch_id": 6,
+  "total_words": 1007,
+  "arabic_page_range": "p. 178 - p. 180",
+  "arabic_pages": [
+    178,
+    179,
+    180
+  ],
+  "stats": {
+    "mat": 0,
+    "mrk": 0,
+    "luk": 0,
+    "yoh": 77,
+    "unk": 0
+  },
+  "footnotes": [
     {
-      "id": 78,
-      "diatessaron_verse": "Catatan kaki:",
-      "ref": "John 17:26",
-      "arabic_page": 180,
+      "id": 1,
+      "target_ref": "John 16:16",
+      "title": "Varian Naskah John 16:16 (\"...karena Aku pergi kepada Bapa\")",
       "text": "Frasa \"...karena Aku pergi kepada Bapa.\" pada ayat John 16:16 tidak terdapat di dalam manuscript UBS/Westcott and Hort yang digunakan oleh terjemahan LAI TB tetapi terdapat dalam Diatessaron serta manuscript Textus Receptus (TR) yang digunakan oleh terjemahan MILT (2008)"
     }
   ]

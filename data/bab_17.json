@@ -26,567 +26,991 @@
       "diatessaron_verse": "1",
       "ref": "Matthew 13:24",
       "arabic_page": null,
-      "text": "Yesus membentangkan suatu perumpamaan lain lagi kepada mereka, kata-Nya: \"Hal Kerajaan Sorga itu"
+      "text": "Yesus membentangkan suatu perumpamaan lain lagi kepada mereka, kata-Nya: \"Hal Kerajaan Sorga itu",
+      "ref_id": "Matius 13:24",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "Matthew 13:24",
       "arabic_page": null,
-      "text": "seumpama orang yang menaburkan benih yang baik di ladangnya."
+      "text": "seumpama orang yang menaburkan benih yang baik di ladangnya.",
+      "ref_id": "Matius 13:24",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "Matthew 13:25",
       "arabic_page": null,
-      "text": "Tetapi pada waktu semua orang tidur, datanglah musuhnya"
+      "text": "Tetapi pada waktu semua orang tidur, datanglah musuhnya",
+      "ref_id": "Matius 13:25",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "Matthew 13:25",
       "arabic_page": null,
-      "text": "menaburkan benih lalang di antara gandum itu, lalu pergi."
+      "text": "menaburkan benih lalang di antara gandum itu, lalu pergi.",
+      "ref_id": "Matius 13:25",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "Matthew 13:26",
       "arabic_page": null,
-      "text": "Ketika gandum itu tumbuh"
+      "text": "Ketika gandum itu tumbuh",
+      "ref_id": "Matius 13:26",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "Matthew 13:26",
       "arabic_page": null,
-      "text": "dan mulai berbulir, nampak jugalah lalang itu."
+      "text": "dan mulai berbulir, nampak jugalah lalang itu.",
+      "ref_id": "Matius 13:26",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 7,
       "diatessaron_verse": "4",
       "ref": "Matthew 13:27",
       "arabic_page": null,
-      "text": "Maka datanglah hamba-hamba tuan ladang itu kepadanya dan berkata: Tuan, bukankah benih baik,"
+      "text": "Maka datanglah hamba-hamba tuan ladang itu kepadanya dan berkata: Tuan, bukankah benih baik,",
+      "ref_id": "Matius 13:27",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
       "ref": "Matthew 13:27",
       "arabic_page": 66,
-      "text": "yang tuan taburkan di ladang tuan? Dari manakah lalang itu?"
+      "text": "yang tuan taburkan di ladang tuan? Dari manakah lalang itu?",
+      "ref_id": "Matius 13:27",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 9,
       "diatessaron_verse": "5",
       "ref": "Matthew 13:28",
       "arabic_page": 66,
-      "text": "Jawab tuan itu: Seorang musuh yang melakukannya. Lalu berkatalah hamba-hamba itu kepadanya: Jadi maukah tuan supaya kami pergi"
+      "text": "Jawab tuan itu: Seorang musuh yang melakukannya. Lalu berkatalah hamba-hamba itu kepadanya: Jadi maukah tuan supaya kami pergi",
+      "ref_id": "Matius 13:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 18
     },
     {
       "id": 10,
       "diatessaron_verse": "6",
       "ref": "Matthew 13:28",
       "arabic_page": 66,
-      "text": "mencabut lalang itu?"
+      "text": "mencabut lalang itu?",
+      "ref_id": "Matius 13:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 11,
       "diatessaron_verse": "6",
       "ref": "Matthew 13:29",
       "arabic_page": 66,
-      "text": "Tetapi ia berkata: Jangan, sebab mungkin gandum itu"
+      "text": "Tetapi ia berkata: Jangan, sebab mungkin gandum itu",
+      "ref_id": "Matius 13:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 12,
       "diatessaron_verse": "7",
       "ref": "Matthew 13:29",
       "arabic_page": 66,
-      "text": "ikut tercabut pada waktu kamu mencabut lalang itu."
+      "text": "ikut tercabut pada waktu kamu mencabut lalang itu.",
+      "ref_id": "Matius 13:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 13,
       "diatessaron_verse": "7",
       "ref": "Matthew 13:30",
       "arabic_page": 66,
-      "text": "Biarkanlah keduanya tumbuh bersama sampai waktu menuai. Pada waktu itu aku akan berkata kepada para penuai: Kumpulkanlah dahulu lalang itu dan ikatlah berberkas-berkas untuk dibakar; kemudian kumpulkanlah gandum itu ke dalam lumbungku.\""
+      "text": "Biarkanlah keduanya tumbuh bersama sampai waktu menuai. Pada waktu itu aku akan berkata kepada para penuai: Kumpulkanlah dahulu lalang itu dan ikatlah berberkas-berkas untuk dibakar; kemudian kumpulkanlah gandum itu ke dalam lumbungku.\"",
+      "ref_id": "Matius 13:30",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 32
     },
     {
       "id": 14,
       "diatessaron_verse": "8, 9",
       "ref": "Matthew 13:31a",
       "arabic_page": 66,
-      "text": "Yesus membentangkan suatu perumpamaan lain lagi kepada mereka, kata-Nya:"
+      "text": "Yesus membentangkan suatu perumpamaan lain lagi kepada mereka, kata-Nya:",
+      "ref_id": "Matius 13:31a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 15,
       "diatessaron_verse": "8, 9",
       "ref": "Luke 13:18b",
       "arabic_page": 66,
-      "text": "\"Seumpama apakah hal Kerajaan Allah"
+      "text": "\"Seumpama apakah hal Kerajaan Allah",
+      "ref_id": "Lukas 13:18b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 16,
       "diatessaron_verse": "10",
       "ref": "Luke 13:18b",
       "arabic_page": 66,
-      "text": "dan dengan apakah Aku akan mengumpamakannya?"
+      "text": "dan dengan apakah Aku akan mengumpamakannya?",
+      "ref_id": "Lukas 13:18b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 17,
       "diatessaron_verse": "11",
       "ref": "Matthew 13:31b",
       "arabic_page": 66,
-      "text": "\"Hal Kerajaan Sorga itu seumpama biji sesawi, yang diambil dan ditaburkan orang di ladangnya."
+      "text": "\"Hal Kerajaan Sorga itu seumpama biji sesawi, yang diambil dan ditaburkan orang di ladangnya.",
+      "ref_id": "Matius 13:31b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 18,
       "diatessaron_verse": "11",
       "ref": "Matthew 13:32",
       "arabic_page": 66,
-      "text": "Memang biji itu yang paling kecil dari segala jenis benih,"
+      "text": "Memang biji itu yang paling kecil dari segala jenis benih,",
+      "ref_id": "Matius 13:32",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 19,
       "diatessaron_verse": "12",
       "ref": "Matthew 13:32",
       "arabic_page": 66,
-      "text": "tetapi apabila sudah tumbuh, sesawi itu lebih besar dari pada sayuran yang lain, bahkan menjadi pohon, sehingga burung-burung di udara datang bersarang pada cabang-cabangnya.\""
+      "text": "tetapi apabila sudah tumbuh, sesawi itu lebih besar dari pada sayuran yang lain, bahkan menjadi pohon, sehingga burung-burung di udara datang bersarang pada cabang-cabangnya.\"",
+      "ref_id": "Matius 13:32",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 24
     },
     {
       "id": 20,
       "diatessaron_verse": "13, 14",
       "ref": "Matthew 13:33",
       "arabic_page": 66,
-      "text": "Dan Ia menceriterakan perumpamaan ini juga kepada mereka:"
+      "text": "Dan Ia menceriterakan perumpamaan ini juga kepada mereka:",
+      "ref_id": "Matius 13:33",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 21,
       "diatessaron_verse": "13, 14",
       "ref": "Luke 13:20b",
       "arabic_page": 66,
-      "text": "\"Dengan apakah Aku akan mengumpamakan Kerajaan Allah?"
+      "text": "\"Dengan apakah Aku akan mengumpamakan Kerajaan Allah?",
+      "ref_id": "Lukas 13:20b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 22,
       "diatessaron_verse": "15",
       "ref": "Matthew 13:33b",
       "arabic_page": 66,
-      "text": "\"Hal Kerajaan Sorga itu seumpama ragi yang diambil seorang perempuan dan diadukkan ke dalam tepung terigu tiga sukat sampai khamir seluruhnya.\""
+      "text": "\"Hal Kerajaan Sorga itu seumpama ragi yang diambil seorang perempuan dan diadukkan ke dalam tepung terigu tiga sukat sampai khamir seluruhnya.\"",
+      "ref_id": "Matius 13:33b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 21
     },
     {
       "id": 23,
       "diatessaron_verse": "16",
       "ref": "Matthew 13:34",
       "arabic_page": 66,
-      "text": "Semuanya itu disampaikan Yesus kepada orang banyak dalam perumpamaan,"
+      "text": "Semuanya itu disampaikan Yesus kepada orang banyak dalam perumpamaan,",
+      "ref_id": "Matius 13:34",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 24,
       "diatessaron_verse": "17",
       "ref": "Matthew 13:34",
       "arabic_page": 66,
-      "text": "dan tanpa perumpamaan suatupun tidak disampaikan-Nya kepada mereka,"
+      "text": "dan tanpa perumpamaan suatupun tidak disampaikan-Nya kepada mereka,",
+      "ref_id": "Matius 13:34",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 25,
       "diatessaron_verse": "17",
       "ref": "Matthew 13:35",
       "arabic_page": 66,
-      "text": "supaya genaplah firman yang disampaikan oleh nabi:"
+      "text": "supaya genaplah firman yang disampaikan oleh nabi:",
+      "ref_id": "Matius 13:35",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 26,
       "diatessaron_verse": "17",
       "ref": "Matthew 13:35",
       "arabic_page": 66,
-      "text": "\"Aku mau membuka mulut-Ku mengatakan perumpamaan, Aku mau mengucapkan hal yang tersembunyi sejak dunia dijadikan.\""
+      "text": "\"Aku mau membuka mulut-Ku mengatakan perumpamaan, Aku mau mengucapkan hal yang tersembunyi sejak dunia dijadikan.\"",
+      "ref_id": "Matius 13:35",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 15
     },
     {
       "id": 27,
       "diatessaron_verse": "18",
       "ref": "Mark 4:34b",
       "arabic_page": 66,
-      "text": "tetapi kepada murid-murid-Nya Ia menguraikan segala sesuatu secara tersendiri."
+      "text": "tetapi kepada murid-murid-Nya Ia menguraikan segala sesuatu secara tersendiri.",
+      "ref_id": "Markus 4:34b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 9
     },
     {
       "id": 28,
       "diatessaron_verse": "19",
       "ref": "Matthew 13:36",
       "arabic_page": 66,
-      "text": "Maka Yesuspun meninggalkan orang banyak itu, lalu pulang. Murid-murid-Nya datang dan berkata kepada-Nya: \"Jelaskanlah kepada kami perumpamaan"
+      "text": "Maka Yesuspun meninggalkan orang banyak itu, lalu pulang. Murid-murid-Nya datang dan berkata kepada-Nya: \"Jelaskanlah kepada kami perumpamaan",
+      "ref_id": "Matius 13:36",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 29,
       "diatessaron_verse": "20",
       "ref": "Matthew 13:36",
       "arabic_page": 67,
-      "text": "tentang lalang di ladang itu.\""
+      "text": "tentang lalang di ladang itu.\"",
+      "ref_id": "Matius 13:36",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 30,
       "diatessaron_verse": "20",
       "ref": "Matthew 13:37",
       "arabic_page": 67,
-      "text": "Ia menjawab, kata-Nya: \"Orang yang menaburkan benih baik ialah"
+      "text": "Ia menjawab, kata-Nya: \"Orang yang menaburkan benih baik ialah",
+      "ref_id": "Matius 13:37",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 31,
       "diatessaron_verse": "21",
       "ref": "Matthew 13:37",
       "arabic_page": 67,
-      "text": "Anak Manusia;"
+      "text": "Anak Manusia;",
+      "ref_id": "Matius 13:37",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 32,
       "diatessaron_verse": "21",
       "ref": "Matthew 13:38",
       "arabic_page": 67,
-      "text": "ladang ialah dunia. Benih yang baik itu anak-anak Kerajaan dan lalang anak-anak si jahat."
+      "text": "ladang ialah dunia. Benih yang baik itu anak-anak Kerajaan dan lalang anak-anak si jahat.",
+      "ref_id": "Matius 13:38",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 33,
       "diatessaron_verse": "22",
       "ref": "Matthew 13:39",
       "arabic_page": 67,
-      "text": "Musuh yang menaburkan benih lalang ialah Iblis. Waktu menuai ialah akhir zaman dan para penuai itu malaikat."
+      "text": "Musuh yang menaburkan benih lalang ialah Iblis. Waktu menuai ialah akhir zaman dan para penuai itu malaikat.",
+      "ref_id": "Matius 13:39",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 34,
       "diatessaron_verse": "23",
       "ref": "Matthew 13:40",
       "arabic_page": 67,
-      "text": "Maka seperti lalang itu dikumpulkan dan dibakar dalam api, demikian juga"
+      "text": "Maka seperti lalang itu dikumpulkan dan dibakar dalam api, demikian juga",
+      "ref_id": "Matius 13:40",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 35,
       "diatessaron_verse": "24",
       "ref": "Matthew 13:40",
       "arabic_page": 67,
-      "text": "pada akhir zaman."
+      "text": "pada akhir zaman.",
+      "ref_id": "Matius 13:40",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 36,
       "diatessaron_verse": "24",
       "ref": "Matthew 13:41",
       "arabic_page": 67,
-      "text": "Anak Manusia akan menyuruh malaikat-malaikat-Nya dan mereka akan mengumpulkan segala sesuatu yang menyesatkan dan"
+      "text": "Anak Manusia akan menyuruh malaikat-malaikat-Nya dan mereka akan mengumpulkan segala sesuatu yang menyesatkan dan",
+      "ref_id": "Matius 13:41",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 37,
       "diatessaron_verse": "25",
       "ref": "Matthew 13:41",
       "arabic_page": 67,
-      "text": "semua orang yang melakukan kejahatan dari dalam Kerajaan-Nya."
+      "text": "semua orang yang melakukan kejahatan dari dalam Kerajaan-Nya.",
+      "ref_id": "Matius 13:41",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 38,
       "diatessaron_verse": "25",
       "ref": "Matthew 13:42",
       "arabic_page": 67,
-      "text": "Semuanya akan dicampakkan ke dalam"
+      "text": "Semuanya akan dicampakkan ke dalam",
+      "ref_id": "Matius 13:42",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 39,
       "diatessaron_verse": "26",
       "ref": "Matthew 13:42",
       "arabic_page": 67,
-      "text": "dapur api; di sanalah akan terdapat ratapan dan kertakan gigi."
+      "text": "dapur api; di sanalah akan terdapat ratapan dan kertakan gigi.",
+      "ref_id": "Matius 13:42",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 40,
       "diatessaron_verse": "26",
       "ref": "Matthew 13:43",
       "arabic_page": 67,
-      "text": "Pada waktu itulah orang-orang benar akan bercahaya seperti matahari dalam Kerajaan Bapa mereka. Siapa bertelinga, hendaklah ia mendengar!\""
+      "text": "Pada waktu itulah orang-orang benar akan bercahaya seperti matahari dalam Kerajaan Bapa mereka. Siapa bertelinga, hendaklah ia mendengar!\"",
+      "ref_id": "Matius 13:43",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 18
     },
     {
       "id": 41,
       "diatessaron_verse": "27",
       "ref": "Matthew 13:44",
       "arabic_page": 67,
-      "text": "\"Hal Kerajaan Sorga itu seumpama harta yang terpendam di ladang, yang ditemukan orang, lalu dipendamkannya lagi. Oleh sebab sukacitanya pergilah ia menjual seluruh miliknya lalu membeli ladang itu."
+      "text": "\"Hal Kerajaan Sorga itu seumpama harta yang terpendam di ladang, yang ditemukan orang, lalu dipendamkannya lagi. Oleh sebab sukacitanya pergilah ia menjual seluruh miliknya lalu membeli ladang itu.",
+      "ref_id": "Matius 13:44",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 28
     },
     {
       "id": 42,
       "diatessaron_verse": "28",
       "ref": "Matthew 13:45",
       "arabic_page": 67,
-      "text": "Demikian pula hal Kerajaan Sorga itu seumpama seorang pedagang yang mencari"
+      "text": "Demikian pula hal Kerajaan Sorga itu seumpama seorang pedagang yang mencari",
+      "ref_id": "Matius 13:45",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 43,
       "diatessaron_verse": "29",
       "ref": "Matthew 13:45",
       "arabic_page": 67,
-      "text": "mutiara yang indah."
+      "text": "mutiara yang indah.",
+      "ref_id": "Matius 13:45",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 44,
       "diatessaron_verse": "29",
       "ref": "Matthew 13:46",
       "arabic_page": 67,
-      "text": "Setelah ditemukannya mutiara yang sangat berharga, iapun pergi menjual seluruh miliknya lalu membeli mutiara itu.\""
+      "text": "Setelah ditemukannya mutiara yang sangat berharga, iapun pergi menjual seluruh miliknya lalu membeli mutiara itu.\"",
+      "ref_id": "Matius 13:46",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 15
     },
     {
       "id": 45,
       "diatessaron_verse": "30",
       "ref": "Matthew 13:47",
       "arabic_page": 67,
-      "text": "\"Demikian pula hal Kerajaan Sorga itu seumpama pukat yang dilabuhkan di laut, lalu"
+      "text": "\"Demikian pula hal Kerajaan Sorga itu seumpama pukat yang dilabuhkan di laut, lalu",
+      "ref_id": "Matius 13:47",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 46,
       "diatessaron_verse": "31",
       "ref": "Matthew 13:47",
       "arabic_page": 67,
-      "text": "mengumpulkan berbagai-bagai jenis ikan."
+      "text": "mengumpulkan berbagai-bagai jenis ikan.",
+      "ref_id": "Matius 13:47",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 47,
       "diatessaron_verse": "31",
       "ref": "Matthew 13:48",
       "arabic_page": 67,
-      "text": "Setelah penuh, pukat itupun diseret orang ke pantai, lalu duduklah mereka dan mengumpulkan ikan yang baik ke dalam pasu"
+      "text": "Setelah penuh, pukat itupun diseret orang ke pantai, lalu duduklah mereka dan mengumpulkan ikan yang baik ke dalam pasu",
+      "ref_id": "Matius 13:48",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 19
     },
     {
       "id": 48,
       "diatessaron_verse": "32",
       "ref": "Matthew 13:48",
       "arabic_page": 67,
-      "text": "dan ikan yang tidak baik mereka buang."
+      "text": "dan ikan yang tidak baik mereka buang.",
+      "ref_id": "Matius 13:48",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 49,
       "diatessaron_verse": "32",
       "ref": "Matthew 13:49",
       "arabic_page": 67,
-      "text": "Demikianlah juga pada akhir zaman: Malaikat-malaikat akan datang memisahkan orang jahat dari orang benar,"
+      "text": "Demikianlah juga pada akhir zaman: Malaikat-malaikat akan datang memisahkan orang jahat dari orang benar,",
+      "ref_id": "Matius 13:49",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 50,
       "diatessaron_verse": "33",
       "ref": "Matthew 13:50",
       "arabic_page": 67,
-      "text": "lalu mencampakkan orang jahat ke dalam dapur api; di sanalah akan terdapat ratapan dan kertakan gigi."
+      "text": "lalu mencampakkan orang jahat ke dalam dapur api; di sanalah akan terdapat ratapan dan kertakan gigi.",
+      "ref_id": "Matius 13:50",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 16
     },
     {
       "id": 51,
       "diatessaron_verse": "34",
       "ref": "Matthew 13:51",
       "arabic_page": 67,
-      "text": "Jesus Mengertikah kamu semuanya itu?\" Mereka menjawab:"
+      "text": "Jesus Mengertikah kamu semuanya itu?\" Mereka menjawab:",
+      "ref_id": "Matius 13:51",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 52,
       "diatessaron_verse": "35",
       "ref": "Matthew 13:51",
       "arabic_page": 68,
-      "text": "\"Ya, kami mengerti.\""
+      "text": "\"Ya, kami mengerti.\"",
+      "ref_id": "Matius 13:51",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 53,
       "diatessaron_verse": "35",
       "ref": "Matthew 13:52",
       "arabic_page": 68,
-      "text": "Maka berkatalah Yesus kepada mereka: \"Karena itu setiap ahli Taurat yang menerima pelajaran dari hal Kerajaan Sorga itu seumpama tuan rumah yang mengeluarkan harta yang baru dan yang lama dari perbendaharaannya.\""
+      "text": "Maka berkatalah Yesus kepada mereka: \"Karena itu setiap ahli Taurat yang menerima pelajaran dari hal Kerajaan Sorga itu seumpama tuan rumah yang mengeluarkan harta yang baru dan yang lama dari perbendaharaannya.\"",
+      "ref_id": "Matius 13:52",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 31
     },
     {
       "id": 54,
       "diatessaron_verse": "36, 37",
       "ref": "Matthew 13:53",
       "arabic_page": 68,
-      "text": "Setelah Yesus selesai menceriterakan perumpamaan-perumpamaan itu, Iapun pergi dari situ."
+      "text": "Setelah Yesus selesai menceriterakan perumpamaan-perumpamaan itu, Iapun pergi dari situ.",
+      "ref_id": "Matius 13:53",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 55,
       "diatessaron_verse": "36, 37",
       "ref": "Matthew 13:54a",
       "arabic_page": 68,
-      "text": "Setibanya di tempat asal-Nya, Yesus mengajar orang-orang di situ di rumah ibadat mereka."
+      "text": "Setibanya di tempat asal-Nya, Yesus mengajar orang-orang di situ di rumah ibadat mereka.",
+      "ref_id": "Matius 13:54a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 56,
       "diatessaron_verse": "38",
       "ref": "Mark 6:2",
       "arabic_page": 68,
-      "text": "Pada hari Sabat Ia mulai mengajar di rumah ibadat dan"
+      "text": "Pada hari Sabat Ia mulai mengajar di rumah ibadat dan",
+      "ref_id": "Markus 6:2",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     },
     {
       "id": 57,
       "diatessaron_verse": "39",
       "ref": "Mark 6:2",
       "arabic_page": 68,
-      "text": "jemaat yang besar takjub ketika mendengar Dia dan mereka berkata: \"Dari mana diperoleh-Nya semuanya itu? Hikmat apa pulakah yang diberikan kepada-Nya? Dan mujizat-mujizat yang demikian bagaimanakah dapat diadakan oleh tangan-Nya?"
+      "text": "jemaat yang besar takjub ketika mendengar Dia dan mereka berkata: \"Dari mana diperoleh-Nya semuanya itu? Hikmat apa pulakah yang diberikan kepada-Nya? Dan mujizat-mujizat yang demikian bagaimanakah dapat diadakan oleh tangan-Nya?",
+      "ref_id": "Markus 6:2",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 30
     },
     {
       "id": 58,
       "diatessaron_verse": "40",
       "ref": "Matthew 13:55",
       "arabic_page": 68,
-      "text": "Bukankah Ia ini anak tukang kayu? Bukankah ibu-Nya bernama Maria dan"
+      "text": "Bukankah Ia ini anak tukang kayu? Bukankah ibu-Nya bernama Maria dan",
+      "ref_id": "Matius 13:55",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 59,
       "diatessaron_verse": "41",
       "ref": "Matthew 13:55",
       "arabic_page": 68,
-      "text": "saudara-saudara-Nya: Yakobus, Yusuf, Simon dan Yudas?"
+      "text": "saudara-saudara-Nya: Yakobus, Yusuf, Simon dan Yudas?",
+      "ref_id": "Matius 13:55",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 60,
       "diatessaron_verse": "41",
       "ref": "Matthew 13:56",
       "arabic_page": 68,
-      "text": "Dan bukankah saudara-saudara-Nya perempuan semuanya"
+      "text": "Dan bukankah saudara-saudara-Nya perempuan semuanya",
+      "ref_id": "Matius 13:56",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 61,
       "diatessaron_verse": "42",
       "ref": "Matthew 13:56",
       "arabic_page": 68,
-      "text": "ada bersama kita? Jadi dari mana diperoleh-Nya semuanya itu?\""
+      "text": "ada bersama kita? Jadi dari mana diperoleh-Nya semuanya itu?\"",
+      "ref_id": "Matius 13:56",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 62,
       "diatessaron_verse": "42",
       "ref": "Matthew 13:57a",
       "arabic_page": 68,
-      "text": "Lalu mereka kecewa dan menolak Dia."
+      "text": "Lalu mereka kecewa dan menolak Dia.",
+      "ref_id": "Matius 13:57a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 63,
       "diatessaron_verse": "42",
       "ref": "Luke 4:23",
       "arabic_page": 68,
-      "text": "Maka berkatalah Ia kepada mereka: \"Tentu kamu akan mengatakan pepatah ini kepada-Ku: Hai tabib, sembuhkanlah diri-Mu sendiri."
+      "text": "Maka berkatalah Ia kepada mereka: \"Tentu kamu akan mengatakan pepatah ini kepada-Ku: Hai tabib, sembuhkanlah diri-Mu sendiri.",
+      "ref_id": "Lukas 4:23",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 17
     },
     {
       "id": 64,
       "diatessaron_verse": "43",
       "ref": "Luke 4:23",
       "arabic_page": 68,
-      "text": "Perbuatlah di sini juga, di tempat asal-Mu ini, segala yang kami dengar yang telah terjadi di Kapernaum!\""
+      "text": "Perbuatlah di sini juga, di tempat asal-Mu ini, segala yang kami dengar yang telah terjadi di Kapernaum!\"",
+      "ref_id": "Lukas 4:23",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 17
     },
     {
       "id": 65,
       "diatessaron_verse": "43",
       "ref": "Luke 4:24",
       "arabic_page": 68,
-      "text": "Dan kata-Nya lagi: \"Aku berkata kepadamu, sesungguhnya tidak ada nabi yang dihargai di tempat asalnya."
+      "text": "Dan kata-Nya lagi: \"Aku berkata kepadamu, sesungguhnya tidak ada nabi yang dihargai di tempat asalnya.",
+      "ref_id": "Lukas 4:24",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 66,
       "diatessaron_verse": "44",
       "ref": "Mark 6:4b",
       "arabic_page": 68,
-      "text": "\"Seorang nabi dihormati di mana-mana kecuali di tempat asalnya sendiri,"
+      "text": "\"Seorang nabi dihormati di mana-mana kecuali di tempat asalnya sendiri,",
+      "ref_id": "Markus 6:4b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     },
     {
       "id": 67,
       "diatessaron_verse": "45",
       "ref": "Mark 6:4b",
       "arabic_page": 68,
-      "text": "di antara kaum keluarganya dan di rumahnya.\""
+      "text": "di antara kaum keluarganya dan di rumahnya.\"",
+      "ref_id": "Markus 6:4b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 68,
       "diatessaron_verse": "45",
       "ref": "Luke 4:25",
       "arabic_page": 68,
-      "text": "Dan Aku berkata kepadamu, dan kata-Ku ini benar: Pada zaman Elia terdapat banyak perempuan janda di Israel ketika langit tertutup"
+      "text": "Dan Aku berkata kepadamu, dan kata-Ku ini benar: Pada zaman Elia terdapat banyak perempuan janda di Israel ketika langit tertutup",
+      "ref_id": "Lukas 4:25",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 69,
       "diatessaron_verse": "46",
       "ref": "Luke 4:25",
       "arabic_page": 68,
-      "text": "selama tiga tahun dan enam bulan dan ketika bahaya kelaparan yang hebat menimpa seluruh negeri."
+      "text": "selama tiga tahun dan enam bulan dan ketika bahaya kelaparan yang hebat menimpa seluruh negeri.",
+      "ref_id": "Lukas 4:25",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 70,
       "diatessaron_verse": "46",
       "ref": "Luke 4:26",
       "arabic_page": 69,
-      "text": "Tetapi Elia diutus bukan kepada salah seorang dari mereka, melainkan kepada seorang perempuan janda di Sarfat, di tanah Sidon."
+      "text": "Tetapi Elia diutus bukan kepada salah seorang dari mereka, melainkan kepada seorang perempuan janda di Sarfat, di tanah Sidon.",
+      "ref_id": "Lukas 4:26",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 19
     },
     {
       "id": 71,
       "diatessaron_verse": "47",
       "ref": "Luke 4:27",
       "arabic_page": 69,
-      "text": "Dan pada zaman nabi Elisa banyak orang kusta di Israel dan tidak ada seorangpun dari mereka yang ditahirkan, selain dari pada Naaman, orang Siria itu.\""
+      "text": "Dan pada zaman nabi Elisa banyak orang kusta di Israel dan tidak ada seorangpun dari mereka yang ditahirkan, selain dari pada Naaman, orang Siria itu.\"",
+      "ref_id": "Lukas 4:27",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 25
     },
     {
       "id": 72,
       "diatessaron_verse": "48",
       "ref": "Mark 6:5",
       "arabic_page": 69,
-      "text": "AndIa tidak dapat mengadakan satu mujizatpun di sana,"
+      "text": "AndIa tidak dapat mengadakan satu mujizatpun di sana,",
+      "ref_id": "Markus 6:5",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 73,
       "diatessaron_verse": "49",
       "ref": "Mark 6:5",
       "arabic_page": 69,
-      "text": "kecuali menyembuhkan beberapa orang sakit dengan meletakkan tangan-Nya atas mereka."
+      "text": "kecuali menyembuhkan beberapa orang sakit dengan meletakkan tangan-Nya atas mereka.",
+      "ref_id": "Markus 6:5",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     },
     {
       "id": 74,
       "diatessaron_verse": "49",
       "ref": "Mark 6:6a",
       "arabic_page": 69,
-      "text": "Ia merasa heran"
+      "text": "Ia merasa heran",
+      "ref_id": "Markus 6:6a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 75,
       "diatessaron_verse": "50",
       "ref": "Mark 6:6a",
       "arabic_page": 69,
-      "text": "atas ketidakpercayaan mereka."
+      "text": "atas ketidakpercayaan mereka.",
+      "ref_id": "Markus 6:6a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 76,
       "diatessaron_verse": "50",
       "ref": "Luke 4:28",
       "arabic_page": 69,
-      "text": "Mendengar itu"
+      "text": "Mendengar itu",
+      "ref_id": "Lukas 4:28",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 77,
       "diatessaron_verse": "51",
       "ref": "Luke 4:28",
       "arabic_page": 69,
-      "text": "sangat marahlah semua orang yang di rumah ibadat itu."
+      "text": "sangat marahlah semua orang yang di rumah ibadat itu.",
+      "ref_id": "Lukas 4:28",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 78,
       "diatessaron_verse": "51",
       "ref": "Luke 4:29",
       "arabic_page": 69,
-      "text": "Mereka bangun, lalu menghalau Yesus ke luar kota dan membawa Dia ke tebing gunung, tempat kota itu terletak,"
+      "text": "Mereka bangun, lalu menghalau Yesus ke luar kota dan membawa Dia ke tebing gunung, tempat kota itu terletak,",
+      "ref_id": "Lukas 4:29",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 18
     },
     {
       "id": 79,
       "diatessaron_verse": "52",
       "ref": "Luke 4:29",
       "arabic_page": 69,
-      "text": "untuk melemparkan Dia dari tebing itu."
+      "text": "untuk melemparkan Dia dari tebing itu.",
+      "ref_id": "Lukas 4:29",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 80,
       "diatessaron_verse": "52",
       "ref": "Luke 4:30",
       "arabic_page": 69,
-      "text": "Tetapi Ia berjalan lewat dari tengah-tengah mereka, lalu pergi."
+      "text": "Tetapi Ia berjalan lewat dari tengah-tengah mereka, lalu pergi.",
+      "ref_id": "Lukas 4:30",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 81,
       "diatessaron_verse": "53",
       "ref": "Mark 6:6b",
       "arabic_page": 69,
-      "text": "Lalu Yesus berjalan keliling dari desa ke desa sambil mengajar."
+      "text": "Lalu Yesus berjalan keliling dari desa ke desa sambil mengajar.",
+      "ref_id": "Markus 6:6b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     }
-  ]
+  ],
+  "title_id": "Perumpamaan Lalang, Biji Sesawi, Ragi & Harta Terpendam",
+  "title_en": "Parables of the Tares, Mustard Seed & Hidden Treasure",
+  "epoch_id": 3,
+  "total_words": 921,
+  "arabic_page_range": "p. 66 - p. 69",
+  "arabic_pages": [
+    66,
+    67,
+    68,
+    69
+  ],
+  "stats": {
+    "mat": 56,
+    "mrk": 10,
+    "luk": 15,
+    "yoh": 0,
+    "unk": 0
+  },
+  "footnotes": []
 }

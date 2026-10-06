@@ -27,742 +27,1291 @@
       "diatessaron_verse": "1",
       "ref": "John 19:28",
       "arabic_page": null,
-      "text": "Sesudah itu, karena Yesus tahu, bahwa segala sesuatu telah selesai, berkatalah Ia--supaya genaplah yang ada tertulis dalam Kitab Suci"
+      "text": "Sesudah itu, karena Yesus tahu, bahwa segala sesuatu telah selesai, berkatalah Ia--supaya genaplah yang ada tertulis dalam Kitab Suci",
+      "ref_id": "Yohanes 19:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "John 19:28",
       "arabic_page": null,
-      "text": "--:\"Aku haus!\""
+      "text": "--:\"Aku haus!\"",
+      "ref_id": "Yohanes 19:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "John 19:29a-b",
       "arabic_page": null,
-      "text": "Di situ ada suatu bekas penuh anggur asam. Maka mereka mencucukkan bunga karang, yang telah dicelupkan dalam"
+      "text": "Di situ ada suatu bekas penuh anggur asam. Maka mereka mencucukkan bunga karang, yang telah dicelupkan dalam",
+      "ref_id": "Yohanes 19:29a-b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "John 19:29a-b",
       "arabic_page": null,
-      "text": "anggur asam,"
+      "text": "anggur asam,",
+      "ref_id": "Yohanes 19:29a-b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "Mark 15:36b",
       "arabic_page": null,
-      "text": "lalu mencucukkannya pada sebatang buluh dan memberi Yesus"
+      "text": "lalu mencucukkannya pada sebatang buluh dan memberi Yesus",
+      "ref_id": "Markus 15:36b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "Mark 15:36b",
       "arabic_page": null,
-      "text": "minum."
+      "text": "minum.",
+      "ref_id": "Markus 15:36b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 1
     },
     {
       "id": 7,
       "diatessaron_verse": "4",
       "ref": "John 19:30a",
       "arabic_page": null,
-      "text": "Sesudah Yesus meminum anggur asam itu, berkatalah Ia: \"Sudah selesai.\""
+      "text": "Sesudah Yesus meminum anggur asam itu, berkatalah Ia: \"Sudah selesai.\"",
+      "ref_id": "Yohanes 19:30a",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
-      "ref": "Matthew 23: 49",
+      "ref": "Matthew 23:49",
       "arabic_page": null,
-      "text": "Tetapi orang-orang lain berkata: \"Jangan, baiklah kita lihat, apakah Elia datang untuk menyelamatkan Dia.\""
+      "text": "Tetapi orang-orang lain berkata: \"Jangan, baiklah kita lihat, apakah Elia datang untuk menyelamatkan Dia.\"",
+      "ref_id": "Matius 23:49",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 9,
       "diatessaron_verse": "6, 7",
       "ref": "Luke 23:34",
       "arabic_page": null,
-      "text": "Yesus berkata: \"Ya Bapa, ampunilah mereka, sebab mereka tidak tahu apa yang mereka perbuat.\""
+      "text": "Yesus berkata: \"Ya Bapa, ampunilah mereka, sebab mereka tidak tahu apa yang mereka perbuat.\"",
+      "ref_id": "Lukas 23:34",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 10,
       "diatessaron_verse": "6, 7",
       "ref": "Luke 23:46a",
       "arabic_page": null,
-      "text": "Lalu Yesus berseru dengan suara nyaring: \"Ya Bapa, ke dalam tangan-Mu Kuserahkan nyawa-Ku.\""
+      "text": "Lalu Yesus berseru dengan suara nyaring: \"Ya Bapa, ke dalam tangan-Mu Kuserahkan nyawa-Ku.\"",
+      "ref_id": "Lukas 23:46a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 11,
       "diatessaron_verse": "6, 7",
       "ref": "John 19:30b",
       "arabic_page": null,
-      "text": "Lalu Ia menundukkan kepala-Nya dan menyerahkan nyawa-Nya."
+      "text": "Lalu Ia menundukkan kepala-Nya dan menyerahkan nyawa-Nya.",
+      "ref_id": "Yohanes 19:30b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 12,
       "diatessaron_verse": "8",
       "ref": "Matthew 27:51",
       "arabic_page": null,
-      "text": "Dan lihatlah, tabir Bait Suci terbelah dua"
+      "text": "Dan lihatlah, tabir Bait Suci terbelah dua",
+      "ref_id": "Matius 27:51",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 13,
       "diatessaron_verse": "9",
       "ref": "Matthew 27:51",
       "arabic_page": null,
-      "text": "dari atas sampai ke bawah dan terjadilah gempa bumi, dan bukit-bukit batu terbelah,"
+      "text": "dari atas sampai ke bawah dan terjadilah gempa bumi, dan bukit-bukit batu terbelah,",
+      "ref_id": "Matius 27:51",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 14,
       "diatessaron_verse": "9",
       "ref": "Matthew 27:52",
       "arabic_page": 197,
-      "text": "dan kuburan-kuburan terbuka dan banyak orang kudus yang telah meninggal"
+      "text": "dan kuburan-kuburan terbuka dan banyak orang kudus yang telah meninggal",
+      "ref_id": "Matius 27:52",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 15,
       "diatessaron_verse": "10",
       "ref": "Matthew 27:52",
       "arabic_page": 197,
-      "text": "bangkit."
+      "text": "bangkit.",
+      "ref_id": "Matius 27:52",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 16,
       "diatessaron_verse": "10",
       "ref": "Matthew 27:53",
       "arabic_page": 197,
-      "text": "Dan sesudah kebangkitan Yesus, merekapun keluar dari kubur, lalu masuk ke kota kudus dan"
+      "text": "Dan sesudah kebangkitan Yesus, merekapun keluar dari kubur, lalu masuk ke kota kudus dan",
+      "ref_id": "Matius 27:53",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 17,
       "diatessaron_verse": "11",
       "ref": "Matthew 27:53",
       "arabic_page": 197,
-      "text": "menampakkan diri kepada banyak orang."
+      "text": "menampakkan diri kepada banyak orang.",
+      "ref_id": "Matius 27:53",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 18,
       "diatessaron_verse": "11",
       "ref": "Matthew 27:54",
       "arabic_page": 197,
-      "text": "Kepala pasukan dan prajurit-prajuritnya yang menjaga Yesus menjadi sangat takut ketika mereka melihat gempa bumi dan apa yang telah"
+      "text": "Kepala pasukan dan prajurit-prajuritnya yang menjaga Yesus menjadi sangat takut ketika mereka melihat gempa bumi dan apa yang telah",
+      "ref_id": "Matius 27:54",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 19
     },
     {
       "id": 19,
       "diatessaron_verse": "12",
       "ref": "Matthew 27:54",
       "arabic_page": 197,
-      "text": "terjadi, lalu berkata:"
+      "text": "terjadi, lalu berkata:",
+      "ref_id": "Matius 27:54",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 20,
       "diatessaron_verse": "13",
       "ref": "Matthew 27:54",
       "arabic_page": 197,
-      "text": "\"Sungguh, Ia ini adalah Anak Allah.\""
+      "text": "\"Sungguh, Ia ini adalah Anak Allah.\"",
+      "ref_id": "Matius 27:54",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 21,
       "diatessaron_verse": "13",
       "ref": "Luke 23:48",
       "arabic_page": 197,
-      "text": "Dan sesudah seluruh orang banyak, yang datang berkerumun di situ untuk tontonan itu, melihat apa yang terjadi itu, pulanglah mereka sambil memukul-mukul diri."
+      "text": "Dan sesudah seluruh orang banyak, yang datang berkerumun di situ untuk tontonan itu, melihat apa yang terjadi itu, pulanglah mereka sambil memukul-mukul diri.",
+      "ref_id": "Lukas 23:48",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 23
     },
     {
       "id": 22,
       "diatessaron_verse": "14",
       "ref": "John 19:31",
       "arabic_page": 197,
-      "text": "Karena hari itu hari persiapan dan supaya pada hari Sabat mayat-mayat itu tidak tinggal tergantung pada kayu salib--sebab Sabat itu adalah hari yang besar--maka datanglah orang-orang Yahudi kepada Pilatus dan meminta kepadanya supaya kaki orang-orang"
+      "text": "Karena hari itu hari persiapan dan supaya pada hari Sabat mayat-mayat itu tidak tinggal tergantung pada kayu salib--sebab Sabat itu adalah hari yang besar--maka datanglah orang-orang Yahudi kepada Pilatus dan meminta kepadanya supaya kaki orang-orang",
+      "ref_id": "Yohanes 19:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 35
     },
     {
       "id": 23,
       "diatessaron_verse": "15",
       "ref": "John 19:31",
       "arabic_page": 197,
-      "text": "itu dipatahkan dan mayat-mayatnya diturunkan."
+      "text": "itu dipatahkan dan mayat-mayatnya diturunkan.",
+      "ref_id": "Yohanes 19:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 24,
       "diatessaron_verse": "15",
       "ref": "John 19:32",
       "arabic_page": 197,
-      "text": "Maka datanglah prajurit-prajurit lalu mematahkan kaki orang yang"
+      "text": "Maka datanglah prajurit-prajurit lalu mematahkan kaki orang yang",
+      "ref_id": "Yohanes 19:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 25,
       "diatessaron_verse": "16",
       "ref": "John 19:32",
       "arabic_page": 197,
-      "text": "pertama dan kaki orang yang lain yang disalibkan bersama-sama dengan Yesus;"
+      "text": "pertama dan kaki orang yang lain yang disalibkan bersama-sama dengan Yesus;",
+      "ref_id": "Yohanes 19:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 26,
       "diatessaron_verse": "16",
       "ref": "John 19:33",
       "arabic_page": 197,
-      "text": "tetapi ketika mereka sampai kepada Yesus dan"
+      "text": "tetapi ketika mereka sampai kepada Yesus dan",
+      "ref_id": "Yohanes 19:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 27,
       "diatessaron_verse": "17",
       "ref": "John 19:33",
       "arabic_page": 197,
-      "text": "melihat bahwa Ia telah mati, mereka tidak mematahkan kaki-Nya,"
+      "text": "melihat bahwa Ia telah mati, mereka tidak mematahkan kaki-Nya,",
+      "ref_id": "Yohanes 19:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 28,
       "diatessaron_verse": "17",
       "ref": "John 19:34",
       "arabic_page": 197,
-      "text": "tetapi seorang dari antara prajurit itu menikam lambung-Nya dengan tombak, dan segera mengalir keluar darah dan"
+      "text": "tetapi seorang dari antara prajurit itu menikam lambung-Nya dengan tombak, dan segera mengalir keluar darah dan",
+      "ref_id": "Yohanes 19:34",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 29,
       "diatessaron_verse": "18",
       "ref": "John 19:34",
       "arabic_page": 197,
-      "text": "air."
+      "text": "air.",
+      "ref_id": "Yohanes 19:34",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 30,
       "diatessaron_verse": "18",
       "ref": "John 19:35",
       "arabic_page": 197,
-      "text": "Dan orang yang melihat hal itu sendiri yang memberikan kesaksian ini dan kesaksiannya benar, dan ia"
+      "text": "Dan orang yang melihat hal itu sendiri yang memberikan kesaksian ini dan kesaksiannya benar, dan ia",
+      "ref_id": "Yohanes 19:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 31,
       "diatessaron_verse": "19",
       "ref": "John 19:35",
       "arabic_page": 197,
-      "text": "tahu, bahwa ia mengatakan kebenaran, supaya kamu juga percaya."
+      "text": "tahu, bahwa ia mengatakan kebenaran, supaya kamu juga percaya.",
+      "ref_id": "Yohanes 19:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 32,
       "diatessaron_verse": "19",
       "ref": "John 19:36",
       "arabic_page": 197,
-      "text": "Sebab hal itu terjadi, supaya genaplah yang tertulis dalam"
+      "text": "Sebab hal itu terjadi, supaya genaplah yang tertulis dalam",
+      "ref_id": "Yohanes 19:36",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 33,
       "diatessaron_verse": "20",
       "ref": "John 19:36",
       "arabic_page": 197,
-      "text": "Kitab Suci: \"Tidak ada tulang-Nya yang akan dipatahkan.\""
+      "text": "Kitab Suci: \"Tidak ada tulang-Nya yang akan dipatahkan.\"",
+      "ref_id": "Yohanes 19:36",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 34,
       "diatessaron_verse": "20",
       "ref": "John 19:37",
       "arabic_page": 197,
-      "text": "Dan ada pula nas yang mengatakan: \"Mereka akan memandang kepada Dia yang telah mereka tikam.\""
+      "text": "Dan ada pula nas yang mengatakan: \"Mereka akan memandang kepada Dia yang telah mereka tikam.\"",
+      "ref_id": "Yohanes 19:37",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 35,
       "diatessaron_verse": "21",
       "ref": "Matthew 27:55",
       "arabic_page": 197,
-      "text": "Dan ada di situ banyak perempuan yang melihat dari jauh, yaitu perempuan-perempuan yang mengikuti Yesus dari Galilea untuk melayani Dia."
+      "text": "Dan ada di situ banyak perempuan yang melihat dari jauh, yaitu perempuan-perempuan yang mengikuti Yesus dari Galilea untuk melayani Dia.",
+      "ref_id": "Matius 27:55",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 20
     },
     {
       "id": 36,
       "diatessaron_verse": "22",
       "ref": "Mark 15:40b",
       "arabic_page": 197,
-      "text": "di antaranya Maria Magdalena, Maria ibu Yakobus Muda dan"
+      "text": "di antaranya Maria Magdalena, Maria ibu Yakobus Muda dan",
+      "ref_id": "Markus 15:40b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 9
     },
     {
       "id": 37,
       "diatessaron_verse": "23",
       "ref": "Mark 15:40b",
       "arabic_page": 198,
-      "text": "Yoses,"
+      "text": "Yoses,",
+      "ref_id": "Markus 15:40b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 1
     },
     {
       "id": 38,
       "diatessaron_verse": "23",
       "ref": "Matthew 27:56",
       "arabic_page": 198,
-      "text": "dan ibu anak-anak Zebedeus."
+      "text": "dan ibu anak-anak Zebedeus.",
+      "ref_id": "Matius 27:56",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 39,
       "diatessaron_verse": "23",
       "ref": "Mark 15:40c",
       "arabic_page": 198,
-      "text": "serta Salome."
+      "text": "serta Salome.",
+      "ref_id": "Markus 15:40c",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 2
     },
     {
       "id": 40,
       "diatessaron_verse": "23",
       "ref": "Mark 15:41b",
       "arabic_page": 198,
-      "text": "Dan ada juga di situ banyak perempuan lain yang telah datang ke Yerusalem bersama-sama dengan Yesus."
+      "text": "Dan ada juga di situ banyak perempuan lain yang telah datang ke Yerusalem bersama-sama dengan Yesus.",
+      "ref_id": "Markus 15:41b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 16
     },
     {
       "id": 41,
       "diatessaron_verse": "23",
       "ref": "Luke 23:49b",
       "arabic_page": 198,
-      "text": "dan melihat semuanya itu."
+      "text": "dan melihat semuanya itu.",
+      "ref_id": "Lukas 23:49b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 42,
       "diatessaron_verse": "24",
       "ref": "Mark 15:42",
       "arabic_page": 198,
-      "text": "Sementara itu hari mulai malam, dan hari itu adalah hari persiapan, yaitu hari menjelang"
+      "text": "Sementara itu hari mulai malam, dan hari itu adalah hari persiapan, yaitu hari menjelang",
+      "ref_id": "Markus 15:42",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 14
     },
     {
       "id": 43,
       "diatessaron_verse": "25",
       "ref": "Mark 15:42",
       "arabic_page": 198,
-      "text": "Sabat."
+      "text": "Sabat.",
+      "ref_id": "Markus 15:42",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 1
     },
     {
       "id": 44,
       "diatessaron_verse": "25",
       "ref": "Matthew 27:57a",
       "arabic_page": 198,
-      "text": "Menjelang malam datanglah seorang kaya, orang Arimatea,"
+      "text": "Menjelang malam datanglah seorang kaya, orang Arimatea,",
+      "ref_id": "Matius 27:57a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 45,
       "diatessaron_verse": "25",
       "ref": "Luke 23:51b",
       "arabic_page": 198,
-      "text": "sebuah kota Yahudi,"
+      "text": "sebuah kota Yahudi,",
+      "ref_id": "Lukas 23:51b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 46,
       "diatessaron_verse": "25",
       "ref": "Luke 23:50a",
       "arabic_page": 198,
-      "text": "seorang yang bernama Yusuf."
+      "text": "seorang yang bernama Yusuf.",
+      "ref_id": "Lukas 23:50a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 47,
       "diatessaron_verse": "25",
       "ref": "Luke 23:50cb",
       "arabic_page": 198,
-      "text": "dan seorang yang baik lagi benar."
+      "text": "dan seorang yang baik lagi benar.",
+      "ref_id": "Lukas 23:50cb",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 48,
       "diatessaron_verse": "25",
       "ref": "John 19:38b",
       "arabic_page": 198,
-      "text": "ia murid Yesus, tetapi"
+      "text": "ia murid Yesus, tetapi",
+      "ref_id": "Yohanes 19:38b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 49,
       "diatessaron_verse": "26",
       "ref": "John 19:38b",
       "arabic_page": 198,
-      "text": "sembunyi-sembunyi karena takut kepada orang-orang Yahudi"
+      "text": "sembunyi-sembunyi karena takut kepada orang-orang Yahudi",
+      "ref_id": "Yohanes 19:38b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 50,
       "diatessaron_verse": "26",
       "ref": "Luke 23:51a",
       "arabic_page": 198,
-      "text": "Ia tidak setuju dengan"
+      "text": "Ia tidak setuju dengan",
+      "ref_id": "Lukas 23:51a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 51,
       "diatessaron_verse": "27",
       "ref": "Luke 23:51a",
       "arabic_page": 198,
-      "text": "putusan dan tindakan Majelis itu."
+      "text": "putusan dan tindakan Majelis itu.",
+      "ref_id": "Lukas 23:51a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 52,
       "diatessaron_verse": "27",
       "ref": "Luke 23:51c",
       "arabic_page": 198,
-      "text": "dan ia menanti-nantikan Kerajaan Allah."
+      "text": "dan ia menanti-nantikan Kerajaan Allah.",
+      "ref_id": "Lukas 23:51c",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 53,
       "diatessaron_verse": "27",
       "ref": "Mark 15:43",
       "arabic_page": 198,
-      "text": "b memberanikan diri menghadap Pilatus dan meminta mayat"
+      "text": "b memberanikan diri menghadap Pilatus dan meminta mayat",
+      "ref_id": "Markus 15:43",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 54,
       "diatessaron_verse": "28",
       "ref": "Mark 15:43",
       "arabic_page": 198,
-      "text": "Yesus."
+      "text": "Yesus.",
+      "ref_id": "Markus 15:43",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 1
     },
     {
       "id": 55,
       "diatessaron_verse": "28",
       "ref": "Mark 15:44",
       "arabic_page": 198,
-      "text": "Pilatus heran waktu mendengar bahwa Yesus sudah mati. Maka ia memanggil kepala"
+      "text": "Pilatus heran waktu mendengar bahwa Yesus sudah mati. Maka ia memanggil kepala",
+      "ref_id": "Markus 15:44",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 12
     },
     {
       "id": 56,
       "diatessaron_verse": "29",
       "ref": "Mark 15:44",
       "arabic_page": 198,
-      "text": "pasukan dan bertanya kepadanya apakah Yesus sudah mati."
+      "text": "pasukan dan bertanya kepadanya apakah Yesus sudah mati.",
+      "ref_id": "Markus 15:44",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 57,
       "diatessaron_verse": "29",
       "ref": "Mark 15:45",
       "arabic_page": 198,
-      "text": "Sesudah"
+      "text": "Sesudah",
+      "ref_id": "Markus 15:45",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 1
     },
     {
       "id": 58,
       "diatessaron_verse": "30",
       "ref": "Mark 15:45",
       "arabic_page": 198,
-      "text": "didengarnya keterangan kepala pasukan, ia berkenan memberikan mayat itu kepada Yusuf."
+      "text": "didengarnya keterangan kepala pasukan, ia berkenan memberikan mayat itu kepada Yusuf.",
+      "ref_id": "Markus 15:45",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 59,
       "diatessaron_verse": "30",
       "ref": "Mark 15:46a",
       "arabic_page": 198,
-      "text": "Yusufpun membeli"
+      "text": "Yusufpun membeli",
+      "ref_id": "Markus 15:46a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 2
     },
     {
       "id": 60,
       "diatessaron_verse": "30",
       "ref": "Matthew 27:59",
       "arabic_page": 198,
-      "text": "kain lenan yang putih bersih,"
+      "text": "kain lenan yang putih bersih,",
+      "ref_id": "Matius 27:59",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 61,
       "diatessaron_verse": "30",
       "ref": "Mark 15:46b",
       "arabic_page": 198,
-      "text": "kemudian ia menurunkan mayat Yesus dari salib dan"
+      "text": "kemudian ia menurunkan mayat Yesus dari salib dan",
+      "ref_id": "Markus 15:46b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 62,
       "diatessaron_verse": "31",
       "ref": "Mark 15:46b",
       "arabic_page": 198,
-      "text": "mengapaninya dengan kain lenan itu."
+      "text": "mengapaninya dengan kain lenan itu.",
+      "ref_id": "Markus 15:46b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 63,
       "diatessaron_verse": "31",
       "ref": "John 19:39",
       "arabic_page": 198,
-      "text": "Juga Nikodemus datang ke situ. Dialah yang mula-mula datang waktu malam kepada Yesus. Ia membawa campuran minyak"
+      "text": "Juga Nikodemus datang ke situ. Dialah yang mula-mula datang waktu malam kepada Yesus. Ia membawa campuran minyak",
+      "ref_id": "Yohanes 19:39",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     },
     {
       "id": 64,
       "diatessaron_verse": "32",
       "ref": "John 19:39",
       "arabic_page": 198,
-      "text": "mur dengan minyak gaharu, kira-kira lima puluh kati beratnya."
+      "text": "mur dengan minyak gaharu, kira-kira lima puluh kati beratnya.",
+      "ref_id": "Yohanes 19:39",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 65,
       "diatessaron_verse": "32",
       "ref": "John 19:40",
       "arabic_page": 198,
-      "text": "Mereka mengambil mayat Yesus, mengapaninya dengan kain lenan dan membubuhinya dengan rempah-rempah menurut adat orang Yahudi bila menguburkan mayat."
+      "text": "Mereka mengambil mayat Yesus, mengapaninya dengan kain lenan dan membubuhinya dengan rempah-rempah menurut adat orang Yahudi bila menguburkan mayat.",
+      "ref_id": "Yohanes 19:40",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 66,
       "diatessaron_verse": "33",
       "ref": "John 19:41",
       "arabic_page": 198,
-      "text": "Dekat tempat di mana Yesus disalibkan ada suatu taman dan dalam taman itu ada"
+      "text": "Dekat tempat di mana Yesus disalibkan ada suatu taman dan dalam taman itu ada",
+      "ref_id": "Yohanes 19:41",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 67,
       "diatessaron_verse": "34",
       "ref": "John 19:41",
       "arabic_page": 198,
-      "text": "suatu kubur baru yang di dalamnya belum pernah dimakamkan seseorang."
+      "text": "suatu kubur baru yang di dalamnya belum pernah dimakamkan seseorang.",
+      "ref_id": "Yohanes 19:41",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 68,
       "diatessaron_verse": "34",
       "ref": "John 19:42",
       "arabic_page": 198,
-      "text": "Karena hari itu hari persiapan orang Yahudi, sedang kubur itu tidak jauh letaknya, maka mereka meletakkan mayat"
+      "text": "Karena hari itu hari persiapan orang Yahudi, sedang kubur itu tidak jauh letaknya, maka mereka meletakkan mayat",
+      "ref_id": "Yohanes 19:42",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     },
     {
       "id": 69,
       "diatessaron_verse": "35",
       "ref": "John 19:42",
       "arabic_page": 198,
-      "text": "Yesus ke situ."
+      "text": "Yesus ke situ.",
+      "ref_id": "Yohanes 19:42",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 70,
       "diatessaron_verse": "35",
       "ref": "Matthew 27:60b",
       "arabic_page": 198,
-      "text": "dan sesudah menggulingkan sebuah batu besar ke pintu kubur itu,"
+      "text": "dan sesudah menggulingkan sebuah batu besar ke pintu kubur itu,",
+      "ref_id": "Matius 27:60b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 71,
       "diatessaron_verse": "36",
       "ref": "Matthew 27:60b",
       "arabic_page": 198,
-      "text": "pergilah ia."
+      "text": "pergilah ia.",
+      "ref_id": "Matius 27:60b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 72,
       "diatessaron_verse": "36",
       "ref": "Mark 15:47",
       "arabic_page": 198,
-      "text": "Maria Magdalena dan Maria ibu Yoses melihat"
+      "text": "Maria Magdalena dan Maria ibu Yoses melihat",
+      "ref_id": "Markus 15:47",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 73,
       "diatessaron_verse": "37",
       "ref": "Mark 15:47",
       "arabic_page": 199,
-      "text": "di mana Yesus dibaringkan."
+      "text": "di mana Yesus dibaringkan.",
+      "ref_id": "Markus 15:47",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 74,
       "diatessaron_verse": "37",
       "ref": "Matthew 27:61b",
       "arabic_page": 199,
-      "text": "tinggal di situ duduk di depan kubur itu"
+      "text": "tinggal di situ duduk di depan kubur itu",
+      "ref_id": "Matius 27:61b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 75,
       "diatessaron_verse": "37",
       "ref": "Luke 23:55b",
       "arabic_page": 199,
-      "text": "dan mereka melihat kubur itu dan bagaimana"
+      "text": "dan mereka melihat kubur itu dan bagaimana",
+      "ref_id": "Lukas 23:55b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 76,
       "diatessaron_verse": "38",
       "ref": "Luke 23:55b",
       "arabic_page": 199,
-      "text": "mayat-Nya dibaringkan."
+      "text": "mayat-Nya dibaringkan.",
+      "ref_id": "Lukas 23:55b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 77,
       "diatessaron_verse": "38",
       "ref": "Luke 23:56a",
       "arabic_page": 199,
-      "text": "Dan setelah pulang, mereka menyediakan rempah-rempah dan minyak mur."
+      "text": "Dan setelah pulang, mereka menyediakan rempah-rempah dan minyak mur.",
+      "ref_id": "Lukas 23:56a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 78,
       "diatessaron_verse": "39",
       "ref": "Luke 23:56b",
       "arabic_page": 199,
-      "text": "Dan pada hari Sabat mereka beristirahat menurut hukum Taurat,"
+      "text": "Dan pada hari Sabat mereka beristirahat menurut hukum Taurat,",
+      "ref_id": "Lukas 23:56b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 79,
       "diatessaron_verse": "40, 41",
       "ref": "Matthew 27:62b",
       "arabic_page": 199,
-      "text": "datanglah imam-imam kepala dan orang-orang Farisi bersama-sama menghadap Pilatus,"
+      "text": "datanglah imam-imam kepala dan orang-orang Farisi bersama-sama menghadap Pilatus,",
+      "ref_id": "Matius 27:62b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 80,
       "diatessaron_verse": "40, 41",
       "ref": "Matthew 27:6",
       "arabic_page": 199,
-      "text": "3 dan mereka berkata: \"Tuan, kami ingat, bahwa si penyesat itu sewaktu hidup-Nya berkata: Sesudah tiga hari"
+      "text": "3 dan mereka berkata: \"Tuan, kami ingat, bahwa si penyesat itu sewaktu hidup-Nya berkata: Sesudah tiga hari",
+      "ref_id": "Matius 27:6",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 81,
       "diatessaron_verse": "42",
       "ref": "Matthew 27:6",
       "arabic_page": 199,
-      "text": "Aku akan bangkit."
+      "text": "Aku akan bangkit.",
+      "ref_id": "Matius 27:6",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 82,
       "diatessaron_verse": "42",
       "ref": "Matthew 27:64",
       "arabic_page": 199,
-      "text": "Karena itu perintahkanlah untuk menjaga kubur itu sampai hari yang ketiga; jikalau tidak, murid-murid-Nya mungkin datang untuk mencuri Dia, lalu mengatakan kepada rakyat: Ia"
+      "text": "Karena itu perintahkanlah untuk menjaga kubur itu sampai hari yang ketiga; jikalau tidak, murid-murid-Nya mungkin datang untuk mencuri Dia, lalu mengatakan kepada rakyat: Ia",
+      "ref_id": "Matius 27:64",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 24
     },
     {
       "id": 83,
       "diatessaron_verse": "43",
       "ref": "Matthew 27:64",
       "arabic_page": 199,
-      "text": "telah bangkit dari antara orang mati, sehingga penyesatan yang terakhir akan lebih buruk akibatnya dari pada yang pertama.\""
+      "text": "telah bangkit dari antara orang mati, sehingga penyesatan yang terakhir akan lebih buruk akibatnya dari pada yang pertama.\"",
+      "ref_id": "Matius 27:64",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 18
     },
     {
       "id": 84,
       "diatessaron_verse": "43",
       "ref": "Matthew 27:65",
       "arabic_page": 199,
-      "text": "Kata Pilatus kepada mereka: \"Ini penjaga-penjaga bagimu, pergi dan jagalah kubur itu sebaik-baiknya.\""
+      "text": "Kata Pilatus kepada mereka: \"Ini penjaga-penjaga bagimu, pergi dan jagalah kubur itu sebaik-baiknya.\"",
+      "ref_id": "Matius 27:65",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 85,
       "diatessaron_verse": "44",
       "ref": "Matthew 27:66",
       "arabic_page": 199,
-      "text": "Maka pergilah mereka dan dengan bantuan penjaga-penjaga itu mereka memeterai kubur itu dan menjaganya."
+      "text": "Maka pergilah mereka dan dengan bantuan penjaga-penjaga itu mereka memeterai kubur itu dan menjaganya.",
+      "ref_id": "Matius 27:66",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 86,
       "diatessaron_verse": "45",
       "ref": "Matthew 28:1",
       "arabic_page": 199,
-      "text": "Setelah hari Sabat lewat,"
+      "text": "Setelah hari Sabat lewat,",
+      "ref_id": "Matius 28:1",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 87,
       "diatessaron_verse": "46",
       "ref": "Matthew 28:1",
       "arabic_page": 199,
-      "text": "menjelang menyingsingnya fajar pada hari pertama minggu itu, pergilah Maria Magdalena dan Maria yang lain, menengok kubur itu."
+      "text": "menjelang menyingsingnya fajar pada hari pertama minggu itu, pergilah Maria Magdalena dan Maria yang lain, menengok kubur itu.",
+      "ref_id": "Matius 28:1",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 18
     },
     {
       "id": 88,
       "diatessaron_verse": "46",
       "ref": "Luke 24:1b",
       "arabic_page": 199,
-      "text": "membawa"
+      "text": "membawa",
+      "ref_id": "Lukas 24:1b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 89,
       "diatessaron_verse": "47",
       "ref": "Luke 24:1b",
       "arabic_page": 199,
-      "text": "rempah-rempah yang telah disediakan mereka."
+      "text": "rempah-rempah yang telah disediakan mereka.",
+      "ref_id": "Lukas 24:1b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 90,
       "diatessaron_verse": "47",
       "ref": "Mark 16:3",
       "arabic_page": 199,
-      "text": "Mereka berkata seorang kepada yang lain: \"Siapa yang akan"
+      "text": "Mereka berkata seorang kepada yang lain: \"Siapa yang akan",
+      "ref_id": "Markus 16:3",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 9
     },
     {
       "id": 91,
       "diatessaron_verse": "48",
       "ref": "Mark 16:3",
       "arabic_page": 199,
-      "text": "menggulingkan batu itu bagi kita dari pintu kubur?\""
+      "text": "menggulingkan batu itu bagi kita dari pintu kubur?\"",
+      "ref_id": "Markus 16:3",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 92,
       "diatessaron_verse": "48",
       "ref": "Matthew 28:2",
       "arabic_page": 199,
-      "text": "Maka terjadilah gempa bumi yang hebat sebab seorang malaikat Tuhan turun"
+      "text": "Maka terjadilah gempa bumi yang hebat sebab seorang malaikat Tuhan turun",
+      "ref_id": "Matius 28:2",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 93,
       "diatessaron_verse": "49",
       "ref": "Matthew 28:2",
       "arabic_page": 199,
-      "text": "dari langit dan datang ke batu itu dan menggulingkannya lalu duduk di"
+      "text": "dari langit dan datang ke batu itu dan menggulingkannya lalu duduk di",
+      "ref_id": "Matius 28:2",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 94,
       "diatessaron_verse": "50",
       "ref": "Matthew 28:2",
       "arabic_page": 199,
-      "text": "atasnya."
+      "text": "atasnya.",
+      "ref_id": "Matius 28:2",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 95,
       "diatessaron_verse": "50",
       "ref": "Mark 16:4",
       "arabic_page": 199,
-      "text": "Tetapi ketika mereka melihat dari dekat, tampaklah, batu yang memang sangat besar itu sudah terguling,"
+      "text": "Tetapi ketika mereka melihat dari dekat, tampaklah, batu yang memang sangat besar itu sudah terguling,",
+      "ref_id": "Markus 16:4",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 15
     },
     {
       "id": 96,
       "diatessaron_verse": "50",
       "ref": "Matthew 28:3",
       "arabic_page": 199,
-      "text": "Wajahnya bagaikan kilat dan pakaiannya putih bagaikan"
+      "text": "Wajahnya bagaikan kilat dan pakaiannya putih bagaikan",
+      "ref_id": "Matius 28:3",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 97,
       "diatessaron_verse": "51",
       "ref": "Matthew 28:3",
       "arabic_page": 199,
-      "text": "salju."
+      "text": "salju.",
+      "ref_id": "Matius 28:3",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 98,
       "diatessaron_verse": "51",
       "ref": "Matthew 28:4",
       "arabic_page": 199,
-      "text": "Dan penjaga-penjaga itu gentar ketakutan dan menjadi seperti orang-orang mati."
+      "text": "Dan penjaga-penjaga itu gentar ketakutan dan menjadi seperti orang-orang mati.",
+      "ref_id": "Matius 28:4",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 99,
       "diatessaron_verse": "52",
       "ref": "Luke 24:3",
       "arabic_page": 199,
-      "text": "dan setelah masuk mereka tidak menemukan"
+      "text": "dan setelah masuk mereka tidak menemukan",
+      "ref_id": "Lukas 24:3",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 100,
       "diatessaron_verse": "53",
       "ref": "Luke 24:3",
       "arabic_page": 200,
-      "text": "mayat Tuhan Yesus."
+      "text": "mayat Tuhan Yesus.",
+      "ref_id": "Lukas 24:3",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 101,
       "diatessaron_verse": "53",
       "ref": "Mark 16:5b",
       "arabic_page": 200,
-      "text": "dan mereka melihat seorang muda yang memakai jubah putih duduk di sebelah"
+      "text": "dan mereka melihat seorang muda yang memakai jubah putih duduk di sebelah",
+      "ref_id": "Markus 16:5b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 12
     },
     {
       "id": 102,
       "diatessaron_verse": "54",
       "ref": "Mark 16:5b",
       "arabic_page": 200,
-      "text": "kanan. Merekapun sangat terkejut,"
+      "text": "kanan. Merekapun sangat terkejut,",
+      "ref_id": "Markus 16:5b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 103,
       "diatessaron_verse": "54",
       "ref": "Matthew 28:5",
       "arabic_page": 200,
-      "text": "Akan tetapi malaikat itu berkata kepada perempuan-perempuan itu: \"Janganlah kamu takut; sebab aku tahu kamu mencari"
+      "text": "Akan tetapi malaikat itu berkata kepada perempuan-perempuan itu: \"Janganlah kamu takut; sebab aku tahu kamu mencari",
+      "ref_id": "Matius 28:5",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 16
     },
     {
       "id": 104,
       "diatessaron_verse": "54",
       "ref": "Mark 16:6b",
       "arabic_page": 200,
-      "text": "Yesus orang"
+      "text": "Yesus orang",
+      "ref_id": "Markus 16:6b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 2
     },
     {
       "id": 105,
       "diatessaron_verse": "55",
       "ref": "Mark 16:6b",
       "arabic_page": 200,
-      "text": "Nazaret, yang disalibkan itu."
+      "text": "Nazaret, yang disalibkan itu.",
+      "ref_id": "Markus 16:6b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 106,
       "diatessaron_verse": "55",
       "ref": "Matthew 28:6",
       "arabic_page": 200,
-      "text": "Ia tidak ada di sini, sebab Ia telah bangkit, sama seperti yang telah dikatakan-Nya. Mari, lihatlah tempat Ia berbaring."
+      "text": "Ia tidak ada di sini, sebab Ia telah bangkit, sama seperti yang telah dikatakan-Nya. Mari, lihatlah tempat Ia berbaring.",
+      "ref_id": "Matius 28:6",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 19
     }
-  ]
+  ],
+  "title_id": "Penyaliban, Kematian, Mukjizat di Salib & Pemakaman Kristus",
+  "title_en": "The Crucifixion, Death & Burial by Joseph of Arimathea",
+  "epoch_id": 7,
+  "total_words": 946,
+  "arabic_page_range": "p. 197 - p. 200",
+  "arabic_pages": [
+    197,
+    198,
+    199,
+    200
+  ],
+  "stats": {
+    "mat": 34,
+    "mrk": 26,
+    "luk": 18,
+    "yoh": 28,
+    "unk": 0
+  },
+  "footnotes": []
 }

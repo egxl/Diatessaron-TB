@@ -17,589 +17,1018 @@
     "John",
     "Luke"
   ],
-  "total_segments": 83,
-  "diatessaron_verse_range": "1, 2 - Catatan kaki:",
+  "total_segments": 82,
+  "diatessaron_verse_range": "1, 2 - 47",
   "verses": [
     {
       "id": 1,
       "diatessaron_verse": "1, 2",
       "ref": "John 11:17",
       "arabic_page": null,
-      "text": "Maka ketika Yesus tiba, didapati-Nya Lazarus telah empat hari berbaring di dalam kubur."
+      "text": "Maka ketika Yesus tiba, didapati-Nya Lazarus telah empat hari berbaring di dalam kubur.",
+      "ref_id": "Yohanes 11:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 2,
       "diatessaron_verse": "1, 2",
       "ref": "John 11:18",
       "arabic_page": null,
-      "text": "Betania terletak dekat Yerusalem, kira-kira dua mil jauhnya."
+      "text": "Betania terletak dekat Yerusalem, kira-kira dua mil jauhnya.",
+      "ref_id": "Yohanes 11:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 3,
       "diatessaron_verse": "3",
       "ref": "John 11:19",
       "arabic_page": null,
-      "text": "Di situ banyak orang Yahudi telah datang kepada Marta dan Maria untuk menghibur mereka"
+      "text": "Di situ banyak orang Yahudi telah datang kepada Marta dan Maria untuk menghibur mereka",
+      "ref_id": "Yohanes 11:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 4,
       "diatessaron_verse": "4",
       "ref": "John 11:19",
       "arabic_page": null,
-      "text": "[/color]berhubung dengan kematian saudaranya."
+      "text": "[/color]berhubung dengan kematian saudaranya.",
+      "ref_id": "Yohanes 11:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 5,
       "diatessaron_verse": "4",
       "ref": "John 11:20",
       "arabic_page": null,
-      "text": "Ketika Marta mendengar, bahwa Yesus datang, ia pergi"
+      "text": "Ketika Marta mendengar, bahwa Yesus datang, ia pergi",
+      "ref_id": "Yohanes 11:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 6,
       "diatessaron_verse": "5",
       "ref": "John 11:20",
       "arabic_page": null,
-      "text": "mendapatkan-Nya. Tetapi Maria tinggal di rumah."
+      "text": "mendapatkan-Nya. Tetapi Maria tinggal di rumah.",
+      "ref_id": "Yohanes 11:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 7,
       "diatessaron_verse": "5",
       "ref": "John 11:21",
       "arabic_page": null,
-      "text": "Maka kata Marta kepada Yesus: \""
+      "text": "Maka kata Marta kepada Yesus: \"",
+      "ref_id": "Yohanes 11:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 8,
       "diatessaron_verse": "6",
       "ref": "John 11:21",
       "arabic_page": null,
-      "text": "Tuhan, sekiranya Engkau ada di sini, saudaraku pasti tidak mati."
+      "text": "Tuhan, sekiranya Engkau ada di sini, saudaraku pasti tidak mati.",
+      "ref_id": "Yohanes 11:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 9,
       "diatessaron_verse": "6",
       "ref": "John 11:22",
       "arabic_page": null,
-      "text": "Tetapi sekarangpun aku tahu,"
+      "text": "Tetapi sekarangpun aku tahu,",
+      "ref_id": "Yohanes 11:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 10,
       "diatessaron_verse": "7",
       "ref": "John 11:22",
       "arabic_page": null,
-      "text": "bahwa Allah akan memberikan kepada-Mu segala sesuatu yang Engkau minta kepada-Nya.\""
+      "text": "bahwa Allah akan memberikan kepada-Mu segala sesuatu yang Engkau minta kepada-Nya.\"",
+      "ref_id": "Yohanes 11:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 11,
       "diatessaron_verse": "7",
       "ref": "John 11:23",
       "arabic_page": null,
-      "text": "Kata Yesus kepada Marta: \"Saudaramu akan"
+      "text": "Kata Yesus kepada Marta: \"Saudaramu akan",
+      "ref_id": "Yohanes 11:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 12,
       "diatessaron_verse": "8",
       "ref": "John 11:23",
       "arabic_page": null,
-      "text": "bangkit.\""
+      "text": "bangkit.\"",
+      "ref_id": "Yohanes 11:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 13,
       "diatessaron_verse": "8",
       "ref": "John 11:24",
       "arabic_page": null,
-      "text": "Kata Marta kepada-Nya: \"Aku tahu bahwa ia akan bangkit pada waktu orang-orang bangkit pada akhir zaman.\""
+      "text": "Kata Marta kepada-Nya: \"Aku tahu bahwa ia akan bangkit pada waktu orang-orang bangkit pada akhir zaman.\"",
+      "ref_id": "Yohanes 11:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 14,
       "diatessaron_verse": "9",
       "ref": "John 11:25",
       "arabic_page": null,
-      "text": "Jawab Yesus: \"Akulah kebangkitan dan hidup; barangsiapa percaya"
+      "text": "Jawab Yesus: \"Akulah kebangkitan dan hidup; barangsiapa percaya",
+      "ref_id": "Yohanes 11:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 15,
       "diatessaron_verse": "10",
       "ref": "John 11:25",
       "arabic_page": 144,
-      "text": "kepada-Ku, ia akan hidup walaupun ia sudah mati,"
+      "text": "kepada-Ku, ia akan hidup walaupun ia sudah mati,",
+      "ref_id": "Yohanes 11:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 16,
       "diatessaron_verse": "10",
       "ref": "John 11:26",
       "arabic_page": 144,
-      "text": "dan setiap orang yang hidup dan yang percaya"
+      "text": "dan setiap orang yang hidup dan yang percaya",
+      "ref_id": "Yohanes 11:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 17,
       "diatessaron_verse": "11",
       "ref": "John 11:26",
       "arabic_page": 144,
-      "text": "kepada-Ku, tidak akan mati selama-lamanya. Percayakah engkau akan hal ini?\""
+      "text": "kepada-Ku, tidak akan mati selama-lamanya. Percayakah engkau akan hal ini?\"",
+      "ref_id": "Yohanes 11:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 18,
       "diatessaron_verse": "11",
       "ref": "John 11:27",
       "arabic_page": 144,
-      "text": "Jawab Marta: \"Ya, Tuhan, aku percaya, bahwa Engkaulah Mesias, Anak Allah, Dia yang akan datang ke dalam"
+      "text": "Jawab Marta: \"Ya, Tuhan, aku percaya, bahwa Engkaulah Mesias, Anak Allah, Dia yang akan datang ke dalam",
+      "ref_id": "Yohanes 11:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     },
     {
       "id": 19,
       "diatessaron_verse": "12",
       "ref": "John 11:27",
       "arabic_page": 144,
-      "text": "dunia.\""
+      "text": "dunia.\"",
+      "ref_id": "Yohanes 11:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 20,
       "diatessaron_verse": "12",
       "ref": "John 11:28",
       "arabic_page": 144,
-      "text": "Dan sesudah berkata demikian ia pergi memanggil saudaranya Maria dan berbisik"
+      "text": "Dan sesudah berkata demikian ia pergi memanggil saudaranya Maria dan berbisik",
+      "ref_id": "Yohanes 11:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 21,
       "diatessaron_verse": "13",
       "ref": "John 11:28",
       "arabic_page": 144,
-      "text": "kepadanya: \"Guru ada di sana dan Ia memanggil engkau.\""
+      "text": "kepadanya: \"Guru ada di sana dan Ia memanggil engkau.\"",
+      "ref_id": "Yohanes 11:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 22,
       "diatessaron_verse": "13",
       "ref": "John 11:29",
       "arabic_page": 144,
-      "text": "Mendengar"
+      "text": "Mendengar",
+      "ref_id": "Yohanes 11:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 23,
       "diatessaron_verse": "14",
       "ref": "John 11:29",
       "arabic_page": 144,
-      "text": "itu Maria segera bangkit lalu pergi mendapatkan Yesus."
+      "text": "itu Maria segera bangkit lalu pergi mendapatkan Yesus.",
+      "ref_id": "Yohanes 11:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 24,
       "diatessaron_verse": "14",
       "ref": "John 11:30",
       "arabic_page": 144,
-      "text": "Tetapi waktu itu Yesus belum sampai ke dalam"
+      "text": "Tetapi waktu itu Yesus belum sampai ke dalam",
+      "ref_id": "Yohanes 11:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 25,
       "diatessaron_verse": "15",
       "ref": "John 11:30",
       "arabic_page": 144,
-      "text": "kampung itu. Ia masih berada di tempat Marta menjumpai Dia."
+      "text": "kampung itu. Ia masih berada di tempat Marta menjumpai Dia.",
+      "ref_id": "Yohanes 11:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 26,
       "diatessaron_verse": "15",
       "ref": "John 11:31",
       "arabic_page": 144,
-      "text": "Ketika orang-orang Yahudi yang bersama-sama dengan Maria di rumah itu untuk menghiburnya, melihat bahwa Maria segera bangkit dan pergi ke luar, mereka mengikutinya, karena mereka menyangka bahwa ia pergi ke"
+      "text": "Ketika orang-orang Yahudi yang bersama-sama dengan Maria di rumah itu untuk menghiburnya, melihat bahwa Maria segera bangkit dan pergi ke luar, mereka mengikutinya, karena mereka menyangka bahwa ia pergi ke",
+      "ref_id": "Yohanes 11:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 30
     },
     {
       "id": 27,
       "diatessaron_verse": "16",
       "ref": "John 11:31",
       "arabic_page": 144,
-      "text": "kubur untuk meratap di situ."
+      "text": "kubur untuk meratap di situ.",
+      "ref_id": "Yohanes 11:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 28,
       "diatessaron_verse": "16",
       "ref": "John 11:32",
       "arabic_page": 144,
-      "text": "Setibanya Maria di tempat Yesus berada dan melihat Dia, tersungkurlah ia di depan kaki-Nya dan berkata kepada-Nya: \"Tuhan, sekiranya Engkau ada di sini, saudaraku"
+      "text": "Setibanya Maria di tempat Yesus berada dan melihat Dia, tersungkurlah ia di depan kaki-Nya dan berkata kepada-Nya: \"Tuhan, sekiranya Engkau ada di sini, saudaraku",
+      "ref_id": "Yohanes 11:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 24
     },
     {
       "id": 29,
       "diatessaron_verse": "17",
       "ref": "John 11:32",
       "arabic_page": 144,
-      "text": "pasti tidak mati.\""
+      "text": "pasti tidak mati.\"",
+      "ref_id": "Yohanes 11:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 30,
       "diatessaron_verse": "17",
       "ref": "John 11:33",
       "arabic_page": 144,
-      "text": "Ketika Yesus melihat Maria menangis dan juga orang-orang Yahudi yang datang"
+      "text": "Ketika Yesus melihat Maria menangis dan juga orang-orang Yahudi yang datang",
+      "ref_id": "Yohanes 11:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 31,
       "diatessaron_verse": "18",
       "ref": "John 11:33",
       "arabic_page": 144,
-      "text": "bersama-sama dia, maka masygullah hati-Nya. Ia sangat terharu dan berkata:"
+      "text": "bersama-sama dia, maka masygullah hati-Nya. Ia sangat terharu dan berkata:",
+      "ref_id": "Yohanes 11:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 32,
       "diatessaron_verse": "18",
       "ref": "John 11:34",
       "arabic_page": 144,
-      "text": "\"Di"
+      "text": "\"Di",
+      "ref_id": "Yohanes 11:34",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 33,
       "diatessaron_verse": "19",
       "ref": "John 11:34",
       "arabic_page": 144,
-      "text": "manakah dia kamu baringkan?\" Jawab mereka: \"Tuhan, marilah dan lihatlah!\""
+      "text": "manakah dia kamu baringkan?\" Jawab mereka: \"Tuhan, marilah dan lihatlah!\"",
+      "ref_id": "Yohanes 11:34",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 34,
       "diatessaron_verse": "19",
       "ref": "John 11:35",
       "arabic_page": 144,
-      "text": "Maka"
+      "text": "Maka",
+      "ref_id": "Yohanes 11:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 35,
       "diatessaron_verse": "20",
       "ref": "John 11:35",
       "arabic_page": 144,
-      "text": "menangislah Yesus."
+      "text": "menangislah Yesus.",
+      "ref_id": "Yohanes 11:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 36,
       "diatessaron_verse": "20",
       "ref": "John 11:36",
       "arabic_page": 144,
-      "text": "Kata orang-orang Yahudi: \"Lihatlah, betapa kasih-Nya"
+      "text": "Kata orang-orang Yahudi: \"Lihatlah, betapa kasih-Nya",
+      "ref_id": "Yohanes 11:36",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 37,
       "diatessaron_verse": "21",
       "ref": "John 11:36",
       "arabic_page": 144,
-      "text": "kepadanya!\""
+      "text": "kepadanya!\"",
+      "ref_id": "Yohanes 11:36",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 38,
       "diatessaron_verse": "21",
       "ref": "John 11:37",
       "arabic_page": 144,
-      "text": "Tetapi beberapa orang di antaranya berkata: \"Ia yang memelekkan mata"
+      "text": "Tetapi beberapa orang di antaranya berkata: \"Ia yang memelekkan mata",
+      "ref_id": "Yohanes 11:37",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 39,
       "diatessaron_verse": "22",
       "ref": "John 11:37",
       "arabic_page": 144,
-      "text": "orang buta, tidak sanggupkah Ia bertindak, sehingga orang ini tidak mati?\""
+      "text": "orang buta, tidak sanggupkah Ia bertindak, sehingga orang ini tidak mati?\"",
+      "ref_id": "Yohanes 11:37",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 40,
       "diatessaron_verse": "22",
       "ref": "John 11:38",
       "arabic_page": 144,
-      "text": "Maka masygullah pula hati Yesus, lalu Ia pergi ke kubur itu. Kubur itu adalah sebuah gua"
+      "text": "Maka masygullah pula hati Yesus, lalu Ia pergi ke kubur itu. Kubur itu adalah sebuah gua",
+      "ref_id": "Yohanes 11:38",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 41,
       "diatessaron_verse": "23",
       "ref": "John 11:38",
       "arabic_page": 144,
-      "text": "yang ditutup dengan batu."
+      "text": "yang ditutup dengan batu.",
+      "ref_id": "Yohanes 11:38",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 42,
       "diatessaron_verse": "23",
       "ref": "John 11:39",
       "arabic_page": 144,
-      "text": "Kata Yesus: \"Angkat batu itu!\" Marta, saudara orang yang meninggal itu, berkata kepada-Nya: \"Tuhan, ia sudah"
+      "text": "Kata Yesus: \"Angkat batu itu!\" Marta, saudara orang yang meninggal itu, berkata kepada-Nya: \"Tuhan, ia sudah",
+      "ref_id": "Yohanes 11:39",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 43,
       "diatessaron_verse": "24",
       "ref": "John 11:39",
       "arabic_page": 144,
-      "text": "berbau, sebab sudah empat hari ia mati.\""
+      "text": "berbau, sebab sudah empat hari ia mati.\"",
+      "ref_id": "Yohanes 11:39",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 44,
       "diatessaron_verse": "24",
       "ref": "John 11:40",
       "arabic_page": 144,
-      "text": "Jawab Yesus: \"Bukankah sudah Kukatakan"
+      "text": "Jawab Yesus: \"Bukankah sudah Kukatakan",
+      "ref_id": "Yohanes 11:40",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 45,
       "diatessaron_verse": "25",
       "ref": "John 11:40",
       "arabic_page": 145,
-      "text": "kepadamu: Jikalau engkau percaya engkau akan melihat kemuliaan Allah?\""
+      "text": "kepadamu: Jikalau engkau percaya engkau akan melihat kemuliaan Allah?\"",
+      "ref_id": "Yohanes 11:40",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 46,
       "diatessaron_verse": "25",
       "ref": "John 11:41",
       "arabic_page": 145,
-      "text": "Maka mereka mengangkat batu itu. Lalu Yesus menengadah ke atas dan berkata: \"Bapa,"
+      "text": "Maka mereka mengangkat batu itu. Lalu Yesus menengadah ke atas dan berkata: \"Bapa,",
+      "ref_id": "Yohanes 11:41",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 47,
       "diatessaron_verse": "26",
       "ref": "John 11:41",
       "arabic_page": 145,
-      "text": "Aku mengucap syukur kepada-Mu, karena Engkau telah mendengarkan Aku."
+      "text": "Aku mengucap syukur kepada-Mu, karena Engkau telah mendengarkan Aku.",
+      "ref_id": "Yohanes 11:41",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 48,
       "diatessaron_verse": "26",
       "ref": "John 11:42",
       "arabic_page": 145,
-      "text": "Aku tahu, bahwa Engkau selalu mendengarkan Aku, tetapi oleh karena orang banyak yang berdiri di sini mengelilingi Aku, Aku mengatakannya, supaya mereka"
+      "text": "Aku tahu, bahwa Engkau selalu mendengarkan Aku, tetapi oleh karena orang banyak yang berdiri di sini mengelilingi Aku, Aku mengatakannya, supaya mereka",
+      "ref_id": "Yohanes 11:42",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 22
     },
     {
       "id": 49,
       "diatessaron_verse": "27",
       "ref": "John 11:42",
       "arabic_page": 145,
-      "text": "percaya, bahwa Engkaulah yang telah mengutus Aku.\""
+      "text": "percaya, bahwa Engkaulah yang telah mengutus Aku.\"",
+      "ref_id": "Yohanes 11:42",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 50,
       "diatessaron_verse": "27",
       "ref": "John 11:43",
       "arabic_page": 145,
-      "text": "Dan sesudah berkata demikian, berserulah Ia dengan"
+      "text": "Dan sesudah berkata demikian, berserulah Ia dengan",
+      "ref_id": "Yohanes 11:43",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 51,
       "diatessaron_verse": "28",
       "ref": "John 11:43",
       "arabic_page": 145,
-      "text": "suara keras: \"Lazarus, marilah ke luar!\""
+      "text": "suara keras: \"Lazarus, marilah ke luar!\"",
+      "ref_id": "Yohanes 11:43",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 52,
       "diatessaron_verse": "28",
       "ref": "John 11:44",
       "arabic_page": 145,
-      "text": "Orang yang telah mati itu datang ke luar, kaki dan tangannya masih terikat dengan kain kapan dan mukanya tertutup dengan kain peluh. Kata Yesus kepada mereka: \"Bukalah kain-kain itu dan biarkan ia pergi.\""
+      "text": "Orang yang telah mati itu datang ke luar, kaki dan tangannya masih terikat dengan kain kapan dan mukanya tertutup dengan kain peluh. Kata Yesus kepada mereka: \"Bukalah kain-kain itu dan biarkan ia pergi.\"",
+      "ref_id": "Yohanes 11:44",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 33
     },
     {
       "id": 53,
       "diatessaron_verse": "29",
       "ref": "John 11:45",
       "arabic_page": 145,
-      "text": "Banyak di antara orang-orang Yahudi yang datang melawat Maria dan yang menyaksikan sendiri apa yang telah dibuat Yesus,"
+      "text": "Banyak di antara orang-orang Yahudi yang datang melawat Maria dan yang menyaksikan sendiri apa yang telah dibuat Yesus,",
+      "ref_id": "Yohanes 11:45",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 54,
       "diatessaron_verse": "30",
       "ref": "John 11:45",
       "arabic_page": 145,
-      "text": "percaya kepada-Nya."
+      "text": "percaya kepada-Nya.",
+      "ref_id": "Yohanes 11:45",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 55,
       "diatessaron_verse": "30",
       "ref": "John 11:46",
       "arabic_page": 145,
-      "text": "Tetapi ada yang pergi kepada orang-orang Farisi dan menceriterakan kepada mereka, apa yang telah dibuat Yesus itu."
+      "text": "Tetapi ada yang pergi kepada orang-orang Farisi dan menceriterakan kepada mereka, apa yang telah dibuat Yesus itu.",
+      "ref_id": "Yohanes 11:46",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     },
     {
       "id": 56,
       "diatessaron_verse": "31",
       "ref": "John 11:47",
       "arabic_page": 145,
-      "text": "Lalu imam-imam kepala dan orang-orang Farisi memanggil Mahkamah Agama untuk berkumpul dan mereka berkata: \"Apakah yang harus kita buat?"
+      "text": "Lalu imam-imam kepala dan orang-orang Farisi memanggil Mahkamah Agama untuk berkumpul dan mereka berkata: \"Apakah yang harus kita buat?",
+      "ref_id": "Yohanes 11:47",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 57,
       "diatessaron_verse": "32",
       "ref": "John 11:47",
       "arabic_page": 145,
-      "text": "Sebab orang itu membuat banyak mujizat."
+      "text": "Sebab orang itu membuat banyak mujizat.",
+      "ref_id": "Yohanes 11:47",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 58,
       "diatessaron_verse": "32",
       "ref": "John 11:48",
       "arabic_page": 145,
-      "text": "Apabila kita biarkan Dia, maka semua orang akan percaya"
+      "text": "Apabila kita biarkan Dia, maka semua orang akan percaya",
+      "ref_id": "Yohanes 11:48",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 59,
       "diatessaron_verse": "33",
       "ref": "John 11:48",
       "arabic_page": 145,
-      "text": "kepada-Nya dan orang-orang Roma akan datang dan akan merampas tempat suci kita serta bangsa kita.\""
+      "text": "kepada-Nya dan orang-orang Roma akan datang dan akan merampas tempat suci kita serta bangsa kita.\"",
+      "ref_id": "Yohanes 11:48",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 60,
       "diatessaron_verse": "33",
       "ref": "John 11:49",
       "arabic_page": 145,
-      "text": "Tetapi seorang di antara mereka, yaitu Kayafas, Imam Besar pada tahun itu, berkata kepada mereka: \"Kamu tidak tahu apa-apa,"
+      "text": "Tetapi seorang di antara mereka, yaitu Kayafas, Imam Besar pada tahun itu, berkata kepada mereka: \"Kamu tidak tahu apa-apa,",
+      "ref_id": "Yohanes 11:49",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 61,
       "diatessaron_verse": "34",
       "ref": "John 11:50",
       "arabic_page": 145,
-      "text": "dan kamu tidak insaf, bahwa lebih berguna bagimu, jika"
+      "text": "dan kamu tidak insaf, bahwa lebih berguna bagimu, jika",
+      "ref_id": "Yohanes 11:50",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 62,
       "diatessaron_verse": "35",
       "ref": "John 11:50",
       "arabic_page": 145,
-      "text": "satu orang mati untuk bangsa kita dari pada seluruh bangsa kita ini binasa.\""
+      "text": "satu orang mati untuk bangsa kita dari pada seluruh bangsa kita ini binasa.\"",
+      "ref_id": "Yohanes 11:50",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 63,
       "diatessaron_verse": "35",
       "ref": "John 11:51",
       "arabic_page": 145,
-      "text": "Hal itu dikatakannya bukan dari dirinya sendiri, tetapi sebagai Imam Besar pada tahun itu ia"
+      "text": "Hal itu dikatakannya bukan dari dirinya sendiri, tetapi sebagai Imam Besar pada tahun itu ia",
+      "ref_id": "Yohanes 11:51",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 64,
       "diatessaron_verse": "36",
       "ref": "John 11:51",
       "arabic_page": 145,
-      "text": "bernubuat, bahwa Yesus akan mati untuk bangsa itu,"
+      "text": "bernubuat, bahwa Yesus akan mati untuk bangsa itu,",
+      "ref_id": "Yohanes 11:51",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 65,
       "diatessaron_verse": "36",
       "ref": "John 11:52",
       "arabic_page": 145,
-      "text": "dan bukan untuk bangsa itu saja, tetapi juga untuk mengumpulkan dan mempersatukan anak-anak Allah yang tercerai-berai."
+      "text": "dan bukan untuk bangsa itu saja, tetapi juga untuk mengumpulkan dan mempersatukan anak-anak Allah yang tercerai-berai.",
+      "ref_id": "Yohanes 11:52",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 66,
       "diatessaron_verse": "37",
       "ref": "John 11:53",
       "arabic_page": 145,
-      "text": "Mulai dari hari itu mereka sepakat untuk membunuh Dia."
+      "text": "Mulai dari hari itu mereka sepakat untuk membunuh Dia.",
+      "ref_id": "Yohanes 11:53",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 67,
       "diatessaron_verse": "38",
       "ref": "John 11:54",
       "arabic_page": 146,
-      "text": "Karena itu Yesus tidak tampil lagi di muka umum di antara orang-orang Yahudi, Ia berangkat dari situ ke daerah dekat padang gurun, ke sebuah kota yang bernama Efraim, dan di situ Ia"
+      "text": "Karena itu Yesus tidak tampil lagi di muka umum di antara orang-orang Yahudi, Ia berangkat dari situ ke daerah dekat padang gurun, ke sebuah kota yang bernama Efraim, dan di situ Ia",
+      "ref_id": "Yohanes 11:54",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 32
     },
     {
       "id": 68,
       "diatessaron_verse": "39",
       "ref": "John 11:54",
       "arabic_page": 146,
-      "text": "tinggal bersama-sama murid-murid-Nya."
+      "text": "tinggal bersama-sama murid-murid-Nya.",
+      "ref_id": "Yohanes 11:54",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 69,
       "diatessaron_verse": "39",
       "ref": "John 11:55",
       "arabic_page": 146,
-      "text": "Pada waktu itu hari raya Paskah orang Yahudi sudah dekat dan banyak orang dari negeri itu"
+      "text": "Pada waktu itu hari raya Paskah orang Yahudi sudah dekat dan banyak orang dari negeri itu",
+      "ref_id": "Yohanes 11:55",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 70,
       "diatessaron_verse": "40",
       "ref": "John 11:55",
       "arabic_page": 146,
-      "text": "berangkat ke Yerusalem untuk menyucikan diri sebelum Paskah itu."
+      "text": "berangkat ke Yerusalem untuk menyucikan diri sebelum Paskah itu.",
+      "ref_id": "Yohanes 11:55",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 71,
       "diatessaron_verse": "40",
       "ref": "John 11:56",
       "arabic_page": 146,
-      "text": "Mereka mencari Yesus dan sambil berdiri di dalam Bait Allah, mereka berkata seorang kepada yang lain: \"Bagaimana pendapatmu?"
+      "text": "Mereka mencari Yesus dan sambil berdiri di dalam Bait Allah, mereka berkata seorang kepada yang lain: \"Bagaimana pendapatmu?",
+      "ref_id": "Yohanes 11:56",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 72,
       "diatessaron_verse": "41",
       "ref": "John 11:56",
       "arabic_page": 146,
-      "text": "Akan datang jugakah Ia ke pesta?\""
+      "text": "Akan datang jugakah Ia ke pesta?\"",
+      "ref_id": "Yohanes 11:56",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 73,
       "diatessaron_verse": "41",
       "ref": "John 11:57",
       "arabic_page": 146,
-      "text": "Sementara itu imam-imam kepala dan orang-orang Farisi telah memberikan perintah supaya setiap orang yang tahu di mana Dia berada memberitahukannya, agar mereka dapat menangkap Dia."
+      "text": "Sementara itu imam-imam kepala dan orang-orang Farisi telah memberikan perintah supaya setiap orang yang tahu di mana Dia berada memberitahukannya, agar mereka dapat menangkap Dia.",
+      "ref_id": "Yohanes 11:57",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 25
     },
     {
       "id": 74,
       "diatessaron_verse": "42",
       "ref": "Luke 9:51",
       "arabic_page": 146,
-      "text": "Ketika hampir genap waktunya Yesus diangkat ke sorga,"
+      "text": "Ketika hampir genap waktunya Yesus diangkat ke sorga,",
+      "ref_id": "Lukas 9:51",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 75,
       "diatessaron_verse": "43",
       "ref": "Luke 9:51",
       "arabic_page": 146,
-      "text": "Ia mengarahkan pandangan-Nya untuk pergi ke Yerusalem,"
+      "text": "Ia mengarahkan pandangan-Nya untuk pergi ke Yerusalem,",
+      "ref_id": "Lukas 9:51",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 76,
       "diatessaron_verse": "43",
       "ref": "Luke 9:52",
       "arabic_page": 146,
-      "text": "dan Ia mengirim beberapa utusan mendahului Dia. Mereka itu pergi, lalu"
+      "text": "dan Ia mengirim beberapa utusan mendahului Dia. Mereka itu pergi, lalu",
+      "ref_id": "Lukas 9:52",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 77,
       "diatessaron_verse": "44",
       "ref": "Luke 9:52",
       "arabic_page": 146,
-      "text": "masuk ke suatu desa orang Samaria untuk mempersiapkan segala sesuatu bagi-Nya."
+      "text": "masuk ke suatu desa orang Samaria untuk mempersiapkan segala sesuatu bagi-Nya.",
+      "ref_id": "Lukas 9:52",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 78,
       "diatessaron_verse": "44",
       "ref": "Luke 9:53",
       "arabic_page": 146,
-      "text": "Tetapi orang-orang Samaria itu tidak mau"
+      "text": "Tetapi orang-orang Samaria itu tidak mau",
+      "ref_id": "Lukas 9:53",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 79,
       "diatessaron_verse": "45",
       "ref": "Luke 9:53",
       "arabic_page": 146,
-      "text": "menerima Dia, karena perjalanan-Nya menuju Yerusalem."
+      "text": "menerima Dia, karena perjalanan-Nya menuju Yerusalem.",
+      "ref_id": "Lukas 9:53",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 80,
       "diatessaron_verse": "45",
       "ref": "Luke 9:54",
       "arabic_page": 146,
-      "text": "Ketika dua murid-Nya, yaitu Yakobus dan Yohanes, melihat hal itu, mereka berkata: \"Tuhan, apakah Engkau mau, supaya kami menyuruh api turun dari langit untuk membinasakan mereka?\""
+      "text": "Ketika dua murid-Nya, yaitu Yakobus dan Yohanes, melihat hal itu, mereka berkata: \"Tuhan, apakah Engkau mau, supaya kami menyuruh api turun dari langit untuk membinasakan mereka?\"",
+      "ref_id": "Lukas 9:54",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 26
     },
     {
       "id": 81,
       "diatessaron_verse": "46",
       "ref": "Luke 9:55",
       "arabic_page": 146,
-      "text": "Akan tetapi Ia berpaling dan menegor mereka [dan berkata, \"Kamu tidak memahami, dari roh semacam apa kamu berasal!]"
+      "text": "Akan tetapi Ia berpaling dan menegor mereka [dan berkata, \"Kamu tidak memahami, dari roh semacam apa kamu berasal!]",
+      "ref_id": "Lukas 9:55",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 18
     },
     {
       "id": 82,
       "diatessaron_verse": "47",
       "ref": "Luke 9:56",
       "arabic_page": 146,
-      "text": "[Sebab Anak Manusia datang tidak untuk membinasakan jiwa manusia, tetapi untuk menyelamatkannya.\"] Lalu mereka pergi ke desa yang lain."
-    },
+      "text": "[Sebab Anak Manusia datang tidak untuk membinasakan jiwa manusia, tetapi untuk menyelamatkannya.\"] Lalu mereka pergi ke desa yang lain.",
+      "ref_id": "Lukas 9:56",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 19,
+      "footnote_id": 1
+    }
+  ],
+  "title_id": "Pembangkitan Lazarus dari Kematian & Rencana Menangkap Yesus",
+  "title_en": "Resurrection of Lazarus & Plot of the Sanhedrin",
+  "epoch_id": 5,
+  "total_words": 881,
+  "arabic_page_range": "p. 144 - p. 146",
+  "arabic_pages": [
+    144,
+    145,
+    146
+  ],
+  "stats": {
+    "mat": 0,
+    "mrk": 0,
+    "luk": 9,
+    "yoh": 73,
+    "unk": 0
+  },
+  "footnotes": [
     {
-      "id": 83,
-      "diatessaron_verse": "Catatan kaki:",
-      "ref": "Luke 9:56",
-      "arabic_page": 146,
-      "text": "Kalimat ...dan berkata, \"Kamu tidak memahami, dari roh semacam apa kamu berasal! pada ayat Luke 9:55 dan kalimat \"Sebab Anak Manusia datang tidak untuk membinasakan jiwa manusia, tetapi untuk menyelamatkannya.\".... pada ayat Luke 9:46 tidak terdapat dalam manuscript UBS/Westcott and Hort yang digunakan oleh terjemahan LAI TB tetapi terdapat dalam Diatessaron serta manuscript Textus Receptus (TR) yang digunakan oleh terjemahan MILT (2008)."
+      "id": 1,
+      "target_ref": "Luke 9:56",
+      "title": "Varian Naskah Luke 9:55-56",
+      "text": "Kalimat ...dan berkata, \"Kamu tidak memahami, dari roh semacam apa kamu berasal! pada ayat Luke 9:55 dan kalimat \"Sebab Anak Manusia datang tidak untuk membinasakan jiwa manusia, tetapi untuk menyelamatkannya.\".... pada ayat Luke 9:56 tidak terdapat dalam manuscript UBS/Westcott and Hort yang digunakan oleh terjemahan LAI TB tetapi terdapat dalam Diatessaron serta manuscript Textus Receptus (TR) yang digunakan oleh terjemahan MILT (2008)."
     }
   ]
 }

@@ -25,735 +25,1279 @@
       "diatessaron_verse": "1",
       "ref": "Luke 12:41",
       "arabic_page": null,
-      "text": "Kata Petrus: \"Tuhan, kamikah yang Engkau maksudkan dengan"
+      "text": "Kata Petrus: \"Tuhan, kamikah yang Engkau maksudkan dengan",
+      "ref_id": "Lukas 12:41",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "Luke 12:41",
       "arabic_page": null,
-      "text": "perumpamaan itu atau juga semua orang?\""
+      "text": "perumpamaan itu atau juga semua orang?\"",
+      "ref_id": "Lukas 12:41",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "Luke 12:42",
       "arabic_page": null,
-      "text": "Jawab Tuhan: \"Jadi, siapakah pengurus"
+      "text": "Jawab Tuhan: \"Jadi, siapakah pengurus",
+      "ref_id": "Lukas 12:42",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "Luke 12:42",
       "arabic_page": null,
-      "text": "rumah yang setia dan bijaksana yang akan diangkat oleh tuannya menjadi kepala atas semua hambanya untuk memberikan makanan kepada mereka pada waktunya?"
+      "text": "rumah yang setia dan bijaksana yang akan diangkat oleh tuannya menjadi kepala atas semua hambanya untuk memberikan makanan kepada mereka pada waktunya?",
+      "ref_id": "Lukas 12:42",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 22
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "Matthew 24:46",
       "arabic_page": null,
-      "text": "Berbahagialah hamba, yang didapati"
+      "text": "Berbahagialah hamba, yang didapati",
+      "ref_id": "Matius 24:46",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "Matthew 24:46",
       "arabic_page": null,
-      "text": "tuannya melakukan tugasnya itu, ketika tuannya itu datang."
+      "text": "tuannya melakukan tugasnya itu, ketika tuannya itu datang.",
+      "ref_id": "Matius 24:46",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 7,
       "diatessaron_verse": "4",
       "ref": "Matthew 24:47",
       "arabic_page": null,
-      "text": "Aku berkata kepadamu: Sesungguhnya tuannya itu akan mengangkat dia menjadi pengawas"
+      "text": "Aku berkata kepadamu: Sesungguhnya tuannya itu akan mengangkat dia menjadi pengawas",
+      "ref_id": "Matius 24:47",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
       "ref": "Matthew 24:47",
       "arabic_page": null,
-      "text": "segala miliknya."
+      "text": "segala miliknya.",
+      "ref_id": "Matius 24:47",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 9,
       "diatessaron_verse": "5",
       "ref": "Luke 12:45a",
       "arabic_page": null,
-      "text": "Akan tetapi, jikalau hamba itu jahat dan berkata di dalam hatinya: Tuanku tidak"
+      "text": "Akan tetapi, jikalau hamba itu jahat dan berkata di dalam hatinya: Tuanku tidak",
+      "ref_id": "Lukas 12:45a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 10,
       "diatessaron_verse": "6",
       "ref": "Luke 12:45a",
       "arabic_page": null,
-      "text": "datang-datang,"
+      "text": "datang-datang,",
+      "ref_id": "Lukas 12:45a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 11,
       "diatessaron_verse": "6",
       "ref": "Matthew 24:49b",
       "arabic_page": null,
-      "text": "lalu ia mulai memukul hamba-hamba lain, dan"
+      "text": "lalu ia mulai memukul hamba-hamba lain, dan",
+      "ref_id": "Matius 24:49b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 12,
       "diatessaron_verse": "7",
       "ref": "Matthew 24:49b",
       "arabic_page": null,
-      "text": "makan minum bersama-sama pemabuk-pemabuk,"
+      "text": "makan minum bersama-sama pemabuk-pemabuk,",
+      "ref_id": "Matius 24:49b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 13,
       "diatessaron_verse": "7",
       "ref": "Matthew 24:50",
       "arabic_page": null,
-      "text": "maka tuan hamba itu akan datang"
+      "text": "maka tuan hamba itu akan datang",
+      "ref_id": "Matius 24:50",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 14,
       "diatessaron_verse": "8",
       "ref": "Matthew 24:50",
       "arabic_page": null,
-      "text": "pada hari yang tidak disangkakannya, dan pada saat yang tidak diketahuinya,"
+      "text": "pada hari yang tidak disangkakannya, dan pada saat yang tidak diketahuinya,",
+      "ref_id": "Matius 24:50",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 15,
       "diatessaron_verse": "8",
       "ref": "Matthew 24:51a",
       "arabic_page": 163,
-      "text": "dan akan membunuh dia dan membuat dia senasib dengan orang-orang munafik."
+      "text": "dan akan membunuh dia dan membuat dia senasib dengan orang-orang munafik.",
+      "ref_id": "Matius 24:51a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 16,
       "diatessaron_verse": "8",
       "ref": "Luke 12:46b",
       "arabic_page": 163,
-      "text": "dan akan membunuh dia dan membuat dia senasib dengan orang-orang yang tidak setia."
+      "text": "dan akan membunuh dia dan membuat dia senasib dengan orang-orang yang tidak setia.",
+      "ref_id": "Lukas 12:46b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 17,
       "diatessaron_verse": "8",
       "ref": "Matthew 24:51b",
       "arabic_page": 163,
-      "text": "Di sanalah akan terdapat ratapan dan kertakan gigi.\""
+      "text": "Di sanalah akan terdapat ratapan dan kertakan gigi.\"",
+      "ref_id": "Matius 24:51b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 18,
       "diatessaron_verse": "9",
       "ref": "Matthew 25:1",
       "arabic_page": 163,
-      "text": "\"Pada waktu itu hal Kerajaan Sorga seumpama sepuluh gadis, yang mengambil"
+      "text": "\"Pada waktu itu hal Kerajaan Sorga seumpama sepuluh gadis, yang mengambil",
+      "ref_id": "Matius 25:1",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 19,
       "diatessaron_verse": "10",
       "ref": "Matthew 25:1",
       "arabic_page": 163,
-      "text": "pelitanya dan pergi menyongsong mempelai laki-laki."
+      "text": "pelitanya dan pergi menyongsong mempelai laki-laki.",
+      "ref_id": "Matius 25:1",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 20,
       "diatessaron_verse": "10",
       "ref": "Matthew 25:2",
       "arabic_page": 163,
-      "text": "Lima di antaranya bodoh dan lima"
+      "text": "Lima di antaranya bodoh dan lima",
+      "ref_id": "Matius 25:2",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 21,
       "diatessaron_verse": "11",
       "ref": "Matthew 25:2",
       "arabic_page": 163,
-      "text": "bijaksana."
+      "text": "bijaksana.",
+      "ref_id": "Matius 25:2",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 22,
       "diatessaron_verse": "11",
       "ref": "Matthew 25:3",
       "arabic_page": 163,
-      "text": "Gadis-gadis yang bodoh itu membawa pelitanya, tetapi tidak"
+      "text": "Gadis-gadis yang bodoh itu membawa pelitanya, tetapi tidak",
+      "ref_id": "Matius 25:3",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 23,
       "diatessaron_verse": "12, 13",
       "ref": "Matthew 25:3",
       "arabic_page": 163,
-      "text": "membawa minyak,"
+      "text": "membawa minyak,",
+      "ref_id": "Matius 25:3",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 24,
       "diatessaron_verse": "12, 13",
       "ref": "Matthew 25:4",
       "arabic_page": 163,
-      "text": "sedangkan gadis-gadis yang bijaksana itu membawa pelitanya dan juga minyak dalam buli-buli mereka."
+      "text": "sedangkan gadis-gadis yang bijaksana itu membawa pelitanya dan juga minyak dalam buli-buli mereka.",
+      "ref_id": "Matius 25:4",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 25,
       "diatessaron_verse": "12, 13",
       "ref": "Matthew 25:5",
       "arabic_page": 163,
-      "text": "Tetapi karena"
+      "text": "Tetapi karena",
+      "ref_id": "Matius 25:5",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 26,
       "diatessaron_verse": "14",
       "ref": "Matthew 25:5",
       "arabic_page": 163,
-      "text": "mempelai itu lama tidak datang-datang juga, mengantuklah mereka semua lalu tertidur."
+      "text": "mempelai itu lama tidak datang-datang juga, mengantuklah mereka semua lalu tertidur.",
+      "ref_id": "Matius 25:5",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 27,
       "diatessaron_verse": "14",
       "ref": "Matthew 25:6",
       "arabic_page": 163,
-      "text": "Waktu tengah malam terdengarlah suara orang berseru: Mempelai datang!"
+      "text": "Waktu tengah malam terdengarlah suara orang berseru: Mempelai datang!",
+      "ref_id": "Matius 25:6",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 28,
       "diatessaron_verse": "15, 16",
       "ref": "Matthew 25:6",
       "arabic_page": 163,
-      "text": "Songsonglah dia!"
+      "text": "Songsonglah dia!",
+      "ref_id": "Matius 25:6",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 29,
       "diatessaron_verse": "15, 16",
       "ref": "Matthew 25:7",
       "arabic_page": 163,
-      "text": "Gadis-gadis itupun bangun semuanya lalu membereskan pelita mereka."
+      "text": "Gadis-gadis itupun bangun semuanya lalu membereskan pelita mereka.",
+      "ref_id": "Matius 25:7",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 30,
       "diatessaron_verse": "15, 16",
       "ref": "Matthew 25:8",
       "arabic_page": 163,
-      "text": "Gadis-gadis yang bodoh"
+      "text": "Gadis-gadis yang bodoh",
+      "ref_id": "Matius 25:8",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 31,
       "diatessaron_verse": "17",
       "ref": "Matthew 25:8",
       "arabic_page": 163,
-      "text": "berkata kepada gadis-gadis yang bijaksana: Berikanlah kami sedikit dari minyakmu itu, sebab pelita kami hampir padam."
+      "text": "berkata kepada gadis-gadis yang bijaksana: Berikanlah kami sedikit dari minyakmu itu, sebab pelita kami hampir padam.",
+      "ref_id": "Matius 25:8",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 16
     },
     {
       "id": 32,
       "diatessaron_verse": "17",
       "ref": "Matthew 25:9",
       "arabic_page": 163,
-      "text": "Tetapi jawab gadis-gadis yang bijaksana itu: Tidak, nanti tidak cukup untuk kami dan untuk kamu. Lebih baik kamu pergi kepada"
+      "text": "Tetapi jawab gadis-gadis yang bijaksana itu: Tidak, nanti tidak cukup untuk kami dan untuk kamu. Lebih baik kamu pergi kepada",
+      "ref_id": "Matius 25:9",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 20
     },
     {
       "id": 33,
       "diatessaron_verse": "18",
       "ref": "Matthew 25:9",
       "arabic_page": 163,
-      "text": "penjual minyak dan beli di situ."
+      "text": "penjual minyak dan beli di situ.",
+      "ref_id": "Matius 25:9",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 34,
       "diatessaron_verse": "18",
       "ref": "Matthew 25:10",
       "arabic_page": 163,
-      "text": "Akan tetapi, waktu mereka sedang pergi untuk membelinya, datanglah mempelai itu dan mereka yang telah siap sedia masuk bersama-sama dengan dia ke ruang perjamuan kawin, lalu"
+      "text": "Akan tetapi, waktu mereka sedang pergi untuk membelinya, datanglah mempelai itu dan mereka yang telah siap sedia masuk bersama-sama dengan dia ke ruang perjamuan kawin, lalu",
+      "ref_id": "Matius 25:10",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 26
     },
     {
       "id": 35,
       "diatessaron_verse": "19",
       "ref": "Matthew 25:10",
       "arabic_page": 163,
-      "text": "pintu ditutup."
+      "text": "pintu ditutup.",
+      "ref_id": "Matius 25:10",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 36,
       "diatessaron_verse": "19",
       "ref": "Matthew 25:11",
       "arabic_page": 163,
-      "text": "Kemudian datang juga gadis-gadis yang lain itu dan berkata: Tuan,"
+      "text": "Kemudian datang juga gadis-gadis yang lain itu dan berkata: Tuan,",
+      "ref_id": "Matius 25:11",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 37,
       "diatessaron_verse": "20",
       "ref": "Matthew 25:11",
       "arabic_page": 163,
-      "text": "tuan, bukakanlah kami pintu!"
+      "text": "tuan, bukakanlah kami pintu!",
+      "ref_id": "Matius 25:11",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 38,
       "diatessaron_verse": "20",
       "ref": "Matthew 25:12",
       "arabic_page": 163,
-      "text": "Tetapi ia menjawab: Aku berkata kepadamu, sesungguhnya"
+      "text": "Tetapi ia menjawab: Aku berkata kepadamu, sesungguhnya",
+      "ref_id": "Matius 25:12",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 39,
       "diatessaron_verse": "21",
       "ref": "Matthew 25:12",
       "arabic_page": 163,
-      "text": "aku tidak mengenal kamu"
+      "text": "aku tidak mengenal kamu",
+      "ref_id": "Matius 25:12",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 40,
       "diatessaron_verse": "21",
       "ref": "Matthew 25:13",
       "arabic_page": 163,
-      "text": "Karena itu, berjaga-jagalah, sebab kamu tidak tahu akan hari maupun akan saatnya.\""
+      "text": "Karena itu, berjaga-jagalah, sebab kamu tidak tahu akan hari maupun akan saatnya.\"",
+      "ref_id": "Matius 25:13",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 41,
       "diatessaron_verse": "22",
       "ref": "Matthew 25:14",
       "arabic_page": 163,
-      "text": "\"Sebab hal Kerajaan Sorga sama seperti seorang yang mau bepergian ke luar negeri, yang memanggil hamba-hambanya dan mempercayakan"
+      "text": "\"Sebab hal Kerajaan Sorga sama seperti seorang yang mau bepergian ke luar negeri, yang memanggil hamba-hambanya dan mempercayakan",
+      "ref_id": "Matius 25:14",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 18
     },
     {
       "id": 42,
       "diatessaron_verse": "23",
       "ref": "Matthew 25:14",
       "arabic_page": 163,
-      "text": "hartanya kepada mereka."
+      "text": "hartanya kepada mereka.",
+      "ref_id": "Matius 25:14",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 43,
       "diatessaron_verse": "23",
       "ref": "Matthew 25:15",
       "arabic_page": 163,
-      "text": "Yang seorang diberikannya lima talenta, yang seorang lagi dua dan yang"
+      "text": "Yang seorang diberikannya lima talenta, yang seorang lagi dua dan yang",
+      "ref_id": "Matius 25:15",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 44,
       "diatessaron_verse": "24",
       "ref": "Matthew 25:15",
       "arabic_page": 163,
-      "text": "seorang lain lagi satu, masing-masing menurut kesanggupannya, lalu ia berangkat."
+      "text": "seorang lain lagi satu, masing-masing menurut kesanggupannya, lalu ia berangkat.",
+      "ref_id": "Matius 25:15",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 45,
       "diatessaron_verse": "24",
       "ref": "Matthew 25:16",
       "arabic_page": 164,
-      "text": "Segera pergilah hamba yang menerima lima talenta itu. Ia menjalankan uang itu lalu beroleh laba"
+      "text": "Segera pergilah hamba yang menerima lima talenta itu. Ia menjalankan uang itu lalu beroleh laba",
+      "ref_id": "Matius 25:16",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 15
     },
     {
       "id": 46,
       "diatessaron_verse": "26",
       "ref": "Matthew 25:16",
       "arabic_page": 164,
-      "text": "lima talenta."
+      "text": "lima talenta.",
+      "ref_id": "Matius 25:16",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 47,
       "diatessaron_verse": "26",
       "ref": "Matthew 25:17",
       "arabic_page": 164,
-      "text": "Hamba yang menerima dua talenta itupun berbuat demikian juga dan berlaba dua talenta."
+      "text": "Hamba yang menerima dua talenta itupun berbuat demikian juga dan berlaba dua talenta.",
+      "ref_id": "Matius 25:17",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 48,
       "diatessaron_verse": "26",
       "ref": "Matthew 25:18",
       "arabic_page": 164,
-      "text": "Tetapi hamba yang menerima"
+      "text": "Tetapi hamba yang menerima",
+      "ref_id": "Matius 25:18",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 49,
       "diatessaron_verse": "27",
       "ref": "Matthew 25:18",
       "arabic_page": 164,
-      "text": "satu talenta itu pergi dan menggali lobang di dalam tanah lalu menyembunyikan uang tuannya."
+      "text": "satu talenta itu pergi dan menggali lobang di dalam tanah lalu menyembunyikan uang tuannya.",
+      "ref_id": "Matius 25:18",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 50,
       "diatessaron_verse": "27",
       "ref": "Matthew 25:19",
       "arabic_page": 164,
-      "text": "Lama sesudah itu pulanglah tuan hamba-hamba itu lalu mengadakan perhitungan dengan mereka."
+      "text": "Lama sesudah itu pulanglah tuan hamba-hamba itu lalu mengadakan perhitungan dengan mereka.",
+      "ref_id": "Matius 25:19",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 51,
       "diatessaron_verse": "28",
       "ref": "Matthew 25:20",
       "arabic_page": 164,
-      "text": "Hamba yang menerima lima talenta itu datang dan ia membawa laba lima talenta, katanya: Tuan, lima talenta tuan percayakan kepadaku; lihat, aku telah beroleh laba lima talenta."
+      "text": "Hamba yang menerima lima talenta itu datang dan ia membawa laba lima talenta, katanya: Tuan, lima talenta tuan percayakan kepadaku; lihat, aku telah beroleh laba lima talenta.",
+      "ref_id": "Matius 25:20",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 27
     },
     {
       "id": 52,
       "diatessaron_verse": "29",
       "ref": "Matthew 25:21",
       "arabic_page": 164,
-      "text": "Maka kata tuannya itu kepadanya: Baik sekali perbuatanmu itu, hai hambaku yang baik dan setia; engkau"
+      "text": "Maka kata tuannya itu kepadanya: Baik sekali perbuatanmu itu, hai hambaku yang baik dan setia; engkau",
+      "ref_id": "Matius 25:21",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 16
     },
     {
       "id": 53,
       "diatessaron_verse": "30",
       "ref": "Matthew 25:21",
       "arabic_page": 164,
-      "text": "telah setia dalam perkara kecil, aku akan memberikan kepadamu tanggung jawab dalam perkara yang besar. Masuklah dan turutlah dalam kebahagiaan tuanmu."
+      "text": "telah setia dalam perkara kecil, aku akan memberikan kepadamu tanggung jawab dalam perkara yang besar. Masuklah dan turutlah dalam kebahagiaan tuanmu.",
+      "ref_id": "Matius 25:21",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 21
     },
     {
       "id": 54,
       "diatessaron_verse": "30",
       "ref": "Matthew 25:22",
       "arabic_page": 164,
-      "text": "Lalu datanglah hamba yang menerima dua talenta itu, katanya: Tuan,"
+      "text": "Lalu datanglah hamba yang menerima dua talenta itu, katanya: Tuan,",
+      "ref_id": "Matius 25:22",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 55,
       "diatessaron_verse": "31",
       "ref": "Matthew 25:22",
       "arabic_page": 164,
-      "text": "dua talenta tuan percayakan kepadaku; lihat, aku telah beroleh laba dua talenta."
+      "text": "dua talenta tuan percayakan kepadaku; lihat, aku telah beroleh laba dua talenta.",
+      "ref_id": "Matius 25:22",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 56,
       "diatessaron_verse": "31",
       "ref": "Matthew 25:23",
       "arabic_page": 164,
-      "text": "Maka kata tuannya itu kepadanya: Baik sekali perbuatanmu itu, hai hambaku yang baik dan setia, engkau telah setia memikul tanggung jawab dalam perkara yang kecil, aku akan memberikan kepadamu tanggung jawab dalam perkara yang besar. Masuklah"
+      "text": "Maka kata tuannya itu kepadanya: Baik sekali perbuatanmu itu, hai hambaku yang baik dan setia, engkau telah setia memikul tanggung jawab dalam perkara yang kecil, aku akan memberikan kepadamu tanggung jawab dalam perkara yang besar. Masuklah",
+      "ref_id": "Matius 25:23",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 36
     },
     {
       "id": 57,
       "diatessaron_verse": "32",
       "ref": "Matthew 25:23",
       "arabic_page": 164,
-      "text": "dan turutlah dalam kebahagiaan tuanmu."
+      "text": "dan turutlah dalam kebahagiaan tuanmu.",
+      "ref_id": "Matius 25:23",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 58,
       "diatessaron_verse": "32",
       "ref": "Matthew 25:24",
       "arabic_page": 164,
-      "text": "Kini datanglah juga hamba yang menerima satu talenta itu dan berkata: Tuan, aku tahu bahwa tuan adalah manusia yang kejam yang menuai di tempat di mana tuan"
+      "text": "Kini datanglah juga hamba yang menerima satu talenta itu dan berkata: Tuan, aku tahu bahwa tuan adalah manusia yang kejam yang menuai di tempat di mana tuan",
+      "ref_id": "Matius 25:24",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 27
     },
     {
       "id": 59,
       "diatessaron_verse": "33",
       "ref": "Matthew 25:24",
       "arabic_page": 164,
-      "text": "tidak menabur dan yang memungut dari tempat di mana tuan tidak menanam."
+      "text": "tidak menabur dan yang memungut dari tempat di mana tuan tidak menanam.",
+      "ref_id": "Matius 25:24",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 60,
       "diatessaron_verse": "33",
       "ref": "Matthew 25:25",
       "arabic_page": 164,
-      "text": "Karena itu aku takut dan"
+      "text": "Karena itu aku takut dan",
+      "ref_id": "Matius 25:25",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 61,
       "diatessaron_verse": "34",
       "ref": "Matthew 25:25",
       "arabic_page": 164,
-      "text": "pergi menyembunyikan talenta tuan itu di dalam tanah: Ini, terimalah kepunyaan tuan!"
+      "text": "pergi menyembunyikan talenta tuan itu di dalam tanah: Ini, terimalah kepunyaan tuan!",
+      "ref_id": "Matius 25:25",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 62,
       "diatessaron_verse": "34",
       "ref": "Matthew 25:26",
       "arabic_page": 164,
-      "text": "Maka jawab tuannya itu: Hai kamu, hamba yang jahat dan malas, jadi kamu sudah tahu,"
+      "text": "Maka jawab tuannya itu: Hai kamu, hamba yang jahat dan malas, jadi kamu sudah tahu,",
+      "ref_id": "Matius 25:26",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 15
     },
     {
       "id": 63,
       "diatessaron_verse": "35",
       "ref": "Matthew 25:26",
       "arabic_page": 164,
-      "text": "bahwa aku menuai di tempat di mana aku tidak menabur dan memungut dari tempat di mana aku tidak menanam?"
+      "text": "bahwa aku menuai di tempat di mana aku tidak menabur dan memungut dari tempat di mana aku tidak menanam?",
+      "ref_id": "Matius 25:26",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 19
     },
     {
       "id": 64,
       "diatessaron_verse": "35",
       "ref": "Matthew 25:27",
       "arabic_page": 164,
-      "text": "Karena itu sudahlah seharusnya uangku itu kauberikan kepada orang yang menjalankan uang, supaya sekembaliku aku menerimanya serta dengan"
+      "text": "Karena itu sudahlah seharusnya uangku itu kauberikan kepada orang yang menjalankan uang, supaya sekembaliku aku menerimanya serta dengan",
+      "ref_id": "Matius 25:27",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 18
     },
     {
       "id": 65,
       "diatessaron_verse": "36",
       "ref": "Matthew 25:27",
       "arabic_page": 164,
-      "text": "bunganya."
+      "text": "bunganya.",
+      "ref_id": "Matius 25:27",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 66,
       "diatessaron_verse": "36",
       "ref": "Matthew 25:28",
       "arabic_page": 164,
-      "text": "Sebab itu ambillah talenta itu dari padanya dan berikanlah kepada orang yang mempunyai sepuluh talenta itu."
+      "text": "Sebab itu ambillah talenta itu dari padanya dan berikanlah kepada orang yang mempunyai sepuluh talenta itu.",
+      "ref_id": "Matius 25:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 16
     },
     {
       "id": 67,
       "diatessaron_verse": "37",
       "ref": "Matthew 25:29",
       "arabic_page": 164,
-      "text": "Karena setiap orang yang mempunyai, kepadanya akan diberi, sehingga ia berkelimpahan. Tetapi siapa yang tidak mempunyai,"
+      "text": "Karena setiap orang yang mempunyai, kepadanya akan diberi, sehingga ia berkelimpahan. Tetapi siapa yang tidak mempunyai,",
+      "ref_id": "Matius 25:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 16
     },
     {
       "id": 68,
       "diatessaron_verse": "38",
       "ref": "Matthew 25:29",
       "arabic_page": 165,
-      "text": "apapun juga yang ada padanya akan diambil dari padanya."
+      "text": "apapun juga yang ada padanya akan diambil dari padanya.",
+      "ref_id": "Matius 25:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 69,
       "diatessaron_verse": "38",
       "ref": "Matthew 25:30",
       "arabic_page": 165,
-      "text": "Dan campakkanlah hamba yang tidak berguna itu ke dalam kegelapan yang paling gelap. Di sanalah akan terdapat ratap dan kertak gigi.\""
+      "text": "Dan campakkanlah hamba yang tidak berguna itu ke dalam kegelapan yang paling gelap. Di sanalah akan terdapat ratap dan kertak gigi.\"",
+      "ref_id": "Matius 25:30",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 21
     },
     {
       "id": 70,
       "diatessaron_verse": "39, 40",
       "ref": "Luke 12:35",
       "arabic_page": 165,
-      "text": "\"Hendaklah pinggangmu tetap berikat dan pelitamu tetap menyala."
+      "text": "\"Hendaklah pinggangmu tetap berikat dan pelitamu tetap menyala.",
+      "ref_id": "Lukas 12:35",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 71,
       "diatessaron_verse": "39, 40",
       "ref": "Luke 12:36",
       "arabic_page": 165,
-      "text": "Dan hendaklah kamu sama seperti orang-orang yang menanti-nantikan tuannya yang pulang dari perkawinan, supaya jika"
+      "text": "Dan hendaklah kamu sama seperti orang-orang yang menanti-nantikan tuannya yang pulang dari perkawinan, supaya jika",
+      "ref_id": "Lukas 12:36",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 72,
       "diatessaron_verse": "41",
       "ref": "Luke 12:36",
       "arabic_page": 165,
-      "text": "ia datang dan mengetok pintu, segera dibuka pintu baginya."
+      "text": "ia datang dan mengetok pintu, segera dibuka pintu baginya.",
+      "ref_id": "Lukas 12:36",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 73,
       "diatessaron_verse": "41",
       "ref": "Luke 12:37",
       "arabic_page": 165,
-      "text": "Berbahagialah hamba-hamba yang didapati tuannya berjaga-jaga ketika ia datang. Aku berkata kepadamu: Sesungguhnya ia akan mengikat pinggangnya dan mempersilakan mereka duduk makan, dan ia akan datang melayani"
+      "text": "Berbahagialah hamba-hamba yang didapati tuannya berjaga-jaga ketika ia datang. Aku berkata kepadamu: Sesungguhnya ia akan mengikat pinggangnya dan mempersilakan mereka duduk makan, dan ia akan datang melayani",
+      "ref_id": "Lukas 12:37",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 27
     },
     {
       "id": 74,
       "diatessaron_verse": "42",
       "ref": "Luke 12:37",
       "arabic_page": 165,
-      "text": "mereka."
+      "text": "mereka.",
+      "ref_id": "Lukas 12:37",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 75,
       "diatessaron_verse": "42",
       "ref": "Luke 12:38",
       "arabic_page": 165,
-      "text": "Dan apabila ia datang pada tengah malam atau pada dinihari dan mendapati mereka berlaku demikian, maka berbahagialah mereka."
+      "text": "Dan apabila ia datang pada tengah malam atau pada dinihari dan mendapati mereka berlaku demikian, maka berbahagialah mereka.",
+      "ref_id": "Lukas 12:38",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 18
     },
     {
       "id": 76,
       "diatessaron_verse": "43",
       "ref": "Matthew 25:31",
       "arabic_page": 165,
-      "text": "\"Apabila Anak Manusia datang dalam kemuliaan-Nya dan semua malaikat bersama-sama dengan Dia,"
+      "text": "\"Apabila Anak Manusia datang dalam kemuliaan-Nya dan semua malaikat bersama-sama dengan Dia,",
+      "ref_id": "Matius 25:31",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 77,
       "diatessaron_verse": "44",
       "ref": "Matthew 25:31",
       "arabic_page": 165,
-      "text": "maka Ia akan bersemayam di atas takhta kemuliaan-Nya."
+      "text": "maka Ia akan bersemayam di atas takhta kemuliaan-Nya.",
+      "ref_id": "Matius 25:31",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 78,
       "diatessaron_verse": "44",
       "ref": "Matthew 25:32",
       "arabic_page": 165,
-      "text": "Lalu semua bangsa akan dikumpulkan di hadapan-Nya dan Ia akan memisahkan mereka seorang dari pada seorang, sama seperti gembala memisahkan"
+      "text": "Lalu semua bangsa akan dikumpulkan di hadapan-Nya dan Ia akan memisahkan mereka seorang dari pada seorang, sama seperti gembala memisahkan",
+      "ref_id": "Matius 25:32",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 20
     },
     {
       "id": 79,
       "diatessaron_verse": "45",
       "ref": "Matthew 25:32",
       "arabic_page": 165,
-      "text": "domba dari kambing,"
+      "text": "domba dari kambing,",
+      "ref_id": "Matius 25:32",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 80,
       "diatessaron_verse": "45",
       "ref": "Matthew 25:33",
       "arabic_page": 165,
-      "text": "dan Ia akan menempatkan domba-domba di sebelah kanan-Nya dan kambing-kambing di sebelah"
+      "text": "dan Ia akan menempatkan domba-domba di sebelah kanan-Nya dan kambing-kambing di sebelah",
+      "ref_id": "Matius 25:33",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 81,
       "diatessaron_verse": "46",
       "ref": "Matthew 25:33",
       "arabic_page": 165,
-      "text": "kiri-Nya."
+      "text": "kiri-Nya.",
+      "ref_id": "Matius 25:33",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 82,
       "diatessaron_verse": "46",
       "ref": "Matthew 25:34",
       "arabic_page": 165,
-      "text": "Dan Raja itu akan berkata kepada mereka yang di sebelah kanan-Nya: Mari, hai kamu yang diberkati oleh Bapa-Ku, terimalah Kerajaan yang telah disediakan bagimu sejak dunia dijadikan."
+      "text": "Dan Raja itu akan berkata kepada mereka yang di sebelah kanan-Nya: Mari, hai kamu yang diberkati oleh Bapa-Ku, terimalah Kerajaan yang telah disediakan bagimu sejak dunia dijadikan.",
+      "ref_id": "Matius 25:34",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 27
     },
     {
       "id": 83,
       "diatessaron_verse": "47",
       "ref": "Matthew 25:35",
       "arabic_page": 165,
-      "text": "Sebab ketika Aku lapar, kamu memberi Aku makan; ketika Aku haus, kamu memberi Aku minum; ketika Aku"
+      "text": "Sebab ketika Aku lapar, kamu memberi Aku makan; ketika Aku haus, kamu memberi Aku minum; ketika Aku",
+      "ref_id": "Matius 25:35",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 84,
       "diatessaron_verse": "48",
       "ref": "Matthew 25:35",
       "arabic_page": 165,
-      "text": "seorang asing, kamu memberi Aku tumpangan;"
+      "text": "seorang asing, kamu memberi Aku tumpangan;",
+      "ref_id": "Matius 25:35",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 85,
       "diatessaron_verse": "48",
       "ref": "Matthew 25:36",
       "arabic_page": 165,
-      "text": "ketika Aku telanjang, kamu memberi Aku pakaian; ketika Aku"
+      "text": "ketika Aku telanjang, kamu memberi Aku pakaian; ketika Aku",
+      "ref_id": "Matius 25:36",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 86,
       "diatessaron_verse": "49",
       "ref": "Matthew 25:36",
       "arabic_page": 165,
-      "text": "sakit, kamu melawat Aku; ketika Aku di dalam penjara, kamu mengunjungi Aku."
+      "text": "sakit, kamu melawat Aku; ketika Aku di dalam penjara, kamu mengunjungi Aku.",
+      "ref_id": "Matius 25:36",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 87,
       "diatessaron_verse": "49",
       "ref": "Matthew 25:37",
       "arabic_page": 165,
-      "text": "Maka orang-orang benar itu akan menjawab Dia, katanya: Tuhan, bilamanakah kami melihat Engkau lapar dan kami memberi Engkau makan,"
+      "text": "Maka orang-orang benar itu akan menjawab Dia, katanya: Tuhan, bilamanakah kami melihat Engkau lapar dan kami memberi Engkau makan,",
+      "ref_id": "Matius 25:37",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 19
     },
     {
       "id": 88,
       "diatessaron_verse": "50",
       "ref": "Matthew 25:37",
       "arabic_page": 165,
-      "text": "atau haus dan kami memberi Engkau minum?"
+      "text": "atau haus dan kami memberi Engkau minum?",
+      "ref_id": "Matius 25:37",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 89,
       "diatessaron_verse": "50",
       "ref": "Matthew 25:38",
       "arabic_page": 165,
-      "text": "Bilamanakah kami melihat Engkau sebagai orang asing, dan kami memberi Engkau"
+      "text": "Bilamanakah kami melihat Engkau sebagai orang asing, dan kami memberi Engkau",
+      "ref_id": "Matius 25:38",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 90,
       "diatessaron_verse": "51",
       "ref": "Matthew 25:38",
       "arabic_page": 165,
-      "text": "tumpangan, atau telanjang dan kami memberi Engkau pakaian?"
+      "text": "tumpangan, atau telanjang dan kami memberi Engkau pakaian?",
+      "ref_id": "Matius 25:38",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 91,
       "diatessaron_verse": "51",
       "ref": "Matthew 25:39",
       "arabic_page": 165,
-      "text": "Bilamanakah kami melihat Engkau sakit atau dalam penjara dan kami"
+      "text": "Bilamanakah kami melihat Engkau sakit atau dalam penjara dan kami",
+      "ref_id": "Matius 25:39",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 92,
       "diatessaron_verse": "52",
       "ref": "Matthew 25:39",
       "arabic_page": 165,
-      "text": "mengunjungi Engkau?"
+      "text": "mengunjungi Engkau?",
+      "ref_id": "Matius 25:39",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 93,
       "diatessaron_verse": "52",
       "ref": "Matthew 25:40",
       "arabic_page": 165,
-      "text": "Dan Raja itu akan menjawab mereka: Aku berkata kepadamu, sesungguhnya segala sesuatu yang kamu lakukan untuk salah seorang dari saudara-Ku yang paling hina ini, kamu"
+      "text": "Dan Raja itu akan menjawab mereka: Aku berkata kepadamu, sesungguhnya segala sesuatu yang kamu lakukan untuk salah seorang dari saudara-Ku yang paling hina ini, kamu",
+      "ref_id": "Matius 25:40",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 25
     },
     {
       "id": 94,
       "diatessaron_verse": "53",
       "ref": "Matthew 25:40",
       "arabic_page": 166,
-      "text": "telah melakukannya untuk Aku."
+      "text": "telah melakukannya untuk Aku.",
+      "ref_id": "Matius 25:40",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 95,
       "diatessaron_verse": "53",
       "ref": "Matthew 25:41",
       "arabic_page": 166,
-      "text": "Dan Ia akan berkata juga kepada mereka yang di sebelah kiri-Nya: Enyahlah dari hadapan-Ku, hai kamu orang-orang terkutuk, enyahlah"
+      "text": "Dan Ia akan berkata juga kepada mereka yang di sebelah kiri-Nya: Enyahlah dari hadapan-Ku, hai kamu orang-orang terkutuk, enyahlah",
+      "ref_id": "Matius 25:41",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 19
     },
     {
       "id": 96,
       "diatessaron_verse": "54",
       "ref": "Matthew 25:41",
       "arabic_page": 166,
-      "text": "ke dalam api yang kekal yang telah sedia untuk Iblis dan malaikat-malaikatnya."
+      "text": "ke dalam api yang kekal yang telah sedia untuk Iblis dan malaikat-malaikatnya.",
+      "ref_id": "Matius 25:41",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 97,
       "diatessaron_verse": "54",
       "ref": "Matthew 25:42",
       "arabic_page": 166,
-      "text": "Sebab ketika Aku lapar, kamu"
+      "text": "Sebab ketika Aku lapar, kamu",
+      "ref_id": "Matius 25:42",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 98,
       "diatessaron_verse": "55",
       "ref": "Matthew 25:42",
       "arabic_page": 166,
-      "text": "tidak memberi Aku makan; ketika Aku haus, kamu tidak memberi Aku minum;"
+      "text": "tidak memberi Aku makan; ketika Aku haus, kamu tidak memberi Aku minum;",
+      "ref_id": "Matius 25:42",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 99,
       "diatessaron_verse": "55",
       "ref": "Matthew 25:43",
       "arabic_page": 166,
-      "text": "ketika Aku seorang asing, kamu tidak memberi Aku tumpangan; ketika Aku telanjang, kamu tidak memberi Aku pakaian; ketika Aku sakit dan dalam penjara,"
+      "text": "ketika Aku seorang asing, kamu tidak memberi Aku tumpangan; ketika Aku telanjang, kamu tidak memberi Aku pakaian; ketika Aku sakit dan dalam penjara,",
+      "ref_id": "Matius 25:43",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 23
     },
     {
       "id": 100,
       "diatessaron_verse": "56",
       "ref": "Matthew 25:43",
       "arabic_page": 166,
-      "text": "kamu tidak melawat Aku."
+      "text": "kamu tidak melawat Aku.",
+      "ref_id": "Matius 25:43",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 101,
       "diatessaron_verse": "56",
       "ref": "Matthew 25:44",
       "arabic_page": 166,
-      "text": "Lalu merekapun akan menjawab Dia, katanya: Tuhan, bilamanakah kami melihat Engkau lapar, atau haus, atau sebagai orang asing, atau telanjang atau sakit, atau dalam penjara dan kami"
+      "text": "Lalu merekapun akan menjawab Dia, katanya: Tuhan, bilamanakah kami melihat Engkau lapar, atau haus, atau sebagai orang asing, atau telanjang atau sakit, atau dalam penjara dan kami",
+      "ref_id": "Matius 25:44",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 27
     },
     {
       "id": 102,
       "diatessaron_verse": "57",
       "ref": "Matthew 25:44",
       "arabic_page": 166,
-      "text": "tidak melayani Engkau?"
+      "text": "tidak melayani Engkau?",
+      "ref_id": "Matius 25:44",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 103,
       "diatessaron_verse": "57",
       "ref": "Matthew 25:45",
       "arabic_page": 166,
-      "text": "Maka Ia akan menjawab mereka: Aku berkata kepadamu, sesungguhnya segala sesuatu yang tidak kamu lakukan untuk salah seorang dari yang paling hina ini, kamu tidak melakukannya"
+      "text": "Maka Ia akan menjawab mereka: Aku berkata kepadamu, sesungguhnya segala sesuatu yang tidak kamu lakukan untuk salah seorang dari yang paling hina ini, kamu tidak melakukannya",
+      "ref_id": "Matius 25:45",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 26
     },
     {
       "id": 104,
       "diatessaron_verse": "58",
       "ref": "Matthew 25:45",
       "arabic_page": 166,
-      "text": "juga untuk Aku."
+      "text": "juga untuk Aku.",
+      "ref_id": "Matius 25:45",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 105,
       "diatessaron_verse": "58",
       "ref": "Matthew 25:46",
       "arabic_page": 166,
-      "text": "Dan mereka ini akan masuk ke tempat siksaan yang kekal, tetapi orang benar ke dalam hidup yang kekal.\""
+      "text": "Dan mereka ini akan masuk ke tempat siksaan yang kekal, tetapi orang benar ke dalam hidup yang kekal.\"",
+      "ref_id": "Matius 25:46",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 18
     }
-  ]
+  ],
+  "title_id": "Perumpamaan Hamba Setia, Sepuluh Gadis & Talenta",
+  "title_en": "Parables of Ten Virgins, Talents & Final Judgment",
+  "epoch_id": 6,
+  "total_words": 1172,
+  "arabic_page_range": "p. 163 - p. 166",
+  "arabic_pages": [
+    163,
+    164,
+    165,
+    166
+  ],
+  "stats": {
+    "mat": 92,
+    "mrk": 0,
+    "luk": 13,
+    "yoh": 0,
+    "unk": 0
+  },
+  "footnotes": []
 }

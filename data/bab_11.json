@@ -26,742 +26,1292 @@
       "diatessaron_verse": "1",
       "ref": "Matthew 7:28",
       "arabic_page": 42,
-      "text": "Dan setelah Yesus mengakhiri perkataan ini, takjublah orang banyak itu"
+      "text": "Dan setelah Yesus mengakhiri perkataan ini, takjublah orang banyak itu",
+      "ref_id": "Matius 7:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "Matthew 7:28",
       "arabic_page": 42,
-      "text": "mendengar pengajaran-Nya,"
+      "text": "mendengar pengajaran-Nya,",
+      "ref_id": "Matius 7:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "Matthew 7:29",
       "arabic_page": 42,
-      "text": "sebab Ia mengajar mereka sebagai orang yang berkuasa, tidak seperti ahli-ahli Taurat mereka."
+      "text": "sebab Ia mengajar mereka sebagai orang yang berkuasa, tidak seperti ahli-ahli Taurat mereka.",
+      "ref_id": "Matius 7:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "Matthew 8:1",
       "arabic_page": 42,
-      "text": "Setelah Yesus turun dari bukit, orang banyak berbondong-bondong mengikuti Dia."
+      "text": "Setelah Yesus turun dari bukit, orang banyak berbondong-bondong mengikuti Dia.",
+      "ref_id": "Matius 8:1",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 5,
       "diatessaron_verse": "4",
       "ref": "Matthew 8:5a",
       "arabic_page": 42,
-      "text": "Ketika Yesus masuk ke Kapernaum,"
+      "text": "Ketika Yesus masuk ke Kapernaum,",
+      "ref_id": "Matius 8:5a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "Luke 7:2",
       "arabic_page": 42,
-      "text": "seorang perwira yang mempunyai seorang hamba, yang sangat dihargainya. Hamba itu sedang"
+      "text": "seorang perwira yang mempunyai seorang hamba, yang sangat dihargainya. Hamba itu sedang",
+      "ref_id": "Lukas 7:2",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 7,
       "diatessaron_verse": "5",
       "ref": "Luke 7:2",
       "arabic_page": 42,
-      "text": "sakit keras dan hampir mati."
+      "text": "sakit keras dan hampir mati.",
+      "ref_id": "Lukas 7:2",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
       "ref": "Luke 7:3[a",
       "arabic_page": 42,
-      "text": "Ketika perwira itu mendengar"
+      "text": "Ketika perwira itu mendengar",
+      "ref_id": "Lukas 7:3[a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 9,
       "diatessaron_verse": "6",
       "ref": "Luke 7:3[a",
       "arabic_page": 42,
-      "text": "tentang Yesus, ia menyuruh beberapa orang tua-tua Yahudi,"
+      "text": "tentang Yesus, ia menyuruh beberapa orang tua-tua Yahudi,",
+      "ref_id": "Lukas 7:3[a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 10,
       "diatessaron_verse": "6",
       "ref": "Matthew 8:5b",
       "arabic_page": 42,
-      "text": "datanglah seorang perwira mendapatkan Dia dan memohon kepada-Nya:"
+      "text": "datanglah seorang perwira mendapatkan Dia dan memohon kepada-Nya:",
+      "ref_id": "Matius 8:5b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 11,
       "diatessaron_verse": "6",
       "ref": "Matthew 8:6",
       "arabic_page": 42,
-      "text": "\"Tuan, hambaku terbaring di rumah karena sakit lumpuh dan ia"
+      "text": "\"Tuan, hambaku terbaring di rumah karena sakit lumpuh dan ia",
+      "ref_id": "Matius 8:6",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 12,
       "diatessaron_verse": "7",
       "ref": "Matthew 8:6",
       "arabic_page": 42,
-      "text": "sangat menderita.\""
+      "text": "sangat menderita.\"",
+      "ref_id": "Matius 8:6",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 13,
       "diatessaron_verse": "7",
       "ref": "Luke 7:4",
       "arabic_page": 42,
-      "text": "Mereka datang kepada Yesus dan dengan sangat mereka meminta pertolongan-Nya,"
+      "text": "Mereka datang kepada Yesus dan dengan sangat mereka meminta pertolongan-Nya,",
+      "ref_id": "Lukas 7:4",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 14,
       "diatessaron_verse": "8",
       "ref": "Luke 7:4",
       "arabic_page": 42,
-      "text": "katanya: \"Ia layak Engkau tolong,"
+      "text": "katanya: \"Ia layak Engkau tolong,",
+      "ref_id": "Lukas 7:4",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 15,
       "diatessaron_verse": "8",
       "ref": "Luke 7:5",
       "arabic_page": 42,
-      "text": "sebab ia mengasihi bangsa kita dan dialah yang menanggung pembangunan"
+      "text": "sebab ia mengasihi bangsa kita dan dialah yang menanggung pembangunan",
+      "ref_id": "Lukas 7:5",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 16,
       "diatessaron_verse": "9, 10",
       "ref": "Luke 7:5",
       "arabic_page": 42,
-      "text": "rumah ibadat kami.\""
+      "text": "rumah ibadat kami.\"",
+      "ref_id": "Lukas 7:5",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 17,
       "diatessaron_verse": "9, 10",
       "ref": "Matthew 8:7",
       "arabic_page": 42,
-      "text": "Yesus berkata kepadanya: \"Aku akan datang menyembuhkannya.\""
+      "text": "Yesus berkata kepadanya: \"Aku akan datang menyembuhkannya.\"",
+      "ref_id": "Matius 8:7",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 18,
       "diatessaron_verse": "9, 10",
       "ref": "Matthew 8:8",
       "arabic_page": 42,
-      "text": "Tetapi jawab perwira itu kepada-Nya: \"Tuan, aku tidak layak menerima Tuan di dalam rumahku,"
+      "text": "Tetapi jawab perwira itu kepada-Nya: \"Tuan, aku tidak layak menerima Tuan di dalam rumahku,",
+      "ref_id": "Matius 8:8",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 19,
       "diatessaron_verse": "11",
       "ref": "Matthew 8:8",
       "arabic_page": 42,
-      "text": "katakan saja sepatah kata, maka hambaku itu akan sembuh."
+      "text": "katakan saja sepatah kata, maka hambaku itu akan sembuh.",
+      "ref_id": "Matius 8:8",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 20,
       "diatessaron_verse": "11",
       "ref": "Luke 7:8",
       "arabic_page": 42,
-      "text": "Sebab aku sendiri seorang bawahan, dan di bawahku ada pula prajurit. Jika aku berkata kepada salah seorang prajurit itu: Pergi!, maka ia pergi, dan kepada seorang lagi: Datang!, maka ia datang, ataupun kepada hambaku: Kerjakanlah ini!,"
+      "text": "Sebab aku sendiri seorang bawahan, dan di bawahku ada pula prajurit. Jika aku berkata kepada salah seorang prajurit itu: Pergi!, maka ia pergi, dan kepada seorang lagi: Datang!, maka ia datang, ataupun kepada hambaku: Kerjakanlah ini!,",
+      "ref_id": "Lukas 7:8",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 36
     },
     {
       "id": 21,
       "diatessaron_verse": "12",
       "ref": "Luke 7:8",
       "arabic_page": 42,
-      "text": "maka ia mengerjakannya.\""
+      "text": "maka ia mengerjakannya.\"",
+      "ref_id": "Lukas 7:8",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 22,
       "diatessaron_verse": "12",
       "ref": "Luke 7:9[a",
       "arabic_page": 42,
-      "text": "Setelah Yesus mendengar perkataan itu, Ia heran akan dia, dan sambil berpaling kepada orang banyak yang mengikuti Dia, Ia berkata:"
+      "text": "Setelah Yesus mendengar perkataan itu, Ia heran akan dia, dan sambil berpaling kepada orang banyak yang mengikuti Dia, Ia berkata:",
+      "ref_id": "Lukas 7:9[a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 23,
       "diatessaron_verse": "12",
       "ref": "Matthew 8:10[b",
       "arabic_page": 42,
-      "text": "\"Aku berkata kepadamu, sesungguhnya iman sebesar ini"
+      "text": "\"Aku berkata kepadamu, sesungguhnya iman sebesar ini",
+      "ref_id": "Matius 8:10[b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 24,
       "diatessaron_verse": "13",
       "ref": "Matthew 8:10[b",
       "arabic_page": 42,
-      "text": "tidak pernah Aku jumpai pada seorangpun di antara orang Israel."
+      "text": "tidak pernah Aku jumpai pada seorangpun di antara orang Israel.",
+      "ref_id": "Matius 8:10[b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 25,
       "diatessaron_verse": "13",
       "ref": "Matthew 8:11",
       "arabic_page": 42,
-      "text": "Aku berkata kepadamu: Banyak orang akan datang dari Timur dan Barat dan duduk makan bersama-sama dengan Abraham, Ishak dan Yakub"
+      "text": "Aku berkata kepadamu: Banyak orang akan datang dari Timur dan Barat dan duduk makan bersama-sama dengan Abraham, Ishak dan Yakub",
+      "ref_id": "Matius 8:11",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 20
     },
     {
       "id": 26,
       "diatessaron_verse": "14",
       "ref": "Matthew 8:11",
       "arabic_page": 43,
-      "text": "di dalam Kerajaan Sorga,"
+      "text": "di dalam Kerajaan Sorga,",
+      "ref_id": "Matius 8:11",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 27,
       "diatessaron_verse": "14",
       "ref": "Matthew 8:12",
       "arabic_page": 43,
-      "text": "sedangkan anak-anak Kerajaan itu akan"
+      "text": "sedangkan anak-anak Kerajaan itu akan",
+      "ref_id": "Matius 8:12",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 28,
       "diatessaron_verse": "15",
       "ref": "Matthew 8:12",
       "arabic_page": 43,
-      "text": "dicampakkan ke dalam kegelapan yang paling gelap, di sanalah akan terdapat ratap dan kertak gigi.\""
+      "text": "dicampakkan ke dalam kegelapan yang paling gelap, di sanalah akan terdapat ratap dan kertak gigi.\"",
+      "ref_id": "Matius 8:12",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 15
     },
     {
       "id": 29,
       "diatessaron_verse": "15",
       "ref": "Matthew 8:13",
       "arabic_page": 43,
-      "text": "Lalu Yesus berkata kepada perwira itu: \"Pulanglah dan jadilah kepadamu seperti yang engkau percaya.\" Maka pada saat itu juga sembuhlah hambanya."
+      "text": "Lalu Yesus berkata kepada perwira itu: \"Pulanglah dan jadilah kepadamu seperti yang engkau percaya.\" Maka pada saat itu juga sembuhlah hambanya.",
+      "ref_id": "Matius 8:13",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 21
     },
     {
       "id": 30,
       "diatessaron_verse": "16",
       "ref": "Luke 7:10",
       "arabic_page": 43,
-      "text": "Dan setelah orang-orang yang disuruh itu kembali ke rumah, didapatinyalah hamba itu telah sehat kembali."
+      "text": "Dan setelah orang-orang yang disuruh itu kembali ke rumah, didapatinyalah hamba itu telah sehat kembali.",
+      "ref_id": "Lukas 7:10",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 31,
       "diatessaron_verse": "17",
       "ref": "Luke 7:11",
       "arabic_page": 43,
-      "text": "Kemudian Yesus pergi ke suatu kota yang bernama Nain. Murid-murid-Nya pergi bersama-sama dengan Dia,"
+      "text": "Kemudian Yesus pergi ke suatu kota yang bernama Nain. Murid-murid-Nya pergi bersama-sama dengan Dia,",
+      "ref_id": "Lukas 7:11",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 32,
       "diatessaron_verse": "18",
       "ref": "Luke 7:11",
       "arabic_page": 43,
-      "text": "dan juga orang banyak menyertai-Nya berbondong-bondong."
+      "text": "dan juga orang banyak menyertai-Nya berbondong-bondong.",
+      "ref_id": "Lukas 7:11",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 33,
       "diatessaron_verse": "18",
       "ref": "Luke 7:12",
       "arabic_page": 43,
-      "text": "Setelah Ia dekat pintu gerbang kota, ada orang mati diusung ke luar, anak laki-laki, anak tunggal ibunya yang sudah janda,"
+      "text": "Setelah Ia dekat pintu gerbang kota, ada orang mati diusung ke luar, anak laki-laki, anak tunggal ibunya yang sudah janda,",
+      "ref_id": "Lukas 7:12",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 34,
       "diatessaron_verse": "19",
       "ref": "Luke 7:12",
       "arabic_page": 43,
-      "text": "dan banyak orang dari kota itu menyertai janda itu."
+      "text": "dan banyak orang dari kota itu menyertai janda itu.",
+      "ref_id": "Lukas 7:12",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 35,
       "diatessaron_verse": "19",
       "ref": "Luke 7:13",
       "arabic_page": 43,
-      "text": "Dan ketika Tuhan melihat janda itu, tergeraklah hati-Nya oleh belas kasihan, lalu Ia berkata kepadanya:"
+      "text": "Dan ketika Tuhan melihat janda itu, tergeraklah hati-Nya oleh belas kasihan, lalu Ia berkata kepadanya:",
+      "ref_id": "Lukas 7:13",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 36,
       "diatessaron_verse": "20",
       "ref": "Luke 7:13",
       "arabic_page": 43,
-      "text": "\"Jangan menangis!\""
+      "text": "\"Jangan menangis!\"",
+      "ref_id": "Lukas 7:13",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 37,
       "diatessaron_verse": "20",
       "ref": "Luke 7:14",
       "arabic_page": 43,
-      "text": "Sambil menghampiri usungan itu Ia menyentuhnya, dan sedang para pengusung berhenti,"
+      "text": "Sambil menghampiri usungan itu Ia menyentuhnya, dan sedang para pengusung berhenti,",
+      "ref_id": "Lukas 7:14",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 38,
       "diatessaron_verse": "21",
       "ref": "Luke 7:14",
       "arabic_page": 43,
-      "text": "Ia berkata: \"Hai anak muda, Aku berkata kepadamu, bangkitlah!\""
+      "text": "Ia berkata: \"Hai anak muda, Aku berkata kepadamu, bangkitlah!\"",
+      "ref_id": "Lukas 7:14",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 39,
       "diatessaron_verse": "21",
       "ref": "Luke 7:15",
       "arabic_page": 43,
-      "text": "Maka bangunlah orang itu dan duduk dan"
+      "text": "Maka bangunlah orang itu dan duduk dan",
+      "ref_id": "Lukas 7:15",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 40,
       "diatessaron_verse": "22",
       "ref": "Luke 7:15",
       "arabic_page": 43,
-      "text": "mulai berkata-kata, dan Yesus menyerahkannya kepada ibunya."
+      "text": "mulai berkata-kata, dan Yesus menyerahkannya kepada ibunya.",
+      "ref_id": "Lukas 7:15",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 41,
       "diatessaron_verse": "22",
       "ref": "Luke 7:16",
       "arabic_page": 43,
-      "text": "Semua orang itu ketakutan dan mereka memuliakan Allah, sambil berkata: \"Seorang nabi besar telah muncul di tengah-tengah kita,\""
+      "text": "Semua orang itu ketakutan dan mereka memuliakan Allah, sambil berkata: \"Seorang nabi besar telah muncul di tengah-tengah kita,\"",
+      "ref_id": "Lukas 7:16",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 18
     },
     {
       "id": 42,
       "diatessaron_verse": "23",
       "ref": "Luke 7:16",
       "arabic_page": 43,
-      "text": "dan \"Allah telah melawat umat-Nya.\""
+      "text": "dan \"Allah telah melawat umat-Nya.\"",
+      "ref_id": "Lukas 7:16",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 43,
       "diatessaron_verse": "23",
       "ref": "Luke 7:17",
       "arabic_page": 43,
-      "text": "Maka tersiarlah kabar tentang Yesus di seluruh Yudea dan di seluruh daerah sekitarnya."
+      "text": "Maka tersiarlah kabar tentang Yesus di seluruh Yudea dan di seluruh daerah sekitarnya.",
+      "ref_id": "Lukas 7:17",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 44,
       "diatessaron_verse": "24",
       "ref": "Matthew 8:18",
       "arabic_page": 43,
-      "text": "Ketika Yesus melihat orang banyak mengelilingi-Nya, Ia menyuruh"
+      "text": "Ketika Yesus melihat orang banyak mengelilingi-Nya, Ia menyuruh",
+      "ref_id": "Matius 8:18",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 45,
       "diatessaron_verse": "25",
       "ref": "Matthew 8:18",
       "arabic_page": 43,
-      "text": "bertolak ke seberang."
+      "text": "bertolak ke seberang.",
+      "ref_id": "Matius 8:18",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 46,
       "diatessaron_verse": "25",
       "ref": "Matthew 8:19",
       "arabic_page": 43,
-      "text": "Lalu datanglah seorang ahli Taurat dan berkata kepada-Nya: \"Guru, aku akan mengikut Engkau, ke mana saja Engkau"
+      "text": "Lalu datanglah seorang ahli Taurat dan berkata kepada-Nya: \"Guru, aku akan mengikut Engkau, ke mana saja Engkau",
+      "ref_id": "Matius 8:19",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 47,
       "diatessaron_verse": "26",
       "ref": "Matthew 8:19",
       "arabic_page": 43,
-      "text": "pergi.\""
+      "text": "pergi.\"",
+      "ref_id": "Matius 8:19",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 48,
       "diatessaron_verse": "26",
       "ref": "Matthew 8:20",
       "arabic_page": 43,
-      "text": "Yesus berkata kepadanya: \"Serigala mempunyai liang dan"
+      "text": "Yesus berkata kepadanya: \"Serigala mempunyai liang dan",
+      "ref_id": "Matius 8:20",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 49,
       "diatessaron_verse": "27",
       "ref": "Matthew 8:20",
       "arabic_page": 43,
-      "text": "burung mempunyai sarang, tetapi Anak Manusia tidak mempunyai tempat untuk meletakkan kepala-Nya.\""
+      "text": "burung mempunyai sarang, tetapi Anak Manusia tidak mempunyai tempat untuk meletakkan kepala-Nya.\"",
+      "ref_id": "Matius 8:20",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 50,
       "diatessaron_verse": "27",
       "ref": "Luke 9:59",
       "arabic_page": 43,
-      "text": "Lalu Ia berkata kepada seorang lain: \"Ikutlah Aku!\" Tetapi orang itu berkata: \"Izinkanlah aku pergi dahulu"
+      "text": "Lalu Ia berkata kepada seorang lain: \"Ikutlah Aku!\" Tetapi orang itu berkata: \"Izinkanlah aku pergi dahulu",
+      "ref_id": "Lukas 9:59",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 51,
       "diatessaron_verse": "28",
       "ref": "Luke 9:59",
       "arabic_page": 43,
-      "text": "menguburkan bapaku.\""
+      "text": "menguburkan bapaku.\"",
+      "ref_id": "Lukas 9:59",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 52,
       "diatessaron_verse": "28",
       "ref": "Luke 9:60",
       "arabic_page": 43,
-      "text": "Tetapi Yesus berkata kepadanya: \"Biarlah orang mati menguburkan orang mati; tetapi engkau,"
+      "text": "Tetapi Yesus berkata kepadanya: \"Biarlah orang mati menguburkan orang mati; tetapi engkau,",
+      "ref_id": "Lukas 9:60",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 53,
       "diatessaron_verse": "29",
       "ref": "Luke 9:60",
       "arabic_page": 43,
-      "text": "pergilah dan beritakanlah Kerajaan Allah di mana-mana.\""
+      "text": "pergilah dan beritakanlah Kerajaan Allah di mana-mana.\"",
+      "ref_id": "Lukas 9:60",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 54,
       "diatessaron_verse": "29",
       "ref": "Luke 9:61",
       "arabic_page": 44,
-      "text": "Dan seorang lain lagi berkata: \"Aku akan mengikut Engkau, Tuhan, tetapi izinkanlah aku pamitan dahulu dengan keluargaku.\""
+      "text": "Dan seorang lain lagi berkata: \"Aku akan mengikut Engkau, Tuhan, tetapi izinkanlah aku pamitan dahulu dengan keluargaku.\"",
+      "ref_id": "Lukas 9:61",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 17
     },
     {
       "id": 55,
       "diatessaron_verse": "30",
       "ref": "Luke 9:62",
       "arabic_page": 44,
-      "text": "Tetapi Yesus berkata: \"Setiap orang yang siap untuk membajak tetapi menoleh ke belakang, tidak layak untuk Kerajaan Allah.\""
+      "text": "Tetapi Yesus berkata: \"Setiap orang yang siap untuk membajak tetapi menoleh ke belakang, tidak layak untuk Kerajaan Allah.\"",
+      "ref_id": "Lukas 9:62",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 18
     },
     {
       "id": 56,
       "diatessaron_verse": "31",
       "ref": "Mark 4:35",
       "arabic_page": 44,
-      "text": "Pada hari itu, waktu hari sudah petang, Yesus berkata kepada mereka: \"Marilah kita bertolak"
+      "text": "Pada hari itu, waktu hari sudah petang, Yesus berkata kepada mereka: \"Marilah kita bertolak",
+      "ref_id": "Markus 4:35",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 14
     },
     {
       "id": 57,
       "diatessaron_verse": "32",
       "ref": "Mark 4:35",
       "arabic_page": 44,
-      "text": "ke seberang.\""
+      "text": "ke seberang.\"",
+      "ref_id": "Markus 4:35",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 2
     },
     {
       "id": 58,
       "diatessaron_verse": "32",
       "ref": "Mark 4:36",
       "arabic_page": 44,
-      "text": "Mereka meninggalkan orang banyak itu lalu bertolak dan membawa"
+      "text": "Mereka meninggalkan orang banyak itu lalu bertolak dan membawa",
+      "ref_id": "Markus 4:36",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 9
     },
     {
       "id": 59,
       "diatessaron_verse": "33",
       "ref": "Mark 4:36",
       "arabic_page": 44,
-      "text": "Yesus beserta dengan mereka dalam perahu di mana Yesus telah duduk dan perahu-perahu lain juga menyertai Dia."
+      "text": "Yesus beserta dengan mereka dalam perahu di mana Yesus telah duduk dan perahu-perahu lain juga menyertai Dia.",
+      "ref_id": "Markus 4:36",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 17
     },
     {
       "id": 60,
       "diatessaron_verse": "33",
       "ref": "Mark 4:37",
       "arabic_page": 44,
-      "text": "Lalu mengamuklah taufan yang sangat dahsyat dan ombak menyembur masuk ke dalam perahu,"
+      "text": "Lalu mengamuklah taufan yang sangat dahsyat dan ombak menyembur masuk ke dalam perahu,",
+      "ref_id": "Markus 4:37",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 13
     },
     {
       "id": 61,
       "diatessaron_verse": "33",
       "ref": "Luke 8:23[c",
       "arabic_page": 44,
-      "text": "sehingga perahu itu kemasukan air"
+      "text": "sehingga perahu itu kemasukan air",
+      "ref_id": "Lukas 8:23[c",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 62,
       "diatessaron_verse": "34",
       "ref": "Luke 8:23[c",
       "arabic_page": 44,
-      "text": "dan mereka berada dalam bahaya."
+      "text": "dan mereka berada dalam bahaya.",
+      "ref_id": "Lukas 8:23[c",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 63,
       "diatessaron_verse": "34",
       "ref": "Mark 4:38[a",
       "arabic_page": 44,
-      "text": "Pada waktu itu Yesus sedang tidur di buritan di sebuah tilam."
+      "text": "Pada waktu itu Yesus sedang tidur di buritan di sebuah tilam.",
+      "ref_id": "Markus 4:38[a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 64,
       "diatessaron_verse": "34",
       "ref": "Matthew 8:25",
       "arabic_page": 44,
-      "text": "Maka datanglah murid-murid-Nya membangunkan Dia, katanya:"
+      "text": "Maka datanglah murid-murid-Nya membangunkan Dia, katanya:",
+      "ref_id": "Matius 8:25",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 65,
       "diatessaron_verse": "35",
       "ref": "Matthew 8:25",
       "arabic_page": 44,
-      "text": "\"Tuhan, tolonglah, kita binasa.”"
+      "text": "\"Tuhan, tolonglah, kita binasa.”",
+      "ref_id": "Matius 8:25",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 66,
       "diatessaron_verse": "35",
       "ref": "Luke 8:24[b",
       "arabic_page": 44,
-      "text": "Iapun bangun, lalu menghardik angin dan air yang mengamuk itu."
+      "text": "Iapun bangun, lalu menghardik angin dan air yang mengamuk itu.",
+      "ref_id": "Lukas 8:24[b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 67,
       "diatessaron_verse": "35",
       "ref": "Mark 4:39[b",
       "arabic_page": 44,
-      "text": "Lalu angin itu"
+      "text": "Lalu angin itu",
+      "ref_id": "Markus 4:39[b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 68,
       "diatessaron_verse": "36",
       "ref": "Mark 4:39[b",
       "arabic_page": 44,
-      "text": "reda dan danau itu menjadi teduh sekali."
+      "text": "reda dan danau itu menjadi teduh sekali.",
+      "ref_id": "Markus 4:39[b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 69,
       "diatessaron_verse": "36",
       "ref": "Mark 4:40",
       "arabic_page": 44,
-      "text": "Lalu Ia berkata kepada mereka: \"Mengapa kamu begitu"
+      "text": "Lalu Ia berkata kepada mereka: \"Mengapa kamu begitu",
+      "ref_id": "Markus 4:40",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 70,
       "diatessaron_verse": "37",
       "ref": "Mark 4:40",
       "arabic_page": 44,
-      "text": "takut? Mengapa kamu tidak percaya?\""
+      "text": "takut? Mengapa kamu tidak percaya?\"",
+      "ref_id": "Markus 4:40",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 71,
       "diatessaron_verse": "37",
       "ref": "Luke 8:25[b",
       "arabic_page": 44,
-      "text": "Maka takutlah mereka dan heran, lalu berkata seorang kepada yang lain: \"Siapa gerangan orang ini, sehingga Ia memberi perintah kepada angin dan air dan mereka taat kepada-Nya?\""
+      "text": "Maka takutlah mereka dan heran, lalu berkata seorang kepada yang lain: \"Siapa gerangan orang ini, sehingga Ia memberi perintah kepada angin dan air dan mereka taat kepada-Nya?\"",
+      "ref_id": "Lukas 8:25[b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 27
     },
     {
       "id": 72,
       "diatessaron_verse": "38",
       "ref": "Luke 8:26",
       "arabic_page": 44,
-      "text": "Lalu mendaratlah Yesus dan murid-murid-Nya di tanah orang Gerasa"
+      "text": "Lalu mendaratlah Yesus dan murid-murid-Nya di tanah orang Gerasa",
+      "ref_id": "Lukas 8:26",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 73,
       "diatessaron_verse": "39",
       "ref": "Luke 8:26",
       "arabic_page": 44,
-      "text": "yang terletak di seberang Galilea."
+      "text": "yang terletak di seberang Galilea.",
+      "ref_id": "Lukas 8:26",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 74,
       "diatessaron_verse": "39",
       "ref": "Luke 8:27[a",
       "arabic_page": 44,
-      "text": "Setelah Yesus naik ke darat, datanglah seorang laki-laki dari kota itu menemui Dia; orang itu dirasuki oleh setan-setan dan sudah lama ia"
+      "text": "Setelah Yesus naik ke darat, datanglah seorang laki-laki dari kota itu menemui Dia; orang itu dirasuki oleh setan-setan dan sudah lama ia",
+      "ref_id": "Lukas 8:27[a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 22
     },
     {
       "id": 75,
       "diatessaron_verse": "40",
       "ref": "Luke 8:27[a",
       "arabic_page": 44,
-      "text": "tidak berpakaian dan tidak tinggal dalam rumah, tetapi dalam pekuburan"
+      "text": "tidak berpakaian dan tidak tinggal dalam rumah, tetapi dalam pekuburan",
+      "ref_id": "Lukas 8:27[a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 76,
       "diatessaron_verse": "40",
       "ref": "Mark 5:3[b",
       "arabic_page": 45,
-      "text": "dan tidak ada seorangpun lagi yang sanggup mengikatnya, sekalipun dengan rantai,"
+      "text": "dan tidak ada seorangpun lagi yang sanggup mengikatnya, sekalipun dengan rantai,",
+      "ref_id": "Markus 5:3[b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 77,
       "diatessaron_verse": "40",
       "ref": "Mark 5:4[a",
       "arabic_page": 45,
-      "text": "karena sudah sering ia dibelenggu dan dirantai,"
+      "text": "karena sudah sering ia dibelenggu dan dirantai,",
+      "ref_id": "Markus 5:4[a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 78,
       "diatessaron_verse": "41",
       "ref": "Mark 5:4[a",
       "arabic_page": 45,
-      "text": "tetapi rantainya diputuskannya dan belenggunya dimusnahkannya,"
+      "text": "tetapi rantainya diputuskannya dan belenggunya dimusnahkannya,",
+      "ref_id": "Markus 5:4[a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 79,
       "diatessaron_verse": "41",
       "ref": "Luke 8:29[c",
       "arabic_page": 45,
-      "text": "dan ia"
+      "text": "dan ia",
+      "ref_id": "Lukas 8:29[c",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 80,
       "diatessaron_verse": "42",
       "ref": "Luke 8:29[c",
       "arabic_page": 45,
-      "text": "dihalau oleh setan itu ke tempat-tempat yang sunyi."
+      "text": "dihalau oleh setan itu ke tempat-tempat yang sunyi.",
+      "ref_id": "Lukas 8:29[c",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 81,
       "diatessaron_verse": "42",
       "ref": "Mark 5:4c",
       "arabic_page": 45,
-      "text": "sehingga tidak ada seorangpun yang cukup kuat untuk menjinakkannya."
+      "text": "sehingga tidak ada seorangpun yang cukup kuat untuk menjinakkannya.",
+      "ref_id": "Markus 5:4c",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 9
     },
     {
       "id": 82,
       "diatessaron_verse": "42",
       "ref": "Mark 5:5a",
       "arabic_page": 45,
-      "text": "Siang malam ia berkeliaran di pekuburan dan di bukit-bukit,"
+      "text": "Siang malam ia berkeliaran di pekuburan dan di bukit-bukit,",
+      "ref_id": "Markus 5:5a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 9
     },
     {
       "id": 83,
       "diatessaron_verse": "42",
       "ref": "Matthew 8:28[b",
       "arabic_page": 45,
-      "text": "Mereka sangat berbahaya, sehingga tidak seorangpun yang berani melalui jalan itu,"
+      "text": "Mereka sangat berbahaya, sehingga tidak seorangpun yang berani melalui jalan itu,",
+      "ref_id": "Matius 8:28[b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 84,
       "diatessaron_verse": "42",
       "ref": "Mark 5:5[b",
       "arabic_page": 45,
-      "text": "sambil berteriak-teriak dan memukuli dirinya"
+      "text": "sambil berteriak-teriak dan memukuli dirinya",
+      "ref_id": "Markus 5:5[b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 85,
       "diatessaron_verse": "43",
       "ref": "Mark 5:5[b",
       "arabic_page": 45,
-      "text": "dengan batu."
+      "text": "dengan batu.",
+      "ref_id": "Markus 5:5[b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 2
     },
     {
       "id": 86,
       "diatessaron_verse": "43",
       "ref": "Mark 5:6",
       "arabic_page": 45,
-      "text": "Ketika ia melihat Yesus dari jauh, berlarilah ia mendapatkan-Nya lalu"
+      "text": "Ketika ia melihat Yesus dari jauh, berlarilah ia mendapatkan-Nya lalu",
+      "ref_id": "Markus 5:6",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     },
     {
       "id": 87,
       "diatessaron_verse": "44",
       "ref": "Mark 5:6",
       "arabic_page": 45,
-      "text": "menyembah-Nya,"
+      "text": "menyembah-Nya,",
+      "ref_id": "Markus 5:6",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 1
     },
     {
       "id": 88,
       "diatessaron_verse": "44",
       "ref": "Mark 5:7",
       "arabic_page": 45,
-      "text": "dan dengan keras ia berteriak: \"Apa urusan-Mu dengan aku, hai Yesus,"
+      "text": "dan dengan keras ia berteriak: \"Apa urusan-Mu dengan aku, hai Yesus,",
+      "ref_id": "Markus 5:7",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 89,
       "diatessaron_verse": "45",
       "ref": "Mark 5:7",
       "arabic_page": 45,
-      "text": "Anak Allah Yang Mahatinggi? Demi Allah, jangan siksa aku!\""
+      "text": "Anak Allah Yang Mahatinggi? Demi Allah, jangan siksa aku!\"",
+      "ref_id": "Markus 5:7",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 9
     },
     {
       "id": 90,
       "diatessaron_verse": "45",
       "ref": "Luke 8:29a",
       "arabic_page": 45,
-      "text": "sebab Yesus memerintahkan roh jahat itu keluar dari orang itu, Karena sering roh itu"
+      "text": "sebab Yesus memerintahkan roh jahat itu keluar dari orang itu, Karena sering roh itu",
+      "ref_id": "Lukas 8:29a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 91,
       "diatessaron_verse": "46",
       "ref": "Luke 8:29a",
       "arabic_page": 45,
-      "text": "menyeret-nyeret dia, maka untuk menjaganya, ia dirantai dan dibelenggu."
+      "text": "menyeret-nyeret dia, maka untuk menjaganya, ia dirantai dan dibelenggu.",
+      "ref_id": "Lukas 8:29a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 92,
       "diatessaron_verse": "46",
       "ref": "Luke 8:30",
       "arabic_page": 45,
-      "text": "Dan Yesus bertanya kepadanya: \"Siapakah namamu?\" Jawabnya: \"Legion,\" karena ia kerasukan"
+      "text": "Dan Yesus bertanya kepadanya: \"Siapakah namamu?\" Jawabnya: \"Legion,\" karena ia kerasukan",
+      "ref_id": "Lukas 8:30",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 93,
       "diatessaron_verse": "47",
       "ref": "Luke 8:30",
       "arabic_page": 45,
-      "text": "banyak setan."
+      "text": "banyak setan.",
+      "ref_id": "Lukas 8:30",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 94,
       "diatessaron_verse": "47",
       "ref": "Luke 8:31",
       "arabic_page": 45,
-      "text": "Lalu setan-setan itu memohon kepada Yesus, supaya Ia jangan memerintahkan mereka masuk ke dalam"
+      "text": "Lalu setan-setan itu memohon kepada Yesus, supaya Ia jangan memerintahkan mereka masuk ke dalam",
+      "ref_id": "Lukas 8:31",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 95,
       "diatessaron_verse": "48",
       "ref": "Luke 8:31",
       "arabic_page": 45,
-      "text": "jurang maut."
+      "text": "jurang maut.",
+      "ref_id": "Lukas 8:31",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 96,
       "diatessaron_verse": "48",
       "ref": "Luke 8:32",
       "arabic_page": 45,
-      "text": "Adalah di sana sejumlah besar babi sedang mencari makan di lereng gunung, lalu setan-setan itu meminta kepada Yesus, supaya Ia memperkenankan mereka memasuki babi-babi itu."
+      "text": "Adalah di sana sejumlah besar babi sedang mencari makan di lereng gunung, lalu setan-setan itu meminta kepada Yesus, supaya Ia memperkenankan mereka memasuki babi-babi itu.",
+      "ref_id": "Lukas 8:32",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 25
     },
     {
       "id": 97,
       "diatessaron_verse": "49",
       "ref": "Luke 8:32",
       "arabic_page": 45,
-      "text": "Yesus mengabulkan permintaan mereka."
+      "text": "Yesus mengabulkan permintaan mereka.",
+      "ref_id": "Lukas 8:32",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 98,
       "diatessaron_verse": "49",
       "ref": "Luke 8:33",
       "arabic_page": 45,
-      "text": "Lalu keluarlah setan-setan itu dari orang itu dan memasuki babi-babi itu. Kawanan babi itu terjun dari tepi jurang ke dalam danau lalu mati lemas."
+      "text": "Lalu keluarlah setan-setan itu dari orang itu dan memasuki babi-babi itu. Kawanan babi itu terjun dari tepi jurang ke dalam danau lalu mati lemas.",
+      "ref_id": "Lukas 8:33",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 24
     },
     {
       "id": 99,
       "diatessaron_verse": "49",
       "ref": "Mark 5:13[b",
       "arabic_page": 45,
-      "text": "Kawanan babi yang kira-kira dua ribu jumlahnya itu terjun dari tepi jurang ke dalam danau"
+      "text": "Kawanan babi yang kira-kira dua ribu jumlahnya itu terjun dari tepi jurang ke dalam danau",
+      "ref_id": "Markus 5:13[b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 15
     },
     {
       "id": 100,
       "diatessaron_verse": "50",
       "ref": "Mark 5:13[b",
       "arabic_page": 45,
-      "text": "dan mati lemas di dalamnya."
+      "text": "dan mati lemas di dalamnya.",
+      "ref_id": "Markus 5:13[b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 101,
       "diatessaron_verse": "50",
       "ref": "Luke 8:34",
       "arabic_page": 45,
-      "text": "Setelah penjaga-penjaga babi itu melihat apa yang"
+      "text": "Setelah penjaga-penjaga babi itu melihat apa yang",
+      "ref_id": "Lukas 8:34",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 102,
       "diatessaron_verse": "51",
       "ref": "Luke 8:34",
       "arabic_page": 45,
-      "text": "telah terjadi, mereka lari lalu menceritakan hal itu di kota dan di kampung-kampung sekitarnya."
+      "text": "telah terjadi, mereka lari lalu menceritakan hal itu di kota dan di kampung-kampung sekitarnya.",
+      "ref_id": "Lukas 8:34",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 103,
       "diatessaron_verse": "51",
       "ref": "Luke 8:35",
       "arabic_page": 46,
-      "text": "Dan keluarlah orang-orang untuk melihat apa yang telah terjadi. Mereka datang kepada Yesus dan mereka menjumpai orang yang telah ditinggalkan setan-setan itu duduk di kaki Yesus; ia telah berpakaian dan sudah waras."
+      "text": "Dan keluarlah orang-orang untuk melihat apa yang telah terjadi. Mereka datang kepada Yesus dan mereka menjumpai orang yang telah ditinggalkan setan-setan itu duduk di kaki Yesus; ia telah berpakaian dan sudah waras.",
+      "ref_id": "Lukas 8:35",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 32
     },
     {
       "id": 104,
       "diatessaron_verse": "52",
       "ref": "Luke 8:35",
       "arabic_page": 46,
-      "text": "Maka takutlah mereka."
+      "text": "Maka takutlah mereka.",
+      "ref_id": "Lukas 8:35",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 105,
       "diatessaron_verse": "52",
       "ref": "Luke 8:36",
       "arabic_page": 46,
-      "text": "Orang-orang yang telah melihat sendiri hal itu memberitahukan kepada mereka, bagaimana orang yang dirasuk setan itu telah diselamatkan"
+      "text": "Orang-orang yang telah melihat sendiri hal itu memberitahukan kepada mereka, bagaimana orang yang dirasuk setan itu telah diselamatkan",
+      "ref_id": "Lukas 8:36",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 18
     },
     {
       "id": 106,
       "diatessaron_verse": "52",
       "ref": "Mark 5:16[b",
       "arabic_page": 46,
-      "text": "dan tentang babi-babi itu."
+      "text": "dan tentang babi-babi itu.",
+      "ref_id": "Markus 5:16[b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     }
-  ]
+  ],
+  "title_id": "Hamba Perwira Kapernaum, Pemuda di Nain & Angin Ribut",
+  "title_en": "Centurion's Servant, Widow's Son & Stilling the Tempest",
+  "epoch_id": 3,
+  "total_words": 1055,
+  "arabic_page_range": "p. 42 - p. 46",
+  "arabic_pages": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "stats": {
+    "mat": 27,
+    "mrk": 24,
+    "luk": 55,
+    "yoh": 0,
+    "unk": 0
+  },
+  "footnotes": []
 }

@@ -26,658 +26,1147 @@
       "diatessaron_verse": "1",
       "ref": "Luke 21:20",
       "arabic_page": null,
-      "text": "\"Apabila kamu melihat Yerusalem dikepung oleh tentara-tentara, ketahuilah, bahwa"
+      "text": "\"Apabila kamu melihat Yerusalem dikepung oleh tentara-tentara, ketahuilah, bahwa",
+      "ref_id": "Lukas 21:20",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "Luke 21:20",
       "arabic_page": null,
-      "text": "keruntuhannya sudah dekat."
+      "text": "keruntuhannya sudah dekat.",
+      "ref_id": "Lukas 21:20",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "Luke 21:21",
       "arabic_page": null,
-      "text": "Pada waktu itu orang-orang yang berada di Yudea harus melarikan diri ke pegunungan, dan orang-orang yang berada di dalam kota harus mengungsi, dan orang-orang yang berada di"
+      "text": "Pada waktu itu orang-orang yang berada di Yudea harus melarikan diri ke pegunungan, dan orang-orang yang berada di dalam kota harus mengungsi, dan orang-orang yang berada di",
+      "ref_id": "Lukas 21:21",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 27
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "Luke 21:21",
       "arabic_page": null,
-      "text": "pedusunan jangan masuk lagi ke dalam kota,"
+      "text": "pedusunan jangan masuk lagi ke dalam kota,",
+      "ref_id": "Lukas 21:21",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "Luke 21:22",
       "arabic_page": null,
-      "text": "sebab itulah masa pembalasan di mana"
+      "text": "sebab itulah masa pembalasan di mana",
+      "ref_id": "Lukas 21:22",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "Luke 21:22",
       "arabic_page": null,
-      "text": "akan genap semua yang ada tertulis."
+      "text": "akan genap semua yang ada tertulis.",
+      "ref_id": "Lukas 21:22",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 7,
       "diatessaron_verse": "4",
       "ref": "Matthew 24:15",
       "arabic_page": null,
-      "text": "\"Jadi apabila kamu melihat Pembinasa keji berdiri di tempat kudus, menurut firman yang disampaikan oleh nabi Daniel--para pembaca hendaklah memperhatikannya--"
+      "text": "\"Jadi apabila kamu melihat Pembinasa keji berdiri di tempat kudus, menurut firman yang disampaikan oleh nabi Daniel--para pembaca hendaklah memperhatikannya--",
+      "ref_id": "Matius 24:15",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 20
     },
     {
       "id": 8,
       "diatessaron_verse": "5, 6",
       "ref": "Matthew 24:16",
       "arabic_page": null,
-      "text": "maka orang-orang yang di Yudea haruslah melarikan diri ke pegunungan."
+      "text": "maka orang-orang yang di Yudea haruslah melarikan diri ke pegunungan.",
+      "ref_id": "Matius 24:16",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 9,
       "diatessaron_verse": "5, 6",
       "ref": "Mark 13:15",
       "arabic_page": null,
-      "text": "Orang yang sedang di peranginan di"
+      "text": "Orang yang sedang di peranginan di",
+      "ref_id": "Markus 13:15",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 10,
       "diatessaron_verse": "7",
       "ref": "Mark 13:15",
       "arabic_page": null,
-      "text": "atas rumah janganlah ia turun dan masuk untuk mengambil sesuatu dari rumahnya,"
+      "text": "atas rumah janganlah ia turun dan masuk untuk mengambil sesuatu dari rumahnya,",
+      "ref_id": "Markus 13:15",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 12
     },
     {
       "id": 11,
       "diatessaron_verse": "7",
       "ref": "Mark 13:16",
       "arabic_page": null,
-      "text": "dan orang yang sedang"
+      "text": "dan orang yang sedang",
+      "ref_id": "Markus 13:16",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 12,
       "diatessaron_verse": "8",
       "ref": "Mark 13:16",
       "arabic_page": 159,
-      "text": "di ladang janganlah ia kembali untuk mengambil pakaiannya."
+      "text": "di ladang janganlah ia kembali untuk mengambil pakaiannya.",
+      "ref_id": "Markus 13:16",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 13,
       "diatessaron_verse": "8",
       "ref": "Luke 21:23",
       "arabic_page": 159,
-      "text": "Celakalah ibu-ibu yang sedang hamil atau yang menyusukan bayi pada masa itu! Sebab akan datang"
+      "text": "Celakalah ibu-ibu yang sedang hamil atau yang menyusukan bayi pada masa itu! Sebab akan datang",
+      "ref_id": "Lukas 21:23",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 14,
       "diatessaron_verse": "9",
       "ref": "Luke 21:23",
       "arabic_page": 159,
-      "text": "kesesakan yang dahsyat atas seluruh negeri dan murka atas bangsa ini,"
+      "text": "kesesakan yang dahsyat atas seluruh negeri dan murka atas bangsa ini,",
+      "ref_id": "Lukas 21:23",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 15,
       "diatessaron_verse": "9",
       "ref": "Luke 21:24",
       "arabic_page": 159,
-      "text": "dan mereka akan tewas oleh mata pedang dan dibawa sebagai tawanan ke segala bangsa, dan Yerusalem akan diinjak-injak oleh bangsa-bangsa yang tidak mengenal Allah, sampai genaplah zaman bangsa-bangsa itu.\""
+      "text": "dan mereka akan tewas oleh mata pedang dan dibawa sebagai tawanan ke segala bangsa, dan Yerusalem akan diinjak-injak oleh bangsa-bangsa yang tidak mengenal Allah, sampai genaplah zaman bangsa-bangsa itu.\"",
+      "ref_id": "Lukas 21:24",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 29
     },
     {
       "id": 16,
       "diatessaron_verse": "10",
       "ref": "Mark 13:21",
       "arabic_page": 159,
-      "text": "Pada waktu itu jika orang berkata kepada kamu: Lihat, Mesias ada di sini, atau: Lihat, Mesias ada di sana,"
+      "text": "Pada waktu itu jika orang berkata kepada kamu: Lihat, Mesias ada di sini, atau: Lihat, Mesias ada di sana,",
+      "ref_id": "Markus 13:21",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 19
     },
     {
       "id": 17,
       "diatessaron_verse": "11",
       "ref": "Mark 13:21",
       "arabic_page": 159,
-      "text": "jangan kamu percaya."
+      "text": "jangan kamu percaya.",
+      "ref_id": "Markus 13:21",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 18,
       "diatessaron_verse": "11",
       "ref": "Matthew 24:24",
       "arabic_page": 159,
-      "text": "Sebab Mesias-mesias palsu dan nabi-nabi palsu akan muncul dan mereka akan mengadakan tanda-tanda yang dahsyat dan mujizat-mujizat, sehingga sekiranya mungkin, mereka"
+      "text": "Sebab Mesias-mesias palsu dan nabi-nabi palsu akan muncul dan mereka akan mengadakan tanda-tanda yang dahsyat dan mujizat-mujizat, sehingga sekiranya mungkin, mereka",
+      "ref_id": "Matius 24:24",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 21
     },
     {
       "id": 19,
       "diatessaron_verse": "12",
       "ref": "Matthew 24:24",
       "arabic_page": 159,
-      "text": "menyesatkan orang-orang pilihan juga."
+      "text": "menyesatkan orang-orang pilihan juga.",
+      "ref_id": "Matius 24:24",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 20,
       "diatessaron_verse": "12",
       "ref": "Mark 13:23",
       "arabic_page": 159,
-      "text": "Hati-hatilah kamu! Aku sudah"
+      "text": "Hati-hatilah kamu! Aku sudah",
+      "ref_id": "Markus 13:23",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 21,
       "diatessaron_verse": "13",
       "ref": "Mark 13:23",
       "arabic_page": 159,
-      "text": "terlebih dahulu mengatakan semuanya ini kepada kamu.\""
+      "text": "terlebih dahulu mengatakan semuanya ini kepada kamu.\"",
+      "ref_id": "Markus 13:23",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 22,
       "diatessaron_verse": "13",
       "ref": "Matthew 24:26",
       "arabic_page": 159,
-      "text": "Jadi, apabila orang berkata kepadamu: Lihat, Ia ada di padang gurun, janganlah"
+      "text": "Jadi, apabila orang berkata kepadamu: Lihat, Ia ada di padang gurun, janganlah",
+      "ref_id": "Matius 24:26",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 23,
       "diatessaron_verse": "14",
       "ref": "Matthew 24:26",
       "arabic_page": 159,
-      "text": "kamu pergi ke situ; atau: Lihat, Ia ada di dalam bilik, janganlah kamu percaya."
+      "text": "kamu pergi ke situ; atau: Lihat, Ia ada di dalam bilik, janganlah kamu percaya.",
+      "ref_id": "Matius 24:26",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 24,
       "diatessaron_verse": "14",
       "ref": "Matthew 24:27",
       "arabic_page": 159,
-      "text": "Sebab sama seperti kilat memancar dari sebelah timur dan melontarkan cahayanya sampai ke barat, demikian pulalah kelak"
+      "text": "Sebab sama seperti kilat memancar dari sebelah timur dan melontarkan cahayanya sampai ke barat, demikian pulalah kelak",
+      "ref_id": "Matius 24:27",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 25,
       "diatessaron_verse": "15",
       "ref": "Matthew 24:27",
       "arabic_page": 159,
-      "text": "kedatangan Anak Manusia."
+      "text": "kedatangan Anak Manusia.",
+      "ref_id": "Matius 24:27",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 26,
       "diatessaron_verse": "15",
       "ref": "Luke 17:25",
       "arabic_page": 159,
-      "text": "Tetapi Ia harus menanggung banyak penderitaan dahulu dan ditolak oleh"
+      "text": "Tetapi Ia harus menanggung banyak penderitaan dahulu dan ditolak oleh",
+      "ref_id": "Lukas 17:25",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 27,
       "diatessaron_verse": "16",
       "ref": "Luke 17:25",
       "arabic_page": 159,
-      "text": "angkatan ini."
+      "text": "angkatan ini.",
+      "ref_id": "Lukas 17:25",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 28,
       "diatessaron_verse": "16",
       "ref": "Matthew 24:20",
       "arabic_page": 159,
-      "text": "Berdoalah, supaya waktu kamu melarikan diri itu jangan jatuh pada musim dingin dan jangan pada hari Sabat."
+      "text": "Berdoalah, supaya waktu kamu melarikan diri itu jangan jatuh pada musim dingin dan jangan pada hari Sabat.",
+      "ref_id": "Matius 24:20",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 29,
       "diatessaron_verse": "17",
       "ref": "Matthew 24:21",
       "arabic_page": 159,
-      "text": "Sebab pada masa itu akan terjadi siksaan yang dahsyat seperti yang belum pernah terjadi sejak"
+      "text": "Sebab pada masa itu akan terjadi siksaan yang dahsyat seperti yang belum pernah terjadi sejak",
+      "ref_id": "Matius 24:21",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 15
     },
     {
       "id": 30,
       "diatessaron_verse": "18",
       "ref": "Matthew 24:21",
       "arabic_page": 159,
-      "text": "awal dunia sampai sekarang dan yang tidak akan terjadi lagi."
+      "text": "awal dunia sampai sekarang dan yang tidak akan terjadi lagi.",
+      "ref_id": "Matius 24:21",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 31,
       "diatessaron_verse": "18",
       "ref": "Mark 13:20",
       "arabic_page": 159,
-      "text": "Dan sekiranya Tuhan tidak mempersingkat waktunya, maka dari segala yang hidup tidak akan ada yang selamat; akan tetapi oleh karena orang-orang pilihan yang telah dipilih-Nya,"
+      "text": "Dan sekiranya Tuhan tidak mempersingkat waktunya, maka dari segala yang hidup tidak akan ada yang selamat; akan tetapi oleh karena orang-orang pilihan yang telah dipilih-Nya,",
+      "ref_id": "Markus 13:20",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 25
     },
     {
       "id": 32,
       "diatessaron_verse": "19",
       "ref": "Mark 13:20",
       "arabic_page": 159,
-      "text": "Tuhan mempersingkat waktunya."
+      "text": "Tuhan mempersingkat waktunya.",
+      "ref_id": "Markus 13:20",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 33,
       "diatessaron_verse": "19",
       "ref": "Luke 21:25",
       "arabic_page": 159,
-      "text": "\"Dan akan ada tanda-tanda pada matahari dan bulan dan bintang-bintang, dan di bumi bangsa-bangsa akan takut dan bingung"
+      "text": "\"Dan akan ada tanda-tanda pada matahari dan bulan dan bintang-bintang, dan di bumi bangsa-bangsa akan takut dan bingung",
+      "ref_id": "Lukas 21:25",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 18
     },
     {
       "id": 34,
       "diatessaron_verse": "20",
       "ref": "Luke 21:25",
       "arabic_page": 160,
-      "text": "menghadapi deru dan gelora laut."
+      "text": "menghadapi deru dan gelora laut.",
+      "ref_id": "Lukas 21:25",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 35,
       "diatessaron_verse": "20",
       "ref": "Luke 21:26a",
       "arabic_page": 160,
-      "text": "Orang akan"
+      "text": "Orang akan",
+      "ref_id": "Lukas 21:26a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 36,
       "diatessaron_verse": "21",
       "ref": "Luke 21:26a",
       "arabic_page": 160,
-      "text": "mati ketakutan karena kecemasan berhubung dengan segala apa yang menimpa bumi ini,"
+      "text": "mati ketakutan karena kecemasan berhubung dengan segala apa yang menimpa bumi ini,",
+      "ref_id": "Lukas 21:26a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 37,
       "diatessaron_verse": "21",
       "ref": "Matthew 24:29",
       "arabic_page": 160,
-      "text": "\"Segera sesudah siksaan pada masa itu, matahari akan menjadi gelap dan bulan tidak bercahaya dan bintang-bintang akan berjatuhan dari langit dan kuasa-kuasa"
+      "text": "\"Segera sesudah siksaan pada masa itu, matahari akan menjadi gelap dan bulan tidak bercahaya dan bintang-bintang akan berjatuhan dari langit dan kuasa-kuasa",
+      "ref_id": "Matius 24:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 22
     },
     {
       "id": 38,
       "diatessaron_verse": "22",
       "ref": "Matthew 24:29",
       "arabic_page": 160,
-      "text": "langit akan goncang."
+      "text": "langit akan goncang.",
+      "ref_id": "Matius 24:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 39,
       "diatessaron_verse": "22",
       "ref": "Matthew 24:30",
       "arabic_page": 160,
-      "text": "Pada waktu itu akan tampak tanda Anak Manusia di langit dan semua bangsa di bumi akan meratap dan mereka akan melihat"
+      "text": "Pada waktu itu akan tampak tanda Anak Manusia di langit dan semua bangsa di bumi akan meratap dan mereka akan melihat",
+      "ref_id": "Matius 24:30",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 21
     },
     {
       "id": 40,
       "diatessaron_verse": "23",
       "ref": "Matthew 24:30",
       "arabic_page": 160,
-      "text": "Anak Manusia itu datang di atas awan-awan di langit dengan segala kekuasaan dan kemuliaan-Nya."
+      "text": "Anak Manusia itu datang di atas awan-awan di langit dengan segala kekuasaan dan kemuliaan-Nya.",
+      "ref_id": "Matius 24:30",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 41,
       "diatessaron_verse": "23",
       "ref": "Matthew 24:31",
       "arabic_page": 160,
-      "text": "Dan Ia akan menyuruh keluar malaikat-malaikat-Nya dengan meniup sangkakala yang dahsyat bunyinya dan mereka akan mengumpulkan orang-orang pilihan-Nya dari keempat"
+      "text": "Dan Ia akan menyuruh keluar malaikat-malaikat-Nya dengan meniup sangkakala yang dahsyat bunyinya dan mereka akan mengumpulkan orang-orang pilihan-Nya dari keempat",
+      "ref_id": "Matius 24:31",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 20
     },
     {
       "id": 42,
       "diatessaron_verse": "24",
       "ref": "Matthew 24:31",
       "arabic_page": 160,
-      "text": "penjuru bumi, dari ujung langit yang satu ke ujung langit yang lain."
+      "text": "penjuru bumi, dari ujung langit yang satu ke ujung langit yang lain.",
+      "ref_id": "Matius 24:31",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 43,
       "diatessaron_verse": "24",
       "ref": "Luke 21:28",
       "arabic_page": 160,
-      "text": "Apabila semuanya itu mulai terjadi, bangkitlah dan angkatlah mukamu, sebab penyelamatanmu sudah dekat.\""
+      "text": "Apabila semuanya itu mulai terjadi, bangkitlah dan angkatlah mukamu, sebab penyelamatanmu sudah dekat.\"",
+      "ref_id": "Lukas 21:28",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 44,
       "diatessaron_verse": "25",
       "ref": "Matthew 24:32",
       "arabic_page": 160,
-      "text": "Tariklah pelajaran dari perumpamaan tentang pohon ara: Apabila ranting-rantingnya melembut dan"
+      "text": "Tariklah pelajaran dari perumpamaan tentang pohon ara: Apabila ranting-rantingnya melembut dan",
+      "ref_id": "Matius 24:32",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 45,
       "diatessaron_verse": "26",
       "ref": "Matthew 24:32",
       "arabic_page": 160,
-      "text": "mulai bertunas, kamu tahu, bahwa musim panas sudah dekat."
+      "text": "mulai bertunas, kamu tahu, bahwa musim panas sudah dekat.",
+      "ref_id": "Matius 24:32",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 46,
       "diatessaron_verse": "26",
       "ref": "Matthew 24:33",
       "arabic_page": 160,
-      "text": "Demikian juga, jika kamu melihat semuanya ini, ketahuilah, bahwa waktunya sudah dekat, sudah di ambang"
+      "text": "Demikian juga, jika kamu melihat semuanya ini, ketahuilah, bahwa waktunya sudah dekat, sudah di ambang",
+      "ref_id": "Matius 24:33",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 15
     },
     {
       "id": 47,
       "diatessaron_verse": "27",
       "ref": "Matthew 24:33",
       "arabic_page": 160,
-      "text": "pintu."
+      "text": "pintu.",
+      "ref_id": "Matius 24:33",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 48,
       "diatessaron_verse": "27",
       "ref": "Matthew 24:34",
       "arabic_page": 160,
-      "text": "Aku berkata kepadamu: Sesungguhnya angkatan ini tidak akan berlalu, sebelum"
+      "text": "Aku berkata kepadamu: Sesungguhnya angkatan ini tidak akan berlalu, sebelum",
+      "ref_id": "Matius 24:34",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 49,
       "diatessaron_verse": "28",
       "ref": "Matthew 24:34",
       "arabic_page": 160,
-      "text": "semuanya ini terjadi."
+      "text": "semuanya ini terjadi.",
+      "ref_id": "Matius 24:34",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 50,
       "diatessaron_verse": "28",
       "ref": "Matthew 24:35",
       "arabic_page": 160,
-      "text": "Langit dan bumi akan berlalu, tetapi perkataan-Ku tidak akan berlalu."
+      "text": "Langit dan bumi akan berlalu, tetapi perkataan-Ku tidak akan berlalu.",
+      "ref_id": "Matius 24:35",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 51,
       "diatessaron_verse": "29",
       "ref": "Luke 21:34",
       "arabic_page": 160,
-      "text": "\"Jagalah dirimu, supaya hatimu jangan sarat oleh pesta pora dan kemabukan serta kepentingan-kepentingan duniawi dan supaya hari Tuhan jangan dengan tiba-tiba jatuh"
+      "text": "\"Jagalah dirimu, supaya hatimu jangan sarat oleh pesta pora dan kemabukan serta kepentingan-kepentingan duniawi dan supaya hari Tuhan jangan dengan tiba-tiba jatuh",
+      "ref_id": "Lukas 21:34",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 22
     },
     {
       "id": 52,
       "diatessaron_verse": "30",
       "ref": "Luke 21:34",
       "arabic_page": 160,
-      "text": "ke atas dirimu seperti suatu jerat."
+      "text": "ke atas dirimu seperti suatu jerat.",
+      "ref_id": "Lukas 21:34",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 53,
       "diatessaron_verse": "30",
       "ref": "Luke 21:35",
       "arabic_page": 160,
-      "text": "Sebab ia akan menimpa"
+      "text": "Sebab ia akan menimpa",
+      "ref_id": "Lukas 21:35",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 54,
       "diatessaron_verse": "31",
       "ref": "Luke 21:35",
       "arabic_page": 160,
-      "text": "semua penduduk bumi ini."
+      "text": "semua penduduk bumi ini.",
+      "ref_id": "Lukas 21:35",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 55,
       "diatessaron_verse": "31",
       "ref": "Luke 21:36",
       "arabic_page": 161,
-      "text": "Berjaga-jagalah senantiasa sambil berdoa, supaya kamu beroleh kekuatan untuk luput dari semua yang akan terjadi itu, dan supaya kamu tahan berdiri di hadapan"
+      "text": "Berjaga-jagalah senantiasa sambil berdoa, supaya kamu beroleh kekuatan untuk luput dari semua yang akan terjadi itu, dan supaya kamu tahan berdiri di hadapan",
+      "ref_id": "Lukas 21:36",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 23
     },
     {
       "id": 56,
       "diatessaron_verse": "32",
       "ref": "Luke 21:36",
       "arabic_page": 161,
-      "text": "Anak Manusia.\""
+      "text": "Anak Manusia.\"",
+      "ref_id": "Lukas 21:36",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 57,
       "diatessaron_verse": "32",
       "ref": "Mark 13:32",
       "arabic_page": 161,
-      "text": "Tetapi tentang hari atau saat itu tidak seorangpun yang tahu, malaikat-malaikat"
+      "text": "Tetapi tentang hari atau saat itu tidak seorangpun yang tahu, malaikat-malaikat",
+      "ref_id": "Markus 13:32",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 58,
       "diatessaron_verse": "33",
       "ref": "Mark 13:32",
       "arabic_page": 161,
-      "text": "di sorga tidak, dan Anakpun tidak, hanya Bapa saja.\""
+      "text": "di sorga tidak, dan Anakpun tidak, hanya Bapa saja.\"",
+      "ref_id": "Markus 13:32",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 9
     },
     {
       "id": 59,
       "diatessaron_verse": "33",
       "ref": "Mark 13:33",
       "arabic_page": 161,
-      "text": "\"Hati-hatilah dan berjaga-jagalah! Sebab kamu"
+      "text": "\"Hati-hatilah dan berjaga-jagalah! Sebab kamu",
+      "ref_id": "Markus 13:33",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 60,
       "diatessaron_verse": "34",
       "ref": "Mark 13:33",
       "arabic_page": 161,
-      "text": "tidak tahu bilamanakah waktunya tiba."
+      "text": "tidak tahu bilamanakah waktunya tiba.",
+      "ref_id": "Markus 13:33",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 61,
       "diatessaron_verse": "34",
       "ref": "Mark 13:34",
       "arabic_page": 161,
-      "text": "Dan halnya sama seperti seorang yang bepergian, yang meninggalkan rumahnya dan menyerahkan tanggung jawab kepada hamba-hambanya, masing-masing dengan tugasnya, dan"
+      "text": "Dan halnya sama seperti seorang yang bepergian, yang meninggalkan rumahnya dan menyerahkan tanggung jawab kepada hamba-hambanya, masing-masing dengan tugasnya, dan",
+      "ref_id": "Markus 13:34",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 20
     },
     {
       "id": 62,
       "diatessaron_verse": "35",
       "ref": "Mark 13:34",
       "arabic_page": 161,
-      "text": "memerintahkan penunggu pintu supaya berjaga-jaga."
+      "text": "memerintahkan penunggu pintu supaya berjaga-jaga.",
+      "ref_id": "Markus 13:34",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 63,
       "diatessaron_verse": "35",
       "ref": "Mark 13:35",
       "arabic_page": 161,
-      "text": "Karena itu berjaga-jagalah, sebab kamu tidak tahu bilamanakah tuan rumah itu pulang, menjelang malam, atau tengah malam, atau larut malam,"
+      "text": "Karena itu berjaga-jagalah, sebab kamu tidak tahu bilamanakah tuan rumah itu pulang, menjelang malam, atau tengah malam, atau larut malam,",
+      "ref_id": "Markus 13:35",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 20
     },
     {
       "id": 64,
       "diatessaron_verse": "36",
       "ref": "Mark 13:35",
       "arabic_page": 161,
-      "text": "atau pagi-pagi buta,"
+      "text": "atau pagi-pagi buta,",
+      "ref_id": "Markus 13:35",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 65,
       "diatessaron_verse": "36",
       "ref": "Mark 13:36",
       "arabic_page": 161,
-      "text": "supaya kalau ia tiba-tiba datang jangan kamu didapatinya sedang tidur."
+      "text": "supaya kalau ia tiba-tiba datang jangan kamu didapatinya sedang tidur.",
+      "ref_id": "Markus 13:36",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     },
     {
       "id": 66,
       "diatessaron_verse": "37",
       "ref": "Mark 13:37",
       "arabic_page": 161,
-      "text": "Apa yang Kukatakan kepada kamu, Kukatakan kepada semua orang: berjaga-jagalah!\""
+      "text": "Apa yang Kukatakan kepada kamu, Kukatakan kepada semua orang: berjaga-jagalah!\"",
+      "ref_id": "Markus 13:37",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     },
     {
       "id": 67,
       "diatessaron_verse": "38",
       "ref": "Matthew 24:37",
       "arabic_page": 161,
-      "text": "\"Sebab sebagaimana halnya pada zaman Nuh, demikian pula halnya kelak pada kedatangan Anak Manusia."
+      "text": "\"Sebab sebagaimana halnya pada zaman Nuh, demikian pula halnya kelak pada kedatangan Anak Manusia.",
+      "ref_id": "Matius 24:37",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 68,
       "diatessaron_verse": "39",
       "ref": "Matthew 24:38",
       "arabic_page": 161,
-      "text": "Sebab sebagaimana mereka pada zaman sebelum air bah itu makan dan minum,"
+      "text": "Sebab sebagaimana mereka pada zaman sebelum air bah itu makan dan minum,",
+      "ref_id": "Matius 24:38",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 69,
       "diatessaron_verse": "40",
       "ref": "Matthew 24:38",
       "arabic_page": 161,
-      "text": "kawin dan mengawinkan, sampai kepada hari Nuh masuk ke dalam bahtera,"
+      "text": "kawin dan mengawinkan, sampai kepada hari Nuh masuk ke dalam bahtera,",
+      "ref_id": "Matius 24:38",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 70,
       "diatessaron_verse": "40",
       "ref": "Matthew 24:39",
       "arabic_page": 161,
-      "text": "dan mereka tidak tahu akan sesuatu, sebelum air bah itu datang dan melenyapkan mereka semua, demikian pulalah halnya kelak pada"
+      "text": "dan mereka tidak tahu akan sesuatu, sebelum air bah itu datang dan melenyapkan mereka semua, demikian pulalah halnya kelak pada",
+      "ref_id": "Matius 24:39",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 20
     },
     {
       "id": 71,
       "diatessaron_verse": "41",
       "ref": "Matthew 24:39",
       "arabic_page": 161,
-      "text": "kedatangan Anak Manusia."
+      "text": "kedatangan Anak Manusia.",
+      "ref_id": "Matius 24:39",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 72,
       "diatessaron_verse": "41",
       "ref": "Luke 17:28",
       "arabic_page": 161,
-      "text": "Demikian juga seperti yang terjadi di zaman Lot: mereka makan dan minum, mereka membeli"
+      "text": "Demikian juga seperti yang terjadi di zaman Lot: mereka makan dan minum, mereka membeli",
+      "ref_id": "Lukas 17:28",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 73,
       "diatessaron_verse": "42",
       "ref": "Luke 17:28",
       "arabic_page": 161,
-      "text": "dan menjual, mereka menanam dan membangun."
+      "text": "dan menjual, mereka menanam dan membangun.",
+      "ref_id": "Lukas 17:28",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 74,
       "diatessaron_verse": "42",
       "ref": "Luke 17:29",
       "arabic_page": 161,
-      "text": "Tetapi pada hari Lot pergi keluar dari Sodom turunlah hujan api dan hujan belerang dari langit dan membinasakan mereka"
+      "text": "Tetapi pada hari Lot pergi keluar dari Sodom turunlah hujan api dan hujan belerang dari langit dan membinasakan mereka",
+      "ref_id": "Lukas 17:29",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 19
     },
     {
       "id": 75,
       "diatessaron_verse": "43, 44",
       "ref": "Luke 17:29",
       "arabic_page": 161,
-      "text": "semua."
+      "text": "semua.",
+      "ref_id": "Lukas 17:29",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 76,
       "diatessaron_verse": "43, 44",
       "ref": "Luke 17:30",
       "arabic_page": 161,
-      "text": "Demikianlah halnya kelak pada hari, di mana Anak Manusia menyatakan diri-Nya."
+      "text": "Demikianlah halnya kelak pada hari, di mana Anak Manusia menyatakan diri-Nya.",
+      "ref_id": "Lukas 17:30",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 77,
       "diatessaron_verse": "43, 44",
       "ref": "Luke 17:31",
       "arabic_page": 161,
-      "text": "Barangsiapa pada hari itu sedang di peranginan di atas rumah dan barang-barangnya ada di dalam rumah, janganlah ia turun untuk"
+      "text": "Barangsiapa pada hari itu sedang di peranginan di atas rumah dan barang-barangnya ada di dalam rumah, janganlah ia turun untuk",
+      "ref_id": "Lukas 17:31",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 78,
       "diatessaron_verse": "45",
       "ref": "Luke 17:31",
       "arabic_page": 161,
-      "text": "mengambilnya, dan demikian juga orang yang sedang di ladang, janganlah ia kembali."
+      "text": "mengambilnya, dan demikian juga orang yang sedang di ladang, janganlah ia kembali.",
+      "ref_id": "Lukas 17:31",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 79,
       "diatessaron_verse": "45",
       "ref": "Luke 17:32",
       "arabic_page": 161,
-      "text": "Ingatlah akan"
+      "text": "Ingatlah akan",
+      "ref_id": "Lukas 17:32",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 80,
       "diatessaron_verse": "46",
       "ref": "Luke 17:32",
       "arabic_page": 161,
-      "text": "isteri Lot!"
+      "text": "isteri Lot!",
+      "ref_id": "Lukas 17:32",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 81,
       "diatessaron_verse": "46",
       "ref": "Luke 17:33",
       "arabic_page": 161,
-      "text": "Barangsiapa berusaha memelihara nyawanya, ia akan kehilangan nyawanya, dan barangsiapa"
+      "text": "Barangsiapa berusaha memelihara nyawanya, ia akan kehilangan nyawanya, dan barangsiapa",
+      "ref_id": "Lukas 17:33",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 82,
       "diatessaron_verse": "47",
       "ref": "Luke 17:33",
       "arabic_page": 161,
-      "text": "kehilangan nyawanya, ia akan menyelamatkannya."
+      "text": "kehilangan nyawanya, ia akan menyelamatkannya.",
+      "ref_id": "Lukas 17:33",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 83,
       "diatessaron_verse": "47",
       "ref": "Luke 17:34",
       "arabic_page": 161,
-      "text": "Aku berkata kepadamu: Pada malam itu ada dua orang di atas"
+      "text": "Aku berkata kepadamu: Pada malam itu ada dua orang di atas",
+      "ref_id": "Lukas 17:34",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 84,
       "diatessaron_verse": "48",
       "ref": "Luke 17:34",
       "arabic_page": 162,
-      "text": "satu tempat tidur, yang seorang akan dibawa dan yang lain akan ditinggalkan."
+      "text": "satu tempat tidur, yang seorang akan dibawa dan yang lain akan ditinggalkan.",
+      "ref_id": "Lukas 17:34",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 85,
       "diatessaron_verse": "48",
       "ref": "Luke 17:35",
       "arabic_page": 162,
-      "text": "Ada dua orang perempuan"
+      "text": "Ada dua orang perempuan",
+      "ref_id": "Lukas 17:35",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 86,
       "diatessaron_verse": "49",
       "ref": "Luke 17:35",
       "arabic_page": 162,
-      "text": "bersama-sama mengilang, yang seorang akan dibawa dan yang lain akan ditinggalkan.\""
+      "text": "bersama-sama mengilang, yang seorang akan dibawa dan yang lain akan ditinggalkan.\"",
+      "ref_id": "Lukas 17:35",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 87,
       "diatessaron_verse": "49",
       "ref": "Luke 17:36",
       "arabic_page": 162,
-      "text": "Kalau ada dua orang di"
+      "text": "Kalau ada dua orang di",
+      "ref_id": "Lukas 17:36",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 88,
       "diatessaron_verse": "50",
       "ref": "Luke 17:36",
       "arabic_page": 162,
-      "text": "ladang, yang seorang akan dibawa dan yang lain akan ditinggalkan."
+      "text": "ladang, yang seorang akan dibawa dan yang lain akan ditinggalkan.",
+      "ref_id": "Lukas 17:36",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 89,
       "diatessaron_verse": "50",
       "ref": "Luke 17:37",
       "arabic_page": 162,
-      "text": "Kata mereka kepada Yesus: \"Di mana, Tuhan?\" Kata-Nya kepada mereka: \"Di mana ada mayat, di situ"
+      "text": "Kata mereka kepada Yesus: \"Di mana, Tuhan?\" Kata-Nya kepada mereka: \"Di mana ada mayat, di situ",
+      "ref_id": "Lukas 17:37",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 90,
       "diatessaron_verse": "51, 52",
       "ref": "Luke 17:37",
       "arabic_page": 162,
-      "text": "berkerumun burung nasar.\""
+      "text": "berkerumun burung nasar.\"",
+      "ref_id": "Lukas 17:37",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 91,
       "diatessaron_verse": "51, 52",
       "ref": "Matthew 24:42",
       "arabic_page": 162,
-      "text": "Karena itu berjaga-jagalah, sebab kamu tidak tahu pada hari mana Tuhanmu datang."
+      "text": "Karena itu berjaga-jagalah, sebab kamu tidak tahu pada hari mana Tuhanmu datang.",
+      "ref_id": "Matius 24:42",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 92,
       "diatessaron_verse": "51, 52",
       "ref": "Matthew 24:43",
       "arabic_page": 162,
-      "text": "Tetapi ketahuilah ini: Jika tuan rumah tahu pada waktu mana pada malam hari pencuri akan datang, sudahlah pasti ia berjaga-jaga, dan tidak akan membiarkan rumahnya"
+      "text": "Tetapi ketahuilah ini: Jika tuan rumah tahu pada waktu mana pada malam hari pencuri akan datang, sudahlah pasti ia berjaga-jaga, dan tidak akan membiarkan rumahnya",
+      "ref_id": "Matius 24:43",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 25
     },
     {
       "id": 93,
       "diatessaron_verse": "53",
       "ref": "Matthew 24:43",
       "arabic_page": 162,
-      "text": "dibongkar."
+      "text": "dibongkar.",
+      "ref_id": "Matius 24:43",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 94,
       "diatessaron_verse": "53",
       "ref": "Matthew 24:44",
       "arabic_page": 162,
-      "text": "Sebab itu, hendaklah kamu juga siap sedia, karena Anak Manusia datang pada saat yang tidak kamu duga.\""
+      "text": "Sebab itu, hendaklah kamu juga siap sedia, karena Anak Manusia datang pada saat yang tidak kamu duga.\"",
+      "ref_id": "Matius 24:44",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     }
-  ]
+  ],
+  "title_id": "Kehancuran Bait Allah & Peringatan untuk Berjaga-jaga",
+  "title_en": "Destruction of Jerusalem & Need for Watchfulness",
+  "epoch_id": 6,
+  "total_words": 1008,
+  "arabic_page_range": "p. 159 - p. 162",
+  "arabic_pages": [
+    159,
+    160,
+    161,
+    162
+  ],
+  "stats": {
+    "mat": 33,
+    "mrk": 20,
+    "luk": 41,
+    "yoh": 0,
+    "unk": 0
+  },
+  "footnotes": []
 }

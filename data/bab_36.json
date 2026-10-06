@@ -24,595 +24,1038 @@
       "diatessaron_verse": "1",
       "ref": "John 8:51",
       "arabic_page": null,
-      "text": "Aku berkata kepadamu: Sesungguhnya barangsiapa menuruti firman-Ku, ia tidak akan mengalami maut sampai"
+      "text": "Aku berkata kepadamu: Sesungguhnya barangsiapa menuruti firman-Ku, ia tidak akan mengalami maut sampai",
+      "ref_id": "Yohanes 8:51",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "John 8:51",
       "arabic_page": null,
-      "text": "selama-lamanya.\""
+      "text": "selama-lamanya.\"",
+      "ref_id": "Yohanes 8:51",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "John 8:52",
       "arabic_page": null,
-      "text": "Kata orang-orang Yahudi kepada-Nya: \"Sekarang kami tahu, bahwa Engkau kerasukan setan. Sebab Abraham telah mati dan demikian juga nabi-nabi, namun Engkau berkata: Barangsiapa menuruti firman-Ku, ia tidak akan mengalami"
+      "text": "Kata orang-orang Yahudi kepada-Nya: \"Sekarang kami tahu, bahwa Engkau kerasukan setan. Sebab Abraham telah mati dan demikian juga nabi-nabi, namun Engkau berkata: Barangsiapa menuruti firman-Ku, ia tidak akan mengalami",
+      "ref_id": "Yohanes 8:52",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 29
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "John 8:52",
       "arabic_page": null,
-      "text": "maut sampai selama-lamanya."
+      "text": "maut sampai selama-lamanya.",
+      "ref_id": "Yohanes 8:52",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "John 8:53",
       "arabic_page": null,
-      "text": "Adakah Engkau lebih besar dari pada bapa kita Abraham, yang"
+      "text": "Adakah Engkau lebih besar dari pada bapa kita Abraham, yang",
+      "ref_id": "Yohanes 8:53",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "John 8:53",
       "arabic_page": null,
-      "text": "telah mati! Nabi-nabipun telah mati; dengan siapakah Engkau samakan diri-Mu?\""
+      "text": "telah mati! Nabi-nabipun telah mati; dengan siapakah Engkau samakan diri-Mu?\"",
+      "ref_id": "Yohanes 8:53",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 7,
       "diatessaron_verse": "4",
       "ref": "John 8:54",
       "arabic_page": null,
-      "text": "Jawab Yesus: \"Jikalau Aku memuliakan diri-Ku sendiri, maka kemuliaan-Ku itu sedikitpun tidak ada artinya. Bapa-Kulah yang"
+      "text": "Jawab Yesus: \"Jikalau Aku memuliakan diri-Ku sendiri, maka kemuliaan-Ku itu sedikitpun tidak ada artinya. Bapa-Kulah yang",
+      "ref_id": "Yohanes 8:54",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
       "ref": "John 8:54",
       "arabic_page": null,
-      "text": "memuliakan Aku, tentang siapa kamu berkata: Dia adalah Allah kami,"
+      "text": "memuliakan Aku, tentang siapa kamu berkata: Dia adalah Allah kami,",
+      "ref_id": "Yohanes 8:54",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 9,
       "diatessaron_verse": "5",
       "ref": "John 8:55",
       "arabic_page": null,
-      "text": "padahal kamu tidak mengenal Dia, tetapi Aku mengenal Dia. Dan jika Aku berkata: Aku tidak mengenal Dia, maka Aku adalah"
+      "text": "padahal kamu tidak mengenal Dia, tetapi Aku mengenal Dia. Dan jika Aku berkata: Aku tidak mengenal Dia, maka Aku adalah",
+      "ref_id": "Yohanes 8:55",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 10,
       "diatessaron_verse": "6",
       "ref": "John 8:55",
       "arabic_page": 137,
-      "text": "pendusta, sama seperti kamu, tetapi Aku mengenal Dia dan Aku menuruti firman-Nya."
+      "text": "pendusta, sama seperti kamu, tetapi Aku mengenal Dia dan Aku menuruti firman-Nya.",
+      "ref_id": "Yohanes 8:55",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 11,
       "diatessaron_verse": "6",
       "ref": "John 8:56",
       "arabic_page": 137,
-      "text": "Abraham bapamu"
+      "text": "Abraham bapamu",
+      "ref_id": "Yohanes 8:56",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 12,
       "diatessaron_verse": "7",
       "ref": "John 8:56",
       "arabic_page": 137,
-      "text": "bersukacita bahwa ia akan melihat hari-Ku dan ia telah melihatnya dan ia bersukacita.\""
+      "text": "bersukacita bahwa ia akan melihat hari-Ku dan ia telah melihatnya dan ia bersukacita.\"",
+      "ref_id": "Yohanes 8:56",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 13,
       "diatessaron_verse": "7",
       "ref": "John 8:57",
       "arabic_page": 137,
-      "text": "Maka kata orang-orang Yahudi itu kepada-Nya:"
+      "text": "Maka kata orang-orang Yahudi itu kepada-Nya:",
+      "ref_id": "Yohanes 8:57",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 14,
       "diatessaron_verse": "8",
       "ref": "John 8:57",
       "arabic_page": 137,
-      "text": "\"Umur-Mu belum sampai lima puluh tahun dan Engkau telah melihat Abraham?\""
+      "text": "\"Umur-Mu belum sampai lima puluh tahun dan Engkau telah melihat Abraham?\"",
+      "ref_id": "Yohanes 8:57",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 15,
       "diatessaron_verse": "8",
       "ref": "John 8:58",
       "arabic_page": 137,
-      "text": "Kata Yesus kepada"
+      "text": "Kata Yesus kepada",
+      "ref_id": "Yohanes 8:58",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 16,
       "diatessaron_verse": "9",
       "ref": "John 8:58",
       "arabic_page": 137,
-      "text": "mereka: \"Aku berkata kepadamu, sesungguhnya sebelum Abraham jadi, Aku telah ada.\""
+      "text": "mereka: \"Aku berkata kepadamu, sesungguhnya sebelum Abraham jadi, Aku telah ada.\"",
+      "ref_id": "Yohanes 8:58",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 17,
       "diatessaron_verse": "9",
       "ref": "John 8:59",
       "arabic_page": 137,
-      "text": "Lalu mereka mengambil batu untuk melempari Dia; tetapi Yesus menghilang dan meninggalkan Bait Allah."
+      "text": "Lalu mereka mengambil batu untuk melempari Dia; tetapi Yesus menghilang dan meninggalkan Bait Allah.",
+      "ref_id": "Yohanes 8:59",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 18,
       "diatessaron_verse": "10",
       "ref": "John 9:1",
       "arabic_page": 137,
-      "text": "Waktu Yesus sedang lewat, Ia melihat seorang yang buta sejak lahirnya."
+      "text": "Waktu Yesus sedang lewat, Ia melihat seorang yang buta sejak lahirnya.",
+      "ref_id": "Yohanes 9:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 19,
       "diatessaron_verse": "11",
       "ref": "John 9:2",
       "arabic_page": 137,
-      "text": "Murid-murid-Nya bertanya kepada-Nya: \"Rabi, siapakah yang berbuat dosa, orang ini sendiri atau orang tuanya,"
+      "text": "Murid-murid-Nya bertanya kepada-Nya: \"Rabi, siapakah yang berbuat dosa, orang ini sendiri atau orang tuanya,",
+      "ref_id": "Yohanes 9:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 20,
       "diatessaron_verse": "12",
       "ref": "John 9:2",
       "arabic_page": 137,
-      "text": "sehingga ia dilahirkan buta?\""
+      "text": "sehingga ia dilahirkan buta?\"",
+      "ref_id": "Yohanes 9:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 21,
       "diatessaron_verse": "12",
       "ref": "John 9:3",
       "arabic_page": 137,
-      "text": "Jawab Yesus: \"Bukan dia dan bukan juga orang tuanya,"
+      "text": "Jawab Yesus: \"Bukan dia dan bukan juga orang tuanya,",
+      "ref_id": "Yohanes 9:3",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 22,
       "diatessaron_verse": "13",
       "ref": "John 9:3",
       "arabic_page": 137,
-      "text": "tetapi karena pekerjaan-pekerjaan Allah harus dinyatakan di dalam dia."
+      "text": "tetapi karena pekerjaan-pekerjaan Allah harus dinyatakan di dalam dia.",
+      "ref_id": "Yohanes 9:3",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 23,
       "diatessaron_verse": "13",
       "ref": "John 9:4",
       "arabic_page": 137,
-      "text": "Kita harus mengerjakan pekerjaan Dia yang mengutus Aku, selama masih siang; akan datang malam, di mana tidak ada seorangpun yang"
+      "text": "Kita harus mengerjakan pekerjaan Dia yang mengutus Aku, selama masih siang; akan datang malam, di mana tidak ada seorangpun yang",
+      "ref_id": "Yohanes 9:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 24,
       "diatessaron_verse": "14",
       "ref": "John 9:4",
       "arabic_page": 137,
-      "text": "dapat bekerja."
+      "text": "dapat bekerja.",
+      "ref_id": "Yohanes 9:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 25,
       "diatessaron_verse": "14",
       "ref": "John 9:5",
       "arabic_page": 137,
-      "text": "Selama Aku di dalam dunia, Akulah terang dunia.\""
+      "text": "Selama Aku di dalam dunia, Akulah terang dunia.\"",
+      "ref_id": "Yohanes 9:5",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 26,
       "diatessaron_verse": "15",
       "ref": "John 9:6",
       "arabic_page": 137,
-      "text": "Setelah Ia mengatakan semuanya itu, Ia meludah ke tanah, dan mengaduk ludahnya itu dengan tanah, lalu"
+      "text": "Setelah Ia mengatakan semuanya itu, Ia meludah ke tanah, dan mengaduk ludahnya itu dengan tanah, lalu",
+      "ref_id": "Yohanes 9:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 27,
       "diatessaron_verse": "16",
       "ref": "John 9:6",
       "arabic_page": 137,
-      "text": "mengoleskannya pada mata orang buta tadi"
+      "text": "mengoleskannya pada mata orang buta tadi",
+      "ref_id": "Yohanes 9:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 28,
       "diatessaron_verse": "16",
       "ref": "John 9:7",
       "arabic_page": 137,
-      "text": "dan berkata kepadanya: \"Pergilah, basuhlah dirimu dalam"
+      "text": "dan berkata kepadanya: \"Pergilah, basuhlah dirimu dalam",
+      "ref_id": "Yohanes 9:7",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 29,
       "diatessaron_verse": "17",
       "ref": "John 9:7",
       "arabic_page": 137,
-      "text": "kolam Siloam.\" Siloam artinya: \"Yang diutus.\" Maka pergilah orang itu, ia membasuh dirinya lalu kembali dengan matanya sudah melek."
+      "text": "kolam Siloam.\" Siloam artinya: \"Yang diutus.\" Maka pergilah orang itu, ia membasuh dirinya lalu kembali dengan matanya sudah melek.",
+      "ref_id": "Yohanes 9:7",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 30,
       "diatessaron_verse": "17",
       "ref": "John 9:8",
       "arabic_page": 137,
-      "text": "Tetapi tetangga-tetangganya dan mereka, yang dahulu mengenalnya sebagai pengemis, berkata: \"Bukankah dia ini, yang selalu mengemis?\""
+      "text": "Tetapi tetangga-tetangganya dan mereka, yang dahulu mengenalnya sebagai pengemis, berkata: \"Bukankah dia ini, yang selalu mengemis?\"",
+      "ref_id": "Yohanes 9:8",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 31,
       "diatessaron_verse": "18",
       "ref": "John 9:9",
       "arabic_page": 137,
-      "text": "Ada yang berkata: \"Benar, dialah ini.\" Ada pula yang berkata: \"Bukan, tetapi ia serupa dengan dia.\" Orang itu sendiri"
+      "text": "Ada yang berkata: \"Benar, dialah ini.\" Ada pula yang berkata: \"Bukan, tetapi ia serupa dengan dia.\" Orang itu sendiri",
+      "ref_id": "Yohanes 9:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 32,
       "diatessaron_verse": "19,20",
       "ref": "John 9:9",
       "arabic_page": 137,
-      "text": "berkata: \"Benar, akulah itu.\""
+      "text": "berkata: \"Benar, akulah itu.\"",
+      "ref_id": "Yohanes 9:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 33,
       "diatessaron_verse": "19,20",
       "ref": "John 9:10",
       "arabic_page": 137,
-      "text": "Kata mereka kepadanya: \"Bagaimana matamu menjadi melek?\""
+      "text": "Kata mereka kepadanya: \"Bagaimana matamu menjadi melek?\"",
+      "ref_id": "Yohanes 9:10",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 34,
       "diatessaron_verse": "19,20",
       "ref": "John 9:11",
       "arabic_page": 137,
-      "text": "Jawabnya: \"Orang yang disebut Yesus itu mengaduk tanah, mengoleskannya pada mataku dan berkata kepadaku: Pergilah ke Siloam dan basuhlah dirimu. Lalu aku pergi dan"
+      "text": "Jawabnya: \"Orang yang disebut Yesus itu mengaduk tanah, mengoleskannya pada mataku dan berkata kepadaku: Pergilah ke Siloam dan basuhlah dirimu. Lalu aku pergi dan",
+      "ref_id": "Yohanes 9:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 24
     },
     {
       "id": 35,
       "diatessaron_verse": "21",
       "ref": "John 9:11",
       "arabic_page": 137,
-      "text": "setelah aku membasuh diriku, aku dapat melihat.\""
+      "text": "setelah aku membasuh diriku, aku dapat melihat.\"",
+      "ref_id": "Yohanes 9:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 36,
       "diatessaron_verse": "21",
       "ref": "John 9:12",
       "arabic_page": 137,
-      "text": "Lalu mereka berkata kepadanya: \"Di manakah Dia?\" Jawabnya:"
+      "text": "Lalu mereka berkata kepadanya: \"Di manakah Dia?\" Jawabnya:",
+      "ref_id": "Yohanes 9:12",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 37,
       "diatessaron_verse": "22, 23",
       "ref": "John 9:12",
       "arabic_page": 138,
-      "text": "\"Aku tidak tahu.\""
+      "text": "\"Aku tidak tahu.\"",
+      "ref_id": "Yohanes 9:12",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 38,
       "diatessaron_verse": "22, 23",
       "ref": "John 9:13",
       "arabic_page": 138,
-      "text": "Lalu mereka membawa orang yang tadinya buta itu kepada orang-orang Farisi."
+      "text": "Lalu mereka membawa orang yang tadinya buta itu kepada orang-orang Farisi.",
+      "ref_id": "Yohanes 9:13",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 39,
       "diatessaron_verse": "22, 23",
       "ref": "John 9:14",
       "arabic_page": 138,
-      "text": "Adapun hari waktu Yesus mengaduk tanah dan memelekkan mata orang itu, adalah"
+      "text": "Adapun hari waktu Yesus mengaduk tanah dan memelekkan mata orang itu, adalah",
+      "ref_id": "Yohanes 9:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 40,
       "diatessaron_verse": "24",
       "ref": "John 9:14",
       "arabic_page": 138,
-      "text": "hari Sabat."
+      "text": "hari Sabat.",
+      "ref_id": "Yohanes 9:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 41,
       "diatessaron_verse": "24",
       "ref": "John 9:15",
       "arabic_page": 138,
-      "text": "Karena itu orang-orang Farisipun bertanya kepadanya, bagaimana matanya menjadi melek."
+      "text": "Karena itu orang-orang Farisipun bertanya kepadanya, bagaimana matanya menjadi melek.",
+      "ref_id": "Yohanes 9:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 42,
       "diatessaron_verse": "25",
       "ref": "John 9:15",
       "arabic_page": 138,
-      "text": "Jawabnya: \"Ia mengoleskan adukan tanah pada mataku, lalu aku membasuh diriku, dan sekarang aku dapat melihat.\""
+      "text": "Jawabnya: \"Ia mengoleskan adukan tanah pada mataku, lalu aku membasuh diriku, dan sekarang aku dapat melihat.\"",
+      "ref_id": "Yohanes 9:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 43,
       "diatessaron_verse": "25",
       "ref": "John 9:16",
       "arabic_page": 138,
-      "text": "Maka kata sebagian orang-orang Farisi itu: \"Orang ini tidak datang dari Allah, sebab Ia tidak memelihara hari Sabat.\" Sebagian pula berkata: \"Bagaimanakah seorang berdosa dapat membuat mujizat yang demikian?\" Maka timbullah"
+      "text": "Maka kata sebagian orang-orang Farisi itu: \"Orang ini tidak datang dari Allah, sebab Ia tidak memelihara hari Sabat.\" Sebagian pula berkata: \"Bagaimanakah seorang berdosa dapat membuat mujizat yang demikian?\" Maka timbullah",
+      "ref_id": "Yohanes 9:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 31
     },
     {
       "id": 44,
       "diatessaron_verse": "26",
       "ref": "John 9:16",
       "arabic_page": 138,
-      "text": "pertentangan di antara mereka."
+      "text": "pertentangan di antara mereka.",
+      "ref_id": "Yohanes 9:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 45,
       "diatessaron_verse": "26",
       "ref": "John 9:17",
       "arabic_page": 138,
-      "text": "Lalu kata mereka pula kepada orang buta itu: \"Dan engkau, apakah katamu tentang Dia, karena Ia telah memelekkan matamu?\""
+      "text": "Lalu kata mereka pula kepada orang buta itu: \"Dan engkau, apakah katamu tentang Dia, karena Ia telah memelekkan matamu?\"",
+      "ref_id": "Yohanes 9:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 46,
       "diatessaron_verse": "27",
       "ref": "John 9:17",
       "arabic_page": 138,
-      "text": "Jawabnya: \"Ia adalah seorang nabi.\""
+      "text": "Jawabnya: \"Ia adalah seorang nabi.\"",
+      "ref_id": "Yohanes 9:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 47,
       "diatessaron_verse": "27",
       "ref": "John 9:18",
       "arabic_page": 138,
-      "text": "Tetapi orang-orang Yahudi itu tidak percaya, bahwa tadinya ia buta dan baru dapat"
+      "text": "Tetapi orang-orang Yahudi itu tidak percaya, bahwa tadinya ia buta dan baru dapat",
+      "ref_id": "Yohanes 9:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 48,
       "diatessaron_verse": "28",
       "ref": "John 9:18",
       "arabic_page": 138,
-      "text": "melihat lagi, sampai mereka memanggil orang tuanya"
+      "text": "melihat lagi, sampai mereka memanggil orang tuanya",
+      "ref_id": "Yohanes 9:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 49,
       "diatessaron_verse": "28",
       "ref": "John 9:19",
       "arabic_page": 138,
-      "text": "dan bertanya kepada mereka: \"Inikah anakmu, yang kamu katakan bahwa ia lahir buta? Kalau begitu"
+      "text": "dan bertanya kepada mereka: \"Inikah anakmu, yang kamu katakan bahwa ia lahir buta? Kalau begitu",
+      "ref_id": "Yohanes 9:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 50,
       "diatessaron_verse": "29",
       "ref": "John 9:19",
       "arabic_page": 138,
-      "text": "bagaimanakah ia sekarang dapat melihat?\""
+      "text": "bagaimanakah ia sekarang dapat melihat?\"",
+      "ref_id": "Yohanes 9:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 51,
       "diatessaron_verse": "29",
       "ref": "John 9:20",
       "arabic_page": 138,
-      "text": "Jawab orang tua itu: \"Yang kami tahu ialah,"
+      "text": "Jawab orang tua itu: \"Yang kami tahu ialah,",
+      "ref_id": "Yohanes 9:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 52,
       "diatessaron_verse": "30",
       "ref": "John 9:20",
       "arabic_page": 138,
-      "text": "bahwa dia ini anak kami dan bahwa ia lahir buta,"
+      "text": "bahwa dia ini anak kami dan bahwa ia lahir buta,",
+      "ref_id": "Yohanes 9:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 53,
       "diatessaron_verse": "30",
       "ref": "John 9:21",
       "arabic_page": 138,
-      "text": "tetapi bagaimana ia sekarang dapat melihat, kami tidak tahu, dan siapa yang memelekkan matanya, kami tidak tahu juga."
+      "text": "tetapi bagaimana ia sekarang dapat melihat, kami tidak tahu, dan siapa yang memelekkan matanya, kami tidak tahu juga.",
+      "ref_id": "Yohanes 9:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 54,
       "diatessaron_verse": "31",
       "ref": "John 9:21",
       "arabic_page": 138,
-      "text": "Tanyakanlah kepadanya sendiri, ia sudah dewasa, ia dapat berkata-kata untuk dirinya sendiri.\""
+      "text": "Tanyakanlah kepadanya sendiri, ia sudah dewasa, ia dapat berkata-kata untuk dirinya sendiri.\"",
+      "ref_id": "Yohanes 9:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 55,
       "diatessaron_verse": "31",
       "ref": "John 9:22",
       "arabic_page": 138,
-      "text": "Orang tuanya berkata demikian, karena mereka takut kepada orang-orang Yahudi, sebab orang-orang Yahudi itu telah sepakat bahwa setiap orang yang mengaku"
+      "text": "Orang tuanya berkata demikian, karena mereka takut kepada orang-orang Yahudi, sebab orang-orang Yahudi itu telah sepakat bahwa setiap orang yang mengaku",
+      "ref_id": "Yohanes 9:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 21
     },
     {
       "id": 56,
       "diatessaron_verse": "32",
       "ref": "John 9:22",
       "arabic_page": 138,
-      "text": "Dia sebagai Mesias, akan dikucilkan."
+      "text": "Dia sebagai Mesias, akan dikucilkan.",
+      "ref_id": "Yohanes 9:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 57,
       "diatessaron_verse": "32",
       "ref": "John 9:23",
       "arabic_page": 138,
-      "text": "Itulah sebabnya"
+      "text": "Itulah sebabnya",
+      "ref_id": "Yohanes 9:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 58,
       "diatessaron_verse": "33",
       "ref": "John 9:23",
       "arabic_page": 138,
-      "text": "maka orang tuanya berkata: \"Ia telah dewasa, tanyakanlah kepadanya sendiri.\""
+      "text": "maka orang tuanya berkata: \"Ia telah dewasa, tanyakanlah kepadanya sendiri.\"",
+      "ref_id": "Yohanes 9:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 59,
       "diatessaron_verse": "33",
       "ref": "John 9:24",
       "arabic_page": 138,
-      "text": "Lalu mereka memanggil sekali lagi orang yang tadinya buta itu dan berkata kepadanya: \"Katakanlah kebenaran di hadapan Allah; kami tahu bahwa"
+      "text": "Lalu mereka memanggil sekali lagi orang yang tadinya buta itu dan berkata kepadanya: \"Katakanlah kebenaran di hadapan Allah; kami tahu bahwa",
+      "ref_id": "Yohanes 9:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 21
     },
     {
       "id": 60,
       "diatessaron_verse": "34",
       "ref": "John 9:24",
       "arabic_page": 138,
-      "text": "orang itu orang berdosa.\""
+      "text": "orang itu orang berdosa.\"",
+      "ref_id": "Yohanes 9:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 61,
       "diatessaron_verse": "34",
       "ref": "John 9:25",
       "arabic_page": 138,
-      "text": "Jawabnya: \"Apakah orang itu orang berdosa, aku"
+      "text": "Jawabnya: \"Apakah orang itu orang berdosa, aku",
+      "ref_id": "Yohanes 9:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 62,
       "diatessaron_verse": "35",
       "ref": "John 9:25",
       "arabic_page": 138,
-      "text": "tidak tahu; tetapi satu hal aku tahu, yaitu bahwa aku tadinya buta, dan sekarang dapat melihat.\""
+      "text": "tidak tahu; tetapi satu hal aku tahu, yaitu bahwa aku tadinya buta, dan sekarang dapat melihat.\"",
+      "ref_id": "Yohanes 9:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 63,
       "diatessaron_verse": "35",
       "ref": "John 9:26",
       "arabic_page": 138,
-      "text": "Kata mereka kepadanya:"
+      "text": "Kata mereka kepadanya:",
+      "ref_id": "Yohanes 9:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 64,
       "diatessaron_verse": "36",
       "ref": "John 9:26",
       "arabic_page": 139,
-      "text": "\"Apakah yang diperbuat-Nya padamu? Bagaimana Ia memelekkan matamu?\""
+      "text": "\"Apakah yang diperbuat-Nya padamu? Bagaimana Ia memelekkan matamu?\"",
+      "ref_id": "Yohanes 9:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 65,
       "diatessaron_verse": "36",
       "ref": "John 9:27",
       "arabic_page": 139,
-      "text": "Jawabnya: \"Telah kukatakan kepadamu, dan kamu tidak mendengarkannya; mengapa kamu hendak mendengarkannya lagi?"
+      "text": "Jawabnya: \"Telah kukatakan kepadamu, dan kamu tidak mendengarkannya; mengapa kamu hendak mendengarkannya lagi?",
+      "ref_id": "Yohanes 9:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 66,
       "diatessaron_verse": "37",
       "ref": "John 9:27",
       "arabic_page": 139,
-      "text": "Barangkali kamu mau menjadi murid-Nya juga?\""
+      "text": "Barangkali kamu mau menjadi murid-Nya juga?\"",
+      "ref_id": "Yohanes 9:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 67,
       "diatessaron_verse": "37",
       "ref": "John 9:28",
       "arabic_page": 139,
-      "text": "Sambil mengejek mereka berkata kepadanya: \"Engkau murid orang itu tetapi kami murid-murid"
+      "text": "Sambil mengejek mereka berkata kepadanya: \"Engkau murid orang itu tetapi kami murid-murid",
+      "ref_id": "Yohanes 9:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 68,
       "diatessaron_verse": "38",
       "ref": "John 9:28",
       "arabic_page": 139,
-      "text": "Musa."
+      "text": "Musa.",
+      "ref_id": "Yohanes 9:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 69,
       "diatessaron_verse": "38",
       "ref": "John 9:29",
       "arabic_page": 139,
-      "text": "Kami tahu, bahwa Allah telah berfirman kepada Musa, tetapi tentang Dia itu kami"
+      "text": "Kami tahu, bahwa Allah telah berfirman kepada Musa, tetapi tentang Dia itu kami",
+      "ref_id": "Yohanes 9:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 70,
       "diatessaron_verse": "39",
       "ref": "John 9:29",
       "arabic_page": 139,
-      "text": "tidak tahu dari mana Ia datang.\""
+      "text": "tidak tahu dari mana Ia datang.\"",
+      "ref_id": "Yohanes 9:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 71,
       "diatessaron_verse": "39",
       "ref": "John 9:30",
       "arabic_page": 139,
-      "text": "Jawab orang itu kepada mereka: \"Aneh juga"
+      "text": "Jawab orang itu kepada mereka: \"Aneh juga",
+      "ref_id": "Yohanes 9:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 72,
       "diatessaron_verse": "40",
       "ref": "John 9:30",
       "arabic_page": 139,
-      "text": "bahwa kamu tidak tahu dari mana Ia datang, sedangkan Ia telah memelekkan mataku."
+      "text": "bahwa kamu tidak tahu dari mana Ia datang, sedangkan Ia telah memelekkan mataku.",
+      "ref_id": "Yohanes 9:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 73,
       "diatessaron_verse": "40",
       "ref": "John 9:31",
       "arabic_page": 139,
-      "text": "Kita tahu, bahwa Allah tidak mendengarkan orang-orang berdosa, melainkan orang-orang yang saleh dan yang melakukan"
+      "text": "Kita tahu, bahwa Allah tidak mendengarkan orang-orang berdosa, melainkan orang-orang yang saleh dan yang melakukan",
+      "ref_id": "Yohanes 9:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 74,
       "diatessaron_verse": "41",
       "ref": "John 9:31",
       "arabic_page": 139,
-      "text": "kehendak-Nya."
+      "text": "kehendak-Nya.",
+      "ref_id": "Yohanes 9:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 75,
       "diatessaron_verse": "41",
       "ref": "John 9:32",
       "arabic_page": 139,
-      "text": "Dari dahulu sampai sekarang tidak pernah terdengar, bahwa ada orang yang"
+      "text": "Dari dahulu sampai sekarang tidak pernah terdengar, bahwa ada orang yang",
+      "ref_id": "Yohanes 9:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 76,
       "diatessaron_verse": "42",
       "ref": "John 9:32",
       "arabic_page": 139,
-      "text": "memelekkan mata orang yang lahir buta."
+      "text": "memelekkan mata orang yang lahir buta.",
+      "ref_id": "Yohanes 9:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 77,
       "diatessaron_verse": "42",
       "ref": "John 9:33",
       "arabic_page": 139,
-      "text": "Jikalau orang itu"
+      "text": "Jikalau orang itu",
+      "ref_id": "Yohanes 9:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 78,
       "diatessaron_verse": "43",
       "ref": "John 9:33",
       "arabic_page": 139,
-      "text": "tidak datang dari Allah, Ia tidak dapat berbuat apa-apa.\""
+      "text": "tidak datang dari Allah, Ia tidak dapat berbuat apa-apa.\"",
+      "ref_id": "Yohanes 9:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 79,
       "diatessaron_verse": "43",
       "ref": "John 9:34",
       "arabic_page": 139,
-      "text": "Jawab mereka: \"Engkau ini lahir sama sekali dalam dosa dan engkau hendak mengajar kami?\" Lalu mereka mengusir dia ke luar."
+      "text": "Jawab mereka: \"Engkau ini lahir sama sekali dalam dosa dan engkau hendak mengajar kami?\" Lalu mereka mengusir dia ke luar.",
+      "ref_id": "Yohanes 9:34",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 80,
       "diatessaron_verse": "44",
       "ref": "John 9:35",
       "arabic_page": 139,
-      "text": "Yesus mendengar bahwa ia telah diusir ke luar oleh mereka. Kemudian Ia bertemu dengan dia dan"
+      "text": "Yesus mendengar bahwa ia telah diusir ke luar oleh mereka. Kemudian Ia bertemu dengan dia dan",
+      "ref_id": "Yohanes 9:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 81,
       "diatessaron_verse": "45",
       "ref": "John 9:35",
       "arabic_page": 139,
-      "text": "berkata: \"Percayakah engkau kepada Anak Manusia?\""
+      "text": "berkata: \"Percayakah engkau kepada Anak Manusia?\"",
+      "ref_id": "Yohanes 9:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 82,
       "diatessaron_verse": "46",
       "ref": "John 9:36",
       "arabic_page": 139,
-      "text": "Jawabnya: \"Siapakah Dia, Tuhan? Supaya aku percaya kepada-Nya.\""
+      "text": "Jawabnya: \"Siapakah Dia, Tuhan? Supaya aku percaya kepada-Nya.\"",
+      "ref_id": "Yohanes 9:36",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 83,
       "diatessaron_verse": "46",
       "ref": "John 9:37",
       "arabic_page": 139,
-      "text": "Kata Yesus kepadanya:"
+      "text": "Kata Yesus kepadanya:",
+      "ref_id": "Yohanes 9:37",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 84,
       "diatessaron_verse": "47",
       "ref": "John 9:37",
       "arabic_page": 139,
-      "text": "\"Engkau bukan saja melihat Dia; tetapi Dia yang sedang berkata-kata dengan engkau, Dialah itu!\""
+      "text": "\"Engkau bukan saja melihat Dia; tetapi Dia yang sedang berkata-kata dengan engkau, Dialah itu!\"",
+      "ref_id": "Yohanes 9:37",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 85,
       "diatessaron_verse": "47",
       "ref": "John 9:38",
       "arabic_page": 139,
-      "text": "Katanya: \"Aku percaya, Tuhan!\" Lalu ia sujud menyembah-Nya."
+      "text": "Katanya: \"Aku percaya, Tuhan!\" Lalu ia sujud menyembah-Nya.",
+      "ref_id": "Yohanes 9:38",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     }
-  ]
+  ],
+  "title_id": "Yesus Terang Dunia & Penyembuhan Orang Buta Sejak Lahir",
+  "title_en": "Jesus the Light of the World & Healing the Blind Man",
+  "epoch_id": 5,
+  "total_words": 883,
+  "arabic_page_range": "p. 137 - p. 139",
+  "arabic_pages": [
+    137,
+    138,
+    139
+  ],
+  "stats": {
+    "mat": 0,
+    "mrk": 0,
+    "luk": 0,
+    "yoh": 85,
+    "unk": 0
+  },
+  "footnotes": []
 }

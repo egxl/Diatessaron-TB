@@ -1,41 +1,326 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="id" data-theme="light">
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diatessaron-TB Web Reader</title>
-    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+    <title>Diatessaron-TB — Harmoni Empat Injil oleh Tatianus</title>
+
+    <!-- Meta Description & SEO -->
+    <meta name="description" content="Harmoni kronologis empat Injil (Matius, Markus, Lukas, Yohanes) oleh Tatianus (170 M) dalam Bahasa Indonesia (LAI-TB). Dilengkapi referensi naskah Arab kuno dan catatan varian tekstual.">
+    <meta name="keywords" content="Diatessaron, Tatianus, Harmoni Injil, Alkitab, LAI-TB, PB, Naskah Kuno, Biblika">
+    <meta name="author" content="Diatessaron-TB">
+    <meta name="theme-color" content="#fbfbf9">
+
+    <!-- Open Graph / Facebook / WhatsApp -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Diatessaron-TB — Harmoni Empat Injil oleh Tatianus (LAI-TB)">
+    <meta property="og:description" content="Baca dan pelajari kisah kehidupan Yesus Kristus dalam satu alur narasi kronologis yang menggabungkan empat Injil secara utuh.">
+    <meta property="og:locale" content="id_ID">
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Diatessaron-TB — Harmoni Empat Injil">
+    <meta name="twitter:description" content="Harmoni kronologis empat Injil oleh Tatianus dalam Bahasa Indonesia (LAI-TB).">
+
+    <!-- Stylesheet (Strict Relative Path for GitHub Pages) -->
+    <link rel="stylesheet" href="./styles.css">
 </head>
 
 <body>
+    <div class="app-container">
 
-    <header class="mobile-header">
-        <h1>Diatessaron-TB</h1>
-        <button id="menu-toggle">☰ Chapters</button>
-    </header>
+        <!-- ====================================================================
+             TOP COMMAND & APP BAR
+             ==================================================================== -->
+        <header class="top-bar">
+            <div class="top-bar-left">
+                <button id="toggle-sidebar-btn" class="icon-btn" title="Buka/Tutup Navigasi Bab" aria-label="Toggle Sidebar">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+                </button>
 
-    <div class="container">
-        <!-- Sidebar Navigation -->
-        <nav id="chapter-nav">
-            <h2>Chapters</h2>
-            <ul id="chapter-list">
-                <!-- Chapter links will be injected here -->
-            </ul>
-        </nav>
+                <button id="brand-home-btn" class="brand-button" title="Tentang Diatessaron">
+                    <span class="brand-title">DIATESSARON</span>
+                    <span class="brand-subtitle">διὰ τεσσάρων</span>
+                </button>
 
-        <!-- Main Text View -->
-        <main>
-            <div id="sticky-header" class="hidden">
-                <span id="current-ref">Select a verse</span>
+                <button id="chapter-picker-btn" class="chapter-picker-btn" title="Pilih Bab & Bagian Kisah">
+                    <span id="current-chapter-pill">Bab 1</span>
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polyline points="6 9 12 15 18 9"></polyline>
+                    </svg>
+                </button>
             </div>
-            <div id="reader-view">
-                <!-- Text stream will be injected here -->
+
+            <div class="top-bar-center">
+                <!-- Gospel Composition Meter -->
+                <div class="gospel-meter-wrap" id="header-gospel-meter" title="Komposisi 4 Injil pada bab ini">
+                    <span class="gospel-meter-label">Harmoni</span>
+                    <div class="gospel-meter-bar">
+                        <div class="gospel-meter-seg mat" id="meter-mat" style="width: 25%" title="Matius"></div>
+                        <div class="gospel-meter-seg mrk" id="meter-mrk" style="width: 25%" title="Markus"></div>
+                        <div class="gospel-meter-seg luk" id="meter-luk" style="width: 25%" title="Lukas"></div>
+                        <div class="gospel-meter-seg yoh" id="meter-yoh" style="width: 25%" title="Yohanes"></div>
+                    </div>
+                </div>
             </div>
+
+            <div class="top-bar-right">
+                <!-- Search Trigger -->
+                <button id="search-trigger-btn" class="search-trigger-btn" title="Cari Ayat atau Kata (Ctrl+K)">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                    </svg>
+                    <span>Cari</span>
+                    <kbd class="search-kbd">⌘K</kbd>
+                </button>
+
+                <!-- Color Harmony Toggle -->
+                <button id="toggle-color-harmony-btn" class="icon-btn" title="Sorot Warna Harmoni Injil (Matius/Markus/Lukas/Yohanes)" aria-label="Toggle Color Harmony">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="10"></circle>
+                        <path d="M12 2a10 10 0 0 1 10 10 10 10 0 0 1-10 10"></path>
+                    </svg>
+                </button>
+
+                <!-- Audio TTS Player Trigger -->
+                <button id="audio-toggle-btn" class="icon-btn" title="Dengarkan Narasi (Text-to-Speech)" aria-label="Audio Narration">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                        <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+                    </svg>
+                </button>
+
+                <!-- Typography / Display Settings -->
+                <button id="display-settings-btn" class="icon-btn" title="Pengaturan Tampilan & Huruf" aria-label="Typography Settings">
+                    <span style="font-family: var(--font-serif); font-size: 1.15rem; font-weight: 700;">Aa</span>
+                </button>
+
+                <!-- Theme Switcher -->
+                <button id="theme-toggle-btn" class="icon-btn" title="Ganti Tema (Terang / Kertas Kuno / Sepia / Malam)" aria-label="Toggle Theme">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                </button>
+
+                <!-- Inspector Pane Toggle -->
+                <button id="toggle-inspector-btn" class="icon-btn" title="Buka Panel Studi & Eksegesis" aria-label="Toggle Inspector">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+                        <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+                    </svg>
+                </button>
+            </div>
+        </header>
+
+        <!-- ====================================================================
+             MAIN 3-PANE WORKSPACE
+             ==================================================================== -->
+        <main class="main-workspace">
+
+            <!-- ----------------------------------------------------------------
+                 LEFT PANE: NAVIGATION DRAWER / SIDEBAR
+                 ---------------------------------------------------------------- -->
+            <aside id="sidebar" class="sidebar">
+                <div class="sidebar-tabs">
+                    <button class="sidebar-tab-btn active" data-tab="chronology">Kronologi (55)</button>
+                    <button class="sidebar-tab-btn" data-tab="manuscript">Naskah Arab</button>
+                    <button class="sidebar-tab-btn" data-tab="analytics">Statistik</button>
+                </div>
+
+                <div class="sidebar-content-view" id="sidebar-tab-chronology">
+                    <!-- Chronological Epochs & Chapters injected here -->
+                    <div id="epoch-tree-container"></div>
+                </div>
+
+                <div class="sidebar-content-view" id="sidebar-tab-manuscript" style="display: none;">
+                    <!-- Arabic Manuscript Pages Index injected here -->
+                    <div id="manuscript-pages-container"></div>
+                </div>
+
+                <div class="sidebar-content-view" id="sidebar-tab-analytics" style="display: none;">
+                    <!-- Global Harmony Statistics injected here -->
+                    <div id="sidebar-stats-container"></div>
+                </div>
+            </aside>
+
+            <!-- ----------------------------------------------------------------
+                 CENTER PANE: READING CANVAS
+                 ---------------------------------------------------------------- -->
+            <section class="reading-canvas-wrap" id="reading-canvas-wrap">
+                <article class="reading-canvas" id="reading-canvas">
+                    <!-- Chapter Content Injected Dynamically -->
+                    <div id="chapter-content-container">
+                        <div style="text-align: center; padding: 4rem 1rem; color: var(--text-muted);">
+                            Memuat Diatessaron...
+                        </div>
+                    </div>
+                </article>
+            </section>
+
+            <!-- ----------------------------------------------------------------
+                 RIGHT PANE: STUDY & EXEGESIS INSPECTOR
+                 ---------------------------------------------------------------- -->
+            <aside id="inspector-pane" class="inspector-pane">
+                <div class="inspector-header">
+                    <span class="inspector-heading">Studi & Eksegesis</span>
+                    <button id="close-inspector-btn" class="icon-btn" title="Tutup Panel">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+
+                <div id="inspector-content">
+                    <div class="inspector-empty-state">
+                        <div class="inspector-empty-icon">📖</div>
+                        <p style="font-weight: 600; margin-bottom: 0.35rem;">Pilih ayat pada teks</p>
+                        <p style="font-size: 0.8rem;">Klik pada kalimat mana saja dalam bacaan untuk memeriksa asal Injil kanonik, halaman naskah kuno, serta varian teks.</p>
+                    </div>
+                </div>
+            </aside>
+
         </main>
+
+        <!-- ====================================================================
+             FLOATING AUDIO TTS BAR
+             ==================================================================== -->
+        <div id="audio-dock" class="audio-player-dock">
+            <button id="audio-play-pause-btn" class="icon-btn" title="Putar / Jeda Narasi">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                    <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                </svg>
+            </button>
+            <div class="audio-track-info" id="audio-track-info">Bab 1 — Memulai narasi...</div>
+            <select id="audio-speed-select" style="font-size: 0.78rem; background: var(--bg-elevated); border: 1px solid var(--border-subtle); border-radius: var(--radius-sm); padding: 0.2rem 0.4rem;">
+                <option value="0.85">0.85x</option>
+                <option value="1.0" selected>1.0x</option>
+                <option value="1.2">1.2x</option>
+                <option value="1.5">1.5x</option>
+            </select>
+            <button id="audio-close-btn" class="icon-btn" title="Hentikan Audio">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="18" y1="6" x2="6" y2="18"></line>
+                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+            </button>
+        </div>
+
+        <!-- ====================================================================
+             SEARCH MODAL (Ctrl+K)
+             ==================================================================== -->
+        <div id="search-modal" class="modal-overlay">
+            <div class="modal-card">
+                <div class="search-input-wrap">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                    </svg>
+                    <input type="text" id="search-input" class="search-input" placeholder="Cari kata, tokoh, peristiwa, atau rujukan (cth: Nikodemus, Yohanes 3)..." autocomplete="off">
+                    <button id="search-close-btn" class="icon-btn">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+                <div style="display: flex; gap: 0.35rem; padding: 0.5rem 1.25rem; border-bottom: 1px solid var(--border-subtle); background-color: var(--bg-surface);">
+                    <button class="gospel-pill-btn active search-filter-pill" data-filter="all">Semua Injil</button>
+                    <button class="gospel-pill-btn mat search-filter-pill" data-filter="mat">Matius</button>
+                    <button class="gospel-pill-btn mrk search-filter-pill" data-filter="mrk">Markus</button>
+                    <button class="gospel-pill-btn luk search-filter-pill" data-filter="luk">Lukas</button>
+                    <button class="gospel-pill-btn yoh search-filter-pill" data-filter="yoh">Yohanes</button>
+                </div>
+                <div class="search-results-list" id="search-results-list">
+                    <div style="padding: 2rem; text-align: center; color: var(--text-muted);">
+                        Ketik kata kunci untuk mencari di antara 5.076 ayat Diatessaron.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ====================================================================
+             DISPLAY SETTINGS MODAL
+             ==================================================================== -->
+        <div id="display-modal" class="modal-overlay">
+            <div class="modal-card" style="max-width: 440px;">
+                <div class="modal-header">
+                    <span class="modal-title">Pengaturan Tampilan</span>
+                    <button id="display-modal-close" class="icon-btn">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <!-- Theme Selector -->
+                    <div style="margin-bottom: 1.5rem;">
+                        <label style="font-weight: 700; font-size: 0.85rem; display: block; margin-bottom: 0.5rem;">Tema Bacaan</label>
+                        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem;">
+                            <button class="inspector-action-btn theme-choice-btn" data-theme-val="light">☀️ Skriptorium Putih</button>
+                            <button class="inspector-action-btn theme-choice-btn" data-theme-val="parchment">📜 Kertas Kuno</button>
+                            <button class="inspector-action-btn theme-choice-btn" data-theme-val="sepia">🏛️ Perpustakaan Sepia</button>
+                            <button class="inspector-action-btn theme-choice-btn" data-theme-val="night">🌙 Malam Teduh</button>
+                        </div>
+                    </div>
+
+                    <!-- Font Family Selector -->
+                    <div style="margin-bottom: 1.5rem;">
+                        <label style="font-weight: 700; font-size: 0.85rem; display: block; margin-bottom: 0.5rem;">Jenis Huruf Teks Alkitab</label>
+                        <div style="display: flex; gap: 0.5rem;">
+                            <button class="inspector-action-btn font-family-btn active" data-font="serif" style="flex: 1; font-family: var(--font-serif);">Literata Serif</button>
+                            <button class="inspector-action-btn font-family-btn" data-font="sans" style="flex: 1; font-family: var(--font-sans);">Modern Sans</button>
+                        </div>
+                    </div>
+
+                    <!-- Font Size Adjuster -->
+                    <div style="margin-bottom: 1rem;">
+                        <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+                            <span style="font-weight: 700; font-size: 0.85rem;">Ukuran Huruf</span>
+                            <span id="font-size-label" style="font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-muted);">100%</span>
+                        </div>
+                        <input type="range" id="font-size-slider" min="85" max="150" value="100" step="5" style="width: 100%;">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ====================================================================
+             ABOUT DIATESSARON MODAL
+             ==================================================================== -->
+        <div id="about-modal" class="modal-overlay">
+            <div class="modal-card">
+                <div class="modal-header">
+                    <span class="modal-title">Tentang Diatessaron</span>
+                    <button id="about-modal-close" class="icon-btn">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p style="margin-bottom: 1rem;"><strong>Diatessaron</strong> (Yunani: <em>διὰ τεσσάρων</em> - <em>dia tessarōn</em>, secara harfiah: "dari yang empat") adalah karya keselarasan empat Injil tertua dan paling termasyhur dalam sejarah Gereja, yang disusun oleh <strong>Tatianus (± 110–180 M)</strong>, seorang murid dari apologet Yustinus Martir di Mesopotamia Utara.</p>
+                    <p style="margin-bottom: 1rem;">Tatianus merajut Injil Matius, Markus, Lukas, dan Yohanes menjadi satu kesatuan kronologis yang utuh. Selama berabad-abad, Diatessaron menjadi teks Injil standar liturgis bagi Gereja Siria kuno sebelum diterjemahkannya versi Peshitta.</p>
+                    <p style="margin-bottom: 1rem;">Edisi web ini disadur dari teks terjemahan bahasa Indonesia yang diselaraskan dengan teks LAI-TB (Lembaga Alkitab Indonesia Terjemahan Baru) oleh Sdr. <em>fajaryehuda</em> (SarapanPagi Biblika), berdasarkan susunan naskah terjemahan Diatessaron bahasa Arab dan edisi Hope W. Hogg (<em>Ante-Nicene Fathers</em>, Vol. 9).</p>
+                    <div style="background-color: var(--bg-elevated); padding: 0.75rem 1rem; border-radius: var(--radius-md); font-size: 0.82rem; border-left: 3px solid var(--accent);">
+                        <strong>Dukungan GitHub Pages:</strong> Aplikasi ini 100% statis, berbobot ringan, berkecepatan tinggi, dan dapat berjalan secara luring tanpa backend tambahan.
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
 
-    <script src="script.js"></script>
+    <!-- Application Script (Strict Relative Path for GitHub Pages) -->
+    <script src="./script.js"></script>
 </body>
 
 </html>

@@ -28,595 +28,1038 @@
       "diatessaron_verse": "1",
       "ref": "John 12:1",
       "arabic_page": null,
-      "text": "Enam hari sebelum Paskah Yesus datang ke Betania, tempat tinggal Lazarus"
+      "text": "Enam hari sebelum Paskah Yesus datang ke Betania, tempat tinggal Lazarus",
+      "ref_id": "Yohanes 12:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "John 12:1",
       "arabic_page": null,
-      "text": "yang dibangkitkan Yesus dari antara orang mati."
+      "text": "yang dibangkitkan Yesus dari antara orang mati.",
+      "ref_id": "Yohanes 12:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "John 12:2",
       "arabic_page": null,
-      "text": "Di situ diadakan perjamuan untuk Dia dan"
+      "text": "Di situ diadakan perjamuan untuk Dia dan",
+      "ref_id": "Yohanes 12:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "John 12:2",
       "arabic_page": null,
-      "text": "Marta melayani, sedang salah seorang yang turut makan dengan Yesus adalah Lazarus."
+      "text": "Marta melayani, sedang salah seorang yang turut makan dengan Yesus adalah Lazarus.",
+      "ref_id": "Yohanes 12:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 5,
       "diatessaron_verse": "4",
       "ref": "Mark 14:3a",
       "arabic_page": null,
-      "text": "Ketika Yesus berada di Betania, di rumah Simon si kusta,"
+      "text": "Ketika Yesus berada di Betania, di rumah Simon si kusta,",
+      "ref_id": "Markus 14:3a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "John 12:9",
       "arabic_page": 147,
-      "text": "Sejumlah besar orang Yahudi mendengar, bahwa Yesus ada di sana dan mereka datang bukan hanya karena Yesus, melainkan juga untuk melihat Lazarus, yang telah dibangkitkan-Nya dari antara orang mati."
+      "text": "Sejumlah besar orang Yahudi mendengar, bahwa Yesus ada di sana dan mereka datang bukan hanya karena Yesus, melainkan juga untuk melihat Lazarus, yang telah dibangkitkan-Nya dari antara orang mati.",
+      "ref_id": "Yohanes 12:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 29
     },
     {
       "id": 7,
       "diatessaron_verse": "5, 6",
       "ref": "John 12:10",
       "arabic_page": 147,
-      "text": "Lalu imam-imam kepala bermupakat untuk membunuh Lazarus juga,"
+      "text": "Lalu imam-imam kepala bermupakat untuk membunuh Lazarus juga,",
+      "ref_id": "Yohanes 12:10",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 8,
       "diatessaron_verse": "5, 6",
       "ref": "John 12:11",
       "arabic_page": 147,
-      "text": "sebab karena dia"
+      "text": "sebab karena dia",
+      "ref_id": "Yohanes 12:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 9,
       "diatessaron_verse": "7",
       "ref": "John 12:11",
       "arabic_page": 147,
-      "text": "banyak orang Yahudi meninggalkan mereka dan percaya kepada Yesus."
+      "text": "banyak orang Yahudi meninggalkan mereka dan percaya kepada Yesus.",
+      "ref_id": "Yohanes 12:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 10,
       "diatessaron_verse": "7",
       "ref": "John 12:3a",
       "arabic_page": 147,
-      "text": "Maka Maria mengambil setengah kati minyak narwastu murni yang mahal harganya,"
+      "text": "Maka Maria mengambil setengah kati minyak narwastu murni yang mahal harganya,",
+      "ref_id": "Yohanes 12:3a",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 11,
       "diatessaron_verse": "7",
       "ref": "Mark 14:3b",
       "arabic_page": 147,
-      "text": "Setelah dipecahkannya leher buli-buli itu, dicurahkannya"
+      "text": "Setelah dipecahkannya leher buli-buli itu, dicurahkannya",
+      "ref_id": "Markus 14:3b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 12,
       "diatessaron_verse": "8",
       "ref": "Mark 14:3b",
       "arabic_page": 147,
-      "text": "minyak itu ke atas kepala Yesus."
+      "text": "minyak itu ke atas kepala Yesus.",
+      "ref_id": "Markus 14:3b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 13,
       "diatessaron_verse": "8",
       "ref": "John 12:3b",
       "arabic_page": 147,
-      "text": "lalu meminyaki kaki Yesus dan menyekanya dengan rambutnya; dan bau minyak semerbak di seluruh rumah itu."
+      "text": "lalu meminyaki kaki Yesus dan menyekanya dengan rambutnya; dan bau minyak semerbak di seluruh rumah itu.",
+      "ref_id": "Yohanes 12:3b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 14,
       "diatessaron_verse": "9, 10",
       "ref": "John 12:4",
       "arabic_page": 147,
-      "text": "Tetapi Yudas Iskariot, seorang dari murid-murid Yesus, yang akan segera menyerahkan Dia, berkata:"
+      "text": "Tetapi Yudas Iskariot, seorang dari murid-murid Yesus, yang akan segera menyerahkan Dia, berkata:",
+      "ref_id": "Yohanes 12:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 15,
       "diatessaron_verse": "9, 10",
       "ref": "John 12:5",
       "arabic_page": 147,
-      "text": "\"Mengapa"
+      "text": "\"Mengapa",
+      "ref_id": "Yohanes 12:5",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 16,
       "diatessaron_verse": "11",
       "ref": "John 12:5",
       "arabic_page": 147,
-      "text": "minyak narwastu ini tidak dijual tiga ratus dinar dan uangnya diberikan kepada orang-orang miskin?\""
+      "text": "minyak narwastu ini tidak dijual tiga ratus dinar dan uangnya diberikan kepada orang-orang miskin?\"",
+      "ref_id": "Yohanes 12:5",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 17,
       "diatessaron_verse": "11",
       "ref": "John 12:6",
       "arabic_page": 147,
-      "text": "Hal itu dikatakannya bukan karena ia memperhatikan nasib orang-orang miskin, melainkan karena ia adalah seorang pencuri; ia sering mengambil uang yang disimpan dalam kas"
+      "text": "Hal itu dikatakannya bukan karena ia memperhatikan nasib orang-orang miskin, melainkan karena ia adalah seorang pencuri; ia sering mengambil uang yang disimpan dalam kas",
+      "ref_id": "Yohanes 12:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 24
     },
     {
       "id": 18,
       "diatessaron_verse": "12",
       "ref": "John 12:6",
       "arabic_page": 147,
-      "text": "yang dipegangnya."
+      "text": "yang dipegangnya.",
+      "ref_id": "Yohanes 12:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 19,
       "diatessaron_verse": "12",
       "ref": "Mark 14:4",
       "arabic_page": 147,
-      "text": "Ada orang yang menjadi gusar dan berkata seorang kepada yang lain: \"Untuk apa"
+      "text": "Ada orang yang menjadi gusar dan berkata seorang kepada yang lain: \"Untuk apa",
+      "ref_id": "Markus 14:4",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 13
     },
     {
       "id": 20,
       "diatessaron_verse": "13",
       "ref": "Mark 14:4",
       "arabic_page": 147,
-      "text": "pemborosan minyak narwastu ini?"
+      "text": "pemborosan minyak narwastu ini?",
+      "ref_id": "Markus 14:4",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 21,
       "diatessaron_verse": "13",
       "ref": "Matthew 26:9",
       "arabic_page": 147,
-      "text": "Sebab minyak itu dapat dijual dengan mahal dan uangnya dapat diberikan kepada"
+      "text": "Sebab minyak itu dapat dijual dengan mahal dan uangnya dapat diberikan kepada",
+      "ref_id": "Matius 26:9",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 22,
       "diatessaron_verse": "14",
       "ref": "Matthew 26:9",
       "arabic_page": 147,
-      "text": "orang-orang miskin.\""
+      "text": "orang-orang miskin.\"",
+      "ref_id": "Matius 26:9",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 23,
       "diatessaron_verse": "14",
       "ref": "Mark 14:5b",
       "arabic_page": 147,
-      "text": "Lalu mereka memarahi perempuan itu."
+      "text": "Lalu mereka memarahi perempuan itu.",
+      "ref_id": "Markus 14:5b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 24,
       "diatessaron_verse": "14",
       "ref": "Matthew 26:10a",
       "arabic_page": 147,
-      "text": "Tetapi Yesus mengetahui pikiran mereka lalu berkata:"
+      "text": "Tetapi Yesus mengetahui pikiran mereka lalu berkata:",
+      "ref_id": "Matius 26:10a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 25,
       "diatessaron_verse": "14",
       "ref": "Mark 14:6b",
       "arabic_page": 147,
-      "text": "\"Biarkanlah dia. Mengapa kamu menyusahkan dia? Ia telah melakukan suatu perbuatan yang baik pada-Ku."
+      "text": "\"Biarkanlah dia. Mengapa kamu menyusahkan dia? Ia telah melakukan suatu perbuatan yang baik pada-Ku.",
+      "ref_id": "Markus 14:6b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 14
     },
     {
       "id": 26,
       "diatessaron_verse": "14",
       "ref": "John 12:7b",
       "arabic_page": 147,
-      "text": "dia melakukan hal ini mengingat"
+      "text": "dia melakukan hal ini mengingat",
+      "ref_id": "Yohanes 12:7b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 27,
       "diatessaron_verse": "15",
       "ref": "John 12:7b",
       "arabic_page": 147,
-      "text": "hari penguburan-Ku."
+      "text": "hari penguburan-Ku.",
+      "ref_id": "Yohanes 12:7b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 28,
       "diatessaron_verse": "15",
       "ref": "John 12:8a",
       "arabic_page": 147,
-      "text": "Karena orang-orang miskin selalu ada pada kamu, \""
+      "text": "Karena orang-orang miskin selalu ada pada kamu, \"",
+      "ref_id": "Yohanes 12:8a",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 29,
       "diatessaron_verse": "15",
       "ref": "Mark 14:7b",
       "arabic_page": 147,
-      "text": "dan kamu"
+      "text": "dan kamu",
+      "ref_id": "Markus 14:7b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 2
     },
     {
       "id": 30,
       "diatessaron_verse": "16",
       "ref": "Mark 14:7b",
       "arabic_page": 147,
-      "text": "dapat menolong mereka, bilamana kamu menghendakinya, tetapi Aku tidak akan selalu bersama-sama kamu."
+      "text": "dapat menolong mereka, bilamana kamu menghendakinya, tetapi Aku tidak akan selalu bersama-sama kamu.",
+      "ref_id": "Markus 14:7b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 13
     },
     {
       "id": 31,
       "diatessaron_verse": "16",
       "ref": "Matthew 26:12",
       "arabic_page": 147,
-      "text": "Sebab dengan mencurahkan minyak itu ke tubuh-Ku, ia membuat suatu"
+      "text": "Sebab dengan mencurahkan minyak itu ke tubuh-Ku, ia membuat suatu",
+      "ref_id": "Matius 26:12",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 32,
       "diatessaron_verse": "17",
       "ref": "Matthew 26:12",
       "arabic_page": 147,
-      "text": "persiapan untuk penguburan-Ku."
+      "text": "persiapan untuk penguburan-Ku.",
+      "ref_id": "Matius 26:12",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 33,
       "diatessaron_verse": "17",
-      "ref": "Matius 26:20",
+      "ref": "Matthew 26:20",
       "arabic_page": 147,
-      "text": "Aku berkata kepadamu: Sesungguhnya di mana saja Injil ini diberitakan di seluruh dunia, apa yang dilakukannya ini akan disebut juga untuk mengingat dia.\""
+      "text": "Aku berkata kepadamu: Sesungguhnya di mana saja Injil ini diberitakan di seluruh dunia, apa yang dilakukannya ini akan disebut juga untuk mengingat dia.\"",
+      "ref_id": "Matius 26:20",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 23
     },
     {
       "id": 34,
       "diatessaron_verse": "18, 19",
       "ref": "Luke 19:28",
       "arabic_page": 148,
-      "text": "Dan setelah mengatakan semuanya itu Yesus mendahului mereka dan meneruskan perjalanan-Nya ke Yerusalem."
+      "text": "Dan setelah mengatakan semuanya itu Yesus mendahului mereka dan meneruskan perjalanan-Nya ke Yerusalem.",
+      "ref_id": "Lukas 19:28",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 35,
       "diatessaron_verse": "18, 19",
       "ref": "Luke 19:29",
       "arabic_page": 148,
-      "text": "Ketika Ia telah dekat Betfage dan Betania, yang terletak di gunung yang"
+      "text": "Ketika Ia telah dekat Betfage dan Betania, yang terletak di gunung yang",
+      "ref_id": "Lukas 19:29",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 36,
       "diatessaron_verse": "20",
       "ref": "Luke 19:29",
       "arabic_page": 148,
-      "text": "bernama Bukit Zaitun, Yesus menyuruh dua orang murid-Nya,"
+      "text": "bernama Bukit Zaitun, Yesus menyuruh dua orang murid-Nya,",
+      "ref_id": "Lukas 19:29",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 37,
       "diatessaron_verse": "20",
       "ref": "Luke 19:30",
       "arabic_page": 148,
-      "text": "dengan pesan: \"Pergilah"
+      "text": "dengan pesan: \"Pergilah",
+      "ref_id": "Lukas 19:30",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 38,
       "diatessaron_verse": "21",
       "ref": "Luke 19:30",
       "arabic_page": 148,
-      "text": "ke kampung yang di depanmu itu: Pada waktu kamu masuk di situ, kamu akan mendapati"
+      "text": "ke kampung yang di depanmu itu: Pada waktu kamu masuk di situ, kamu akan mendapati",
+      "ref_id": "Lukas 19:30",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 39,
       "diatessaron_verse": "22",
       "ref": "Luke 19:30",
       "arabic_page": 148,
-      "text": "seekor keledai muda tertambat, yang belum pernah ditunggangi orang. Lepaskanlah keledai itu dan bawalah ke mari."
+      "text": "seekor keledai muda tertambat, yang belum pernah ditunggangi orang. Lepaskanlah keledai itu dan bawalah ke mari.",
+      "ref_id": "Lukas 19:30",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 40,
       "diatessaron_verse": "22",
       "ref": "Luke 19:31",
       "arabic_page": 148,
-      "text": "Dan jika ada orang bertanya kepadamu: Mengapa kamu melepaskannya? jawablah begini:"
+      "text": "Dan jika ada orang bertanya kepadamu: Mengapa kamu melepaskannya? jawablah begini:",
+      "ref_id": "Lukas 19:31",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 41,
       "diatessaron_verse": "23",
       "ref": "Luke 19:31",
       "arabic_page": 148,
-      "text": "Tuhan memerlukannya.\""
+      "text": "Tuhan memerlukannya.\"",
+      "ref_id": "Lukas 19:31",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 42,
       "diatessaron_verse": "23",
       "ref": "Matthew 21:4",
       "arabic_page": 148,
-      "text": "Hal itu terjadi supaya genaplah firman yang disampaikan oleh nabi:"
+      "text": "Hal itu terjadi supaya genaplah firman yang disampaikan oleh nabi:",
+      "ref_id": "Matius 21:4",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 43,
       "diatessaron_verse": "24",
       "ref": "Matthew 21:5",
       "arabic_page": 148,
-      "text": "\"Katakanlah kepada puteri Sion:"
+      "text": "\"Katakanlah kepada puteri Sion:",
+      "ref_id": "Matius 21:5",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 44,
       "diatessaron_verse": "24",
       "ref": "Matthew 21:5",
       "arabic_page": 148,
-      "text": "Lihat, Rajamu datang kepadamu,"
+      "text": "Lihat, Rajamu datang kepadamu,",
+      "ref_id": "Matius 21:5",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 45,
       "diatessaron_verse": "24",
       "ref": "Matthew 21:5",
       "arabic_page": 148,
-      "text": "Ia lemah lembut dan mengendarai seekor keledai,"
+      "text": "Ia lemah lembut dan mengendarai seekor keledai,",
+      "ref_id": "Matius 21:5",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 46,
       "diatessaron_verse": "24",
       "ref": "Matthew 21:5",
       "arabic_page": 148,
-      "text": "seekor keledai beban yang muda.\""
+      "text": "seekor keledai beban yang muda.\"",
+      "ref_id": "Matius 21:5",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 47,
       "diatessaron_verse": "25",
       "ref": "John 12:16",
       "arabic_page": 148,
-      "text": "Mula-mula murid-murid Yesus tidak mengerti akan hal itu, tetapi sesudah Yesus dimuliakan, teringatlah mereka, bahwa nas itu mengenai Dia, dan bahwa"
+      "text": "Mula-mula murid-murid Yesus tidak mengerti akan hal itu, tetapi sesudah Yesus dimuliakan, teringatlah mereka, bahwa nas itu mengenai Dia, dan bahwa",
+      "ref_id": "Yohanes 12:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 21
     },
     {
       "id": 48,
       "diatessaron_verse": "26",
       "ref": "John 12:16",
       "arabic_page": 148,
-      "text": "mereka telah melakukannya juga untuk Dia."
+      "text": "mereka telah melakukannya juga untuk Dia.",
+      "ref_id": "Yohanes 12:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 49,
       "diatessaron_verse": "26",
       "ref": "Luke 19:32",
       "arabic_page": 148,
-      "text": "Lalu pergilah mereka yang disuruh itu, dan mereka mendapati segala sesuatu seperti yang telah"
+      "text": "Lalu pergilah mereka yang disuruh itu, dan mereka mendapati segala sesuatu seperti yang telah",
+      "ref_id": "Lukas 19:32",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 50,
       "diatessaron_verse": "27",
       "ref": "Luke 19:32",
       "arabic_page": 148,
-      "text": "dikatakan Yesus."
+      "text": "dikatakan Yesus.",
+      "ref_id": "Lukas 19:32",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 51,
       "diatessaron_verse": "27",
       "ref": "Luke 19:33",
       "arabic_page": 148,
-      "text": "Ketika mereka melepaskan keledai itu, berkatalah"
+      "text": "Ketika mereka melepaskan keledai itu, berkatalah",
+      "ref_id": "Lukas 19:33",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 52,
       "diatessaron_verse": "28",
       "ref": "Luke 19:33",
       "arabic_page": 148,
-      "text": "orang yang empunya keledai itu: \"Mengapa kamu melepaskan keledai itu?\""
+      "text": "orang yang empunya keledai itu: \"Mengapa kamu melepaskan keledai itu?\"",
+      "ref_id": "Lukas 19:33",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 53,
       "diatessaron_verse": "28",
       "ref": "Luke 19:34",
       "arabic_page": 148,
-      "text": "Kata mereka:"
+      "text": "Kata mereka:",
+      "ref_id": "Lukas 19:34",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 54,
       "diatessaron_verse": "29",
       "ref": "Luke 19:34",
       "arabic_page": 148,
-      "text": "\"Tuhan memerlukannya.\""
+      "text": "\"Tuhan memerlukannya.\"",
+      "ref_id": "Lukas 19:34",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 55,
       "diatessaron_verse": "29",
       "ref": "Mark 11:6",
       "arabic_page": 148,
-      "text": "Maka orang-orang itu membiarkan mereka."
+      "text": "Maka orang-orang itu membiarkan mereka.",
+      "ref_id": "Markus 11:6",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 56,
       "diatessaron_verse": "29",
       "ref": "Matthew 21:7",
       "arabic_page": 148,
-      "text": "Mereka membawa keledai betina itu bersama anaknya,"
+      "text": "Mereka membawa keledai betina itu bersama anaknya,",
+      "ref_id": "Matius 21:7",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 57,
       "diatessaron_verse": "30",
       "ref": "Matthew 21:7",
       "arabic_page": 148,
-      "text": "lalu mengalasinya dengan pakaian mereka dan Yesuspun naik ke atasnya."
+      "text": "lalu mengalasinya dengan pakaian mereka dan Yesuspun naik ke atasnya.",
+      "ref_id": "Matius 21:7",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 58,
       "diatessaron_verse": "30",
       "ref": "Matthew 21:8",
       "arabic_page": 148,
-      "text": "Orang banyak yang sangat besar jumlahnya menghamparkan pakaiannya di jalan, ada pula yang memotong ranting-ranting"
+      "text": "Orang banyak yang sangat besar jumlahnya menghamparkan pakaiannya di jalan, ada pula yang memotong ranting-ranting",
+      "ref_id": "Matius 21:8",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 15
     },
     {
       "id": 59,
       "diatessaron_verse": "31",
       "ref": "Matthew 21:8",
       "arabic_page": 148,
-      "text": "dari pohon-pohon dan menyebarkannya di jalan."
+      "text": "dari pohon-pohon dan menyebarkannya di jalan.",
+      "ref_id": "Matius 21:8",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 60,
       "diatessaron_verse": "31",
       "ref": "Luke 19:37",
       "arabic_page": 149,
-      "text": "Ketika Ia dekat Yerusalem, di tempat jalan menurun dari Bukit Zaitun, mulailah semua murid yang mengiringi Dia bergembira dan memuji Allah dengan"
+      "text": "Ketika Ia dekat Yerusalem, di tempat jalan menurun dari Bukit Zaitun, mulailah semua murid yang mengiringi Dia bergembira dan memuji Allah dengan",
+      "ref_id": "Lukas 19:37",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 22
     },
     {
       "id": 61,
       "diatessaron_verse": "32",
       "ref": "Luke 19:37",
       "arabic_page": 149,
-      "text": "suara nyaring oleh karena segala mujizat yang telah mereka lihat."
+      "text": "suara nyaring oleh karena segala mujizat yang telah mereka lihat.",
+      "ref_id": "Lukas 19:37",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 62,
       "diatessaron_verse": "32",
       "ref": "Luke 19:38a",
       "arabic_page": 149,
-      "text": "Kata mereka: \"Diberkatilah Dia yang datang sebagai Raja dalam"
+      "text": "Kata mereka: \"Diberkatilah Dia yang datang sebagai Raja dalam",
+      "ref_id": "Lukas 19:38a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 63,
       "diatessaron_verse": "33",
       "ref": "Luke 19:38a",
       "arabic_page": 149,
-      "text": "nama Tuhan,"
+      "text": "nama Tuhan,",
+      "ref_id": "Lukas 19:38a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 64,
       "diatessaron_verse": "33",
       "ref": "Mark 11:10a",
       "arabic_page": 149,
-      "text": "diberkatilah Kerajaan yang datang, Kerajaan bapak kita Daud,"
+      "text": "diberkatilah Kerajaan yang datang, Kerajaan bapak kita Daud,",
+      "ref_id": "Markus 11:10a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 65,
       "diatessaron_verse": "33",
       "ref": "Luke 19:38c",
       "arabic_page": 149,
-      "text": "damai sejahtera di sorga dan kemuliaan di tempat yang mahatinggi!\""
+      "text": "damai sejahtera di sorga dan kemuliaan di tempat yang mahatinggi!\"",
+      "ref_id": "Lukas 19:38c",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 66,
       "diatessaron_verse": "34",
       "ref": "John 12:12b",
       "arabic_page": 149,
-      "text": "Keesokan harinya ketika orang banyak yang datang merayakan pesta mendengar, bahwa Yesus"
+      "text": "Keesokan harinya ketika orang banyak yang datang merayakan pesta mendengar, bahwa Yesus",
+      "ref_id": "Yohanes 12:12b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 67,
       "diatessaron_verse": "35",
       "ref": "John 12:12b",
       "arabic_page": 149,
-      "text": "sedang di tengah jalan menuju Yerusalem,"
+      "text": "sedang di tengah jalan menuju Yerusalem,",
+      "ref_id": "Yohanes 12:12b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 68,
       "diatessaron_verse": "35",
       "ref": "John 12:13",
       "arabic_page": 149,
-      "text": "mereka mengambil daun-daun palem, dan pergi menyongsong Dia sambil berseru-seru: \"Hosana! Diberkatilah Dia yang datang dalam nama Tuhan,"
+      "text": "mereka mengambil daun-daun palem, dan pergi menyongsong Dia sambil berseru-seru: \"Hosana! Diberkatilah Dia yang datang dalam nama Tuhan,",
+      "ref_id": "Yohanes 12:13",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 69,
       "diatessaron_verse": "36",
       "ref": "John 12:13",
       "arabic_page": 149,
-      "text": "Raja Israel!"
+      "text": "Raja Israel!",
+      "ref_id": "Yohanes 12:13",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 70,
       "diatessaron_verse": "36",
       "ref": "Luke 19:39",
       "arabic_page": 149,
-      "text": "Beberapa orang Farisi yang turut dengan orang banyak itu berkata"
+      "text": "Beberapa orang Farisi yang turut dengan orang banyak itu berkata",
+      "ref_id": "Lukas 19:39",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 71,
       "diatessaron_verse": "37",
       "ref": "Luke 19:39",
       "arabic_page": 149,
-      "text": "kepada Yesus: \"Guru, tegorlah murid-murid-Mu itu.\""
+      "text": "kepada Yesus: \"Guru, tegorlah murid-murid-Mu itu.\"",
+      "ref_id": "Lukas 19:39",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 72,
       "diatessaron_verse": "37",
       "ref": "Luke 19:40",
       "arabic_page": 149,
-      "text": "Jawab-Nya: \"Aku berkata kepadamu: Jika mereka ini diam, maka batu ini akan berteriak.\""
+      "text": "Jawab-Nya: \"Aku berkata kepadamu: Jika mereka ini diam, maka batu ini akan berteriak.\"",
+      "ref_id": "Lukas 19:40",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 73,
       "diatessaron_verse": "38, 39",
       "ref": "Luke 19:41",
       "arabic_page": 149,
-      "text": "Dan ketika Yesus telah dekat dan melihat kota itu, Ia menangisinya,"
+      "text": "Dan ketika Yesus telah dekat dan melihat kota itu, Ia menangisinya,",
+      "ref_id": "Lukas 19:41",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 74,
       "diatessaron_verse": "38, 39",
       "ref": "Luke 19:42",
       "arabic_page": 149,
-      "text": "kata-Nya: \"Wahai, betapa baiknya jika pada hari ini juga engkau mengerti apa yang perlu untuk damai sejahteramu! Tetapi sekarang hal itu"
+      "text": "kata-Nya: \"Wahai, betapa baiknya jika pada hari ini juga engkau mengerti apa yang perlu untuk damai sejahteramu! Tetapi sekarang hal itu",
+      "ref_id": "Lukas 19:42",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 21
     },
     {
       "id": 75,
       "diatessaron_verse": "40",
       "ref": "Luke 19:42",
       "arabic_page": 149,
-      "text": "tersembunyi bagi matamu."
+      "text": "tersembunyi bagi matamu.",
+      "ref_id": "Lukas 19:42",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 76,
       "diatessaron_verse": "40",
       "ref": "Luke 19:43",
       "arabic_page": 149,
-      "text": "Sebab akan datang harinya, bahwa musuhmu"
+      "text": "Sebab akan datang harinya, bahwa musuhmu",
+      "ref_id": "Lukas 19:43",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 77,
       "diatessaron_verse": "41",
       "ref": "Luke 19:43",
       "arabic_page": 149,
-      "text": "akan mengelilingi engkau dengan kubu, lalu mengepung engkau dan menghimpit engkau dari segala jurusan,"
+      "text": "akan mengelilingi engkau dengan kubu, lalu mengepung engkau dan menghimpit engkau dari segala jurusan,",
+      "ref_id": "Lukas 19:43",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 78,
       "diatessaron_verse": "41",
       "ref": "Luke 19:44",
       "arabic_page": 149,
-      "text": "dan mereka akan membinasakan engkau beserta dengan pendudukmu dan pada tembokmu mereka tidak akan membiarkan satu batupun tinggal terletak di atas batu yang lain, karena engkau tidak mengetahui saat, bilamana Allah melawat engkau.\""
+      "text": "dan mereka akan membinasakan engkau beserta dengan pendudukmu dan pada tembokmu mereka tidak akan membiarkan satu batupun tinggal terletak di atas batu yang lain, karena engkau tidak mengetahui saat, bilamana Allah melawat engkau.\"",
+      "ref_id": "Lukas 19:44",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 33
     },
     {
       "id": 79,
       "diatessaron_verse": "42",
       "ref": "Matthew 21:10",
       "arabic_page": 149,
-      "text": "Dan ketika Ia masuk ke Yerusalem, gemparlah seluruh kota itu dan orang berkata:"
+      "text": "Dan ketika Ia masuk ke Yerusalem, gemparlah seluruh kota itu dan orang berkata:",
+      "ref_id": "Matius 21:10",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 80,
       "diatessaron_verse": "43",
       "ref": "Matthew 21:10",
       "arabic_page": 149,
-      "text": "\"Siapakah orang ini?\""
+      "text": "\"Siapakah orang ini?\"",
+      "ref_id": "Matius 21:10",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 81,
       "diatessaron_verse": "43",
       "ref": "Matthew 21:11",
       "arabic_page": 149,
-      "text": "Dan orang banyak itu menyahut: \"Inilah nabi Yesus dari Nazaret"
+      "text": "Dan orang banyak itu menyahut: \"Inilah nabi Yesus dari Nazaret",
+      "ref_id": "Matius 21:11",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 82,
       "diatessaron_verse": "44",
       "ref": "Matthew 21:11",
       "arabic_page": 149,
-      "text": "di Galilea.\""
+      "text": "di Galilea.\"",
+      "ref_id": "Matius 21:11",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 83,
       "diatessaron_verse": "44",
       "ref": "John 12:17",
       "arabic_page": 149,
-      "text": "Orang banyak yang bersama-sama dengan Dia ketika Ia memanggil"
+      "text": "Orang banyak yang bersama-sama dengan Dia ketika Ia memanggil",
+      "ref_id": "Yohanes 12:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 84,
       "diatessaron_verse": "45",
       "ref": "John 12:17",
       "arabic_page": 149,
-      "text": "Lazarus keluar dari kubur dan membangkitkannya dari antara orang mati, memberi kesaksian tentang Dia."
+      "text": "Lazarus keluar dari kubur dan membangkitkannya dari antara orang mati, memberi kesaksian tentang Dia.",
+      "ref_id": "Yohanes 12:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 85,
       "diatessaron_verse": "45",
       "ref": "John 12:18",
       "arabic_page": 149,
-      "text": "Sebab itu orang banyak itu pergi menyongsong Dia, karena mereka mendengar, bahwa Ia yang membuat mujizat itu."
+      "text": "Sebab itu orang banyak itu pergi menyongsong Dia, karena mereka mendengar, bahwa Ia yang membuat mujizat itu.",
+      "ref_id": "Yohanes 12:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     }
-  ]
+  ],
+  "title_id": "Yesus Diurapi di Betania & Pawai Masuk Yerusalem",
+  "title_en": "Anointing at Bethany & Triumphal Entry into Jerusalem",
+  "epoch_id": 5,
+  "total_words": 812,
+  "arabic_page_range": "p. 147 - p. 149",
+  "arabic_pages": [
+    147,
+    148,
+    149
+  ],
+  "stats": {
+    "mat": 19,
+    "mrk": 11,
+    "luk": 28,
+    "yoh": 27,
+    "unk": 0
+  },
+  "footnotes": []
 }

@@ -27,644 +27,1123 @@
       "diatessaron_verse": "1",
       "ref": "Matthew 14:1",
       "arabic_page": null,
-      "text": "Pada masa itu sampailah berita-berita tentang Yesus kepada Herodes, raja wilayah."
+      "text": "Pada masa itu sampailah berita-berita tentang Yesus kepada Herodes, raja wilayah.",
+      "ref_id": "Matius 14:1",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 2,
       "diatessaron_verse": "1",
       "ref": "Mark 6:14a",
       "arabic_page": null,
-      "text": "Raja Herodes juga mendengar tentang Yesus,"
+      "text": "Raja Herodes juga mendengar tentang Yesus,",
+      "ref_id": "Markus 6:14a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "Mark 6:14a",
       "arabic_page": null,
-      "text": "sebab nama-Nya sudah terkenal,"
+      "text": "sebab nama-Nya sudah terkenal,",
+      "ref_id": "Markus 6:14a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 4,
       "diatessaron_verse": "2",
       "ref": "Luke 9:7c",
       "arabic_page": null,
-      "text": "ada orang yang mengatakan, bahwa Yohanes telah bangkit"
+      "text": "ada orang yang mengatakan, bahwa Yohanes telah bangkit",
+      "ref_id": "Lukas 9:7c",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "Luke 9:7c",
       "arabic_page": null,
-      "text": "dari antara orang mati."
+      "text": "dari antara orang mati.",
+      "ref_id": "Lukas 9:7c",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 6,
       "diatessaron_verse": "3",
       "ref": "Luke 9:8",
       "arabic_page": null,
-      "text": "Ada lagi yang mengatakan, bahwa Elia telah muncul kembali, dan ada pula yang mengatakan, bahwa seorang"
+      "text": "Ada lagi yang mengatakan, bahwa Elia telah muncul kembali, dan ada pula yang mengatakan, bahwa seorang",
+      "ref_id": "Lukas 9:8",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 7,
       "diatessaron_verse": "4",
       "ref": "Luke 9:8",
       "arabic_page": null,
-      "text": "dari nabi-nabi dahulu telah bangkit.;"
+      "text": "dari nabi-nabi dahulu telah bangkit.;",
+      "ref_id": "Lukas 9:8",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 8,
       "diatessaron_verse": "4",
       "ref": "Mark 6:15b",
       "arabic_page": null,
-      "text": "Yang lain lagi mengatakan: \"Dia itu"
+      "text": "Yang lain lagi mengatakan: \"Dia itu",
+      "ref_id": "Markus 6:15b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 9,
       "diatessaron_verse": "5",
       "ref": "Mark 6:15b",
       "arabic_page": null,
-      "text": "seorang nabi sama seperti nabi-nabi yang dahulu.\""
+      "text": "seorang nabi sama seperti nabi-nabi yang dahulu.\"",
+      "ref_id": "Markus 6:15b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 10,
       "diatessaron_verse": "5",
       "ref": "Matthew 14:2",
       "arabic_page": null,
-      "text": "Lalu ia berkata kepada pegawai-pegawainya: \"Inilah Yohanes Pembaptis; ia sudah bangkit dari antara orang mati dan itulah sebabnya kuasa-kuasa itu"
+      "text": "Lalu ia berkata kepada pegawai-pegawainya: \"Inilah Yohanes Pembaptis; ia sudah bangkit dari antara orang mati dan itulah sebabnya kuasa-kuasa itu",
+      "ref_id": "Matius 14:2",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 20
     },
     {
       "id": 11,
       "diatessaron_verse": "6",
       "ref": "Matthew 14:2",
       "arabic_page": 70,
-      "text": "bekerja di dalam-Nya.\""
+      "text": "bekerja di dalam-Nya.\"",
+      "ref_id": "Matius 14:2",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 12,
       "diatessaron_verse": "6",
       "ref": "Mark 6:17",
       "arabic_page": 70,
-      "text": "Sebab memang Herodeslah yang menyuruh orang menangkap Yohanes dan membelenggunya di penjara berhubung dengan peristiwa Herodias, isteri Filipus saudaranya, karena Herodes"
+      "text": "Sebab memang Herodeslah yang menyuruh orang menangkap Yohanes dan membelenggunya di penjara berhubung dengan peristiwa Herodias, isteri Filipus saudaranya, karena Herodes",
+      "ref_id": "Markus 6:17",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 21
     },
     {
       "id": 13,
       "diatessaron_verse": "7",
       "ref": "Mark 6:17",
       "arabic_page": 70,
-      "text": "telah mengambilnya sebagai isteri."
+      "text": "telah mengambilnya sebagai isteri.",
+      "ref_id": "Markus 6:17",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 14,
       "diatessaron_verse": "7",
       "ref": "Mark 6:18",
       "arabic_page": 70,
-      "text": "Karena Yohanes pernah menegor Herodes: \"Tidak halal engkau mengambil isteri"
+      "text": "Karena Yohanes pernah menegor Herodes: \"Tidak halal engkau mengambil isteri",
+      "ref_id": "Markus 6:18",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     },
     {
       "id": 15,
       "diatessaron_verse": "8",
       "ref": "Mark 6:18",
       "arabic_page": 70,
-      "text": "saudaramu!\""
+      "text": "saudaramu!\"",
+      "ref_id": "Markus 6:18",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 1
     },
     {
       "id": 16,
       "diatessaron_verse": "8",
       "ref": "Mark 6:19",
       "arabic_page": 70,
-      "text": "Karena itu Herodias menaruh dendam pada Yohanes dan bermaksud untuk membunuh dia, tetapi tidak dapat,"
+      "text": "Karena itu Herodias menaruh dendam pada Yohanes dan bermaksud untuk membunuh dia, tetapi tidak dapat,",
+      "ref_id": "Markus 6:19",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 15
     },
     {
       "id": 17,
       "diatessaron_verse": "9",
       "ref": "Mark 6:20",
       "arabic_page": 70,
-      "text": "sebab Herodes segan akan Yohanes karena ia tahu, bahwa Yohanes adalah orang yang benar dan suci,"
+      "text": "sebab Herodes segan akan Yohanes karena ia tahu, bahwa Yohanes adalah orang yang benar dan suci,",
+      "ref_id": "Markus 6:20",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 16
     },
     {
       "id": 18,
       "diatessaron_verse": "10",
       "ref": "Mark 6:20",
       "arabic_page": 70,
-      "text": "jadi ia melindunginya. Tetapi apabila ia mendengarkan Yohanes, hatinya selalu terombang-ambing, namun ia merasa senang juga mendengarkan dia."
+      "text": "jadi ia melindunginya. Tetapi apabila ia mendengarkan Yohanes, hatinya selalu terombang-ambing, namun ia merasa senang juga mendengarkan dia.",
+      "ref_id": "Markus 6:20",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 18
     },
     {
       "id": 19,
       "diatessaron_verse": "10",
       "ref": "Matthew 14:5",
       "arabic_page": 70,
-      "text": "Herodes ingin membunuhnya, tetapi ia takut akan orang banyak yang memandang Yohanes"
+      "text": "Herodes ingin membunuhnya, tetapi ia takut akan orang banyak yang memandang Yohanes",
+      "ref_id": "Matius 14:5",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 20,
       "diatessaron_verse": "11",
       "ref": "Matthew 14:5",
       "arabic_page": 70,
-      "text": "sebagai nabi."
+      "text": "sebagai nabi.",
+      "ref_id": "Matius 14:5",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 21,
       "diatessaron_verse": "11",
       "ref": "Mark 6:21",
       "arabic_page": 70,
-      "text": "Akhirnya tiba juga kesempatan yang baik bagi Herodias, ketika Herodes pada hari ulang tahunnya mengadakan perjamuan untuk pembesar-pembesarnya, perwira-perwiranya dan"
+      "text": "Akhirnya tiba juga kesempatan yang baik bagi Herodias, ketika Herodes pada hari ulang tahunnya mengadakan perjamuan untuk pembesar-pembesarnya, perwira-perwiranya dan",
+      "ref_id": "Markus 6:21",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 20
     },
     {
       "id": 22,
       "diatessaron_verse": "12",
       "ref": "Mark 6:21",
       "arabic_page": 70,
-      "text": "orang-orang terkemuka di Galilea."
+      "text": "orang-orang terkemuka di Galilea.",
+      "ref_id": "Markus 6:21",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 23,
       "diatessaron_verse": "12",
       "ref": "Mark 6:22",
       "arabic_page": 70,
-      "text": "Pada waktu itu anak perempuan Herodias tampil lalu menari, dan ia menyukakan hati Herodes dan tamu-tamunya. Raja berkata kepada gadis itu:"
+      "text": "Pada waktu itu anak perempuan Herodias tampil lalu menari, dan ia menyukakan hati Herodes dan tamu-tamunya. Raja berkata kepada gadis itu:",
+      "ref_id": "Markus 6:22",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 21
     },
     {
       "id": 24,
       "diatessaron_verse": "13",
       "ref": "Mark 6:22",
       "arabic_page": 70,
-      "text": "\"Minta dari padaku apa saja yang kauingini, maka akan kuberikan kepadamu!\","
+      "text": "\"Minta dari padaku apa saja yang kauingini, maka akan kuberikan kepadamu!\",",
+      "ref_id": "Markus 6:22",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 25,
       "diatessaron_verse": "13",
       "ref": "Mark 6:23",
       "arabic_page": 70,
-      "text": "lalu bersumpah kepadanya: \"Apa saja yang kauminta akan kuberikan kepadamu,"
+      "text": "lalu bersumpah kepadanya: \"Apa saja yang kauminta akan kuberikan kepadamu,",
+      "ref_id": "Markus 6:23",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     },
     {
       "id": 26,
       "diatessaron_verse": "14",
       "ref": "Mark 6:23",
       "arabic_page": 70,
-      "text": "sekalipun setengah dari kerajaanku!\""
+      "text": "sekalipun setengah dari kerajaanku!\"",
+      "ref_id": "Markus 6:23",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 27,
       "diatessaron_verse": "14",
       "ref": "Mark 6:24",
       "arabic_page": 70,
-      "text": "Anak itu pergi dan menanyakan ibunya: \"Apa yang harus kuminta?\" Jawabnya:"
+      "text": "Anak itu pergi dan menanyakan ibunya: \"Apa yang harus kuminta?\" Jawabnya:",
+      "ref_id": "Markus 6:24",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 28,
       "diatessaron_verse": "15",
       "ref": "Mark 6:24",
       "arabic_page": 70,
-      "text": "\"Kepala Yohanes Pembaptis!\""
+      "text": "\"Kepala Yohanes Pembaptis!\"",
+      "ref_id": "Markus 6:24",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 29,
       "diatessaron_verse": "15",
       "ref": "Mark 6:25",
       "arabic_page": 70,
-      "text": "Maka cepat-cepat ia pergi kepada raja dan meminta: \"Aku mau, supaya sekarang juga engkau berikan kepadaku kepala"
+      "text": "Maka cepat-cepat ia pergi kepada raja dan meminta: \"Aku mau, supaya sekarang juga engkau berikan kepadaku kepala",
+      "ref_id": "Markus 6:25",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 17
     },
     {
       "id": 30,
       "diatessaron_verse": "16",
       "ref": "Mark 6:25",
       "arabic_page": 70,
-      "text": "Yohanes Pembaptis di sebuah talam!\""
+      "text": "Yohanes Pembaptis di sebuah talam!\"",
+      "ref_id": "Markus 6:25",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 31,
       "diatessaron_verse": "16",
       "ref": "Mark 6:26",
       "arabic_page": 70,
-      "text": "Lalu sangat sedihlah hati raja, tetapi karena sumpahnya dan"
+      "text": "Lalu sangat sedihlah hati raja, tetapi karena sumpahnya dan",
+      "ref_id": "Markus 6:26",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 9
     },
     {
       "id": 32,
       "diatessaron_verse": "17",
       "ref": "Mark 6:26",
       "arabic_page": 70,
-      "text": "karena tamu-tamunya ia tidak mau menolaknya."
+      "text": "karena tamu-tamunya ia tidak mau menolaknya.",
+      "ref_id": "Markus 6:26",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 33,
       "diatessaron_verse": "17",
       "ref": "Mark 6:27",
       "arabic_page": 70,
-      "text": "Raja segera menyuruh seorang pengawal dengan perintah supaya mengambil kepala Yohanes. Orang itu pergi dan"
+      "text": "Raja segera menyuruh seorang pengawal dengan perintah supaya mengambil kepala Yohanes. Orang itu pergi dan",
+      "ref_id": "Markus 6:27",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 15
     },
     {
       "id": 34,
       "diatessaron_verse": "18",
       "ref": "Mark 6:27",
       "arabic_page": 70,
-      "text": "memenggal kepala Yohanes di penjara."
+      "text": "memenggal kepala Yohanes di penjara.",
+      "ref_id": "Markus 6:27",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 35,
       "diatessaron_verse": "18",
       "ref": "Mark 6:28",
       "arabic_page": 70,
-      "text": "Ia membawa kepala itu di sebuah"
+      "text": "Ia membawa kepala itu di sebuah",
+      "ref_id": "Markus 6:28",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 36,
       "diatessaron_verse": "19",
       "ref": "Mark 6:28",
       "arabic_page": 70,
-      "text": "talam dan memberikannya kepada gadis itu dan gadis itu memberikannya pula kepada ibunya."
+      "text": "talam dan memberikannya kepada gadis itu dan gadis itu memberikannya pula kepada ibunya.",
+      "ref_id": "Markus 6:28",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 13
     },
     {
       "id": 37,
       "diatessaron_verse": "19",
       "ref": "Mark 6:29",
       "arabic_page": 71,
-      "text": "Ketika murid-murid Yohanes mendengar hal itu mereka datang dan mengambil mayatnya, lalu membaringkannya dalam kuburan."
+      "text": "Ketika murid-murid Yohanes mendengar hal itu mereka datang dan mengambil mayatnya, lalu membaringkannya dalam kuburan.",
+      "ref_id": "Markus 6:29",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 15
     },
     {
       "id": 38,
       "diatessaron_verse": "19",
       "ref": "Matthew 14:12b",
       "arabic_page": 71,
-      "text": "Lalu pergilah mereka memberitahukannya"
+      "text": "Lalu pergilah mereka memberitahukannya",
+      "ref_id": "Matius 14:12b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 39,
       "diatessaron_verse": "20",
       "ref": "Matthew 14:12b",
       "arabic_page": 71,
-      "text": "kepada Yesus."
+      "text": "kepada Yesus.",
+      "ref_id": "Matius 14:12b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 40,
       "diatessaron_verse": "20",
       "ref": "Luke 9:9",
       "arabic_page": 71,
-      "text": "Tetapi Herodes berkata: \"Yohanes telah kupenggal kepalanya."
+      "text": "Tetapi Herodes berkata: \"Yohanes telah kupenggal kepalanya.",
+      "ref_id": "Lukas 9:9",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 41,
       "diatessaron_verse": "21",
       "ref": "Luke 9:9",
       "arabic_page": 71,
-      "text": "Siapa gerangan Dia ini, yang kabarnya melakukan hal-hal demikian?\" Lalu ia berusaha supaya dapat bertemu dengan Yesus."
+      "text": "Siapa gerangan Dia ini, yang kabarnya melakukan hal-hal demikian?\" Lalu ia berusaha supaya dapat bertemu dengan Yesus.",
+      "ref_id": "Lukas 9:9",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 17
     },
     {
       "id": 42,
       "diatessaron_verse": "21",
       "ref": "Matthew 14:13a",
       "arabic_page": 71,
-      "text": "Setelah Yesus mendengar berita itu menyingkirlah Ia dari situ, dan hendak mengasingkan diri dengan perahu ke tempat yang sunyi."
+      "text": "Setelah Yesus mendengar berita itu menyingkirlah Ia dari situ, dan hendak mengasingkan diri dengan perahu ke tempat yang sunyi.",
+      "ref_id": "Matius 14:13a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 19
     },
     {
       "id": 43,
       "diatessaron_verse": "21",
       "ref": "Luke 9:10b",
       "arabic_page": 71,
-      "text": "ke sebuah kota yang bernama Betsaida."
+      "text": "ke sebuah kota yang bernama Betsaida.",
+      "ref_id": "Lukas 9:10b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 44,
       "diatessaron_verse": "22",
       "ref": "Mark 6:33b",
       "arabic_page": 71,
-      "text": "Banyak orang melihat mereka dan mengetahui tujuan mereka. Dengan mengambil jalan darat segeralah datang orang dari semua kota ke tempat itu sehingga mendahului mereka."
+      "text": "Banyak orang melihat mereka dan mengetahui tujuan mereka. Dengan mengambil jalan darat segeralah datang orang dari semua kota ke tempat itu sehingga mendahului mereka.",
+      "ref_id": "Markus 6:33b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 24
     },
     {
       "id": 45,
       "diatessaron_verse": "22",
       "ref": "John 6:2b",
       "arabic_page": 71,
-      "text": "karena mereka melihat mujizat-mujizat penyembuhan, yang diadakan-Nya terhadap"
+      "text": "karena mereka melihat mujizat-mujizat penyembuhan, yang diadakan-Nya terhadap",
+      "ref_id": "Yohanes 6:2b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 46,
       "diatessaron_verse": "23, 24",
       "ref": "John 6:2b",
       "arabic_page": 71,
-      "text": "orang-orang sakit."
+      "text": "orang-orang sakit.",
+      "ref_id": "Yohanes 6:2b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 47,
       "diatessaron_verse": "23, 24",
       "ref": "John 6:3",
       "arabic_page": 71,
-      "text": "Dan Yesus naik ke atas gunung dan duduk di situ dengan murid-murid-Nya."
+      "text": "Dan Yesus naik ke atas gunung dan duduk di situ dengan murid-murid-Nya.",
+      "ref_id": "Yohanes 6:3",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 48,
       "diatessaron_verse": "23, 24",
       "ref": "John 6:4",
       "arabic_page": 71,
-      "text": "Dan Paskah,"
+      "text": "Dan Paskah,",
+      "ref_id": "Yohanes 6:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 49,
       "diatessaron_verse": "25",
       "ref": "John 6:4",
       "arabic_page": 71,
-      "text": "hari raya orang Yahudi, sudah dekat."
+      "text": "hari raya orang Yahudi, sudah dekat.",
+      "ref_id": "Yohanes 6:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 50,
       "diatessaron_verse": "25",
       "ref": "John 6:5a",
       "arabic_page": 71,
-      "text": "Ketika Yesus memandang sekeliling-Nya dan melihat, bahwa orang banyak berbondong-bondong datang kepada-Nya,"
+      "text": "Ketika Yesus memandang sekeliling-Nya dan melihat, bahwa orang banyak berbondong-bondong datang kepada-Nya,",
+      "ref_id": "Yohanes 6:5a",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 51,
       "diatessaron_verse": "25",
       "ref": "Mark 6:34b",
       "arabic_page": 71,
-      "text": "maka tergeraklah hati-Nya oleh belas kasihan kepada mereka,"
+      "text": "maka tergeraklah hati-Nya oleh belas kasihan kepada mereka,",
+      "ref_id": "Markus 6:34b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 52,
       "diatessaron_verse": "26",
       "ref": "Mark 6:34b",
       "arabic_page": 71,
-      "text": "karena mereka seperti domba yang tidak mempunyai gembala."
+      "text": "karena mereka seperti domba yang tidak mempunyai gembala.",
+      "ref_id": "Markus 6:34b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 53,
       "diatessaron_verse": "26",
       "ref": "Luke 9:11b",
       "arabic_page": 71,
-      "text": "Ia menerima mereka dan berkata-kata kepada mereka tentang Kerajaan Allah dan Ia menyembuhkan orang-orang yang memerlukan penyembuhan."
+      "text": "Ia menerima mereka dan berkata-kata kepada mereka tentang Kerajaan Allah dan Ia menyembuhkan orang-orang yang memerlukan penyembuhan.",
+      "ref_id": "Lukas 9:11b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 17
     },
     {
       "id": 54,
       "diatessaron_verse": "27",
       "ref": "Matthew 14:15a",
       "arabic_page": 71,
-      "text": "Menjelang malam, murid-murid-Nya datang kepada-Nya dan berkata: \"Tempat ini sunyi dan hari sudah mulai malam."
+      "text": "Menjelang malam, murid-murid-Nya datang kepada-Nya dan berkata: \"Tempat ini sunyi dan hari sudah mulai malam.",
+      "ref_id": "Matius 14:15a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 15
     },
     {
       "id": 55,
       "diatessaron_verse": "28",
       "ref": "Mark 6:36",
       "arabic_page": 71,
-      "text": "Suruhlah mereka pergi, supaya mereka dapat membeli makanan di desa-desa dan di kampung-kampung di sekitar ini.\""
+      "text": "Suruhlah mereka pergi, supaya mereka dapat membeli makanan di desa-desa dan di kampung-kampung di sekitar ini.\"",
+      "ref_id": "Markus 6:36",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 16
     },
     {
       "id": 56,
       "diatessaron_verse": "29",
       "ref": "Matthew 14:16",
       "arabic_page": 71,
-      "text": "Tetapi Yesus berkata kepada mereka:"
+      "text": "Tetapi Yesus berkata kepada mereka:",
+      "ref_id": "Matius 14:16",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 57,
       "diatessaron_verse": "30",
       "ref": "Matthew 14:16",
       "arabic_page": 71,
-      "text": "\"Tidak perlu mereka pergi, kamu harus memberi mereka makan.\""
+      "text": "\"Tidak perlu mereka pergi, kamu harus memberi mereka makan.\"",
+      "ref_id": "Matius 14:16",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 58,
       "diatessaron_verse": "30",
       "ref": "Matthew 14:17",
       "arabic_page": 71,
-      "text": "Jawab mereka: \"Yang ada pada kami di sini hanya lima roti dan dua ikan.\""
+      "text": "Jawab mereka: \"Yang ada pada kami di sini hanya lima roti dan dua ikan.\"",
+      "ref_id": "Matius 14:17",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 59,
       "diatessaron_verse": "30",
       "ref": "John 6:5b",
       "arabic_page": 71,
-      "text": "berkatalah Ia kepada Filipus: \"Di manakah kita akan membeli roti, supaya mereka ini dapat makan?\""
+      "text": "berkatalah Ia kepada Filipus: \"Di manakah kita akan membeli roti, supaya mereka ini dapat makan?\"",
+      "ref_id": "Yohanes 6:5b",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 60,
       "diatessaron_verse": "31, 32",
       "ref": "John 6:6",
       "arabic_page": 71,
-      "text": "Hal itu dikatakan-Nya untuk mencobai dia, sebab Ia sendiri tahu, apa yang hendak dilakukan-Nya."
+      "text": "Hal itu dikatakan-Nya untuk mencobai dia, sebab Ia sendiri tahu, apa yang hendak dilakukan-Nya.",
+      "ref_id": "Yohanes 6:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 61,
       "diatessaron_verse": "31, 32",
       "ref": "John 6:7",
       "arabic_page": 72,
-      "text": "Jawab Filipus kepada-Nya: \"Roti seharga dua ratus dinar tidak akan cukup untuk mereka ini, sekalipun"
+      "text": "Jawab Filipus kepada-Nya: \"Roti seharga dua ratus dinar tidak akan cukup untuk mereka ini, sekalipun",
+      "ref_id": "Yohanes 6:7",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 62,
       "diatessaron_verse": "33",
       "ref": "John 6:7",
       "arabic_page": 72,
-      "text": "masing-masing mendapat sepotong kecil saja.\""
+      "text": "masing-masing mendapat sepotong kecil saja.\"",
+      "ref_id": "Yohanes 6:7",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 63,
       "diatessaron_verse": "33",
       "ref": "John 6:8",
       "arabic_page": 72,
-      "text": "Seorang dari murid-murid-Nya,"
+      "text": "Seorang dari murid-murid-Nya,",
+      "ref_id": "Yohanes 6:8",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 64,
       "diatessaron_verse": "34",
       "ref": "John 6:8",
       "arabic_page": 72,
-      "text": "yaitu Andreas, saudara Simon Petrus, berkata kepada-Nya:"
+      "text": "yaitu Andreas, saudara Simon Petrus, berkata kepada-Nya:",
+      "ref_id": "Yohanes 6:8",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 65,
       "diatessaron_verse": "34",
       "ref": "John 6:9",
       "arabic_page": 72,
-      "text": "\"Di sini ada seorang anak, yang mempunyai lima roti jelai"
+      "text": "\"Di sini ada seorang anak, yang mempunyai lima roti jelai",
+      "ref_id": "Yohanes 6:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 66,
       "diatessaron_verse": "35",
       "ref": "John 6:9",
       "arabic_page": 72,
-      "text": "dan dua ikan; tetapi apakah artinya itu untuk orang sebanyak ini?\""
+      "text": "dan dua ikan; tetapi apakah artinya itu untuk orang sebanyak ini?\"",
+      "ref_id": "Yohanes 6:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 67,
       "diatessaron_verse": "35",
       "ref": "Luke 9:13",
       "arabic_page": 72,
-      "text": "\"Yang ada pada kami tidak lebih dari pada lima roti dan dua ikan,"
+      "text": "\"Yang ada pada kami tidak lebih dari pada lima roti dan dua ikan,",
+      "ref_id": "Lukas 9:13",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 68,
       "diatessaron_verse": "36",
       "ref": "Luke 9:13",
       "arabic_page": 72,
-      "text": "kecuali kalau kami pergi membeli makanan untuk semua orang banyak ini.\""
+      "text": "kecuali kalau kami pergi membeli makanan untuk semua orang banyak ini.\"",
+      "ref_id": "Lukas 9:13",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 69,
       "diatessaron_verse": "36",
       "ref": "Mark 6:39",
       "arabic_page": 72,
-      "text": "Lalu Ia menyuruh orang-orang itu, supaya semua duduk berkelompok-kelompok di atas rumput hijau."
+      "text": "Lalu Ia menyuruh orang-orang itu, supaya semua duduk berkelompok-kelompok di atas rumput hijau.",
+      "ref_id": "Markus 6:39",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 13
     },
     {
       "id": 70,
       "diatessaron_verse": "36",
       "ref": "Luke 9:14",
       "arabic_page": 72,
-      "text": "kira-kira lima puluh orang sekelompok.\""
+      "text": "kira-kira lima puluh orang sekelompok.\"",
+      "ref_id": "Lukas 9:14",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 71,
       "diatessaron_verse": "37",
       "ref": "Mark 6:40",
       "arabic_page": 72,
-      "text": "Maka duduklah mereka berkelompok-kelompok,"
+      "text": "Maka duduklah mereka berkelompok-kelompok,",
+      "ref_id": "Markus 6:40",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 72,
       "diatessaron_verse": "38",
       "ref": "Mark 6:40",
       "arabic_page": 72,
-      "text": "ada yang seratus, ada yang lima puluh orang."
+      "text": "ada yang seratus, ada yang lima puluh orang.",
+      "ref_id": "Markus 6:40",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 73,
       "diatessaron_verse": "38",
       "ref": "Matthew 14:18",
       "arabic_page": 72,
-      "text": "Yesus berkata: \"Bawalah ke mari kepada-Ku.\""
+      "text": "Yesus berkata: \"Bawalah ke mari kepada-Ku.\"",
+      "ref_id": "Matius 14:18",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 74,
       "diatessaron_verse": "39",
       "ref": "Mark 6:41a",
       "arabic_page": 72,
-      "text": "Dan setelah Ia mengambil lima roti dan dua ikan itu, Ia menengadah ke langit dan mengucap berkat, lalu memecah-mecahkan roti itu dan memberikannya kepada"
+      "text": "Dan setelah Ia mengambil lima roti dan dua ikan itu, Ia menengadah ke langit dan mengucap berkat, lalu memecah-mecahkan roti itu dan memberikannya kepada",
+      "ref_id": "Markus 6:41a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 24
     },
     {
       "id": 75,
       "diatessaron_verse": "40",
       "ref": "Mark 6:41a",
       "arabic_page": 72,
-      "text": "murid-murid-Nya, supaya dibagi-bagikan kepada orang-orang itu;"
+      "text": "murid-murid-Nya, supaya dibagi-bagikan kepada orang-orang itu;",
+      "ref_id": "Markus 6:41a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 76,
       "diatessaron_verse": "40",
       "ref": "Matthew 14:19b",
       "arabic_page": 72,
-      "text": "lalu murid-murid-Nya membagi-bagikannya kepada orang banyak."
+      "text": "lalu murid-murid-Nya membagi-bagikannya kepada orang banyak.",
+      "ref_id": "Matius 14:19b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 77,
       "diatessaron_verse": "41",
       "ref": "Matthew 14:20",
       "arabic_page": 72,
-      "text": "Dan mereka semuanya makan sampai kenyang."
+      "text": "Dan mereka semuanya makan sampai kenyang.",
+      "ref_id": "Matius 14:20",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 78,
       "diatessaron_verse": "41",
       "ref": "John 6:12",
       "arabic_page": 72,
-      "text": "Dan setelah mereka kenyang Ia berkata kepada murid-murid-Nya: \"Kumpulkanlah potongan-potongan yang lebih supaya"
+      "text": "Dan setelah mereka kenyang Ia berkata kepada murid-murid-Nya: \"Kumpulkanlah potongan-potongan yang lebih supaya",
+      "ref_id": "Yohanes 6:12",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 79,
       "diatessaron_verse": "42",
       "ref": "John 6:12",
       "arabic_page": 72,
-      "text": "tidak ada yang terbuang.\""
+      "text": "tidak ada yang terbuang.\"",
+      "ref_id": "Yohanes 6:12",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 80,
       "diatessaron_verse": "42",
       "ref": "John 6:13",
       "arabic_page": 72,
-      "text": "Maka merekapun mengumpulkannya, dan mengisi dua belas bakul penuh dengan potongan-potongan dari kelima roti jelai yang lebih setelah orang makan."
+      "text": "Maka merekapun mengumpulkannya, dan mengisi dua belas bakul penuh dengan potongan-potongan dari kelima roti jelai yang lebih setelah orang makan.",
+      "ref_id": "Yohanes 6:13",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 81,
       "diatessaron_verse": "43",
       "ref": "Matthew 14:21",
       "arabic_page": 72,
-      "text": "Yang ikut makan kira-kira lima ribu laki-laki, tidak termasuk perempuan dan anak-anak."
+      "text": "Yang ikut makan kira-kira lima ribu laki-laki, tidak termasuk perempuan dan anak-anak.",
+      "ref_id": "Matius 14:21",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 82,
       "diatessaron_verse": "44",
       "ref": "Mark 6:45",
       "arabic_page": 73,
-      "text": "Sesudah itu Yesus segera memerintahkan murid-murid-Nya naik ke perahu dan berangkat lebih dulu ke seberang, ke Betsaida, sementara itu"
+      "text": "Sesudah itu Yesus segera memerintahkan murid-murid-Nya naik ke perahu dan berangkat lebih dulu ke seberang, ke Betsaida, sementara itu",
+      "ref_id": "Markus 6:45",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 19
     },
     {
       "id": 83,
       "diatessaron_verse": "45",
       "ref": "Mark 6:45",
       "arabic_page": 73,
-      "text": "Ia menyuruh orang banyak pulang."
+      "text": "Ia menyuruh orang banyak pulang.",
+      "ref_id": "Markus 6:45",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 84,
       "diatessaron_verse": "45",
       "ref": "John 6:14",
       "arabic_page": 73,
-      "text": "Ketika orang-orang itu melihat mujizat yang telah diadakan-Nya,"
+      "text": "Ketika orang-orang itu melihat mujizat yang telah diadakan-Nya,",
+      "ref_id": "Yohanes 6:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 85,
       "diatessaron_verse": "46",
       "ref": "John 6:14",
       "arabic_page": 73,
-      "text": "mereka berkata: \"Dia ini adalah benar-benar nabi yang akan datang ke dalam dunia.\""
+      "text": "mereka berkata: \"Dia ini adalah benar-benar nabi yang akan datang ke dalam dunia.\"",
+      "ref_id": "Yohanes 6:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 86,
       "diatessaron_verse": "46",
       "ref": "John 6:15",
       "arabic_page": 73,
-      "text": "Karena Yesus tahu, bahwa mereka hendak datang dan hendak membawa Dia dengan paksa untuk menjadikan Dia raja, Ia menyingkir pula ke gunung, seorang diri."
+      "text": "Karena Yesus tahu, bahwa mereka hendak datang dan hendak membawa Dia dengan paksa untuk menjadikan Dia raja, Ia menyingkir pula ke gunung, seorang diri.",
+      "ref_id": "Yohanes 6:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 24
     },
     {
       "id": 87,
       "diatessaron_verse": "47, 48",
       "ref": "John 6:16",
       "arabic_page": 73,
-      "text": "Dan ketika hari sudah mulai malam, murid-murid Yesus pergi ke danau, lalu naik ke perahu"
+      "text": "Dan ketika hari sudah mulai malam, murid-murid Yesus pergi ke danau, lalu naik ke perahu",
+      "ref_id": "Yohanes 6:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 15
     },
     {
       "id": 88,
       "diatessaron_verse": "47, 48",
       "ref": "John 6:17",
       "arabic_page": 73,
-      "text": "dan menyeberang ke Kapernaum. Ketika hari sudah gelap Yesus"
+      "text": "dan menyeberang ke Kapernaum. Ketika hari sudah gelap Yesus",
+      "ref_id": "Yohanes 6:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 89,
       "diatessaron_verse": "49",
       "ref": "John 6:17",
       "arabic_page": 73,
-      "text": "belum juga datang mendapatkan mereka,"
+      "text": "belum juga datang mendapatkan mereka,",
+      "ref_id": "Yohanes 6:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 90,
       "diatessaron_verse": "49",
       "ref": "John 6:18",
       "arabic_page": 73,
-      "text": "sedang laut bergelora karena"
+      "text": "sedang laut bergelora karena",
+      "ref_id": "Yohanes 6:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 91,
       "diatessaron_verse": "50",
       "ref": "John 6:18",
       "arabic_page": 73,
-      "text": "angin kencang."
+      "text": "angin kencang.",
+      "ref_id": "Yohanes 6:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 92,
       "diatessaron_verse": "50",
       "ref": "Matthew 14:24",
       "arabic_page": 73,
-      "text": "Perahu murid-murid-Nya sudah beberapa mil jauhnya dari pantai dan diombang-ambingkan gelombang, karena angin sakal."
+      "text": "Perahu murid-murid-Nya sudah beberapa mil jauhnya dari pantai dan diombang-ambingkan gelombang, karena angin sakal.",
+      "ref_id": "Matius 14:24",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     }
-  ]
+  ],
+  "title_id": "Kematian Yohanes Pembaptis & Memberi Makan 5.000 Orang",
+  "title_en": "Death of John the Baptist & Feeding of the 5,000",
+  "epoch_id": 4,
+  "total_words": 926,
+  "arabic_page_range": "p. 70 - p. 73",
+  "arabic_pages": [
+    70,
+    71,
+    72,
+    73
+  ],
+  "stats": {
+    "mat": 17,
+    "mrk": 39,
+    "luk": 11,
+    "yoh": 25,
+    "unk": 0
+  },
+  "footnotes": []
 }

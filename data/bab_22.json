@@ -26,693 +26,1207 @@
       "diatessaron_verse": "1",
       "ref": "Luke 5:12",
       "arabic_page": null,
-      "text": "Pada suatu kali Yesus berada dalam sebuah kota. Di situ ada seorang yang penuh kusta. Ketika ia melihat Yesus, tersungkurlah ia dan memohon: \"Tuan, jika Tuan mau, Tuan dapat"
+      "text": "Pada suatu kali Yesus berada dalam sebuah kota. Di situ ada seorang yang penuh kusta. Ketika ia melihat Yesus, tersungkurlah ia dan memohon: \"Tuan, jika Tuan mau, Tuan dapat",
+      "ref_id": "Lukas 5:12",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 29
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "Luke 5:12",
       "arabic_page": null,
-      "text": "mentahirkan aku.\""
+      "text": "mentahirkan aku.\"",
+      "ref_id": "Lukas 5:12",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "Mark 1:41",
       "arabic_page": null,
-      "text": "Maka tergeraklah hati-Nya oleh belas kasihan, lalu Ia"
+      "text": "Maka tergeraklah hati-Nya oleh belas kasihan, lalu Ia",
+      "ref_id": "Markus 1:41",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "Mark 1:41",
       "arabic_page": null,
-      "text": "mengulurkan tangan-Nya, menjamah orang itu dan berkata kepadanya: \"Aku mau, jadilah engkau tahir.\""
+      "text": "mengulurkan tangan-Nya, menjamah orang itu dan berkata kepadanya: \"Aku mau, jadilah engkau tahir.\"",
+      "ref_id": "Markus 1:41",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 13
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "Mark 1:42",
       "arabic_page": null,
-      "text": "Seketika itu juga lenyaplah penyakit kusta"
+      "text": "Seketika itu juga lenyaplah penyakit kusta",
+      "ref_id": "Markus 1:42",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "Mark 1:42",
       "arabic_page": null,
-      "text": "orang itu, dan ia menjadi tahir."
+      "text": "orang itu, dan ia menjadi tahir.",
+      "ref_id": "Markus 1:42",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 7,
       "diatessaron_verse": "4",
       "ref": "Mark 1:43",
       "arabic_page": null,
-      "text": "Segera Ia menyuruh orang itu pergi"
+      "text": "Segera Ia menyuruh orang itu pergi",
+      "ref_id": "Markus 1:43",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
       "ref": "Mark 1:43",
       "arabic_page": 85,
-      "text": "dengan peringatan keras:"
+      "text": "dengan peringatan keras:",
+      "ref_id": "Markus 1:43",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 9,
       "diatessaron_verse": "5",
       "ref": "Mark 1:44",
       "arabic_page": 85,
-      "text": "\"Ingatlah, janganlah engkau memberitahukan apa-apa tentang hal ini kepada siapapun, tetapi pergilah, perlihatkanlah dirimu kepada imam dan persembahkanlah untuk pentahiranmu persembahan, yang diperintahkan oleh Musa,"
+      "text": "\"Ingatlah, janganlah engkau memberitahukan apa-apa tentang hal ini kepada siapapun, tetapi pergilah, perlihatkanlah dirimu kepada imam dan persembahkanlah untuk pentahiranmu persembahan, yang diperintahkan oleh Musa,",
+      "ref_id": "Markus 1:44",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 25
     },
     {
       "id": 10,
       "diatessaron_verse": "6",
       "ref": "Mark 1:44",
       "arabic_page": 85,
-      "text": "sebagai bukti bagi mereka.\""
+      "text": "sebagai bukti bagi mereka.\"",
+      "ref_id": "Markus 1:44",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 11,
       "diatessaron_verse": "6",
       "ref": "Mark 1:45a",
       "arabic_page": 85,
-      "text": "Tetapi orang itu pergi memberitakan peristiwa itu dan menyebarkannya kemana-mana, sehingga Yesus tidak dapat lagi terang-terangan masuk ke dalam kota. Ia tinggal di luar"
+      "text": "Tetapi orang itu pergi memberitakan peristiwa itu dan menyebarkannya kemana-mana, sehingga Yesus tidak dapat lagi terang-terangan masuk ke dalam kota. Ia tinggal di luar",
+      "ref_id": "Markus 1:45a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 24
     },
     {
       "id": 12,
       "diatessaron_verse": "7",
       "ref": "Mark 1:45a",
       "arabic_page": 85,
-      "text": "di tempat-tempat yang sepi;"
+      "text": "di tempat-tempat yang sepi;",
+      "ref_id": "Markus 1:45a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 13,
       "diatessaron_verse": "7",
       "ref": "Luke 5:15",
       "arabic_page": 85,
-      "text": "Tetapi kabar tentang Yesus makin jauh tersiar dan datanglah orang banyak berbondong-bondong kepada-Nya"
+      "text": "Tetapi kabar tentang Yesus makin jauh tersiar dan datanglah orang banyak berbondong-bondong kepada-Nya",
+      "ref_id": "Lukas 5:15",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 14,
       "diatessaron_verse": "8",
       "ref": "Luke 5:15",
       "arabic_page": 85,
-      "text": "untuk mendengar Dia dan untuk disembuhkan dari penyakit mereka."
+      "text": "untuk mendengar Dia dan untuk disembuhkan dari penyakit mereka.",
+      "ref_id": "Lukas 5:15",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 15,
       "diatessaron_verse": "8",
       "ref": "Luke 5:16",
       "arabic_page": 85,
-      "text": "Akan tetapi Ia mengundurkan diri ke tempat-tempat yang sunyi dan berdoa."
+      "text": "Akan tetapi Ia mengundurkan diri ke tempat-tempat yang sunyi dan berdoa.",
+      "ref_id": "Lukas 5:16",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 16,
       "diatessaron_verse": "9",
       "ref": "John 5:1",
       "arabic_page": 85,
-      "text": "Sesudah itu ada hari raya orang Yahudi, dan Yesus berangkat ke Yerusalem."
+      "text": "Sesudah itu ada hari raya orang Yahudi, dan Yesus berangkat ke Yerusalem.",
+      "ref_id": "Yohanes 5:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 17,
       "diatessaron_verse": "10",
       "ref": "John 5:2",
       "arabic_page": 85,
-      "text": "Di Yerusalem dekat Pintu Gerbang Domba ada sebuah kolam, yang dalam"
+      "text": "Di Yerusalem dekat Pintu Gerbang Domba ada sebuah kolam, yang dalam",
+      "ref_id": "Yohanes 5:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 18,
       "diatessaron_verse": "11",
       "ref": "John 5:2",
       "arabic_page": 85,
-      "text": "bahasa Ibrani disebut Betesda; ada lima serambinya"
+      "text": "bahasa Ibrani disebut Betesda; ada lima serambinya",
+      "ref_id": "Yohanes 5:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 19,
       "diatessaron_verse": "11",
       "ref": "John 5:3",
       "arabic_page": 85,
-      "text": "dan di serambi-serambi itu berbaring sejumlah besar orang sakit: orang-orang buta, orang-orang timpang dan orang-orang lumpuh, yang menantikan"
+      "text": "dan di serambi-serambi itu berbaring sejumlah besar orang sakit: orang-orang buta, orang-orang timpang dan orang-orang lumpuh, yang menantikan",
+      "ref_id": "Yohanes 5:3",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 20,
       "diatessaron_verse": "12",
       "ref": "John 5:3",
       "arabic_page": 85,
-      "text": "goncangan air kolam itu."
+      "text": "goncangan air kolam itu.",
+      "ref_id": "Yohanes 5:3",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 21,
       "diatessaron_verse": "12",
       "ref": "John 5:4",
       "arabic_page": 85,
-      "text": "Sebab sewaktu-waktu turun malaikat Tuhan ke kolam itu dan menggoncangkan air itu; barangsiapa yang terdahulu masuk ke dalamnya sesudah"
+      "text": "Sebab sewaktu-waktu turun malaikat Tuhan ke kolam itu dan menggoncangkan air itu; barangsiapa yang terdahulu masuk ke dalamnya sesudah",
+      "ref_id": "Yohanes 5:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 22,
       "diatessaron_verse": "13",
       "ref": "John 5:4",
       "arabic_page": 85,
-      "text": "goncangan air itu, menjadi sembuh, apapun juga penyakitnya."
+      "text": "goncangan air itu, menjadi sembuh, apapun juga penyakitnya.",
+      "ref_id": "Yohanes 5:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 23,
       "diatessaron_verse": "13",
       "ref": "John 5:5",
       "arabic_page": 85,
-      "text": "Di situ ada seorang yang sudah"
+      "text": "Di situ ada seorang yang sudah",
+      "ref_id": "Yohanes 5:5",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 24,
       "diatessaron_verse": "14",
       "ref": "John 5:5",
       "arabic_page": 85,
-      "text": "tiga puluh delapan tahun lamanya sakit."
+      "text": "tiga puluh delapan tahun lamanya sakit.",
+      "ref_id": "Yohanes 5:5",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 25,
       "diatessaron_verse": "14",
       "ref": "John 5:6",
       "arabic_page": 85,
-      "text": "Ketika Yesus melihat orang itu berbaring di situ dan karena Ia tahu, bahwa"
+      "text": "Ketika Yesus melihat orang itu berbaring di situ dan karena Ia tahu, bahwa",
+      "ref_id": "Yohanes 5:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 26,
       "diatessaron_verse": "15",
       "ref": "John 5:6",
       "arabic_page": 85,
-      "text": "ia telah lama dalam keadaan itu, berkatalah Ia kepadanya: \"Maukah engkau sembuh?\""
+      "text": "ia telah lama dalam keadaan itu, berkatalah Ia kepadanya: \"Maukah engkau sembuh?\"",
+      "ref_id": "Yohanes 5:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 27,
       "diatessaron_verse": "15",
       "ref": "John 5:7",
       "arabic_page": 85,
-      "text": "Jawab orang sakit itu kepada-Nya: \"Tuhan, tidak ada orang yang menurunkan aku ke dalam kolam itu apabila airnya mulai goncang, dan sementara aku menuju ke kolam itu, orang lain sudah turun"
+      "text": "Jawab orang sakit itu kepada-Nya: \"Tuhan, tidak ada orang yang menurunkan aku ke dalam kolam itu apabila airnya mulai goncang, dan sementara aku menuju ke kolam itu, orang lain sudah turun",
+      "ref_id": "Yohanes 5:7",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 31
     },
     {
       "id": 28,
       "diatessaron_verse": "16, 17",
       "ref": "John 5:7",
       "arabic_page": 85,
-      "text": "mendahului aku.\""
+      "text": "mendahului aku.\"",
+      "ref_id": "Yohanes 5:7",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 29,
       "diatessaron_verse": "16, 17",
       "ref": "John 5:8",
       "arabic_page": 85,
-      "text": "Kata Yesus kepadanya: \"Bangunlah, angkatlah tilammu dan berjalanlah.\""
+      "text": "Kata Yesus kepadanya: \"Bangunlah, angkatlah tilammu dan berjalanlah.\"",
+      "ref_id": "Yohanes 5:8",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 30,
       "diatessaron_verse": "16, 17",
       "ref": "John 5:9",
       "arabic_page": 85,
-      "text": "Dan pada saat itu juga sembuhlah orang itu lalu ia mengangkat tilamnya dan berjalan. Tetapi hari itu hari Sabat."
+      "text": "Dan pada saat itu juga sembuhlah orang itu lalu ia mengangkat tilamnya dan berjalan. Tetapi hari itu hari Sabat.",
+      "ref_id": "Yohanes 5:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 31,
       "diatessaron_verse": "18",
       "ref": "John 5:10",
       "arabic_page": 85,
-      "text": "Karena itu orang-orang Yahudi berkata kepada orang yang baru sembuh itu:"
+      "text": "Karena itu orang-orang Yahudi berkata kepada orang yang baru sembuh itu:",
+      "ref_id": "Yohanes 5:10",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 32,
       "diatessaron_verse": "19",
       "ref": "John 5:10",
       "arabic_page": 85,
-      "text": "\"Hari ini hari Sabat dan tidak boleh engkau memikul tilammu.\""
+      "text": "\"Hari ini hari Sabat dan tidak boleh engkau memikul tilammu.\"",
+      "ref_id": "Yohanes 5:10",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 33,
       "diatessaron_verse": "19",
       "ref": "John 5:11",
       "arabic_page": 85,
-      "text": "Akan tetapi ia menjawab mereka: \"Orang yang telah menyembuhkan aku, dia yang mengatakan kepadaku: Angkatlah tilammu"
+      "text": "Akan tetapi ia menjawab mereka: \"Orang yang telah menyembuhkan aku, dia yang mengatakan kepadaku: Angkatlah tilammu",
+      "ref_id": "Yohanes 5:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 34,
       "diatessaron_verse": "20",
       "ref": "John 5:11",
       "arabic_page": 86,
-      "text": "dan berjalanlah.\""
+      "text": "dan berjalanlah.\"",
+      "ref_id": "Yohanes 5:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 35,
       "diatessaron_verse": "20",
       "ref": "John 5:12",
       "arabic_page": 86,
-      "text": "Mereka bertanya kepadanya: \"Siapakah orang itu yang berkata kepadamu:"
+      "text": "Mereka bertanya kepadanya: \"Siapakah orang itu yang berkata kepadamu:",
+      "ref_id": "Yohanes 5:12",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 36,
       "diatessaron_verse": "21",
       "ref": "John 5:12",
       "arabic_page": 86,
-      "text": "Angkatlah tilammu dan berjalanlah?\""
+      "text": "Angkatlah tilammu dan berjalanlah?\"",
+      "ref_id": "Yohanes 5:12",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 37,
       "diatessaron_verse": "21",
       "ref": "John 5:13",
       "arabic_page": 86,
-      "text": "Tetapi orang yang baru sembuh itu tidak tahu siapa orang itu, sebab Yesus telah menghilang ke tengah-tengah orang banyak"
+      "text": "Tetapi orang yang baru sembuh itu tidak tahu siapa orang itu, sebab Yesus telah menghilang ke tengah-tengah orang banyak",
+      "ref_id": "Yohanes 5:13",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 19
     },
     {
       "id": 38,
       "diatessaron_verse": "22",
       "ref": "John 5:13",
       "arabic_page": 86,
-      "text": "di tempat itu."
+      "text": "di tempat itu.",
+      "ref_id": "Yohanes 5:13",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 39,
       "diatessaron_verse": "22",
       "ref": "John 5:14",
       "arabic_page": 86,
-      "text": "Kemudian Yesus bertemu dengan dia dalam Bait Allah lalu berkata kepadanya: \"Engkau telah sembuh; jangan berbuat dosa lagi,"
+      "text": "Kemudian Yesus bertemu dengan dia dalam Bait Allah lalu berkata kepadanya: \"Engkau telah sembuh; jangan berbuat dosa lagi,",
+      "ref_id": "Yohanes 5:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 40,
       "diatessaron_verse": "23",
       "ref": "John 5:14",
       "arabic_page": 86,
-      "text": "supaya padamu jangan terjadi yang lebih buruk.\""
+      "text": "supaya padamu jangan terjadi yang lebih buruk.\"",
+      "ref_id": "Yohanes 5:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 41,
       "diatessaron_verse": "23",
       "ref": "John 5:15",
       "arabic_page": 86,
-      "text": "Orang itu keluar, lalu menceriterakan kepada orang-orang Yahudi,"
+      "text": "Orang itu keluar, lalu menceriterakan kepada orang-orang Yahudi,",
+      "ref_id": "Yohanes 5:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 42,
       "diatessaron_verse": "24",
       "ref": "John 5:15",
       "arabic_page": 86,
-      "text": "bahwa Yesuslah yang telah menyembuhkan dia."
+      "text": "bahwa Yesuslah yang telah menyembuhkan dia.",
+      "ref_id": "Yohanes 5:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 43,
       "diatessaron_verse": "24",
       "ref": "John 5:16",
       "arabic_page": 86,
-      "text": "Dan karena itu orang-orang Yahudi"
+      "text": "Dan karena itu orang-orang Yahudi",
+      "ref_id": "Yohanes 5:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 44,
       "diatessaron_verse": "25",
       "ref": "John 5:16",
       "arabic_page": 86,
-      "text": "berusaha menganiaya Yesus, karena Ia melakukan hal-hal itu pada hari Sabat."
+      "text": "berusaha menganiaya Yesus, karena Ia melakukan hal-hal itu pada hari Sabat.",
+      "ref_id": "Yohanes 5:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 45,
       "diatessaron_verse": "25",
       "ref": "John 5:17",
       "arabic_page": 86,
-      "text": "Tetapi Ia berkata kepada"
+      "text": "Tetapi Ia berkata kepada",
+      "ref_id": "Yohanes 5:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 46,
       "diatessaron_verse": "26",
       "ref": "John 5:17",
       "arabic_page": 86,
-      "text": "mereka: \"Bapa-Ku bekerja sampai sekarang, maka Akupun bekerja juga.\""
+      "text": "mereka: \"Bapa-Ku bekerja sampai sekarang, maka Akupun bekerja juga.\"",
+      "ref_id": "Yohanes 5:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 47,
       "diatessaron_verse": "26",
       "ref": "John 5:18",
       "arabic_page": 86,
-      "text": "Sebab itu orang-orang Yahudi lebih berusaha lagi untuk membunuh-Nya, bukan saja karena Ia meniadakan hari Sabat, tetapi juga karena Ia mengatakan bahwa Allah adalah Bapa-Nya sendiri dan dengan demikian menyamakan diri-Nya dengan Allah."
+      "text": "Sebab itu orang-orang Yahudi lebih berusaha lagi untuk membunuh-Nya, bukan saja karena Ia meniadakan hari Sabat, tetapi juga karena Ia mengatakan bahwa Allah adalah Bapa-Nya sendiri dan dengan demikian menyamakan diri-Nya dengan Allah.",
+      "ref_id": "Yohanes 5:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 33
     },
     {
       "id": 48,
       "diatessaron_verse": "27",
       "ref": "John 5:19",
       "arabic_page": 86,
-      "text": "Maka Yesus menjawab mereka, kata-Nya: \"Aku berkata kepadamu, sesungguhnya Anak tidak dapat mengerjakan sesuatu dari diri-Nya sendiri, jikalau tidak Ia melihat Bapa mengerjakannya; sebab apa yang dikerjakan Bapa,"
+      "text": "Maka Yesus menjawab mereka, kata-Nya: \"Aku berkata kepadamu, sesungguhnya Anak tidak dapat mengerjakan sesuatu dari diri-Nya sendiri, jikalau tidak Ia melihat Bapa mengerjakannya; sebab apa yang dikerjakan Bapa,",
+      "ref_id": "Yohanes 5:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 28
     },
     {
       "id": 49,
       "diatessaron_verse": "28",
       "ref": "John 5:19",
       "arabic_page": 86,
-      "text": "itu juga yang dikerjakan Anak."
+      "text": "itu juga yang dikerjakan Anak.",
+      "ref_id": "Yohanes 5:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 50,
       "diatessaron_verse": "28",
       "ref": "John 5:20",
       "arabic_page": 86,
-      "text": "Sebab Bapa mengasihi Anak dan Ia menunjukkan kepada-Nya segala sesuatu yang dikerjakan-Nya sendiri, bahkan Ia akan menunjukkan kepada-Nya pekerjaan-pekerjaan yang lebih besar lagi dari pada pekerjaan-pekerjaan itu,"
+      "text": "Sebab Bapa mengasihi Anak dan Ia menunjukkan kepada-Nya segala sesuatu yang dikerjakan-Nya sendiri, bahkan Ia akan menunjukkan kepada-Nya pekerjaan-pekerjaan yang lebih besar lagi dari pada pekerjaan-pekerjaan itu,",
+      "ref_id": "Yohanes 5:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 27
     },
     {
       "id": 51,
       "diatessaron_verse": "29",
       "ref": "John 5:20",
       "arabic_page": 86,
-      "text": "sehingga kamu menjadi heran."
+      "text": "sehingga kamu menjadi heran.",
+      "ref_id": "Yohanes 5:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 52,
       "diatessaron_verse": "29",
       "ref": "John 5:21",
       "arabic_page": 86,
-      "text": "Sebab sama seperti Bapa membangkitkan orang-orang mati dan menghidupkannya, demikian juga Anak"
+      "text": "Sebab sama seperti Bapa membangkitkan orang-orang mati dan menghidupkannya, demikian juga Anak",
+      "ref_id": "Yohanes 5:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 53,
       "diatessaron_verse": "30",
       "ref": "John 5:21",
       "arabic_page": 86,
-      "text": "menghidupkan barangsiapa yang dikehendaki-Nya."
+      "text": "menghidupkan barangsiapa yang dikehendaki-Nya.",
+      "ref_id": "Yohanes 5:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 54,
       "diatessaron_verse": "30",
       "ref": "John 5:22",
       "arabic_page": 86,
-      "text": "Bapa tidak menghakimi siapapun, melainkan telah menyerahkan penghakiman itu seluruhnya kepada Anak,"
+      "text": "Bapa tidak menghakimi siapapun, melainkan telah menyerahkan penghakiman itu seluruhnya kepada Anak,",
+      "ref_id": "Yohanes 5:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 55,
       "diatessaron_verse": "30",
       "ref": "John 5:23",
       "arabic_page": 86,
-      "text": "supaya semua orang menghormati Anak sama seperti mereka menghormati Bapa. Barangsiapa tidak menghormati Anak, ia juga tidak menghormati Bapa, yang"
+      "text": "supaya semua orang menghormati Anak sama seperti mereka menghormati Bapa. Barangsiapa tidak menghormati Anak, ia juga tidak menghormati Bapa, yang",
+      "ref_id": "Yohanes 5:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 56,
       "diatessaron_verse": "32",
       "ref": "John 5:23",
       "arabic_page": 86,
-      "text": "mengutus Dia."
+      "text": "mengutus Dia.",
+      "ref_id": "Yohanes 5:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 57,
       "diatessaron_verse": "32",
       "ref": "John 5:24",
       "arabic_page": 86,
-      "text": "Aku berkata kepadamu: Sesungguhnya barangsiapa mendengar perkataan-Ku dan percaya kepada Dia yang mengutus Aku, ia mempunyai hidup yang kekal dan tidak turut dihukum, sebab ia sudah pindah dari dalam"
+      "text": "Aku berkata kepadamu: Sesungguhnya barangsiapa mendengar perkataan-Ku dan percaya kepada Dia yang mengutus Aku, ia mempunyai hidup yang kekal dan tidak turut dihukum, sebab ia sudah pindah dari dalam",
+      "ref_id": "Yohanes 5:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 29
     },
     {
       "id": 58,
       "diatessaron_verse": "33",
       "ref": "John 5:24",
       "arabic_page": 87,
-      "text": "maut ke dalam hidup."
+      "text": "maut ke dalam hidup.",
+      "ref_id": "Yohanes 5:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 59,
       "diatessaron_verse": "33",
       "ref": "John 5:25",
       "arabic_page": 87,
-      "text": "Aku berkata kepadamu: Sesungguhnya saatnya akan tiba dan sudah tiba, bahwa orang-orang mati akan mendengar suara Anak Allah, dan mereka"
+      "text": "Aku berkata kepadamu: Sesungguhnya saatnya akan tiba dan sudah tiba, bahwa orang-orang mati akan mendengar suara Anak Allah, dan mereka",
+      "ref_id": "Yohanes 5:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 60,
       "diatessaron_verse": "34",
       "ref": "John 5:25",
       "arabic_page": 87,
-      "text": "yang mendengarnya, akan hidup."
+      "text": "yang mendengarnya, akan hidup.",
+      "ref_id": "Yohanes 5:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 61,
       "diatessaron_verse": "34",
       "ref": "John 5:26",
       "arabic_page": 87,
-      "text": "Sebab sama seperti Bapa mempunyai hidup dalam diri-Nya sendiri, demikian juga diberikan-Nya"
+      "text": "Sebab sama seperti Bapa mempunyai hidup dalam diri-Nya sendiri, demikian juga diberikan-Nya",
+      "ref_id": "Yohanes 5:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 62,
       "diatessaron_verse": "35",
       "ref": "John 5:26",
       "arabic_page": 87,
-      "text": "Anak mempunyai hidup dalam diri-Nya sendiri."
+      "text": "Anak mempunyai hidup dalam diri-Nya sendiri.",
+      "ref_id": "Yohanes 5:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 63,
       "diatessaron_verse": "35",
       "ref": "John 5:27",
       "arabic_page": 87,
-      "text": "Dan Ia telah memberikan kuasa kepada-Nya untuk menghakimi,"
+      "text": "Dan Ia telah memberikan kuasa kepada-Nya untuk menghakimi,",
+      "ref_id": "Yohanes 5:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 64,
       "diatessaron_verse": "36",
       "ref": "John 5:27",
       "arabic_page": 87,
-      "text": "karena Ia adalah Anak Manusia."
+      "text": "karena Ia adalah Anak Manusia.",
+      "ref_id": "Yohanes 5:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 65,
       "diatessaron_verse": "36",
       "ref": "John 5:28",
       "arabic_page": 87,
-      "text": "Janganlah kamu heran akan hal itu, sebab saatnya akan tiba, bahwa semua orang yang di dalam kuburan akan mendengar suara-Nya,"
+      "text": "Janganlah kamu heran akan hal itu, sebab saatnya akan tiba, bahwa semua orang yang di dalam kuburan akan mendengar suara-Nya,",
+      "ref_id": "Yohanes 5:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 66,
       "diatessaron_verse": "37",
       "ref": "John 5:29",
       "arabic_page": 87,
-      "text": "dan mereka yang telah berbuat baik akan keluar dan bangkit untuk hidup yang kekal, tetapi mereka yang telah berbuat jahat akan bangkit untuk dihukum."
+      "text": "dan mereka yang telah berbuat baik akan keluar dan bangkit untuk hidup yang kekal, tetapi mereka yang telah berbuat jahat akan bangkit untuk dihukum.",
+      "ref_id": "Yohanes 5:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 24
     },
     {
       "id": 67,
       "diatessaron_verse": "38",
       "ref": "John 5:30",
       "arabic_page": 87,
-      "text": "Aku tidak dapat berbuat apa-apa dari diri-Ku sendiri; Aku menghakimi sesuai dengan apa yang Aku dengar, dan penghakiman-Ku"
+      "text": "Aku tidak dapat berbuat apa-apa dari diri-Ku sendiri; Aku menghakimi sesuai dengan apa yang Aku dengar, dan penghakiman-Ku",
+      "ref_id": "Yohanes 5:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 68,
       "diatessaron_verse": "39",
       "ref": "John 5:30",
       "arabic_page": 87,
-      "text": "adil, sebab Aku tidak menuruti kehendak-Ku sendiri, melainkan kehendak Dia yang mengutus Aku."
+      "text": "adil, sebab Aku tidak menuruti kehendak-Ku sendiri, melainkan kehendak Dia yang mengutus Aku.",
+      "ref_id": "Yohanes 5:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 69,
       "diatessaron_verse": "39",
       "ref": "John 5:31",
       "arabic_page": 87,
-      "text": "Kalau Aku bersaksi tentang"
+      "text": "Kalau Aku bersaksi tentang",
+      "ref_id": "Yohanes 5:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 70,
       "diatessaron_verse": "40",
       "ref": "John 5:31",
       "arabic_page": 87,
-      "text": "diri-Ku sendiri, maka kesaksian-Ku itu tidak benar;"
+      "text": "diri-Ku sendiri, maka kesaksian-Ku itu tidak benar;",
+      "ref_id": "Yohanes 5:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 71,
       "diatessaron_verse": "40",
       "ref": "John 5:32",
       "arabic_page": 87,
-      "text": "ada yang lain yang bersaksi"
+      "text": "ada yang lain yang bersaksi",
+      "ref_id": "Yohanes 5:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 72,
       "diatessaron_verse": "41",
       "ref": "John 5:32",
       "arabic_page": 87,
-      "text": "tentang Aku dan Aku tahu, bahwa kesaksian yang diberikan-Nya tentang Aku adalah benar."
+      "text": "tentang Aku dan Aku tahu, bahwa kesaksian yang diberikan-Nya tentang Aku adalah benar.",
+      "ref_id": "Yohanes 5:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 73,
       "diatessaron_verse": "41",
       "ref": "John 5:33",
       "arabic_page": 87,
-      "text": "Kamu telah mengirim utusan"
+      "text": "Kamu telah mengirim utusan",
+      "ref_id": "Yohanes 5:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 74,
       "diatessaron_verse": "42",
       "ref": "John 5:33",
       "arabic_page": 87,
-      "text": "kepada Yohanes dan ia telah bersaksi tentang kebenaran;"
+      "text": "kepada Yohanes dan ia telah bersaksi tentang kebenaran;",
+      "ref_id": "Yohanes 5:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 75,
       "diatessaron_verse": "42",
       "ref": "John 5:34",
       "arabic_page": 87,
-      "text": "tetapi Aku tidak memerlukan"
+      "text": "tetapi Aku tidak memerlukan",
+      "ref_id": "Yohanes 5:34",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 76,
       "diatessaron_verse": "43",
       "ref": "John 5:34",
       "arabic_page": 87,
-      "text": "kesaksian dari manusia, namun Aku mengatakan hal ini, supaya kamu diselamatkan."
+      "text": "kesaksian dari manusia, namun Aku mengatakan hal ini, supaya kamu diselamatkan.",
+      "ref_id": "Yohanes 5:34",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 77,
       "diatessaron_verse": "43",
       "ref": "John 5:35",
       "arabic_page": 87,
-      "text": "Ia adalah pelita yang menyala dan"
+      "text": "Ia adalah pelita yang menyala dan",
+      "ref_id": "Yohanes 5:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 78,
       "diatessaron_verse": "44",
       "ref": "John 5:35",
       "arabic_page": 87,
-      "text": "yang bercahaya dan kamu hanya mau menikmati seketika saja cahayanya itu."
+      "text": "yang bercahaya dan kamu hanya mau menikmati seketika saja cahayanya itu.",
+      "ref_id": "Yohanes 5:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 79,
       "diatessaron_verse": "44",
       "ref": "John 5:36",
       "arabic_page": 87,
-      "text": "Tetapi Aku mempunyai suatu kesaksian yang lebih penting dari pada kesaksian Yohanes, yaitu segala pekerjaan yang diserahkan Bapa kepada-Ku, supaya Aku melaksanakannya."
+      "text": "Tetapi Aku mempunyai suatu kesaksian yang lebih penting dari pada kesaksian Yohanes, yaitu segala pekerjaan yang diserahkan Bapa kepada-Ku, supaya Aku melaksanakannya.",
+      "ref_id": "Yohanes 5:36",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 22
     },
     {
       "id": 80,
       "diatessaron_verse": "45",
       "ref": "John 5:36",
       "arabic_page": 87,
-      "text": "Pekerjaan itu juga yang Kukerjakan sekarang, dan itulah yang memberi kesaksian tentang Aku, bahwa Bapa yang mengutus Aku."
+      "text": "Pekerjaan itu juga yang Kukerjakan sekarang, dan itulah yang memberi kesaksian tentang Aku, bahwa Bapa yang mengutus Aku.",
+      "ref_id": "Yohanes 5:36",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 81,
       "diatessaron_verse": "45",
       "ref": "John 5:37",
       "arabic_page": 87,
-      "text": "Bapa yang mengutus Aku, Dialah yang bersaksi tentang Aku. Kamu tidak pernah"
+      "text": "Bapa yang mengutus Aku, Dialah yang bersaksi tentang Aku. Kamu tidak pernah",
+      "ref_id": "Yohanes 5:37",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 82,
       "diatessaron_verse": "46",
       "ref": "John 5:37",
       "arabic_page": 87,
-      "text": "mendengar suara-Nya, rupa-Nyapun tidak pernah kamu lihat,"
+      "text": "mendengar suara-Nya, rupa-Nyapun tidak pernah kamu lihat,",
+      "ref_id": "Yohanes 5:37",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 83,
       "diatessaron_verse": "46",
       "ref": "John 5:38",
       "arabic_page": 87,
-      "text": "dan firman-Nya tidak menetap di dalam dirimu,"
+      "text": "dan firman-Nya tidak menetap di dalam dirimu,",
+      "ref_id": "Yohanes 5:38",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 84,
       "diatessaron_verse": "47",
       "ref": "John 5:38",
       "arabic_page": 87,
-      "text": "sebab kamu tidak percaya kepada Dia yang diutus-Nya."
+      "text": "sebab kamu tidak percaya kepada Dia yang diutus-Nya.",
+      "ref_id": "Yohanes 5:38",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 85,
       "diatessaron_verse": "47",
       "ref": "John 5:39",
       "arabic_page": 87,
-      "text": "Kamu menyelidiki Kitab-kitab Suci, sebab kamu menyangka bahwa oleh-Nya"
+      "text": "Kamu menyelidiki Kitab-kitab Suci, sebab kamu menyangka bahwa oleh-Nya",
+      "ref_id": "Yohanes 5:39",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 86,
       "diatessaron_verse": "48",
       "ref": "John 5:39",
       "arabic_page": 87,
-      "text": "kamu mempunyai hidup yang kekal, tetapi walaupun Kitab-kitab Suci itu memberi kesaksian tentang Aku,"
+      "text": "kamu mempunyai hidup yang kekal, tetapi walaupun Kitab-kitab Suci itu memberi kesaksian tentang Aku,",
+      "ref_id": "Yohanes 5:39",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 87,
       "diatessaron_verse": "48",
       "ref": "John 5:40",
       "arabic_page": 87,
-      "text": "namun kamu tidak mau datang"
+      "text": "namun kamu tidak mau datang",
+      "ref_id": "Yohanes 5:40",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 88,
       "diatessaron_verse": "49, 50",
       "ref": "John 5:40",
       "arabic_page": 88,
-      "text": "kepada-Ku untuk memperoleh hidup itu."
+      "text": "kepada-Ku untuk memperoleh hidup itu.",
+      "ref_id": "Yohanes 5:40",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 89,
       "diatessaron_verse": "49, 50",
       "ref": "John 5:41",
       "arabic_page": 88,
-      "text": "Aku tidak memerlukan hormat dari manusia."
+      "text": "Aku tidak memerlukan hormat dari manusia.",
+      "ref_id": "Yohanes 5:41",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 90,
       "diatessaron_verse": "49, 50",
       "ref": "John 5:42",
       "arabic_page": 88,
-      "text": "Tetapi tentang kamu,"
+      "text": "Tetapi tentang kamu,",
+      "ref_id": "Yohanes 5:42",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 91,
       "diatessaron_verse": "51",
       "ref": "John 5:42",
       "arabic_page": 88,
-      "text": "memang Aku tahu bahwa di dalam hatimu kamu tidak mempunyai kasih akan Allah."
+      "text": "memang Aku tahu bahwa di dalam hatimu kamu tidak mempunyai kasih akan Allah.",
+      "ref_id": "Yohanes 5:42",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 92,
       "diatessaron_verse": "51",
       "ref": "John 5:43",
       "arabic_page": 88,
-      "text": "Aku datang dalam nama Bapa-Ku dan kamu tidak menerima Aku; jikalau orang lain datang atas namanya sendiri, kamu."
+      "text": "Aku datang dalam nama Bapa-Ku dan kamu tidak menerima Aku; jikalau orang lain datang atas namanya sendiri, kamu.",
+      "ref_id": "Yohanes 5:43",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 93,
       "diatessaron_verse": "52",
       "ref": "John 5:43",
       "arabic_page": 88,
-      "text": "akan menerima dia"
+      "text": "akan menerima dia",
+      "ref_id": "Yohanes 5:43",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 94,
       "diatessaron_verse": "52",
       "ref": "John 5:44",
       "arabic_page": 88,
-      "text": "Bagaimanakah kamu dapat percaya, kamu yang menerima hormat seorang dari yang lain dan yang tidak mencari"
+      "text": "Bagaimanakah kamu dapat percaya, kamu yang menerima hormat seorang dari yang lain dan yang tidak mencari",
+      "ref_id": "Yohanes 5:44",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 95,
       "diatessaron_verse": "53",
       "ref": "John 5:44",
       "arabic_page": 88,
-      "text": "hormat yang datang dari Allah yang Esa?"
+      "text": "hormat yang datang dari Allah yang Esa?",
+      "ref_id": "Yohanes 5:44",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 96,
       "diatessaron_verse": "53",
       "ref": "John 5:45",
       "arabic_page": 88,
-      "text": "Jangan kamu menyangka, bahwa Aku akan mendakwa kamu di hadapan Bapa; yang mendakwa kamu adalah Musa, yaitu Musa, yang kepadanya kamu menaruh"
+      "text": "Jangan kamu menyangka, bahwa Aku akan mendakwa kamu di hadapan Bapa; yang mendakwa kamu adalah Musa, yaitu Musa, yang kepadanya kamu menaruh",
+      "ref_id": "Yohanes 5:45",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 22
     },
     {
       "id": 97,
       "diatessaron_verse": "54",
       "ref": "John 5:45",
       "arabic_page": 88,
-      "text": "pengharapanmu."
+      "text": "pengharapanmu.",
+      "ref_id": "Yohanes 5:45",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 98,
       "diatessaron_verse": "54",
       "ref": "John 5:46",
       "arabic_page": 88,
-      "text": "Sebab jikalau kamu percaya kepada Musa, tentu kamu akan percaya juga kepada-Ku, sebab ia telah menulis tentang Aku."
+      "text": "Sebab jikalau kamu percaya kepada Musa, tentu kamu akan percaya juga kepada-Ku, sebab ia telah menulis tentang Aku.",
+      "ref_id": "Yohanes 5:46",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 18
     },
     {
       "id": 99,
       "diatessaron_verse": "55",
       "ref": "John 5:47",
       "arabic_page": 88,
-      "text": "Tetapi jikalau kamu tidak percaya akan apa yang ditulisnya, bagaimanakah kamu akan percaya akan apa yang Kukatakan?\""
+      "text": "Tetapi jikalau kamu tidak percaya akan apa yang ditulisnya, bagaimanakah kamu akan percaya akan apa yang Kukatakan?\"",
+      "ref_id": "Yohanes 5:47",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     }
-  ]
+  ],
+  "title_id": "Penyembuhan di Kolam Betesda & Kesaksian Bapa tentang Anak",
+  "title_en": "Healing at Pool of Bethesda & Father's Testimony",
+  "epoch_id": 4,
+  "total_words": 1095,
+  "arabic_page_range": "p. 85 - p. 88",
+  "arabic_pages": [
+    85,
+    86,
+    87,
+    88
+  ],
+  "stats": {
+    "mat": 0,
+    "mrk": 10,
+    "luk": 5,
+    "yoh": 84,
+    "unk": 0
+  },
+  "footnotes": []
 }

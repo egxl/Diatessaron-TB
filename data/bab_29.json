@@ -26,581 +26,1015 @@
       "diatessaron_verse": "1",
       "ref": "Matthew 19:23",
       "arabic_page": null,
-      "text": "Yesus berkata kepada murid-murid-Nya: \"Aku berkata kepadamu, sesungguhnya sukar sekali bagi seorang kaya untuk masuk ke dalam Kerajaan"
+      "text": "Yesus berkata kepada murid-murid-Nya: \"Aku berkata kepadamu, sesungguhnya sukar sekali bagi seorang kaya untuk masuk ke dalam Kerajaan",
+      "ref_id": "Matius 19:23",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 18
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "Matthew 19:23",
       "arabic_page": null,
-      "text": "Sorga."
+      "text": "Sorga.",
+      "ref_id": "Matius 19:23",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 1
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "Matthew 19:24",
       "arabic_page": null,
-      "text": "Sekali lagi Aku berkata kepadamu, lebih mudah seekor unta masuk melalui lobang"
+      "text": "Sekali lagi Aku berkata kepadamu, lebih mudah seekor unta masuk melalui lobang",
+      "ref_id": "Matius 19:24",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "Matthew 19:24",
       "arabic_page": null,
-      "text": "jarum dari pada seorang kaya masuk ke dalam Kerajaan Allah.\""
+      "text": "jarum dari pada seorang kaya masuk ke dalam Kerajaan Allah.\"",
+      "ref_id": "Matius 19:24",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "Mark 10:24",
       "arabic_page": null,
-      "text": "Murid-murid-Nya tercengang mendengar perkataan-Nya itu. Tetapi Yesus menyambung lagi: \"Anak-anak-Ku, alangkah sukarnya masuk ke dalam"
+      "text": "Murid-murid-Nya tercengang mendengar perkataan-Nya itu. Tetapi Yesus menyambung lagi: \"Anak-anak-Ku, alangkah sukarnya masuk ke dalam",
+      "ref_id": "Markus 10:24",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 15
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "Mark 10:24",
       "arabic_page": null,
-      "text": "Kerajaan Allah. Mark 10:26 Mereka makin gempar dan berkata seorang"
+      "text": "Kerajaan Allah. Mark 10:26 Mereka makin gempar dan berkata seorang",
+      "ref_id": "Markus 10:24",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     },
     {
       "id": 7,
       "diatessaron_verse": "5",
       "ref": "Mark 10:24",
       "arabic_page": null,
-      "text": "kepada yang lain: \"Jika demikian, siapakah yang dapat diselamatkan?\""
+      "text": "kepada yang lain: \"Jika demikian, siapakah yang dapat diselamatkan?\"",
+      "ref_id": "Markus 10:24",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 9
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
       "ref": "Mark 10:27",
       "arabic_page": null,
-      "text": "Yesus memandang mereka dan berkata: \"Bagi manusia hal itu tidak mungkin, tetapi bukan demikian bagi Allah."
+      "text": "Yesus memandang mereka dan berkata: \"Bagi manusia hal itu tidak mungkin, tetapi bukan demikian bagi Allah.",
+      "ref_id": "Markus 10:27",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 16
     },
     {
       "id": 9,
       "diatessaron_verse": "6",
       "ref": "Mark 10:27",
       "arabic_page": 111,
-      "text": "Sebab segala sesuatu adalah mungkin bagi Allah.\" [Matthew 19:27] Lalu Petrus menjawab dan berkata kepada Yesus: \"Kami ini telah meninggalkan segala sesuatu dan mengikut Engkau; jadi apakah yang akan"
+      "text": "Sebab segala sesuatu adalah mungkin bagi Allah.\" [Matthew 19:27] Lalu Petrus menjawab dan berkata kepada Yesus: \"Kami ini telah meninggalkan segala sesuatu dan mengikut Engkau; jadi apakah yang akan",
+      "ref_id": "Markus 10:27",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 29
     },
     {
       "id": 10,
       "diatessaron_verse": "7",
       "ref": "Mark 10:27",
       "arabic_page": 111,
-      "text": "kami peroleh?\""
+      "text": "kami peroleh?\"",
+      "ref_id": "Markus 10:27",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 2
     },
     {
       "id": 11,
       "diatessaron_verse": "7",
       "ref": "Matthew 19:28",
       "arabic_page": 111,
-      "text": "Kata Yesus kepada mereka: \"Aku berkata kepadamu, sesungguhnya pada waktu penciptaan kembali, apabila Anak Manusia bersemayam di takhta kemuliaan-Nya, kamu, yang telah mengikut Aku,"
+      "text": "Kata Yesus kepada mereka: \"Aku berkata kepadamu, sesungguhnya pada waktu penciptaan kembali, apabila Anak Manusia bersemayam di takhta kemuliaan-Nya, kamu, yang telah mengikut Aku,",
+      "ref_id": "Matius 19:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 24
     },
     {
       "id": 12,
       "diatessaron_verse": "8",
       "ref": "Matthew 19:28",
       "arabic_page": 111,
-      "text": "akan duduk juga di atas dua belas takhta untuk menghakimi kedua belas suku Israel."
+      "text": "akan duduk juga di atas dua belas takhta untuk menghakimi kedua belas suku Israel.",
+      "ref_id": "Matius 19:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 13,
       "diatessaron_verse": "8",
       "ref": "Mark 10:29b",
       "arabic_page": 111,
-      "text": "\"Aku berkata kepadamu, sesungguhnya setiap orang yang"
+      "text": "\"Aku berkata kepadamu, sesungguhnya setiap orang yang",
+      "ref_id": "Markus 10:29b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 14,
       "diatessaron_verse": "9",
       "ref": "Mark 10:29b",
       "arabic_page": 111,
-      "text": "karena Aku dan karena Injil meninggalkan rumahnya, saudaranya laki-laki atau saudaranya perempuan, ibunya atau bapanya, anak-anaknya atau ladangnya,"
+      "text": "karena Aku dan karena Injil meninggalkan rumahnya, saudaranya laki-laki atau saudaranya perempuan, ibunya atau bapanya, anak-anaknya atau ladangnya,",
+      "ref_id": "Markus 10:29b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 18
     },
     {
       "id": 15,
       "diatessaron_verse": "9",
       "ref": "Luke 18:30",
       "arabic_page": 111,
-      "text": "akan menerima kembali lipat ganda pada masa ini juga, dan pada zaman yang akan datang ia akan menerima hidup yang kekal.\""
+      "text": "akan menerima kembali lipat ganda pada masa ini juga, dan pada zaman yang akan datang ia akan menerima hidup yang kekal.\"",
+      "ref_id": "Lukas 18:30",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 21
     },
     {
       "id": 16,
       "diatessaron_verse": "9",
       "ref": "Mark 10:30b",
       "arabic_page": 111,
-      "text": "Sekarang pada masa ini juga akan menerima kembali seratus kali lipat: rumah, saudara laki-laki, saudara perempuan, ibu, anak dan ladang, sekalipun disertai berbagai penganiayaan,"
+      "text": "Sekarang pada masa ini juga akan menerima kembali seratus kali lipat: rumah, saudara laki-laki, saudara perempuan, ibu, anak dan ladang, sekalipun disertai berbagai penganiayaan,",
+      "ref_id": "Markus 10:30b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 24
     },
     {
       "id": 17,
       "diatessaron_verse": "11",
       "ref": "Mark 10:30b",
       "arabic_page": 111,
-      "text": "dan pada zaman yang akan datang ia akan menerima hidup yang kekal."
+      "text": "dan pada zaman yang akan datang ia akan menerima hidup yang kekal.",
+      "ref_id": "Markus 10:30b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 12
     },
     {
       "id": 18,
       "diatessaron_verse": "11",
       "ref": "Mark 10:31",
       "arabic_page": 111,
-      "text": "Tetapi banyak orang yang terdahulu akan menjadi yang terakhir dan yang terakhir akan menjadi yang terdahulu.\""
+      "text": "Tetapi banyak orang yang terdahulu akan menjadi yang terakhir dan yang terakhir akan menjadi yang terdahulu.\"",
+      "ref_id": "Markus 10:31",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 16
     },
     {
       "id": 19,
       "diatessaron_verse": "12",
       "ref": "Luke 16:14",
       "arabic_page": 111,
-      "text": "Semuanya itu didengar oleh orang-orang Farisi, hamba-hamba uang itu, dan mereka"
+      "text": "Semuanya itu didengar oleh orang-orang Farisi, hamba-hamba uang itu, dan mereka",
+      "ref_id": "Lukas 16:14",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 20,
       "diatessaron_verse": "13",
       "ref": "Luke 16:14",
       "arabic_page": 111,
-      "text": "mencemoohkan Dia."
+      "text": "mencemoohkan Dia.",
+      "ref_id": "Lukas 16:14",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 21,
       "diatessaron_verse": "13",
       "ref": "Luke 16:15",
       "arabic_page": 111,
-      "text": "Lalu Ia berkata kepada mereka: \"Kamu membenarkan diri di hadapan orang, tetapi Allah mengetahui hatimu. Sebab apa yang dikagumi manusia, dibenci oleh Allah."
+      "text": "Lalu Ia berkata kepada mereka: \"Kamu membenarkan diri di hadapan orang, tetapi Allah mengetahui hatimu. Sebab apa yang dikagumi manusia, dibenci oleh Allah.",
+      "ref_id": "Lukas 16:15",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 23
     },
     {
       "id": 22,
       "diatessaron_verse": "14",
       "ref": "Luke 16:19",
       "arabic_page": 111,
-      "text": "\"Ada seorang kaya yang selalu berpakaian jubah ungu dan kain halus, dan"
+      "text": "\"Ada seorang kaya yang selalu berpakaian jubah ungu dan kain halus, dan",
+      "ref_id": "Lukas 16:19",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 23,
       "diatessaron_verse": "15",
       "ref": "Luke 16:19",
       "arabic_page": 111,
-      "text": "setiap hari ia bersukaria dalam kemewahan."
+      "text": "setiap hari ia bersukaria dalam kemewahan.",
+      "ref_id": "Lukas 16:19",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 24,
       "diatessaron_verse": "15",
       "ref": "Luke 16:20",
       "arabic_page": 111,
-      "text": "Dan ada seorang pengemis bernama Lazarus,"
+      "text": "Dan ada seorang pengemis bernama Lazarus,",
+      "ref_id": "Lukas 16:20",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 25,
       "diatessaron_verse": "16",
       "ref": "Luke 16:20",
       "arabic_page": 111,
-      "text": "badannya penuh dengan borok, berbaring dekat pintu rumah orang kaya itu,"
+      "text": "badannya penuh dengan borok, berbaring dekat pintu rumah orang kaya itu,",
+      "ref_id": "Lukas 16:20",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 26,
       "diatessaron_verse": "16",
       "ref": "Luke 16:21",
       "arabic_page": 112,
-      "text": "dan ingin menghilangkan laparnya dengan apa yang jatuh dari meja orang kaya itu."
+      "text": "dan ingin menghilangkan laparnya dengan apa yang jatuh dari meja orang kaya itu.",
+      "ref_id": "Lukas 16:21",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 27,
       "diatessaron_verse": "17",
       "ref": "Luke 16:21",
       "arabic_page": 112,
-      "text": "Malahan anjing-anjing datang dan menjilat boroknya."
+      "text": "Malahan anjing-anjing datang dan menjilat boroknya.",
+      "ref_id": "Lukas 16:21",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 28,
       "diatessaron_verse": "17",
       "ref": "Luke 16:22",
       "arabic_page": 112,
-      "text": "Kemudian matilah orang miskin itu, lalu dibawa oleh malaikat-malaikat ke pangkuan Abraham."
+      "text": "Kemudian matilah orang miskin itu, lalu dibawa oleh malaikat-malaikat ke pangkuan Abraham.",
+      "ref_id": "Lukas 16:22",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 29,
       "diatessaron_verse": "18",
       "ref": "Luke 16:23",
       "arabic_page": 112,
-      "text": "Orang kaya itu juga mati, lalu dikubur. Dan sementara ia menderita sengsara di alam maut"
+      "text": "Orang kaya itu juga mati, lalu dikubur. Dan sementara ia menderita sengsara di alam maut",
+      "ref_id": "Lukas 16:23",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 30,
       "diatessaron_verse": "19",
       "ref": "Luke 16:23",
       "arabic_page": 112,
-      "text": "ia memandang ke atas, dan dari jauh dilihatnya Abraham, dan Lazarus duduk di pangkuannya."
+      "text": "ia memandang ke atas, dan dari jauh dilihatnya Abraham, dan Lazarus duduk di pangkuannya.",
+      "ref_id": "Lukas 16:23",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 31,
       "diatessaron_verse": "19",
       "ref": "Luke 16:24",
       "arabic_page": 112,
-      "text": "Lalu ia berseru, katanya: Bapa Abraham, kasihanilah aku. Suruhlah Lazarus, supaya ia mencelupkan ujung jarinya ke dalam air dan menyejukkan"
+      "text": "Lalu ia berseru, katanya: Bapa Abraham, kasihanilah aku. Suruhlah Lazarus, supaya ia mencelupkan ujung jarinya ke dalam air dan menyejukkan",
+      "ref_id": "Lukas 16:24",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 32,
       "diatessaron_verse": "20",
       "ref": "Luke 16:24",
       "arabic_page": 112,
-      "text": "lidahku, sebab aku sangat kesakitan dalam nyala api ini."
+      "text": "lidahku, sebab aku sangat kesakitan dalam nyala api ini.",
+      "ref_id": "Lukas 16:24",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 33,
       "diatessaron_verse": "20",
       "ref": "Luke 16:25",
       "arabic_page": 112,
-      "text": "Tetapi Abraham berkata: Anak, ingatlah, bahwa engkau telah menerima segala yang baik sewaktu hidupmu, sedangkan Lazarus segala yang buruk."
+      "text": "Tetapi Abraham berkata: Anak, ingatlah, bahwa engkau telah menerima segala yang baik sewaktu hidupmu, sedangkan Lazarus segala yang buruk.",
+      "ref_id": "Lukas 16:25",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 19
     },
     {
       "id": 34,
       "diatessaron_verse": "21",
       "ref": "Luke 16:25",
       "arabic_page": 112,
-      "text": "Sekarang ia mendapat hiburan dan engkau sangat menderita."
+      "text": "Sekarang ia mendapat hiburan dan engkau sangat menderita.",
+      "ref_id": "Lukas 16:25",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 35,
       "diatessaron_verse": "21",
       "ref": "Luke 16:26",
       "arabic_page": 112,
-      "text": "Selain dari pada itu di antara kami dan engkau terbentang jurang yang tak terseberangi, supaya mereka yang mau pergi dari sini kepadamu ataupun mereka yang mau datang dari situ"
+      "text": "Selain dari pada itu di antara kami dan engkau terbentang jurang yang tak terseberangi, supaya mereka yang mau pergi dari sini kepadamu ataupun mereka yang mau datang dari situ",
+      "ref_id": "Lukas 16:26",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 29
     },
     {
       "id": 36,
       "diatessaron_verse": "22",
       "ref": "Luke 16:26",
       "arabic_page": 112,
-      "text": "kepada kami tidak dapat menyeberang."
+      "text": "kepada kami tidak dapat menyeberang.",
+      "ref_id": "Lukas 16:26",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 37,
       "diatessaron_verse": "22",
       "ref": "Luke 16:27",
       "arabic_page": 112,
-      "text": "Kata orang itu: Kalau demikian, aku minta kepadamu, bapa, supaya engkau menyuruh dia ke"
+      "text": "Kata orang itu: Kalau demikian, aku minta kepadamu, bapa, supaya engkau menyuruh dia ke",
+      "ref_id": "Lukas 16:27",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 38,
       "diatessaron_verse": "23",
       "ref": "Luke 16:27",
       "arabic_page": 112,
-      "text": "rumah ayahku,"
+      "text": "rumah ayahku,",
+      "ref_id": "Lukas 16:27",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 39,
       "diatessaron_verse": "23",
       "ref": "Luke 16:28",
       "arabic_page": 112,
-      "text": "sebab masih ada lima orang saudaraku, supaya ia memperingati mereka dengan sungguh-sungguh,"
+      "text": "sebab masih ada lima orang saudaraku, supaya ia memperingati mereka dengan sungguh-sungguh,",
+      "ref_id": "Lukas 16:28",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 40,
       "diatessaron_verse": "24",
       "ref": "Luke 16:28",
       "arabic_page": 112,
-      "text": "agar mereka jangan masuk kelak ke dalam tempat penderitaan ini."
+      "text": "agar mereka jangan masuk kelak ke dalam tempat penderitaan ini.",
+      "ref_id": "Lukas 16:28",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 41,
       "diatessaron_verse": "24",
       "ref": "Luke 16:29",
       "arabic_page": 112,
-      "text": "Tetapi kata Abraham: Ada pada mereka kesaksian Musa dan"
+      "text": "Tetapi kata Abraham: Ada pada mereka kesaksian Musa dan",
+      "ref_id": "Lukas 16:29",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 42,
       "diatessaron_verse": "25",
       "ref": "Luke 16:29",
       "arabic_page": 112,
-      "text": "para nabi; baiklah mereka mendengarkan kesaksian itu."
+      "text": "para nabi; baiklah mereka mendengarkan kesaksian itu.",
+      "ref_id": "Lukas 16:29",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 43,
       "diatessaron_verse": "25",
       "ref": "Luke 16:30",
       "arabic_page": 112,
-      "text": "Jawab orang itu: Tidak, bapa Abraham,"
+      "text": "Jawab orang itu: Tidak, bapa Abraham,",
+      "ref_id": "Lukas 16:30",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 44,
       "diatessaron_verse": "26",
       "ref": "Luke 16:30",
       "arabic_page": 112,
-      "text": "tetapi jika ada seorang yang datang dari antara orang mati kepada mereka, mereka akan bertobat."
+      "text": "tetapi jika ada seorang yang datang dari antara orang mati kepada mereka, mereka akan bertobat.",
+      "ref_id": "Lukas 16:30",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 45,
       "diatessaron_verse": "26",
       "ref": "Luke 16:31",
       "arabic_page": 112,
-      "text": "Kata Abraham kepadanya: Jika mereka tidak mendengarkan kesaksian Musa dan para nabi, mereka tidak juga akan mau diyakinkan, sekalipun oleh seorang yang bangkit dari antara orang mati.\""
+      "text": "Kata Abraham kepadanya: Jika mereka tidak mendengarkan kesaksian Musa dan para nabi, mereka tidak juga akan mau diyakinkan, sekalipun oleh seorang yang bangkit dari antara orang mati.\"",
+      "ref_id": "Lukas 16:31",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 27
     },
     {
       "id": 46,
       "diatessaron_verse": "27",
       "ref": "Matthew 20:1",
       "arabic_page": 112,
-      "text": "\"Adapun hal Kerajaan Sorga sama seperti seorang tuan rumah yang"
+      "text": "\"Adapun hal Kerajaan Sorga sama seperti seorang tuan rumah yang",
+      "ref_id": "Matius 20:1",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 47,
       "diatessaron_verse": "28",
       "ref": "Matthew 20:1",
       "arabic_page": 112,
-      "text": "pagi-pagi benar keluar mencari pekerja-pekerja untuk kebun anggurnya."
+      "text": "pagi-pagi benar keluar mencari pekerja-pekerja untuk kebun anggurnya.",
+      "ref_id": "Matius 20:1",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 48,
       "diatessaron_verse": "28",
       "ref": "Matthew 20:2",
       "arabic_page": 112,
-      "text": "Setelah ia sepakat dengan pekerja-pekerja itu mengenai upah"
+      "text": "Setelah ia sepakat dengan pekerja-pekerja itu mengenai upah",
+      "ref_id": "Matius 20:2",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 49,
       "diatessaron_verse": "29",
       "ref": "Matthew 20:2",
       "arabic_page": 112,
-      "text": "sedinar sehari, ia menyuruh mereka ke kebun anggurnya."
+      "text": "sedinar sehari, ia menyuruh mereka ke kebun anggurnya.",
+      "ref_id": "Matius 20:2",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 50,
       "diatessaron_verse": "29",
       "ref": "Matthew 20:3",
       "arabic_page": 112,
-      "text": "Kira-kira pukul sembilan pagi ia"
+      "text": "Kira-kira pukul sembilan pagi ia",
+      "ref_id": "Matius 20:3",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 51,
       "diatessaron_verse": "30",
       "ref": "Matthew 20:3",
       "arabic_page": 113,
-      "text": "keluar pula dan dilihatnya ada lagi orang-orang lain menganggur di pasar."
+      "text": "keluar pula dan dilihatnya ada lagi orang-orang lain menganggur di pasar.",
+      "ref_id": "Matius 20:3",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 52,
       "diatessaron_verse": "30",
       "ref": "Matthew 20:4",
       "arabic_page": 113,
-      "text": "Katanya kepada mereka: Pergi jugalah kamu ke kebun anggurku dan apa yang pantas akan kuberikan kepadamu. Dan merekapun pergi."
+      "text": "Katanya kepada mereka: Pergi jugalah kamu ke kebun anggurku dan apa yang pantas akan kuberikan kepadamu. Dan merekapun pergi.",
+      "ref_id": "Matius 20:4",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 19
     },
     {
       "id": 53,
       "diatessaron_verse": "31",
       "ref": "Matthew 20:5",
       "arabic_page": 113,
-      "text": "Kira-kira pukul dua belas dan pukul tiga petang ia keluar pula dan"
+      "text": "Kira-kira pukul dua belas dan pukul tiga petang ia keluar pula dan",
+      "ref_id": "Matius 20:5",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 54,
       "diatessaron_verse": "32",
       "ref": "Matthew 20:5",
       "arabic_page": 113,
-      "text": "melakukan sama seperti tadi."
+      "text": "melakukan sama seperti tadi.",
+      "ref_id": "Matius 20:5",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 55,
       "diatessaron_verse": "32",
       "ref": "Matthew 20:6",
       "arabic_page": 113,
-      "text": "Kira-kira pukul lima petang ia keluar lagi dan mendapati orang-orang lain pula, lalu katanya kepada mereka: Mengapa kamu menganggur saja di sini sepanjang hari?"
+      "text": "Kira-kira pukul lima petang ia keluar lagi dan mendapati orang-orang lain pula, lalu katanya kepada mereka: Mengapa kamu menganggur saja di sini sepanjang hari?",
+      "ref_id": "Matius 20:6",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 24
     },
     {
       "id": 56,
       "diatessaron_verse": "33",
       "ref": "Matthew 20:7",
       "arabic_page": 113,
-      "text": "Kata mereka kepadanya: Karena tidak ada orang mengupah kami. Katanya kepada mereka:"
+      "text": "Kata mereka kepadanya: Karena tidak ada orang mengupah kami. Katanya kepada mereka:",
+      "ref_id": "Matius 20:7",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 57,
       "diatessaron_verse": "34",
       "ref": "Matthew 20:7",
       "arabic_page": 113,
-      "text": "Pergi jugalah kamu ke kebun anggurku."
+      "text": "Pergi jugalah kamu ke kebun anggurku.",
+      "ref_id": "Matius 20:7",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 58,
       "diatessaron_verse": "34",
       "ref": "Matthew 20:8",
       "arabic_page": 113,
-      "text": "Ketika hari malam tuan itu berkata kepada mandurnya: Panggillah pekerja-pekerja itu dan bayarkan"
+      "text": "Ketika hari malam tuan itu berkata kepada mandurnya: Panggillah pekerja-pekerja itu dan bayarkan",
+      "ref_id": "Matius 20:8",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 59,
       "diatessaron_verse": "35",
       "ref": "Matthew 20:8",
       "arabic_page": 113,
-      "text": "upah mereka, mulai dengan mereka yang masuk terakhir hingga mereka yang masuk terdahulu."
+      "text": "upah mereka, mulai dengan mereka yang masuk terakhir hingga mereka yang masuk terdahulu.",
+      "ref_id": "Matius 20:8",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 60,
       "diatessaron_verse": "35",
       "ref": "Matthew 20:9",
       "arabic_page": 113,
-      "text": "Maka datanglah"
+      "text": "Maka datanglah",
+      "ref_id": "Matius 20:9",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 61,
       "diatessaron_verse": "36",
       "ref": "Matthew 20:9",
       "arabic_page": 113,
-      "text": "mereka yang mulai bekerja kira-kira pukul lima dan mereka menerima masing-masing satu dinar."
+      "text": "mereka yang mulai bekerja kira-kira pukul lima dan mereka menerima masing-masing satu dinar.",
+      "ref_id": "Matius 20:9",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 62,
       "diatessaron_verse": "36",
       "ref": "Matthew 20:10",
       "arabic_page": 113,
-      "text": "Kemudian datanglah mereka yang masuk terdahulu, sangkanya akan mendapat lebih banyak, tetapi merekapun"
+      "text": "Kemudian datanglah mereka yang masuk terdahulu, sangkanya akan mendapat lebih banyak, tetapi merekapun",
+      "ref_id": "Matius 20:10",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 63,
       "diatessaron_verse": "37",
       "ref": "Matthew 20:10",
       "arabic_page": 113,
-      "text": "menerima masing-masing satu dinar juga."
+      "text": "menerima masing-masing satu dinar juga.",
+      "ref_id": "Matius 20:10",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 64,
       "diatessaron_verse": "37",
       "ref": "Matthew 20:11",
       "arabic_page": 113,
-      "text": "Ketika mereka menerimanya, mereka bersungut-sungut"
+      "text": "Ketika mereka menerimanya, mereka bersungut-sungut",
+      "ref_id": "Matius 20:11",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 65,
       "diatessaron_verse": "38",
       "ref": "Matthew 20:11",
       "arabic_page": 113,
-      "text": "kepada tuan itu,"
+      "text": "kepada tuan itu,",
+      "ref_id": "Matius 20:11",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 66,
       "diatessaron_verse": "38",
       "ref": "Matthew 20:12",
       "arabic_page": 113,
-      "text": "katanya: Mereka yang masuk terakhir ini hanya bekerja satu jam dan engkau menyamakan"
+      "text": "katanya: Mereka yang masuk terakhir ini hanya bekerja satu jam dan engkau menyamakan",
+      "ref_id": "Matius 20:12",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 67,
       "diatessaron_verse": "39",
       "ref": "Matthew 20:12",
       "arabic_page": 113,
-      "text": "mereka dengan kami yang sehari suntuk bekerja berat dan menanggung panas terik matahari."
+      "text": "mereka dengan kami yang sehari suntuk bekerja berat dan menanggung panas terik matahari.",
+      "ref_id": "Matius 20:12",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 68,
       "diatessaron_verse": "39",
       "ref": "Matthew 20:13",
       "arabic_page": 113,
-      "text": "Tetapi tuan itu menjawab seorang dari mereka: Saudara, aku tidak berlaku tidak adil terhadap engkau. Bukankah"
+      "text": "Tetapi tuan itu menjawab seorang dari mereka: Saudara, aku tidak berlaku tidak adil terhadap engkau. Bukankah",
+      "ref_id": "Matius 20:13",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 16
     },
     {
       "id": 69,
       "diatessaron_verse": "40",
       "ref": "Matthew 20:13",
       "arabic_page": 113,
-      "text": "kita telah sepakat sedinar sehari?"
+      "text": "kita telah sepakat sedinar sehari?",
+      "ref_id": "Matius 20:13",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 70,
       "diatessaron_verse": "40",
       "ref": "Matthew 20:14",
       "arabic_page": 113,
-      "text": "Ambillah bagianmu dan pergilah; aku mau"
+      "text": "Ambillah bagianmu dan pergilah; aku mau",
+      "ref_id": "Matius 20:14",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 71,
       "diatessaron_verse": "41",
       "ref": "Matthew 20:14",
       "arabic_page": 113,
-      "text": "memberikan kepada orang yang masuk terakhir ini sama seperti kepadamu."
+      "text": "memberikan kepada orang yang masuk terakhir ini sama seperti kepadamu.",
+      "ref_id": "Matius 20:14",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 72,
       "diatessaron_verse": "41",
       "ref": "Matthew 20:15",
       "arabic_page": 113,
-      "text": "Tidakkah aku bebas mempergunakan milikku menurut"
+      "text": "Tidakkah aku bebas mempergunakan milikku menurut",
+      "ref_id": "Matius 20:15",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 73,
       "diatessaron_verse": "42",
       "ref": "Matthew 20:15",
       "arabic_page": 113,
-      "text": "kehendak hatiku? Atau iri hatikah engkau, karena aku murah hati?"
+      "text": "kehendak hatiku? Atau iri hatikah engkau, karena aku murah hati?",
+      "ref_id": "Matius 20:15",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 74,
       "diatessaron_verse": "42",
       "ref": "Matthew 20:16",
       "arabic_page": 113,
-      "text": "Demikianlah orang yang terakhir akan menjadi yang terdahulu dan yang terdahulu akan menjadi yang terakhir.\""
+      "text": "Demikianlah orang yang terakhir akan menjadi yang terdahulu dan yang terdahulu akan menjadi yang terakhir.\"",
+      "ref_id": "Matius 20:16",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 15
     },
     {
       "id": 75,
       "diatessaron_verse": "43",
       "ref": "Luke 14:1",
       "arabic_page": 113,
-      "text": "Pada suatu hari Sabat Yesus datang ke rumah salah seorang pemimpin dari orang-orang Farisi untuk makan di situ. Semua yang hadir mengamat-amati Dia"
+      "text": "Pada suatu hari Sabat Yesus datang ke rumah salah seorang pemimpin dari orang-orang Farisi untuk makan di situ. Semua yang hadir mengamat-amati Dia",
+      "ref_id": "Lukas 14:1",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 23
     },
     {
       "id": 76,
       "diatessaron_verse": "44,45",
       "ref": "Luke 14:1",
       "arabic_page": 113,
-      "text": "dengan saksama."
+      "text": "dengan saksama.",
+      "ref_id": "Lukas 14:1",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 77,
       "diatessaron_verse": "44,45",
       "ref": "Luke 14:2",
       "arabic_page": 113,
-      "text": "Tiba-tiba datanglah seorang yang sakit busung air berdiri di hadapan-Nya."
+      "text": "Tiba-tiba datanglah seorang yang sakit busung air berdiri di hadapan-Nya.",
+      "ref_id": "Lukas 14:2",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 78,
       "diatessaron_verse": "44,45",
       "ref": "Luke 14:3",
       "arabic_page": 113,
-      "text": "Lalu Yesus"
+      "text": "Lalu Yesus",
+      "ref_id": "Lukas 14:3",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 79,
       "diatessaron_verse": "43",
       "ref": "Luke 14:3",
       "arabic_page": 113,
-      "text": "berkata kepada ahli-ahli Taurat dan orang-orang Farisi itu, kata-Nya: \"Diperbolehkankah menyembuhkan orang pada hari Sabat atau tidak?\""
+      "text": "berkata kepada ahli-ahli Taurat dan orang-orang Farisi itu, kata-Nya: \"Diperbolehkankah menyembuhkan orang pada hari Sabat atau tidak?\"",
+      "ref_id": "Lukas 14:3",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 17
     },
     {
       "id": 80,
       "diatessaron_verse": "43",
       "ref": "Luke 14:4",
       "arabic_page": 114,
-      "text": "Mereka itu diam semuanya. Lalu Ia memegang tangan orang sakit itu dan menyembuhkannya dan menyuruhnya pergi."
+      "text": "Mereka itu diam semuanya. Lalu Ia memegang tangan orang sakit itu dan menyembuhkannya dan menyuruhnya pergi.",
+      "ref_id": "Lukas 14:4",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 81,
       "diatessaron_verse": "47",
       "ref": "Luke 14:5",
       "arabic_page": 114,
-      "text": "Kemudian Ia berkata kepada mereka: \"Siapakah di antara kamu yang tidak segera menarik ke luar anaknya atau lembunya kalau terperosok ke dalam sebuah"
+      "text": "Kemudian Ia berkata kepada mereka: \"Siapakah di antara kamu yang tidak segera menarik ke luar anaknya atau lembunya kalau terperosok ke dalam sebuah",
+      "ref_id": "Lukas 14:5",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 23
     },
     {
       "id": 82,
       "diatessaron_verse": "48",
       "ref": "Luke 14:5",
       "arabic_page": 114,
-      "text": "sumur, meskipun pada hari Sabat?\""
+      "text": "sumur, meskipun pada hari Sabat?\"",
+      "ref_id": "Lukas 14:5",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 83,
       "diatessaron_verse": "48",
       "ref": "Luke 14:6",
       "arabic_page": 114,
-      "text": "Mereka tidak sanggup membantah-Nya."
+      "text": "Mereka tidak sanggup membantah-Nya.",
+      "ref_id": "Lukas 14:6",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     }
-  ]
+  ],
+  "title_id": "Perumpamaan Pekerja di Kebun Anggur & Bahaya Kekayaan",
+  "title_en": "Workers in the Vineyard & Danger of Riches",
+  "epoch_id": 4,
+  "total_words": 971,
+  "arabic_page_range": "p. 111 - p. 114",
+  "arabic_pages": [
+    111,
+    112,
+    113,
+    114
+  ],
+  "stats": {
+    "mat": 35,
+    "mrk": 11,
+    "luk": 37,
+    "yoh": 0,
+    "unk": 0
+  },
+  "footnotes": []
 }

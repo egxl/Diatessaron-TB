@@ -26,693 +26,1207 @@
       "diatessaron_verse": "1",
       "ref": "Matthew 12:14",
       "arabic_page": null,
-      "text": "Lalu keluarlah orang-orang Farisi itu dan bersekongkol"
+      "text": "Lalu keluarlah orang-orang Farisi itu dan bersekongkol",
+      "ref_id": "Matius 12:14",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "Matthew 12:14",
       "arabic_page": null,
-      "text": "untuk membunuh Dia."
+      "text": "untuk membunuh Dia.",
+      "ref_id": "Matius 12:14",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "Matthew 12:15",
       "arabic_page": null,
-      "text": "Tetapi Yesus mengetahui maksud mereka lalu menyingkir dari sana. Banyak orang"
+      "text": "Tetapi Yesus mengetahui maksud mereka lalu menyingkir dari sana. Banyak orang",
+      "ref_id": "Matius 12:15",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "Matthew 12:15",
       "arabic_page": null,
-      "text": "mengikuti Yesus dan Ia menyembuhkan mereka semuanya."
+      "text": "mengikuti Yesus dan Ia menyembuhkan mereka semuanya.",
+      "ref_id": "Matius 12:15",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "Matthew 12:16",
       "arabic_page": null,
-      "text": "Ia dengan keras melarang mereka 4 memberitahukan siapa Dia,"
+      "text": "Ia dengan keras melarang mereka 4 memberitahukan siapa Dia,",
+      "ref_id": "Matius 12:16",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 6,
       "diatessaron_verse": "3",
       "ref": "Matthew 12:17",
       "arabic_page": null,
-      "text": "supaya genaplah firman yang disampaikan oleh nabi Yesaya:"
+      "text": "supaya genaplah firman yang disampaikan oleh nabi Yesaya:",
+      "ref_id": "Matius 12:17",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 7,
       "diatessaron_verse": "5",
       "ref": "Matthew 12:18",
       "arabic_page": null,
-      "text": "\"Lihatlah, itu Hamba-Ku yang Kupilih, yang Kukasihi, yang kepada-Nya jiwa-Ku berkenan; Aku akan menaruh roh-Ku ke atas-Nya, dan Ia akan memaklumkan hukum kepada bangsa-bangsa."
+      "text": "\"Lihatlah, itu Hamba-Ku yang Kupilih, yang Kukasihi, yang kepada-Nya jiwa-Ku berkenan; Aku akan menaruh roh-Ku ke atas-Nya, dan Ia akan memaklumkan hukum kepada bangsa-bangsa.",
+      "ref_id": "Matius 12:18",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 24
     },
     {
       "id": 8,
       "diatessaron_verse": "6",
       "ref": "Matthew 12:19",
       "arabic_page": null,
-      "text": "Ia tidak akan berbantah dan tidak akan berteriak dan orang tidak akan mendengar suara-Nya di jalan-jalan."
+      "text": "Ia tidak akan berbantah dan tidak akan berteriak dan orang tidak akan mendengar suara-Nya di jalan-jalan.",
+      "ref_id": "Matius 12:19",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 16
     },
     {
       "id": 9,
       "diatessaron_verse": "7",
       "ref": "Matthew 12:20",
       "arabic_page": null,
-      "text": "Buluh yang patah terkulai tidak akan diputuskan-Nya, dan sumbu yang pudar nyalanya tidak akan dipadamkan-Nya, sampai Ia menjadikan hukum itu menang."
+      "text": "Buluh yang patah terkulai tidak akan diputuskan-Nya, dan sumbu yang pudar nyalanya tidak akan dipadamkan-Nya, sampai Ia menjadikan hukum itu menang.",
+      "ref_id": "Matius 12:20",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 21
     },
     {
       "id": 10,
       "diatessaron_verse": "8",
       "ref": "Matthew 12:21",
       "arabic_page": null,
-      "text": "Dan pada-Nyalah bangsa-bangsa akan berharap.\""
+      "text": "Dan pada-Nyalah bangsa-bangsa akan berharap.\"",
+      "ref_id": "Matius 12:21",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 11,
       "diatessaron_verse": "9",
       "ref": "Luke 6:12",
       "arabic_page": null,
-      "text": "Pada waktu itu pergilah Yesus ke bukit untuk berdoa dan"
+      "text": "Pada waktu itu pergilah Yesus ke bukit untuk berdoa dan",
+      "ref_id": "Lukas 6:12",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 12,
       "diatessaron_verse": "10",
       "ref": "Luke 6:12",
       "arabic_page": null,
-      "text": "semalam-malaman Ia berdoa kepada Allah."
+      "text": "semalam-malaman Ia berdoa kepada Allah.",
+      "ref_id": "Lukas 6:12",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 13,
       "diatessaron_verse": "10",
       "ref": "Luke 6:13[a",
       "arabic_page": null,
-      "text": "Ketika hari siang, Ia memanggil murid-murid-Nya kepada-Nya,"
+      "text": "Ketika hari siang, Ia memanggil murid-murid-Nya kepada-Nya,",
+      "ref_id": "Lukas 6:13[a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 14,
       "diatessaron_verse": "10",
       "ref": "Mark 3:7",
       "arabic_page": null,
-      "text": "Kemudian Yesus dengan murid-murid-Nya menyingkir ke danau, dan banyak orang"
+      "text": "Kemudian Yesus dengan murid-murid-Nya menyingkir ke danau, dan banyak orang",
+      "ref_id": "Markus 3:7",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     },
     {
       "id": 15,
       "diatessaron_verse": "11",
       "ref": "Mark 3:7",
       "arabic_page": null,
-      "text": "dari Galilea mengikuti-Nya. Juga dari Yudea,"
+      "text": "dari Galilea mengikuti-Nya. Juga dari Yudea,",
+      "ref_id": "Markus 3:7",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 16,
       "diatessaron_verse": "11",
       "ref": "Mark 3:8",
       "arabic_page": null,
-      "text": "dari Yerusalem, dari Idumea, dari seberang Yordan, dan dari daerah Tirus dan Sidon"
+      "text": "dari Yerusalem, dari Idumea, dari seberang Yordan, dan dari daerah Tirus dan Sidon",
+      "ref_id": "Markus 3:8",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 13
     },
     {
       "id": 17,
       "diatessaron_verse": "12",
       "ref": "Mark 3:8",
       "arabic_page": null,
-      "text": "datang banyak orang kepada-Nya, sesudah mereka mendengar segala yang dilakukan-Nya."
+      "text": "datang banyak orang kepada-Nya, sesudah mereka mendengar segala yang dilakukan-Nya.",
+      "ref_id": "Markus 3:8",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 10
     },
     {
       "id": 18,
       "diatessaron_verse": "12",
       "ref": "Mark 3:9",
       "arabic_page": null,
-      "text": "Ia menyuruh murid-murid-Nya menyediakan sebuah perahu bagi-Nya karena orang banyak itu, supaya mereka"
+      "text": "Ia menyuruh murid-murid-Nya menyediakan sebuah perahu bagi-Nya karena orang banyak itu, supaya mereka",
+      "ref_id": "Markus 3:9",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 13
     },
     {
       "id": 19,
       "diatessaron_verse": "13",
       "ref": "Mark 3:9",
       "arabic_page": null,
-      "text": "jangan sampai menghimpit-Nya."
+      "text": "jangan sampai menghimpit-Nya.",
+      "ref_id": "Markus 3:9",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 20,
       "diatessaron_verse": "13",
       "ref": "Mark 3:10",
       "arabic_page": 31,
-      "text": "Sebab Ia menyembuhkan banyak orang, sehingga semua."
+      "text": "Sebab Ia menyembuhkan banyak orang, sehingga semua.",
+      "ref_id": "Markus 3:10",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 21,
       "diatessaron_verse": "14",
       "ref": "Mark 3:10",
       "arabic_page": 31,
-      "text": "penderita penyakit berdesak-desakan kepada-Nya hendak menjamah-Nya"
+      "text": "penderita penyakit berdesak-desakan kepada-Nya hendak menjamah-Nya",
+      "ref_id": "Markus 3:10",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 22,
       "diatessaron_verse": "14",
       "ref": "Mark 3:11",
       "arabic_page": 31,
-      "text": "Bilamana roh-roh jahat melihat Dia, mereka jatuh tersungkur di hadapan-Nya dan"
+      "text": "Bilamana roh-roh jahat melihat Dia, mereka jatuh tersungkur di hadapan-Nya dan",
+      "ref_id": "Markus 3:11",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 23,
       "diatessaron_verse": "15",
       "ref": "Mark 3:11",
       "arabic_page": 31,
-      "text": "berteriak: \"Engkaulah Anak Allah.\""
+      "text": "berteriak: \"Engkaulah Anak Allah.\"",
+      "ref_id": "Markus 3:11",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 24,
       "diatessaron_verse": "15",
       "ref": "Mark 3:12",
       "arabic_page": 31,
-      "text": "Tetapi Ia dengan keras melarang mereka"
+      "text": "Tetapi Ia dengan keras melarang mereka",
+      "ref_id": "Markus 3:12",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 25,
       "diatessaron_verse": "16",
       "ref": "Mark 3:12",
       "arabic_page": 31,
-      "text": "memberitahukan siapa Dia."
+      "text": "memberitahukan siapa Dia.",
+      "ref_id": "Markus 3:12",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 26,
       "diatessaron_verse": "16",
       "ref": "Luke 6:18",
       "arabic_page": 31,
-      "text": "Mereka datang untuk mendengarkan Dia dan untuk disembuhkan dari penyakit mereka; juga mereka yang dirasuk oleh"
+      "text": "Mereka datang untuk mendengarkan Dia dan untuk disembuhkan dari penyakit mereka; juga mereka yang dirasuk oleh",
+      "ref_id": "Lukas 6:18",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 27,
       "diatessaron_verse": "17",
       "ref": "Luke 6:18",
       "arabic_page": 31,
-      "text": "roh-roh jahat beroleh kesembuhan."
+      "text": "roh-roh jahat beroleh kesembuhan.",
+      "ref_id": "Lukas 6:18",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 28,
       "diatessaron_verse": "17",
       "ref": "Luke 6:19",
       "arabic_page": 31,
-      "text": "Dan semua orang banyak itu berusaha menjamah Dia, karena ada kuasa yang keluar dari pada-Nya dan semua orang itu disembuhkan-Nya."
+      "text": "Dan semua orang banyak itu berusaha menjamah Dia, karena ada kuasa yang keluar dari pada-Nya dan semua orang itu disembuhkan-Nya.",
+      "ref_id": "Lukas 6:19",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 29,
       "diatessaron_verse": "18, 19",
       "ref": "Matthew 5:1a",
       "arabic_page": 31,
-      "text": "Ketika Yesus melihat orang banyak itu, naiklah Ia ke atas bukit"
+      "text": "Ketika Yesus melihat orang banyak itu, naiklah Ia ke atas bukit",
+      "ref_id": "Matius 5:1a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 30,
       "diatessaron_verse": "18, 19",
       "ref": "Luke 6:13[b",
       "arabic_page": 31,
-      "text": ", Ia memanggil murid-murid-Nya kepada-Nya, lalu memilih dari antara mereka dua belas orang, yang disebut-Nya"
+      "text": ", Ia memanggil murid-murid-Nya kepada-Nya, lalu memilih dari antara mereka dua belas orang, yang disebut-Nya",
+      "ref_id": "Lukas 6:13[b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 15
     },
     {
       "id": 31,
       "diatessaron_verse": "20",
       "ref": "Luke 6:13[b",
       "arabic_page": 31,
-      "text": "rasul:"
+      "text": "rasul:",
+      "ref_id": "Lukas 6:13[b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 32,
       "diatessaron_verse": "20",
       "ref": "Luke 6:14",
       "arabic_page": 31,
-      "text": "Simon yang juga diberi-Nya nama Petrus, dan Andreas saudara Simon, Yakobus dan"
+      "text": "Simon yang juga diberi-Nya nama Petrus, dan Andreas saudara Simon, Yakobus dan",
+      "ref_id": "Lukas 6:14",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 33,
       "diatessaron_verse": "21",
       "ref": "Luke 6:14",
       "arabic_page": 31,
-      "text": "Yohanes, Filipus dan Bartolomeus,"
+      "text": "Yohanes, Filipus dan Bartolomeus,",
+      "ref_id": "Lukas 6:14",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 34,
       "diatessaron_verse": "21",
       "ref": "Luke 6:15",
       "arabic_page": 31,
-      "text": "Matius dan Tomas, Yakobus"
+      "text": "Matius dan Tomas, Yakobus",
+      "ref_id": "Lukas 6:15",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 35,
       "diatessaron_verse": "22",
       "ref": "Luke 6:15",
       "arabic_page": 31,
-      "text": "anak Alfeus, dan Simon yang disebut orang Zelot,"
+      "text": "anak Alfeus, dan Simon yang disebut orang Zelot,",
+      "ref_id": "Lukas 6:15",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 36,
       "diatessaron_verse": "22",
       "ref": "Luke 6:16",
       "arabic_page": 31,
-      "text": "Yudas anak Yakobus,"
+      "text": "Yudas anak Yakobus,",
+      "ref_id": "Lukas 6:16",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 37,
       "diatessaron_verse": "23",
       "ref": "Luke 6:16",
       "arabic_page": 31,
-      "text": "dan Yudas Iskariot yang kemudian menjadi pengkhianat."
+      "text": "dan Yudas Iskariot yang kemudian menjadi pengkhianat.",
+      "ref_id": "Lukas 6:16",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 38,
       "diatessaron_verse": "23",
       "ref": "Luke 6:17[a",
       "arabic_page": 31,
-      "text": "Lalu Ia turun dengan mereka dan berhenti pada suatu tempat yang datar: di situ berkumpul sejumlah besar dari murid-murid-Nya dan"
+      "text": "Lalu Ia turun dengan mereka dan berhenti pada suatu tempat yang datar: di situ berkumpul sejumlah besar dari murid-murid-Nya dan",
+      "ref_id": "Lukas 6:17[a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 39,
       "diatessaron_verse": "24",
       "ref": "Luke 6:17[a",
       "arabic_page": 31,
-      "text": "banyak orang lain"
+      "text": "banyak orang lain",
+      "ref_id": "Lukas 6:17[a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 3
     },
     {
       "id": 40,
       "diatessaron_verse": "24",
       "ref": "Mark 3:14",
       "arabic_page": 31,
-      "text": "Ia menetapkan dua belas orang untuk menyertai Dia dan"
+      "text": "Ia menetapkan dua belas orang untuk menyertai Dia dan",
+      "ref_id": "Markus 3:14",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 9
     },
     {
       "id": 41,
       "diatessaron_verse": "25",
       "ref": "Mark 3:14",
       "arabic_page": 31,
-      "text": "untuk diutus-Nya memberitakan Injil [Mark 3:15] dan diberi-Nya kuasa untuk mengusir setan."
+      "text": "untuk diutus-Nya memberitakan Injil [Mark 3:15] dan diberi-Nya kuasa untuk mengusir setan.",
+      "ref_id": "Markus 3:14",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 12
     },
     {
       "id": 42,
       "diatessaron_verse": "26",
       "ref": "Luke 6:20[a",
       "arabic_page": 31,
-      "text": "Lalu Yesus memandang murid-murid-Nya dan berkata:"
+      "text": "Lalu Yesus memandang murid-murid-Nya dan berkata:",
+      "ref_id": "Lukas 6:20[a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 43,
       "diatessaron_verse": "26",
       "ref": "Matthew 5:2",
       "arabic_page": 31,
-      "text": "dan mengajar mereka, kata-Nya:"
+      "text": "dan mengajar mereka, kata-Nya:",
+      "ref_id": "Matius 5:2",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 44,
       "diatessaron_verse": "27",
       "ref": "Matthew 5:3",
       "arabic_page": 31,
-      "text": "\"Berbahagialah orang yang miskin di hadapan Allah, karena merekalah yang empunya Kerajaan Sorga."
+      "text": "\"Berbahagialah orang yang miskin di hadapan Allah, karena merekalah yang empunya Kerajaan Sorga.",
+      "ref_id": "Matius 5:3",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 45,
       "diatessaron_verse": "28",
       "ref": "Matthew 5:4",
       "arabic_page": 31,
-      "text": "Berbahagialah orang yang berdukacita, karena mereka akan dihibur."
+      "text": "Berbahagialah orang yang berdukacita, karena mereka akan dihibur.",
+      "ref_id": "Matius 5:4",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 46,
       "diatessaron_verse": "29",
       "ref": "Matthew 5:5",
       "arabic_page": 31,
-      "text": "Berbahagialah orang yang lemah lembut, karena mereka akan memiliki bumi."
+      "text": "Berbahagialah orang yang lemah lembut, karena mereka akan memiliki bumi.",
+      "ref_id": "Matius 5:5",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 47,
       "diatessaron_verse": "30",
       "ref": "Matthew 5:6",
       "arabic_page": 31,
-      "text": "Berbahagialah orang yang lapar dan haus akan kebenaran, karena mereka akan dipuaskan."
+      "text": "Berbahagialah orang yang lapar dan haus akan kebenaran, karena mereka akan dipuaskan.",
+      "ref_id": "Matius 5:6",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 48,
       "diatessaron_verse": "31",
       "ref": "Matthew 5:7",
       "arabic_page": 31,
-      "text": "Berbahagialah orang yang murah hatinya, karena mereka akan beroleh kemurahan."
+      "text": "Berbahagialah orang yang murah hatinya, karena mereka akan beroleh kemurahan.",
+      "ref_id": "Matius 5:7",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 49,
       "diatessaron_verse": "32",
       "ref": "Matthew 5:8",
       "arabic_page": 32,
-      "text": "Berbahagialah orang yang suci hatinya, karena mereka akan melihat Allah."
+      "text": "Berbahagialah orang yang suci hatinya, karena mereka akan melihat Allah.",
+      "ref_id": "Matius 5:8",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 50,
       "diatessaron_verse": "33",
       "ref": "Matthew 5:9",
       "arabic_page": 32,
-      "text": "Berbahagialah orang yang membawa damai, karena mereka akan disebut anak-anak Allah."
+      "text": "Berbahagialah orang yang membawa damai, karena mereka akan disebut anak-anak Allah.",
+      "ref_id": "Matius 5:9",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 51,
       "diatessaron_verse": "34",
       "ref": "Matthew 5:10",
       "arabic_page": 32,
-      "text": "Berbahagialah orang yang dianiaya oleh sebab kebenaran, karena merekalah yang empunya Kerajaan Sorga."
+      "text": "Berbahagialah orang yang dianiaya oleh sebab kebenaran, karena merekalah yang empunya Kerajaan Sorga.",
+      "ref_id": "Matius 5:10",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 13
     },
     {
       "id": 52,
       "diatessaron_verse": "35",
       "ref": "Luke 6:22[a",
       "arabic_page": 32,
-      "text": "Berbahagialah kamu, jika karena Anak Manusia orang membenci kamu, dan jika mereka mengucilkan kamu, dan mencela kamu serta menolak namamu,"
+      "text": "Berbahagialah kamu, jika karena Anak Manusia orang membenci kamu, dan jika mereka mengucilkan kamu, dan mencela kamu serta menolak namamu,",
+      "ref_id": "Lukas 6:22[a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 53,
       "diatessaron_verse": "35",
       "ref": "Matthew 5:11[b",
       "arabic_page": 32,
-      "text": "karena Aku kamu dicela dan dianiaya dan kepadamu difitnahkan"
+      "text": "karena Aku kamu dicela dan dianiaya dan kepadamu difitnahkan",
+      "ref_id": "Matius 5:11[b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 54,
       "diatessaron_verse": "36",
       "ref": "Matthew 5:11[b",
       "arabic_page": 32,
-      "text": "segala yang jahat."
+      "text": "segala yang jahat.",
+      "ref_id": "Matius 5:11[b",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 55,
       "diatessaron_verse": "36",
       "ref": "Matthew 5:12",
       "arabic_page": 32,
-      "text": "Bersukacita dan bergembiralah, karena upahmu besar di sorga, sebab demikian juga telah dianiaya nabi-nabi yang sebelum kamu.\""
+      "text": "Bersukacita dan bergembiralah, karena upahmu besar di sorga, sebab demikian juga telah dianiaya nabi-nabi yang sebelum kamu.\"",
+      "ref_id": "Matius 5:12",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 56,
       "diatessaron_verse": "37",
       "ref": "Luke 6:24",
       "arabic_page": 32,
-      "text": "Tetapi celakalah kamu, hai kamu yang kaya, karena dalam kekayaanmu kamu telah memperoleh penghiburanmu."
+      "text": "Tetapi celakalah kamu, hai kamu yang kaya, karena dalam kekayaanmu kamu telah memperoleh penghiburanmu.",
+      "ref_id": "Lukas 6:24",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 57,
       "diatessaron_verse": "38",
       "ref": "Luke 6:25",
       "arabic_page": 32,
-      "text": "Celakalah kamu, yang sekarang ini kenyang, karena kamu akan lapar. Celakalah kamu, yang sekarang ini tertawa, karena kamu akan berdukacita dan menangis."
+      "text": "Celakalah kamu, yang sekarang ini kenyang, karena kamu akan lapar. Celakalah kamu, yang sekarang ini tertawa, karena kamu akan berdukacita dan menangis.",
+      "ref_id": "Lukas 6:25",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 22
     },
     {
       "id": 58,
       "diatessaron_verse": "39",
       "ref": "Luke 6:26",
       "arabic_page": 32,
-      "text": "Celakalah kamu, jika semua orang memuji kamu; karena secara demikian juga nenek moyang mereka telah memperlakukan nabi-nabi palsu.\""
+      "text": "Celakalah kamu, jika semua orang memuji kamu; karena secara demikian juga nenek moyang mereka telah memperlakukan nabi-nabi palsu.\"",
+      "ref_id": "Lukas 6:26",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 18
     },
     {
       "id": 59,
       "diatessaron_verse": "40",
       "ref": "Luke 6:27[a",
       "arabic_page": 32,
-      "text": "Tetapi kepada kamu, yang mendengarkan Aku, Aku berkata:"
+      "text": "Tetapi kepada kamu, yang mendengarkan Aku, Aku berkata:",
+      "ref_id": "Lukas 6:27[a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 8
     },
     {
       "id": 60,
       "diatessaron_verse": "40",
       "ref": "Matthew 5:13",
       "arabic_page": 32,
-      "text": "\"Kamu adalah garam dunia. Jika garam itu menjadi tawar, dengan apakah ia diasinkan? Tidak ada lagi gunanya"
+      "text": "\"Kamu adalah garam dunia. Jika garam itu menjadi tawar, dengan apakah ia diasinkan? Tidak ada lagi gunanya",
+      "ref_id": "Matius 5:13",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 61,
       "diatessaron_verse": "41",
       "ref": "Matthew 5:13",
       "arabic_page": 32,
-      "text": "selain dibuang dan diinjak orang."
+      "text": "selain dibuang dan diinjak orang.",
+      "ref_id": "Matius 5:13",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 62,
       "diatessaron_verse": "41",
       "ref": "Matthew 5:14",
       "arabic_page": 32,
-      "text": "Kamu adalah terang dunia."
+      "text": "Kamu adalah terang dunia.",
+      "ref_id": "Matius 5:14",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 63,
       "diatessaron_verse": "42",
       "ref": "Matthew 5:14",
       "arabic_page": 32,
-      "text": "Kota yang terletak di atas gunung tidak mungkin tersembunyi."
+      "text": "Kota yang terletak di atas gunung tidak mungkin tersembunyi.",
+      "ref_id": "Matius 5:14",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 64,
       "diatessaron_verse": "42",
       "ref": "Matthew 5:15",
       "arabic_page": 32,
-      "text": "Lagipula orang tidak menyalakan pelita lalu meletakkannya di bawah gantang, melainkan di atas kaki dian sehingga menerangi"
+      "text": "Lagipula orang tidak menyalakan pelita lalu meletakkannya di bawah gantang, melainkan di atas kaki dian sehingga menerangi",
+      "ref_id": "Matius 5:15",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 65,
       "diatessaron_verse": "43",
       "ref": "Matthew 5:15",
       "arabic_page": 32,
-      "text": "semua orang di dalam rumah itu."
+      "text": "semua orang di dalam rumah itu.",
+      "ref_id": "Matius 5:15",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 66,
       "diatessaron_verse": "43",
       "ref": "Matthew 5:16",
       "arabic_page": 32,
-      "text": "Demikianlah hendaknya terangmu bercahaya di depan orang, supaya mereka melihat"
+      "text": "Demikianlah hendaknya terangmu bercahaya di depan orang, supaya mereka melihat",
+      "ref_id": "Matius 5:16",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 10
     },
     {
       "id": 67,
       "diatessaron_verse": "44",
       "ref": "Matthew 5:16",
       "arabic_page": 32,
-      "text": "perbuatanmu yang baik dan memuliakan Bapamu yang di sorga.\""
+      "text": "perbuatanmu yang baik dan memuliakan Bapamu yang di sorga.\"",
+      "ref_id": "Matius 5:16",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 68,
       "diatessaron_verse": "44",
       "ref": "Mark 4:22",
       "arabic_page": 32,
-      "text": "Sebab tidak ada sesuatu yang tersembunyi yang tidak akan dinyatakan, dan tidak ada sesuatu yang rahasia yang tidak akan tersingkap."
+      "text": "Sebab tidak ada sesuatu yang tersembunyi yang tidak akan dinyatakan, dan tidak ada sesuatu yang rahasia yang tidak akan tersingkap.",
+      "ref_id": "Markus 4:22",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 20
     },
     {
       "id": 69,
       "diatessaron_verse": "44",
       "ref": "Mark 4:23",
       "arabic_page": 32,
-      "text": "Barangsiapa mempunyai telinga untuk mendengar, hendaklah ia mendengar!\""
+      "text": "Barangsiapa mempunyai telinga untuk mendengar, hendaklah ia mendengar!\"",
+      "ref_id": "Markus 4:23",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 70,
       "diatessaron_verse": "46",
       "ref": "Matthew 5:17",
       "arabic_page": 32,
-      "text": "\"Janganlah kamu menyangka, bahwa Aku datang untuk meniadakan hukum Taurat atau kitab para nabi. Aku datang bukan untuk meniadakannya,"
+      "text": "\"Janganlah kamu menyangka, bahwa Aku datang untuk meniadakan hukum Taurat atau kitab para nabi. Aku datang bukan untuk meniadakannya,",
+      "ref_id": "Matius 5:17",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 19
     },
     {
       "id": 71,
       "diatessaron_verse": "47",
       "ref": "Matthew 5:17",
       "arabic_page": 32,
-      "text": "melainkan untuk menggenapinya."
+      "text": "melainkan untuk menggenapinya.",
+      "ref_id": "Matius 5:17",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 72,
       "diatessaron_verse": "47",
       "ref": "Matthew 5:18",
       "arabic_page": 33,
-      "text": "Karena Aku berkata kepadamu: Sesungguhnya selama belum lenyap langit dan bumi ini, satu iota atau satu titikpun tidak akan ditiadakan dari hukum Taurat, sebelum"
+      "text": "Karena Aku berkata kepadamu: Sesungguhnya selama belum lenyap langit dan bumi ini, satu iota atau satu titikpun tidak akan ditiadakan dari hukum Taurat, sebelum",
+      "ref_id": "Matius 5:18",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 24
     },
     {
       "id": 73,
       "diatessaron_verse": "48",
       "ref": "Matthew 5:18",
       "arabic_page": 33,
-      "text": "semuanya terjadi."
+      "text": "semuanya terjadi.",
+      "ref_id": "Matius 5:18",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 74,
       "diatessaron_verse": "48",
       "ref": "Matthew 5:19",
       "arabic_page": 33,
-      "text": "Karena itu siapa yang meniadakan salah satu perintah hukum Taurat sekalipun yang paling kecil, dan mengajarkannya demikian kepada orang lain, ia akan menduduki tempat yang paling rendah di dalam Kerajaan Sorga; tetapi siapa yang melakukan dan mengajarkan segala perintah-perintah hukum Taurat, ia akan menduduki tempat yang tinggi di dalam"
+      "text": "Karena itu siapa yang meniadakan salah satu perintah hukum Taurat sekalipun yang paling kecil, dan mengajarkannya demikian kepada orang lain, ia akan menduduki tempat yang paling rendah di dalam Kerajaan Sorga; tetapi siapa yang melakukan dan mengajarkan segala perintah-perintah hukum Taurat, ia akan menduduki tempat yang tinggi di dalam",
+      "ref_id": "Matius 5:19",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 49
     },
     {
       "id": 75,
       "diatessaron_verse": "49",
       "ref": "Matthew 5:19",
       "arabic_page": 33,
-      "text": "Kerajaan Sorga."
+      "text": "Kerajaan Sorga.",
+      "ref_id": "Matius 5:19",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 76,
       "diatessaron_verse": "49",
       "ref": "Matthew 5:20",
       "arabic_page": 33,
-      "text": "Maka Aku berkata kepadamu: Jika hidup keagamaanmu tidak lebih benar dari pada hidup keagamaan ahli-ahli Taurat dan orang-orang Farisi, sesungguhnya kamu tidak akan masuk ke dalam Kerajaan Sorga."
+      "text": "Maka Aku berkata kepadamu: Jika hidup keagamaanmu tidak lebih benar dari pada hidup keagamaan ahli-ahli Taurat dan orang-orang Farisi, sesungguhnya kamu tidak akan masuk ke dalam Kerajaan Sorga.",
+      "ref_id": "Matius 5:20",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 28
     },
     {
       "id": 77,
       "diatessaron_verse": "50",
       "ref": "Matthew 5:21",
       "arabic_page": 33,
-      "text": "Kamu telah mendengar yang difirmankan kepada nenek moyang kita: Jangan membunuh;"
+      "text": "Kamu telah mendengar yang difirmankan kepada nenek moyang kita: Jangan membunuh;",
+      "ref_id": "Matius 5:21",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 78,
       "diatessaron_verse": "51",
       "ref": "Matthew 5:21",
       "arabic_page": 33,
-      "text": "siapa yang membunuh harus dihukum."
+      "text": "siapa yang membunuh harus dihukum.",
+      "ref_id": "Matius 5:21",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 5
     },
     {
       "id": 79,
       "diatessaron_verse": "51",
       "ref": "Matthew 5:22",
       "arabic_page": 33,
-      "text": "Tetapi Aku berkata kepadamu: Setiap orang yang marah terhadap saudaranya harus dihukum; siapa yang berkata kepada saudaranya: Kafir! harus dihadapkan ke Mahkamah Agama dan"
+      "text": "Tetapi Aku berkata kepadamu: Setiap orang yang marah terhadap saudaranya harus dihukum; siapa yang berkata kepada saudaranya: Kafir! harus dihadapkan ke Mahkamah Agama dan",
+      "ref_id": "Matius 5:22",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 24
     },
     {
       "id": 80,
       "diatessaron_verse": "52",
       "ref": "Matthew 5:22",
       "arabic_page": 33,
-      "text": "siapa yang berkata: Jahil! harus diserahkan ke dalam neraka yang menyala-nyala."
+      "text": "siapa yang berkata: Jahil! harus diserahkan ke dalam neraka yang menyala-nyala.",
+      "ref_id": "Matius 5:22",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 81,
       "diatessaron_verse": "52",
       "ref": "Matthew 5:23",
       "arabic_page": 33,
-      "text": "Sebab itu, jika engkau mempersembahkan persembahanmu di atas mezbah dan engkau teringat akan sesuatu yang ada dalam"
+      "text": "Sebab itu, jika engkau mempersembahkan persembahanmu di atas mezbah dan engkau teringat akan sesuatu yang ada dalam",
+      "ref_id": "Matius 5:23",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 82,
       "diatessaron_verse": "53",
       "ref": "Matthew 5:23",
       "arabic_page": 33,
-      "text": "hati saudaramu terhadap engkau,"
+      "text": "hati saudaramu terhadap engkau,",
+      "ref_id": "Matius 5:23",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 83,
       "diatessaron_verse": "53",
       "ref": "Matthew 5:24",
       "arabic_page": 33,
-      "text": "tinggalkanlah persembahanmu di depan mezbah itu dan pergilah berdamai dahulu dengan"
+      "text": "tinggalkanlah persembahanmu di depan mezbah itu dan pergilah berdamai dahulu dengan",
+      "ref_id": "Matius 5:24",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 84,
       "diatessaron_verse": "54",
       "ref": "Matthew 5:24",
       "arabic_page": 33,
-      "text": "saudaramu, lalu kembali untuk mempersembahkan persembahanmu itu."
+      "text": "saudaramu, lalu kembali untuk mempersembahkan persembahanmu itu.",
+      "ref_id": "Matius 5:24",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 85,
       "diatessaron_verse": "54",
       "ref": "Matthew 5:25[a",
       "arabic_page": 33,
-      "text": "Segeralah berdamai dengan lawanmu."
+      "text": "Segeralah berdamai dengan lawanmu.",
+      "ref_id": "Matius 5:25[a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 86,
       "diatessaron_verse": "54",
       "ref": "Luke 12:58[a",
       "arabic_page": 33,
-      "text": "Sebab, jikalau engkau dengan lawanmu pergi menghadap pemerintah, berusahalah berdamai dengan dia selama di tengah jalan,"
+      "text": "Sebab, jikalau engkau dengan lawanmu pergi menghadap pemerintah, berusahalah berdamai dengan dia selama di tengah jalan,",
+      "ref_id": "Lukas 12:58[a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 87,
       "diatessaron_verse": "55",
       "ref": "Luke 12:58[a",
       "arabic_page": 33,
-      "text": "supaya jangan engkau diseretnya kepada hakim"
+      "text": "supaya jangan engkau diseretnya kepada hakim",
+      "ref_id": "Lukas 12:58[a",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 88,
       "diatessaron_verse": "55",
       "ref": "Matthew 5:25[c",
       "arabic_page": 33,
-      "text": "dan hakim itu menyerahkan engkau kepada pembantunya"
+      "text": "dan hakim itu menyerahkan engkau kepada pembantunya",
+      "ref_id": "Matius 5:25[c",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 89,
       "diatessaron_verse": "56",
       "ref": "Matthew 5:25[c",
       "arabic_page": 33,
-      "text": "dan engkau dilemparkan ke dalam penjara."
+      "text": "dan engkau dilemparkan ke dalam penjara.",
+      "ref_id": "Matius 5:25[c",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 90,
       "diatessaron_verse": "56",
       "ref": "Matthew 5:26",
       "arabic_page": 33,
-      "text": "Aku berkata kepadamu: Sesungguhnya engkau tidak akan keluar dari sana, sebelum engkau membayar hutangmu sampai lunas."
+      "text": "Aku berkata kepadamu: Sesungguhnya engkau tidak akan keluar dari sana, sebelum engkau membayar hutangmu sampai lunas.",
+      "ref_id": "Matius 5:26",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 16
     },
     {
       "id": 91,
       "diatessaron_verse": "57, 58",
       "ref": "Matthew 5:27",
       "arabic_page": 33,
-      "text": "Kamu telah mendengar firman: Jangan berzinah."
+      "text": "Kamu telah mendengar firman: Jangan berzinah.",
+      "ref_id": "Matius 5:27",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 92,
       "diatessaron_verse": "57, 58",
       "ref": "Matthew 5:28",
       "arabic_page": 33,
-      "text": "Tetapi Aku berkata kepadamu: Setiap orang yang memandang perempuan serta menginginkannya,"
+      "text": "Tetapi Aku berkata kepadamu: Setiap orang yang memandang perempuan serta menginginkannya,",
+      "ref_id": "Matius 5:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 93,
       "diatessaron_verse": "59",
       "ref": "Matthew 5:28",
       "arabic_page": 34,
-      "text": "sudah berzinah dengan dia di dalam hatinya."
+      "text": "sudah berzinah dengan dia di dalam hatinya.",
+      "ref_id": "Matius 5:28",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 94,
       "diatessaron_verse": "59",
       "ref": "Matthew 5:29",
       "arabic_page": 34,
-      "text": "Maka jika matamu yang kanan menyesatkan engkau, cungkillah dan buanglah itu, karena lebih baik bagimu jika satu dari"
+      "text": "Maka jika matamu yang kanan menyesatkan engkau, cungkillah dan buanglah itu, karena lebih baik bagimu jika satu dari",
+      "ref_id": "Matius 5:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 18
     },
     {
       "id": 95,
       "diatessaron_verse": "60",
       "ref": "Matthew 5:29",
       "arabic_page": 34,
-      "text": "anggota tubuhmu binasa, dari pada tubuhmu dengan utuh dicampakkan ke dalam neraka."
+      "text": "anggota tubuhmu binasa, dari pada tubuhmu dengan utuh dicampakkan ke dalam neraka.",
+      "ref_id": "Matius 5:29",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 96,
       "diatessaron_verse": "60",
       "ref": "Matthew 5:30",
       "arabic_page": 34,
-      "text": "Dan jika tanganmu yang kanan menyesatkan engkau, penggallah dan buanglah itu, karena lebih baik bagimu jika"
+      "text": "Dan jika tanganmu yang kanan menyesatkan engkau, penggallah dan buanglah itu, karena lebih baik bagimu jika",
+      "ref_id": "Matius 5:30",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 16
     },
     {
       "id": 97,
       "diatessaron_verse": "61",
       "ref": "Matthew 5:30",
       "arabic_page": 34,
-      "text": "satu dari anggota tubuhmu binasa dari pada tubuhmu dengan utuh masuk neraka."
+      "text": "satu dari anggota tubuhmu binasa dari pada tubuhmu dengan utuh masuk neraka.",
+      "ref_id": "Matius 5:30",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 98,
       "diatessaron_verse": "61",
       "ref": "Matthew 5:31",
       "arabic_page": 34,
-      "text": "Telah difirmankan juga: Siapa yang menceraikan isterinya harus memberi surat cerai kepadanya."
+      "text": "Telah difirmankan juga: Siapa yang menceraikan isterinya harus memberi surat cerai kepadanya.",
+      "ref_id": "Matius 5:31",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 99,
       "diatessaron_verse": "62",
       "ref": "Matthew 5:32",
       "arabic_page": 34,
-      "text": "Tetapi Aku berkata kepadamu: Setiap orang yang menceraikan isterinya kecuali karena zinah, ia menjadikan isterinya berzinah; dan siapa yang kawin dengan perempuan yang diceraikan, ia berbuat zinah."
+      "text": "Tetapi Aku berkata kepadamu: Setiap orang yang menceraikan isterinya kecuali karena zinah, ia menjadikan isterinya berzinah; dan siapa yang kawin dengan perempuan yang diceraikan, ia berbuat zinah.",
+      "ref_id": "Matius 5:32",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 27
     }
-  ]
+  ],
+  "title_id": "Khotbah di Bukit: Ucapan Bahagia & Hukum Kasih",
+  "title_en": "Sermon on the Mount: The Beatitudes & Law of Love",
+  "epoch_id": 3,
+  "total_words": 1080,
+  "arabic_page_range": "p. 31 - p. 34",
+  "arabic_pages": [
+    31,
+    32,
+    33,
+    34
+  ],
+  "stats": {
+    "mat": 59,
+    "mrk": 16,
+    "luk": 24,
+    "yoh": 0,
+    "unk": 0
+  },
+  "footnotes": []
 }

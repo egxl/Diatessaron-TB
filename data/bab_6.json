@@ -27,616 +27,1075 @@
       "diatessaron_verse": "1",
       "ref": "Luke 5:8",
       "arabic_page": 22,
-      "text": "Ketika Simon Petrus melihat hal itu iapun tersungkur di depan Yesus dan berkata: \"Tuhan, pergilah dari padaku, karena aku ini"
+      "text": "Ketika Simon Petrus melihat hal itu iapun tersungkur di depan Yesus dan berkata: \"Tuhan, pergilah dari padaku, karena aku ini",
+      "ref_id": "Lukas 5:8",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 2,
       "diatessaron_verse": "2",
       "ref": "Luke 5:8",
       "arabic_page": 22,
-      "text": "seorang berdosa.”"
+      "text": "seorang berdosa.”",
+      "ref_id": "Lukas 5:8",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 2
     },
     {
       "id": 3,
       "diatessaron_verse": "2",
       "ref": "Luke 5:9",
       "arabic_page": 22,
-      "text": "Sebab ia dan semua orang yang bersama-sama dengan dia takjub"
+      "text": "Sebab ia dan semua orang yang bersama-sama dengan dia takjub",
+      "ref_id": "Lukas 5:9",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 4,
       "diatessaron_verse": "3",
       "ref": "Luke 5:9",
       "arabic_page": 22,
-      "text": "oleh karena banyaknya ikan yang mereka tangkap;"
+      "text": "oleh karena banyaknya ikan yang mereka tangkap;",
+      "ref_id": "Lukas 5:9",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 5,
       "diatessaron_verse": "3",
       "ref": "Luke 5:10",
       "arabic_page": 22,
-      "text": "demikian juga Yakobus dan Yohanes, anak-anak Zebedeus, yang menjadi teman Simon. Kata Yesus"
+      "text": "demikian juga Yakobus dan Yohanes, anak-anak Zebedeus, yang menjadi teman Simon. Kata Yesus",
+      "ref_id": "Lukas 5:10",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 6,
       "diatessaron_verse": "4",
       "ref": "Luke 5:10",
       "arabic_page": 22,
-      "text": "kepada Simon: \"Jangan takut, mulai dari sekarang engkau akan menjala manusia.\""
+      "text": "kepada Simon: \"Jangan takut, mulai dari sekarang engkau akan menjala manusia.\"",
+      "ref_id": "Lukas 5:10",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 7,
       "diatessaron_verse": "4",
       "ref": "Luke 5:11",
       "arabic_page": 22,
-      "text": "Dan sesudah mereka menghela perahu-perahunya ke darat, merekapun meninggalkan segala sesuatu, lalu mengikut Yesus."
+      "text": "Dan sesudah mereka menghela perahu-perahunya ke darat, merekapun meninggalkan segala sesuatu, lalu mengikut Yesus.",
+      "ref_id": "Lukas 5:11",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 8,
       "diatessaron_verse": "5",
       "ref": "John 3:22",
       "arabic_page": 22,
-      "text": "Sesudah itu Yesus pergi dengan murid-murid-Nya ke tanah Yudea dan Ia diam"
+      "text": "Sesudah itu Yesus pergi dengan murid-murid-Nya ke tanah Yudea dan Ia diam",
+      "ref_id": "Yohanes 3:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 9,
       "diatessaron_verse": "6",
       "ref": "John 3:22",
       "arabic_page": 22,
-      "text": "di sana bersama-sama mereka dan membaptis."
+      "text": "di sana bersama-sama mereka dan membaptis.",
+      "ref_id": "Yohanes 3:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 10,
       "diatessaron_verse": "6",
       "ref": "John 3:23",
       "arabic_page": 22,
-      "text": "Akan tetapi Yohanespun membaptis juga di Ainon, dekat Salim, sebab di situ banyak air, dan orang-orang datang ke situ untuk dibaptis,"
+      "text": "Akan tetapi Yohanespun membaptis juga di Ainon, dekat Salim, sebab di situ banyak air, dan orang-orang datang ke situ untuk dibaptis,",
+      "ref_id": "Yohanes 3:23",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 21
     },
     {
       "id": 11,
       "diatessaron_verse": "7, 8",
       "ref": "John 3:24",
       "arabic_page": 22,
-      "text": "sebab pada waktu itu Yohanes belum dimasukkan ke dalam penjara."
+      "text": "sebab pada waktu itu Yohanes belum dimasukkan ke dalam penjara.",
+      "ref_id": "Yohanes 3:24",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 12,
       "diatessaron_verse": "7, 8",
       "ref": "John 3:25",
       "arabic_page": 22,
-      "text": "Maka timbullah perselisihan di antara"
+      "text": "Maka timbullah perselisihan di antara",
+      "ref_id": "Yohanes 3:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 13,
       "diatessaron_verse": "9",
       "ref": "John 3:25",
       "arabic_page": 22,
-      "text": "murid-murid Yohanes dengan seorang Yahudi tentang penyucian."
+      "text": "murid-murid Yohanes dengan seorang Yahudi tentang penyucian.",
+      "ref_id": "Yohanes 3:25",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 14,
       "diatessaron_verse": "9",
       "ref": "John 3:26",
       "arabic_page": 22,
-      "text": "Lalu mereka datang kepada Yohanes dan berkata kepadanya: \"Rabi, orang yang bersama dengan engkau di seberang sungai Yordan dan yang tentang Dia"
+      "text": "Lalu mereka datang kepada Yohanes dan berkata kepadanya: \"Rabi, orang yang bersama dengan engkau di seberang sungai Yordan dan yang tentang Dia",
+      "ref_id": "Yohanes 3:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 22
     },
     {
       "id": 15,
       "diatessaron_verse": "10",
       "ref": "John 3:26",
       "arabic_page": 22,
-      "text": "engkau telah memberi kesaksian, Dia membaptis juga dan semua orang pergi kepada-Nya.\""
+      "text": "engkau telah memberi kesaksian, Dia membaptis juga dan semua orang pergi kepada-Nya.\"",
+      "ref_id": "Yohanes 3:26",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 16,
       "diatessaron_verse": "10",
       "ref": "John 3:27",
       "arabic_page": 22,
-      "text": "Jawab Yohanes: \"Tidak ada seorangpun yang dapat mengambil sesuatu bagi dirinya, kalau tidak dikaruniakan"
+      "text": "Jawab Yohanes: \"Tidak ada seorangpun yang dapat mengambil sesuatu bagi dirinya, kalau tidak dikaruniakan",
+      "ref_id": "Yohanes 3:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 17,
       "diatessaron_verse": "11",
       "ref": "John 3:27",
       "arabic_page": 22,
-      "text": "kepadanya dari sorga."
+      "text": "kepadanya dari sorga.",
+      "ref_id": "Yohanes 3:27",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 18,
       "diatessaron_verse": "11",
       "ref": "John 3:28",
       "arabic_page": 22,
-      "text": "Kamu sendiri dapat memberi kesaksian, bahwa aku telah berkata: Aku bukan"
+      "text": "Kamu sendiri dapat memberi kesaksian, bahwa aku telah berkata: Aku bukan",
+      "ref_id": "Yohanes 3:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 19,
       "diatessaron_verse": "12",
       "ref": "John 3:28",
       "arabic_page": 22,
-      "text": "Mesias, tetapi aku diutus untuk mendahului-Nya."
+      "text": "Mesias, tetapi aku diutus untuk mendahului-Nya.",
+      "ref_id": "Yohanes 3:28",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 20,
       "diatessaron_verse": "12",
       "ref": "John 3:29",
       "arabic_page": 22,
-      "text": "Yang empunya mempelai perempuan, ialah mempelai laki-laki; tetapi sahabat mempelai laki-laki, yang berdiri dekat dia dan yang mendengarkannya, sangat bersukacita mendengar suara mempelai laki-laki itu. Itulah sukacitaku, dan sekarang"
+      "text": "Yang empunya mempelai perempuan, ialah mempelai laki-laki; tetapi sahabat mempelai laki-laki, yang berdiri dekat dia dan yang mendengarkannya, sangat bersukacita mendengar suara mempelai laki-laki itu. Itulah sukacitaku, dan sekarang",
+      "ref_id": "Yohanes 3:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 29
     },
     {
       "id": 21,
       "diatessaron_verse": "13, 14",
       "ref": "John 3:29",
       "arabic_page": 23,
-      "text": "sukacitaku itu penuh."
+      "text": "sukacitaku itu penuh.",
+      "ref_id": "Yohanes 3:29",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 22,
       "diatessaron_verse": "13, 14",
       "ref": "John 3:30",
       "arabic_page": 23,
-      "text": "Ia harus makin besar, tetapi aku harus makin kecil."
+      "text": "Ia harus makin besar, tetapi aku harus makin kecil.",
+      "ref_id": "Yohanes 3:30",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 23,
       "diatessaron_verse": "13, 14",
       "ref": "John 3:31",
       "arabic_page": 23,
-      "text": "Siapa yang datang dari atas adalah di atas semuanya; siapa yang berasal dari bumi, termasuk pada bumi dan berkata-kata dalam bahasa bumi. Siapa yang datang dari sorga adalah"
+      "text": "Siapa yang datang dari atas adalah di atas semuanya; siapa yang berasal dari bumi, termasuk pada bumi dan berkata-kata dalam bahasa bumi. Siapa yang datang dari sorga adalah",
+      "ref_id": "Yohanes 3:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 28
     },
     {
       "id": 24,
       "diatessaron_verse": "15",
       "ref": "John 3:31",
       "arabic_page": 23,
-      "text": "di atas semuanya."
+      "text": "di atas semuanya.",
+      "ref_id": "Yohanes 3:31",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 25,
       "diatessaron_verse": "15",
       "ref": "John 3:32",
       "arabic_page": 23,
-      "text": "Ia memberi kesaksian tentang apa yang dilihat-Nya dan yang didengar-Nya, tetapi tak seorangpun"
+      "text": "Ia memberi kesaksian tentang apa yang dilihat-Nya dan yang didengar-Nya, tetapi tak seorangpun",
+      "ref_id": "Yohanes 3:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 26,
       "diatessaron_verse": "16",
       "ref": "John 3:32",
       "arabic_page": 23,
-      "text": "yang menerima kesaksian-Nya itu."
+      "text": "yang menerima kesaksian-Nya itu.",
+      "ref_id": "Yohanes 3:32",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 27,
       "diatessaron_verse": "16",
       "ref": "John 3:33",
       "arabic_page": 23,
-      "text": "Siapa yang menerima kesaksian-Nya itu, ia mengaku, bahwa"
+      "text": "Siapa yang menerima kesaksian-Nya itu, ia mengaku, bahwa",
+      "ref_id": "Yohanes 3:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 28,
       "diatessaron_verse": "17",
       "ref": "John 3:33",
       "arabic_page": 23,
-      "text": "Allah adalah benar."
+      "text": "Allah adalah benar.",
+      "ref_id": "Yohanes 3:33",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 29,
       "diatessaron_verse": "17",
       "ref": "John 3:34",
       "arabic_page": 23,
-      "text": "Sebab siapa yang diutus Allah, Dialah yang menyampaikan firman Allah, karena Allah mengaruniakan"
+      "text": "Sebab siapa yang diutus Allah, Dialah yang menyampaikan firman Allah, karena Allah mengaruniakan",
+      "ref_id": "Yohanes 3:34",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 30,
       "diatessaron_verse": "18",
       "ref": "John 3:34",
       "arabic_page": 23,
-      "text": "Roh-Nya dengan tidak terbatas."
+      "text": "Roh-Nya dengan tidak terbatas.",
+      "ref_id": "Yohanes 3:34",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 31,
       "diatessaron_verse": "18",
       "ref": "John 3:35",
       "arabic_page": 23,
-      "text": "Bapa mengasihi Anak dan telah menyerahkan segala sesuatu."
+      "text": "Bapa mengasihi Anak dan telah menyerahkan segala sesuatu.",
+      "ref_id": "Yohanes 3:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 32,
       "diatessaron_verse": "19",
       "ref": "John 3:35",
       "arabic_page": 23,
-      "text": "kepada-Nya."
+      "text": "kepada-Nya.",
+      "ref_id": "Yohanes 3:35",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 33,
       "diatessaron_verse": "19",
       "ref": "John 3:36",
       "arabic_page": 23,
-      "text": "Barangsiapa percaya kepada Anak, ia beroleh hidup yang kekal, tetapi barangsiapa tidak taat kepada Anak, ia tidak akan melihat hidup, melainkan murka Allah tetap ada di atasnya.\""
+      "text": "Barangsiapa percaya kepada Anak, ia beroleh hidup yang kekal, tetapi barangsiapa tidak taat kepada Anak, ia tidak akan melihat hidup, melainkan murka Allah tetap ada di atasnya.\"",
+      "ref_id": "Yohanes 3:36",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 27
     },
     {
       "id": 34,
       "diatessaron_verse": "20",
       "ref": "John 4:1",
       "arabic_page": 23,
-      "text": "Ketika Tuhan Yesus mengetahui, bahwa orang-orang Farisi telah mendengar, bahwa Ia memperoleh dan"
+      "text": "Ketika Tuhan Yesus mengetahui, bahwa orang-orang Farisi telah mendengar, bahwa Ia memperoleh dan",
+      "ref_id": "Yohanes 4:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 35,
       "diatessaron_verse": "21",
       "ref": "John 4:1",
       "arabic_page": 23,
-      "text": "membaptis murid lebih banyak dari pada Yohanes"
+      "text": "membaptis murid lebih banyak dari pada Yohanes",
+      "ref_id": "Yohanes 4:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 36,
       "diatessaron_verse": "21",
       "ref": "John 4:2",
       "arabic_page": 23,
-      "text": "--meskipun Yesus sendiri tidak membaptis, melainkan"
+      "text": "--meskipun Yesus sendiri tidak membaptis, melainkan",
+      "ref_id": "Yohanes 4:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 37,
       "diatessaron_verse": "22",
       "ref": "John 4:2",
       "arabic_page": 23,
-      "text": "murid-murid-Nya, --,"
+      "text": "murid-murid-Nya, --,",
+      "ref_id": "Yohanes 4:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 38,
       "diatessaron_verse": "22",
       "ref": "John 4:3[a",
       "arabic_page": 23,
-      "text": "Iapun meninggalkan Yudea."
+      "text": "Iapun meninggalkan Yudea.",
+      "ref_id": "Yohanes 4:3[a",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 39,
       "diatessaron_verse": "23",
       "ref": "Luke 3:19",
       "arabic_page": 23,
-      "text": "Akan tetapi setelah ia menegor raja wilayah Herodes karena peristiwa Herodias, isteri saudaranya, dan karena segala kejahatan lain yang dilakukannya,"
+      "text": "Akan tetapi setelah ia menegor raja wilayah Herodes karena peristiwa Herodias, isteri saudaranya, dan karena segala kejahatan lain yang dilakukannya,",
+      "ref_id": "Lukas 3:19",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 40,
       "diatessaron_verse": "24",
       "ref": "Luke 3:20",
       "arabic_page": 23,
-      "text": "raja itu menambah kejahatannya dengan memasukkan Yohanes ke dalam penjara."
+      "text": "raja itu menambah kejahatannya dengan memasukkan Yohanes ke dalam penjara.",
+      "ref_id": "Lukas 3:20",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 41,
       "diatessaron_verse": "25",
       "ref": "Matthew 4:12",
       "arabic_page": 23,
-      "text": "Tetapi waktu Yesus mendengar, bahwa Yohanes telah ditangkap, menyingkirlah Ia ke Galilea."
+      "text": "Tetapi waktu Yesus mendengar, bahwa Yohanes telah ditangkap, menyingkirlah Ia ke Galilea.",
+      "ref_id": "Matius 4:12",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 42,
       "diatessaron_verse": "26",
       "ref": "John 4:46",
       "arabic_page": 23,
-      "text": "Maka Yesus kembali lagi ke Kana di Galilea, di mana Ia membuat air menjadi anggur. Dan"
+      "text": "Maka Yesus kembali lagi ke Kana di Galilea, di mana Ia membuat air menjadi anggur. Dan",
+      "ref_id": "Yohanes 4:46",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 43,
       "diatessaron_verse": "27",
       "ref": "John 4:46",
       "arabic_page": 23,
-      "text": "di Kapernaum ada seorang pegawai istana, anaknya sedang sakit."
+      "text": "di Kapernaum ada seorang pegawai istana, anaknya sedang sakit.",
+      "ref_id": "Yohanes 4:46",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 44,
       "diatessaron_verse": "27",
       "ref": "John 4:47",
       "arabic_page": 23,
-      "text": "Ketika ia mendengar, bahwa Yesus telah datang dari Yudea ke Galilea, pergilah ia kepada-Nya lalu meminta, supaya Ia datang dan menyembuhkan anaknya, sebab anaknya itu hampir mati."
+      "text": "Ketika ia mendengar, bahwa Yesus telah datang dari Yudea ke Galilea, pergilah ia kepada-Nya lalu meminta, supaya Ia datang dan menyembuhkan anaknya, sebab anaknya itu hampir mati.",
+      "ref_id": "Yohanes 4:47",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 27
     },
     {
       "id": 45,
       "diatessaron_verse": "28, 29",
       "ref": "John 4:48",
       "arabic_page": 23,
-      "text": "Maka kata Yesus kepadanya: \"Jika kamu tidak melihat tanda dan mujizat, kamu tidak percaya.\""
+      "text": "Maka kata Yesus kepadanya: \"Jika kamu tidak melihat tanda dan mujizat, kamu tidak percaya.\"",
+      "ref_id": "Yohanes 4:48",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 46,
       "diatessaron_verse": "28, 29",
       "ref": "John 4:49",
       "arabic_page": 24,
-      "text": "The Pegawai istana itu berkata kepada-Nya: \"Tuhan, datanglah sebelum anakku mati.\""
+      "text": "The Pegawai istana itu berkata kepada-Nya: \"Tuhan, datanglah sebelum anakku mati.\"",
+      "ref_id": "Yohanes 4:49",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 47,
       "diatessaron_verse": "30",
       "ref": "John 4:50",
       "arabic_page": 24,
-      "text": "Kata Yesus kepadanya: \"Pergilah, anakmu hidup!\" Orang itu percaya akan"
+      "text": "Kata Yesus kepadanya: \"Pergilah, anakmu hidup!\" Orang itu percaya akan",
+      "ref_id": "Yohanes 4:50",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 48,
       "diatessaron_verse": "31",
       "ref": "John 4:50",
       "arabic_page": 24,
-      "text": "perkataan yang dikatakan Yesus kepadanya, lalu pergi."
+      "text": "perkataan yang dikatakan Yesus kepadanya, lalu pergi.",
+      "ref_id": "Yohanes 4:50",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 49,
       "diatessaron_verse": "31",
       "ref": "John 4:51",
       "arabic_page": 24,
-      "text": "Ketika ia masih di tengah jalan hamba-hambanya telah datang kepadanya"
+      "text": "Ketika ia masih di tengah jalan hamba-hambanya telah datang kepadanya",
+      "ref_id": "Yohanes 4:51",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 50,
       "diatessaron_verse": "32",
       "ref": "John 4:51",
       "arabic_page": 24,
-      "text": "dengan kabar, bahwa anaknya hidup."
+      "text": "dengan kabar, bahwa anaknya hidup.",
+      "ref_id": "Yohanes 4:51",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 51,
       "diatessaron_verse": "32",
       "ref": "John 4:52",
       "arabic_page": 24,
-      "text": "Ia bertanya kepada mereka pukul berapa anak itu mulai sembuh. Jawab mereka: \"Kemarin siang pukul satu demamnya"
+      "text": "Ia bertanya kepada mereka pukul berapa anak itu mulai sembuh. Jawab mereka: \"Kemarin siang pukul satu demamnya",
+      "ref_id": "Yohanes 4:52",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     },
     {
       "id": 52,
       "diatessaron_verse": "33",
       "ref": "John 4:52",
       "arabic_page": 24,
-      "text": "hilang.\""
+      "text": "hilang.\"",
+      "ref_id": "Yohanes 4:52",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 53,
       "diatessaron_verse": "33",
       "ref": "John 4:53",
       "arabic_page": 24,
-      "text": "Maka teringatlah ayah itu, bahwa pada saat itulah Yesus berkata kepadanya:"
+      "text": "Maka teringatlah ayah itu, bahwa pada saat itulah Yesus berkata kepadanya:",
+      "ref_id": "Yohanes 4:53",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 11
     },
     {
       "id": 54,
       "diatessaron_verse": "34",
       "ref": "John 4:53",
       "arabic_page": 24,
-      "text": "\"Anakmu hidup.\" Lalu iapun percaya, ia dan seluruh keluarganya."
+      "text": "\"Anakmu hidup.\" Lalu iapun percaya, ia dan seluruh keluarganya.",
+      "ref_id": "Yohanes 4:53",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 55,
       "diatessaron_verse": "35",
       "ref": "John 4:54",
       "arabic_page": 24,
-      "text": "Dan itulah tanda kedua yang dibuat Yesus ketika Ia pulang dari Yudea ke Galilea."
+      "text": "Dan itulah tanda kedua yang dibuat Yesus ketika Ia pulang dari Yudea ke Galilea.",
+      "ref_id": "Yohanes 4:54",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 56,
       "diatessaron_verse": "35",
       "ref": "Luke 4:44",
       "arabic_page": 24,
-      "text": "Dan Ia memberitakan Injil dalam rumah-rumah ibadat di Yudea."
+      "text": "Dan Ia memberitakan Injil dalam rumah-rumah ibadat di Yudea.",
+      "ref_id": "Lukas 4:44",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 9
     },
     {
       "id": 57,
       "diatessaron_verse": "36",
       "ref": "Matthew 4:13",
       "arabic_page": 24,
-      "text": "Ia meninggalkan Nazaret dan diam di Kapernaum, di tepi danau, di"
+      "text": "Ia meninggalkan Nazaret dan diam di Kapernaum, di tepi danau, di",
+      "ref_id": "Matius 4:13",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 11
     },
     {
       "id": 58,
       "diatessaron_verse": "37",
       "ref": "Matthew 4:13",
       "arabic_page": 24,
-      "text": "daerah Zebulon dan Naftali,"
+      "text": "daerah Zebulon dan Naftali,",
+      "ref_id": "Matius 4:13",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 4
     },
     {
       "id": 59,
       "diatessaron_verse": "37",
       "ref": "Matthew 4:14",
       "arabic_page": 24,
-      "text": "supaya genaplah firman yang disampaikan oleh nabi Yesaya:"
+      "text": "supaya genaplah firman yang disampaikan oleh nabi Yesaya:",
+      "ref_id": "Matius 4:14",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 60,
       "diatessaron_verse": "38",
       "ref": "Matthew 4:15",
       "arabic_page": 24,
-      "text": "\"Tanah Zebulon dan tanah Naftali, jalan ke laut, daerah seberang sungai Yordan, Galilea, wilayah bangsa-bangsa lain, --"
+      "text": "\"Tanah Zebulon dan tanah Naftali, jalan ke laut, daerah seberang sungai Yordan, Galilea, wilayah bangsa-bangsa lain, --",
+      "ref_id": "Matius 4:15",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 17
     },
     {
       "id": 61,
       "diatessaron_verse": "39",
       "ref": "Matthew 4:16",
       "arabic_page": 24,
-      "text": "bangsa yang diam dalam kegelapan, telah melihat Terang yang besar dan bagi mereka yang diam di negeri yang dinaungi maut, telah terbit Terang.\""
+      "text": "bangsa yang diam dalam kegelapan, telah melihat Terang yang besar dan bagi mereka yang diam di negeri yang dinaungi maut, telah terbit Terang.\"",
+      "ref_id": "Matius 4:16",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 23
     },
     {
       "id": 62,
       "diatessaron_verse": "40",
       "ref": "Luke 4:31[b",
       "arabic_page": 24,
-      "text": "lalu mengajar di situ pada hari-hari Sabat."
+      "text": "lalu mengajar di situ pada hari-hari Sabat.",
+      "ref_id": "Lukas 4:31[b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 63,
       "diatessaron_verse": "40",
       "ref": "Luke 4:32",
       "arabic_page": 24,
-      "text": "Mereka takjub mendengar pengajaran-Nya,"
+      "text": "Mereka takjub mendengar pengajaran-Nya,",
+      "ref_id": "Lukas 4:32",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 64,
       "diatessaron_verse": "41",
       "ref": "Luke 4:32",
       "arabic_page": 24,
-      "text": "sebab perkataan-Nya penuh kuasa."
+      "text": "sebab perkataan-Nya penuh kuasa.",
+      "ref_id": "Lukas 4:32",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 65,
       "diatessaron_verse": "41",
       "ref": "Luke 4:33",
       "arabic_page": 24,
-      "text": "Di dalam rumah ibadat itu ada"
+      "text": "Di dalam rumah ibadat itu ada",
+      "ref_id": "Lukas 4:33",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 66,
       "diatessaron_verse": "42",
       "ref": "Luke 4:33",
       "arabic_page": 24,
-      "text": "seorang yang kerasukan setan dan ia berteriak dengan suara keras:"
+      "text": "seorang yang kerasukan setan dan ia berteriak dengan suara keras:",
+      "ref_id": "Lukas 4:33",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 67,
       "diatessaron_verse": "42",
       "ref": "Luke 4:34",
       "arabic_page": 24,
-      "text": "\"Hai Engkau, Yesus orang Nazaret, apa urusan-Mu dengan kami? Engkau datang hendak"
+      "text": "\"Hai Engkau, Yesus orang Nazaret, apa urusan-Mu dengan kami? Engkau datang hendak",
+      "ref_id": "Lukas 4:34",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 68,
       "diatessaron_verse": "43",
       "ref": "Luke 4:34",
       "arabic_page": 24,
-      "text": "membinasakan kami? Aku tahu siapa Engkau: Yang Kudus dari Allah.\""
+      "text": "membinasakan kami? Aku tahu siapa Engkau: Yang Kudus dari Allah.\"",
+      "ref_id": "Lukas 4:34",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 69,
       "diatessaron_verse": "43",
       "ref": "Luke 4:35",
       "arabic_page": 24,
-      "text": "Tetapi Yesus menghardiknya, kata-Nya: \"Diam, keluarlah dari padanya!\" Dan setan itupun menghempaskan orang itu"
+      "text": "Tetapi Yesus menghardiknya, kata-Nya: \"Diam, keluarlah dari padanya!\" Dan setan itupun menghempaskan orang itu",
+      "ref_id": "Lukas 4:35",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 14
     },
     {
       "id": 70,
       "diatessaron_verse": "44",
       "ref": "Luke 4:35",
       "arabic_page": 24,
-      "text": "ke tengah-tengah orang banyak, lalu keluar dari padanya dan sama sekali tidak menyakitinya."
+      "text": "ke tengah-tengah orang banyak, lalu keluar dari padanya dan sama sekali tidak menyakitinya.",
+      "ref_id": "Lukas 4:35",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 71,
       "diatessaron_verse": "44",
       "ref": "Luke 4:36",
       "arabic_page": 25,
-      "text": "Dan semua orang takjub, lalu berkata seorang kepada yang lain, katanya: \"Alangkah hebatnya perkataan ini! Sebab dengan penuh wibawa dan"
+      "text": "Dan semua orang takjub, lalu berkata seorang kepada yang lain, katanya: \"Alangkah hebatnya perkataan ini! Sebab dengan penuh wibawa dan",
+      "ref_id": "Lukas 4:36",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 72,
       "diatessaron_verse": "45",
       "ref": "Luke 4:36",
       "arabic_page": 25,
-      "text": "kuasa Ia memberi perintah kepada roh-roh jahat dan merekapun keluar.\""
+      "text": "kuasa Ia memberi perintah kepada roh-roh jahat dan merekapun keluar.\"",
+      "ref_id": "Lukas 4:36",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 73,
       "diatessaron_verse": "45",
       "ref": "Luke 4:37",
       "arabic_page": 25,
-      "text": "Dan tersebarlah berita tentang Dia ke mana-mana di daerah itu."
+      "text": "Dan tersebarlah berita tentang Dia ke mana-mana di daerah itu.",
+      "ref_id": "Lukas 4:37",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 10
     },
     {
       "id": 74,
       "diatessaron_verse": "46",
       "ref": "Luke 4:38",
       "arabic_page": 25,
-      "text": "Kemudian Ia meninggalkan rumah ibadat itu dan pergi ke rumah Simon. Adapun ibu mertua Simon demam keras dan mereka meminta kepada Yesus supaya menolong dia."
+      "text": "Kemudian Ia meninggalkan rumah ibadat itu dan pergi ke rumah Simon. Adapun ibu mertua Simon demam keras dan mereka meminta kepada Yesus supaya menolong dia.",
+      "ref_id": "Lukas 4:38",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 25
     },
     {
       "id": 75,
       "diatessaron_verse": "47, 48",
       "ref": "Mark 1:29[b",
       "arabic_page": 25,
-      "text": "Yesus dengan Yakobus dan Yohanes pergi ke rumah Simon dan Andreas."
+      "text": "Yesus dengan Yakobus dan Yohanes pergi ke rumah Simon dan Andreas.",
+      "ref_id": "Markus 1:29[b",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 76,
       "diatessaron_verse": "47, 48",
       "ref": "Luke 4:38[c",
       "arabic_page": 25,
-      "text": "Adapun ibu mertua Simon demam keras dan mereka meminta kepada Yesus supaya menolong"
+      "text": "Adapun ibu mertua Simon demam keras dan mereka meminta kepada Yesus supaya menolong",
+      "ref_id": "Lukas 4:38[c",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 77,
       "diatessaron_verse": "49",
       "ref": "Luke 4:38[c",
       "arabic_page": 25,
-      "text": "dia."
+      "text": "dia.",
+      "ref_id": "Lukas 4:38[c",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 78,
       "diatessaron_verse": "49",
       "ref": "Luke 4:39",
       "arabic_page": 25,
-      "text": "Maka Ia berdiri di sisi perempuan itu, lalu menghardik demam itu, dan penyakit itupun meninggalkan dia."
+      "text": "Maka Ia berdiri di sisi perempuan itu, lalu menghardik demam itu, dan penyakit itupun meninggalkan dia.",
+      "ref_id": "Lukas 4:39",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 16
     },
     {
       "id": 79,
       "diatessaron_verse": "50",
       "ref": "Luke 4:39",
       "arabic_page": 25,
-      "text": "Perempuan itu segera bangun dan melayani mereka."
+      "text": "Perempuan itu segera bangun dan melayani mereka.",
+      "ref_id": "Lukas 4:39",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 80,
       "diatessaron_verse": "50",
       "ref": "Matthew 8:16[a",
       "arabic_page": 25,
-      "text": "Menjelang malam dibawalah kepada Yesus banyak orang yang kerasukan"
+      "text": "Menjelang malam dibawalah kepada Yesus banyak orang yang kerasukan",
+      "ref_id": "Matius 8:16[a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 81,
       "diatessaron_verse": "51",
       "ref": "Matthew 8:16[a",
       "arabic_page": 25,
-      "text": "setan dan dengan sepatah kata Yesus mengusir roh-roh itu,"
+      "text": "setan dan dengan sepatah kata Yesus mengusir roh-roh itu,",
+      "ref_id": "Matius 8:16[a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 9
     },
     {
       "id": 82,
       "diatessaron_verse": "51",
       "ref": "Luke 4:40[b",
       "arabic_page": 25,
-      "text": "semua orang membawa kepada-Nya orang-orang sakitnya, yang menderita bermacam-macam penyakit. Iapun meletakkan tangan-Nya"
+      "text": "semua orang membawa kepada-Nya orang-orang sakitnya, yang menderita bermacam-macam penyakit. Iapun meletakkan tangan-Nya",
+      "ref_id": "Lukas 4:40[b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 83,
       "diatessaron_verse": "52",
       "ref": "Luke 4:40[b",
       "arabic_page": 25,
-      "text": "atas mereka masing-masing dan menyembuhkan mereka."
+      "text": "atas mereka masing-masing dan menyembuhkan mereka.",
+      "ref_id": "Lukas 4:40[b",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 84,
       "diatessaron_verse": "52",
       "ref": "Matthew 8:17",
       "arabic_page": 25,
-      "text": "Hal itu terjadi supaya genaplah firman yang disampaikan"
+      "text": "Hal itu terjadi supaya genaplah firman yang disampaikan",
+      "ref_id": "Matius 8:17",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 8
     },
     {
       "id": 85,
       "diatessaron_verse": "53",
       "ref": "Matthew 8:17",
       "arabic_page": 25,
-      "text": "oleh nabi Yesaya: \"Dialah yang memikul kelemahan kita dan menanggung penyakit kita.\""
+      "text": "oleh nabi Yesaya: \"Dialah yang memikul kelemahan kita dan menanggung penyakit kita.\"",
+      "ref_id": "Matius 8:17",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 12
     },
     {
       "id": 86,
       "diatessaron_verse": "53",
       "ref": "Mark 1:33",
       "arabic_page": 25,
-      "text": "Maka"
+      "text": "Maka",
+      "ref_id": "Markus 1:33",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 1
     },
     {
       "id": 87,
       "diatessaron_verse": "54",
       "ref": "Mark 1:33",
       "arabic_page": 25,
-      "text": "berkerumunlah seluruh penduduk kota itu di depan pintu."
+      "text": "berkerumunlah seluruh penduduk kota itu di depan pintu.",
+      "ref_id": "Markus 1:33",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 88,
       "diatessaron_verse": "54",
       "ref": "Luke 4:41",
       "arabic_page": 25,
-      "text": "Dari banyak orang keluar juga setan-setan sambil berteriak: \"Engkau adalah Anak Allah.\" Lalu Ia dengan keras melarang mereka dan tidak memperbolehkan mereka berbicara, karena mereka tahu bahwa Ia adalah Mesias."
+      "text": "Dari banyak orang keluar juga setan-setan sambil berteriak: \"Engkau adalah Anak Allah.\" Lalu Ia dengan keras melarang mereka dan tidak memperbolehkan mereka berbicara, karena mereka tahu bahwa Ia adalah Mesias.",
+      "ref_id": "Lukas 4:41",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 30
     }
-  ]
+  ],
+  "title_id": "Penjala Manusia, Percakapan Nikodemus & Pelayanan Awal",
+  "title_en": "Fishers of Men & Early Ministry in Judea and Galilee",
+  "epoch_id": 2,
+  "total_words": 954,
+  "arabic_page_range": "p. 22 - p. 25",
+  "arabic_pages": [
+    22,
+    23,
+    24,
+    25
+  ],
+  "stats": {
+    "mat": 10,
+    "mrk": 3,
+    "luk": 30,
+    "yoh": 45,
+    "unk": 0
+  },
+  "footnotes": []
 }

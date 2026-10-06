@@ -27,604 +27,1052 @@
     {
       "id": 1,
       "diatessaron_verse": "1",
-      "ref": "Mat. 21:10a",
+      "ref": "Matthew 21:10a",
       "arabic_page": null,
-      "text": "Dan ketika Ia masuk ke Yerusalem,"
+      "text": "Dan ketika Ia masuk ke Yerusalem,",
+      "ref_id": "Matius 21:10a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 2,
       "diatessaron_verse": "1",
-      "ref": "Mat. 21:12a",
+      "ref": "Matthew 21:12a",
       "arabic_page": null,
-      "text": "Lalu Yesus masuk ke Bait Allah, ["
+      "text": "Lalu Yesus masuk ke Bait Allah, [",
+      "ref_id": "Matius 21:12a",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 7
     },
     {
       "id": 3,
       "diatessaron_verse": "1",
-      "ref": "Yoh. 2:14",
+      "ref": "John 2:14",
       "arabic_page": null,
-      "text": "Dalam Bait Suci didapati-Nya pedagang-pedagang lembu, kambing domba dan merpati, dan penukar-penukar uang duduk di situ."
+      "text": "Dalam Bait Suci didapati-Nya pedagang-pedagang lembu, kambing domba dan merpati, dan penukar-penukar uang duduk di situ.",
+      "ref_id": "Yohanes 2:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 16
     },
     {
       "id": 4,
       "diatessaron_verse": "1",
-      "ref": "Yoh.2:15",
+      "ref": "John 2:15",
       "arabic_page": null,
-      "text": "Ia membuat cambuk dari tali lalu mengusir mereka semua dari Bait Suci dengan semua kambing domba dan lembu mereka; uang penukar-penukar dihamburkan-Nya ke tanah dan meja-meja mereka dibalikkan-Nya."
+      "text": "Ia membuat cambuk dari tali lalu mengusir mereka semua dari Bait Suci dengan semua kambing domba dan lembu mereka; uang penukar-penukar dihamburkan-Nya ke tanah dan meja-meja mereka dibalikkan-Nya.",
+      "ref_id": "Yohanes 2:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 28
     },
     {
       "id": 5,
       "diatessaron_verse": "1",
       "ref": "Matthew 21:12c",
       "arabic_page": null,
-      "text": "Ia membalikkan meja-meja"
+      "text": "Ia membalikkan meja-meja",
+      "ref_id": "Matius 21:12c",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 3
     },
     {
       "id": 6,
       "diatessaron_verse": "3",
       "ref": "Matthew 21:12c",
       "arabic_page": null,
-      "text": "penukar uang dan bangku-bangku pedagang merpati;"
+      "text": "penukar uang dan bangku-bangku pedagang merpati;",
+      "ref_id": "Matius 21:12c",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 6
     },
     {
       "id": 7,
       "diatessaron_verse": "3",
       "ref": "Matthew 21:13",
       "arabic_page": null,
-      "text": "dan berkata kepada mereka: \"Ada tertulis: Rumah-Ku akan disebut rumah doa. Tetapi kamu menjadikannya"
+      "text": "dan berkata kepada mereka: \"Ada tertulis: Rumah-Ku akan disebut rumah doa. Tetapi kamu menjadikannya",
+      "ref_id": "Matius 21:13",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 14
     },
     {
       "id": 8,
       "diatessaron_verse": "4",
       "ref": "Matthew 21:13",
       "arabic_page": null,
-      "text": "sarang penyamun.\""
+      "text": "sarang penyamun.\"",
+      "ref_id": "Matius 21:13",
+      "book_code": "mat",
+      "book_en": "Matthew",
+      "book_id": "Matius",
+      "word_count": 2
     },
     {
       "id": 9,
       "diatessaron_verse": "4",
       "ref": "John 2:16",
       "arabic_page": null,
-      "text": "Kepada pedagang-pedagang merpati Ia berkata: \"Ambil semuanya ini dari sini,"
+      "text": "Kepada pedagang-pedagang merpati Ia berkata: \"Ambil semuanya ini dari sini,",
+      "ref_id": "Yohanes 2:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 10,
       "diatessaron_verse": "5",
       "ref": "John 2:16",
       "arabic_page": null,
-      "text": "jangan kamu membuat rumah Bapa-Ku menjadi tempat berjualan.\""
+      "text": "jangan kamu membuat rumah Bapa-Ku menjadi tempat berjualan.\"",
+      "ref_id": "Yohanes 2:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 11,
       "diatessaron_verse": "5",
       "ref": "Mark 11:16",
       "arabic_page": null,
-      "text": "dan Ia tidak memperbolehkan orang membawa barang-barang melintasi halaman Bait Allah."
+      "text": "dan Ia tidak memperbolehkan orang membawa barang-barang melintasi halaman Bait Allah.",
+      "ref_id": "Markus 11:16",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 11
     },
     {
       "id": 12,
       "diatessaron_verse": "5",
       "ref": "John 2:17",
       "arabic_page": null,
-      "text": "Maka teringatlah murid-murid-Nya, bahwa ada tertulis:"
+      "text": "Maka teringatlah murid-murid-Nya, bahwa ada tertulis:",
+      "ref_id": "Yohanes 2:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 13,
       "diatessaron_verse": "7",
       "ref": "John 2:17",
       "arabic_page": null,
-      "text": "\"Cinta untuk rumah-Mu menghanguskan Aku.\""
+      "text": "\"Cinta untuk rumah-Mu menghanguskan Aku.\"",
+      "ref_id": "Yohanes 2:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 14,
       "diatessaron_verse": "7",
       "ref": "John 2:18",
       "arabic_page": null,
-      "text": "Orang-orang Yahudi menantang Yesus, katanya:"
+      "text": "Orang-orang Yahudi menantang Yesus, katanya:",
+      "ref_id": "Yohanes 2:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 15,
       "diatessaron_verse": "8",
       "ref": "John 2:18",
       "arabic_page": null,
-      "text": "\"Tanda apakah dapat Engkau tunjukkan kepada kami, bahwa Engkau berhak bertindak demikian?\""
+      "text": "\"Tanda apakah dapat Engkau tunjukkan kepada kami, bahwa Engkau berhak bertindak demikian?\"",
+      "ref_id": "Yohanes 2:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 12
     },
     {
       "id": 16,
       "diatessaron_verse": "8",
       "ref": "John 2:19",
       "arabic_page": null,
-      "text": "Jawab Yesus kepada"
+      "text": "Jawab Yesus kepada",
+      "ref_id": "Yohanes 2:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 17,
       "diatessaron_verse": "9",
       "ref": "John 2:19",
       "arabic_page": null,
-      "text": "mereka: \"Rombak Bait Allah ini, dan dalam tiga hari Aku akan mendirikannya kembali.\""
+      "text": "mereka: \"Rombak Bait Allah ini, dan dalam tiga hari Aku akan mendirikannya kembali.\"",
+      "ref_id": "Yohanes 2:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 18,
       "diatessaron_verse": "9",
       "ref": "John 2:20",
       "arabic_page": null,
-      "text": "Lalu kata orang Yahudi kepada-Nya: \"Empat puluh enam tahun orang mendirikan Bait Allah ini dan Engkau dapat membangunnya dalam tiga hari?\""
+      "text": "Lalu kata orang Yahudi kepada-Nya: \"Empat puluh enam tahun orang mendirikan Bait Allah ini dan Engkau dapat membangunnya dalam tiga hari?\"",
+      "ref_id": "Yohanes 2:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 21
     },
     {
       "id": 19,
       "diatessaron_verse": "10",
       "ref": "John 2:21",
       "arabic_page": null,
-      "text": "Tetapi yang dimaksudkan-Nya dengan Bait Allah ialah tubuh-Nya sendiri,"
+      "text": "Tetapi yang dimaksudkan-Nya dengan Bait Allah ialah tubuh-Nya sendiri,",
+      "ref_id": "Yohanes 2:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 20,
       "diatessaron_verse": "11",
       "ref": "John 2:22",
       "arabic_page": 122,
-      "text": "Kemudian, sesudah Ia bangkit dari antara orang mati, barulah teringat oleh murid-murid-Nya bahwa hal itu telah dikatakan-Nya, dan merekapun percayalah akan Kitab Suci dan akan perkataan yang telah diucapkan Yesus."
+      "text": "Kemudian, sesudah Ia bangkit dari antara orang mati, barulah teringat oleh murid-murid-Nya bahwa hal itu telah dikatakan-Nya, dan merekapun percayalah akan Kitab Suci dan akan perkataan yang telah diucapkan Yesus.",
+      "ref_id": "Yohanes 2:22",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 30
     },
     {
       "id": 21,
       "diatessaron_verse": "12",
       "ref": "Mark 12:41",
       "arabic_page": 122,
-      "text": "Pada suatu kali Yesus duduk menghadapi peti persembahan dan memperhatikan bagaimana orang banyak memasukkan uang ke dalam peti itu. Banyak orang kaya"
+      "text": "Pada suatu kali Yesus duduk menghadapi peti persembahan dan memperhatikan bagaimana orang banyak memasukkan uang ke dalam peti itu. Banyak orang kaya",
+      "ref_id": "Markus 12:41",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 22
     },
     {
       "id": 22,
       "diatessaron_verse": "13,14",
       "ref": "Mark 12:41",
       "arabic_page": 122,
-      "text": "memberi jumlah yang besar."
+      "text": "memberi jumlah yang besar.",
+      "ref_id": "Markus 12:41",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 4
     },
     {
       "id": 23,
       "diatessaron_verse": "13,14",
       "ref": "Mark 12:42a",
       "arabic_page": 122,
-      "text": "Lalu datanglah seorang janda yang miskin dan ia memasukkan dua peser, yaitu satu duit."
+      "text": "Lalu datanglah seorang janda yang miskin dan ia memasukkan dua peser, yaitu satu duit.",
+      "ref_id": "Markus 12:42a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 14
     },
     {
       "id": 24,
       "diatessaron_verse": "13,14",
       "ref": "Luke 21:3",
       "arabic_page": 122,
-      "text": "Lalu Ia berkata: \"Aku berkata kepadamu, sesungguhnya"
+      "text": "Lalu Ia berkata: \"Aku berkata kepadamu, sesungguhnya",
+      "ref_id": "Lukas 21:3",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 7
     },
     {
       "id": 25,
       "diatessaron_verse": "15",
       "ref": "Luke 21:3",
       "arabic_page": 122,
-      "text": "janda miskin ini memberi lebih banyak dari pada semua orang itu."
+      "text": "janda miskin ini memberi lebih banyak dari pada semua orang itu.",
+      "ref_id": "Lukas 21:3",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 26,
       "diatessaron_verse": "15",
       "ref": "Mark 12:44a",
       "arabic_page": 122,
-      "text": "Sebab mereka semua memberi dari kelimpahannya, tetapi janda ini memberi dari kekurangannya, semua yang ada padanya, yaitu seluruh nafkahnya.\""
+      "text": "Sebab mereka semua memberi dari kelimpahannya, tetapi janda ini memberi dari kekurangannya, semua yang ada padanya, yaitu seluruh nafkahnya.\"",
+      "ref_id": "Markus 12:44a",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 19
     },
     {
       "id": 27,
       "diatessaron_verse": "16",
       "ref": "Luke 18:9",
       "arabic_page": 122,
-      "text": "Dan kepada beberapa orang yang menganggap"
+      "text": "Dan kepada beberapa orang yang menganggap",
+      "ref_id": "Lukas 18:9",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 6
     },
     {
       "id": 28,
       "diatessaron_verse": "17",
       "ref": "Luke 18:9",
       "arabic_page": 122,
-      "text": "dirinya benar dan memandang rendah semua orang lain, Yesus mengatakan perumpamaan ini:"
+      "text": "dirinya benar dan memandang rendah semua orang lain, Yesus mengatakan perumpamaan ini:",
+      "ref_id": "Lukas 18:9",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 12
     },
     {
       "id": 29,
       "diatessaron_verse": "17",
       "ref": "Luke 18:10",
       "arabic_page": 122,
-      "text": "\"Ada dua orang pergi ke"
+      "text": "\"Ada dua orang pergi ke",
+      "ref_id": "Lukas 18:10",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 30,
       "diatessaron_verse": "18",
       "ref": "Luke 18:10",
       "arabic_page": 122,
-      "text": "Bait Allah untuk berdoa; yang seorang adalah Farisi dan yang lain pemungut cukai."
+      "text": "Bait Allah untuk berdoa; yang seorang adalah Farisi dan yang lain pemungut cukai.",
+      "ref_id": "Lukas 18:10",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 13
     },
     {
       "id": 31,
       "diatessaron_verse": "18",
       "ref": "Luke 18:11",
       "arabic_page": 122,
-      "text": "Orang Farisi itu berdiri dan berdoa dalam hatinya begini: Ya Allah, aku mengucap syukur kepada-Mu, karena aku tidak sama seperti semua orang lain, bukan perampok, bukan orang lalim, bukan pezinah dan bukan juga seperti pemungut cukai ini;"
+      "text": "Orang Farisi itu berdiri dan berdoa dalam hatinya begini: Ya Allah, aku mengucap syukur kepada-Mu, karena aku tidak sama seperti semua orang lain, bukan perampok, bukan orang lalim, bukan pezinah dan bukan juga seperti pemungut cukai ini;",
+      "ref_id": "Lukas 18:11",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 37
     },
     {
       "id": 32,
       "diatessaron_verse": "19",
       "ref": "Luke 18:12",
       "arabic_page": 122,
-      "text": "aku berpuasa dua kali seminggu, aku memberikan sepersepuluh dari segala penghasilanku."
+      "text": "aku berpuasa dua kali seminggu, aku memberikan sepersepuluh dari segala penghasilanku.",
+      "ref_id": "Lukas 18:12",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 33,
       "diatessaron_verse": "19",
       "ref": "Luke 18:13",
       "arabic_page": 122,
-      "text": "Tetapi pemungut cukai itu"
+      "text": "Tetapi pemungut cukai itu",
+      "ref_id": "Lukas 18:13",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 4
     },
     {
       "id": 34,
       "diatessaron_verse": "20",
       "ref": "Luke 18:13",
       "arabic_page": 122,
-      "text": "berdiri jauh-jauh, bahkan ia tidak berani menengadah ke langit, melainkan ia"
+      "text": "berdiri jauh-jauh, bahkan ia tidak berani menengadah ke langit, melainkan ia",
+      "ref_id": "Lukas 18:13",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 35,
       "diatessaron_verse": "21",
       "ref": "Luke 18:13",
       "arabic_page": 122,
-      "text": "memukul diri dan berkata: Ya Allah, kasihanilah aku orang berdosa ini."
+      "text": "memukul diri dan berkata: Ya Allah, kasihanilah aku orang berdosa ini.",
+      "ref_id": "Lukas 18:13",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 11
     },
     {
       "id": 36,
       "diatessaron_verse": "21",
       "ref": "Luke 18:14",
       "arabic_page": 122,
-      "text": "Aku berkata kepadamu: Orang ini pulang ke rumahnya sebagai orang yang dibenarkan Allah dan orang lain itu tidak. Sebab barangsiapa meninggikan diri, ia akan direndahkan dan barangsiapa merendahkan diri, ia akan ditinggikan.\""
+      "text": "Aku berkata kepadamu: Orang ini pulang ke rumahnya sebagai orang yang dibenarkan Allah dan orang lain itu tidak. Sebab barangsiapa meninggikan diri, ia akan direndahkan dan barangsiapa merendahkan diri, ia akan ditinggikan.\"",
+      "ref_id": "Lukas 18:14",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 32
     },
     {
       "id": 37,
       "diatessaron_verse": "22",
       "ref": "Luke 18:14",
       "arabic_page": 123,
-      "text": "["
+      "text": "[",
+      "ref_id": "Lukas 18:14",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 1
     },
     {
       "id": 38,
       "diatessaron_verse": "22",
-      "ref": "Mark. 11:11",
+      "ref": "Mark 11:11",
       "arabic_page": 123,
-      "text": "hari sudah hampir malam Ia keluar ke"
+      "text": "hari sudah hampir malam Ia keluar ke",
+      "ref_id": "Markus 11:11",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 39,
       "diatessaron_verse": "23",
-      "ref": "Mark. 11:11",
+      "ref": "Mark 11:11",
       "arabic_page": 123,
-      "text": "Betania bersama dengan kedua belas murid-Nya."
+      "text": "Betania bersama dengan kedua belas murid-Nya.",
+      "ref_id": "Markus 11:11",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 6
     },
     {
       "id": 40,
       "diatessaron_verse": "23",
       "ref": "Luke 9:11",
       "arabic_page": 123,
-      "text": "Akan tetapi orang banyak mengetahuinya, lalu mengikuti Dia. Ia menerima mereka dan berkata-kata kepada mereka tentang Kerajaan Allah dan Ia"
+      "text": "Akan tetapi orang banyak mengetahuinya, lalu mengikuti Dia. Ia menerima mereka dan berkata-kata kepada mereka tentang Kerajaan Allah dan Ia",
+      "ref_id": "Lukas 9:11",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 20
     },
     {
       "id": 41,
       "diatessaron_verse": "24",
       "ref": "Luke 9:11",
       "arabic_page": 123,
-      "text": "menyembuhkan orang-orang yang memerlukan penyembuhan."
+      "text": "menyembuhkan orang-orang yang memerlukan penyembuhan.",
+      "ref_id": "Lukas 9:11",
+      "book_code": "luk",
+      "book_en": "Luke",
+      "book_id": "Lukas",
+      "word_count": 5
     },
     {
       "id": 42,
       "diatessaron_verse": "24",
       "ref": "Mark 11:12",
       "arabic_page": 123,
-      "text": "Keesokan harinya sesudah Yesus dan kedua belas murid-Nya"
+      "text": "Keesokan harinya sesudah Yesus dan kedua belas murid-Nya",
+      "ref_id": "Markus 11:12",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 8
     },
     {
       "id": 43,
       "diatessaron_verse": "25",
       "ref": "Mark 11:12",
       "arabic_page": 123,
-      "text": "meninggalkan Betania, Yesus merasa lapar."
+      "text": "meninggalkan Betania, Yesus merasa lapar.",
+      "ref_id": "Markus 11:12",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 5
     },
     {
       "id": 44,
       "diatessaron_verse": "25",
       "ref": "Mark 11:13",
       "arabic_page": 123,
-      "text": "Dan dari jauh Ia melihat pohon ara yang sudah berdaun. Ia mendekatinya untuk melihat kalau-kalau Ia mendapat apa-apa pada pohon itu. Tetapi waktu Ia tiba di situ, Ia tidak mendapat apa-apa selain daun-daun saja, sebab memang bukan"
+      "text": "Dan dari jauh Ia melihat pohon ara yang sudah berdaun. Ia mendekatinya untuk melihat kalau-kalau Ia mendapat apa-apa pada pohon itu. Tetapi waktu Ia tiba di situ, Ia tidak mendapat apa-apa selain daun-daun saja, sebab memang bukan",
+      "ref_id": "Markus 11:13",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 37
     },
     {
       "id": 45,
       "diatessaron_verse": "26",
       "ref": "Mark 11:13",
       "arabic_page": 123,
-      "text": "musim buah ara."
+      "text": "musim buah ara.",
+      "ref_id": "Markus 11:13",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 3
     },
     {
       "id": 46,
       "diatessaron_verse": "26",
       "ref": "Mark 11:14",
       "arabic_page": 123,
-      "text": "Maka kata-Nya kepada pohon itu: \"Jangan lagi seorangpun makan buahmu selama-lamanya!\" Dan murid-murid-Nyapun mendengarnya."
+      "text": "Maka kata-Nya kepada pohon itu: \"Jangan lagi seorangpun makan buahmu selama-lamanya!\" Dan murid-murid-Nyapun mendengarnya.",
+      "ref_id": "Markus 11:14",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 14
     },
     {
       "id": 47,
       "diatessaron_verse": "27",
-      "ref": "Mark. 11:15",
+      "ref": "Mark 11:15",
       "arabic_page": 123,
-      "text": "Lalu tibalah Yesus dan murid-murid-Nya di Yerusalem."
+      "text": "Lalu tibalah Yesus dan murid-murid-Nya di Yerusalem.",
+      "ref_id": "Markus 11:15",
+      "book_code": "mrk",
+      "book_en": "Mark",
+      "book_id": "Markus",
+      "word_count": 7
     },
     {
       "id": 48,
       "diatessaron_verse": "27",
-      "ref": "Yoh. 3:1",
+      "ref": "John 3:1",
       "arabic_page": 123,
-      "text": "Adalah seorang Farisi yang"
+      "text": "Adalah seorang Farisi yang",
+      "ref_id": "Yohanes 3:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 49,
       "diatessaron_verse": "28",
-      "ref": "Yoh. 3:1",
+      "ref": "John 3:1",
       "arabic_page": 123,
-      "text": "bernama Nikodemus, seorang pemimpin agama Yahudi."
+      "text": "bernama Nikodemus, seorang pemimpin agama Yahudi.",
+      "ref_id": "Yohanes 3:1",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 50,
       "diatessaron_verse": "28",
       "ref": "John 3:2",
       "arabic_page": 123,
-      "text": "Ia datang pada waktu malam kepada Yesus dan berkata: \"Rabi, kami tahu, bahwa Engkau datang sebagai guru yang diutus Allah; sebab tidak ada seorangpun yang dapat mengadakan tanda-tanda yang Engkau adakan itu, jika Allah tidak"
+      "text": "Ia datang pada waktu malam kepada Yesus dan berkata: \"Rabi, kami tahu, bahwa Engkau datang sebagai guru yang diutus Allah; sebab tidak ada seorangpun yang dapat mengadakan tanda-tanda yang Engkau adakan itu, jika Allah tidak",
+      "ref_id": "Yohanes 3:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 35
     },
     {
       "id": 51,
       "diatessaron_verse": "29",
       "ref": "John 3:2",
       "arabic_page": 123,
-      "text": "menyertainya.\""
+      "text": "menyertainya.\"",
+      "ref_id": "Yohanes 3:2",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 52,
       "diatessaron_verse": "29",
       "ref": "John 3:3",
       "arabic_page": 123,
-      "text": "Yesus menjawab, kata-Nya: \"Aku berkata kepadamu, sesungguhnya jika seorang"
+      "text": "Yesus menjawab, kata-Nya: \"Aku berkata kepadamu, sesungguhnya jika seorang",
+      "ref_id": "Yohanes 3:3",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 53,
       "diatessaron_verse": "30",
       "ref": "John 3:3",
       "arabic_page": 123,
-      "text": "tidak dilahirkan kembali, ia tidak dapat melihat Kerajaan Allah.\""
+      "text": "tidak dilahirkan kembali, ia tidak dapat melihat Kerajaan Allah.\"",
+      "ref_id": "Yohanes 3:3",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 54,
       "diatessaron_verse": "30",
       "ref": "John 3:4",
       "arabic_page": 123,
-      "text": "Kata Nikodemus kepada-Nya: \"Bagaimanakah mungkin seorang dilahirkan, kalau ia sudah tua? Dapatkah ia masuk kembali ke dalam"
+      "text": "Kata Nikodemus kepada-Nya: \"Bagaimanakah mungkin seorang dilahirkan, kalau ia sudah tua? Dapatkah ia masuk kembali ke dalam",
+      "ref_id": "Yohanes 3:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     },
     {
       "id": 55,
       "diatessaron_verse": "31",
       "ref": "John 3:4",
       "arabic_page": 123,
-      "text": "rahim ibunya dan dilahirkan lagi?\""
+      "text": "rahim ibunya dan dilahirkan lagi?\"",
+      "ref_id": "Yohanes 3:4",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 56,
       "diatessaron_verse": "31",
       "ref": "John 3:5",
       "arabic_page": 123,
-      "text": "Jawab Yesus: \"Aku berkata kepadamu, sesungguhnya jika seorang tidak dilahirkan dari air dan Roh,"
+      "text": "Jawab Yesus: \"Aku berkata kepadamu, sesungguhnya jika seorang tidak dilahirkan dari air dan Roh,",
+      "ref_id": "Yohanes 3:5",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 14
     },
     {
       "id": 57,
       "diatessaron_verse": "32",
       "ref": "John 3:5",
       "arabic_page": 123,
-      "text": "ia tidak dapat masuk ke dalam Kerajaan Allah."
+      "text": "ia tidak dapat masuk ke dalam Kerajaan Allah.",
+      "ref_id": "Yohanes 3:5",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 58,
       "diatessaron_verse": "32",
       "ref": "John 3:6",
       "arabic_page": 123,
-      "text": "Apa yang dilahirkan dari daging, adalah daging, dan"
+      "text": "Apa yang dilahirkan dari daging, adalah daging, dan",
+      "ref_id": "Yohanes 3:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 8
     },
     {
       "id": 59,
       "diatessaron_verse": "33",
       "ref": "John 3:6",
       "arabic_page": 123,
-      "text": "apa yang dilahirkan dari Roh, adalah roh."
+      "text": "apa yang dilahirkan dari Roh, adalah roh.",
+      "ref_id": "Yohanes 3:6",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 60,
       "diatessaron_verse": "33",
       "ref": "John 3:7",
       "arabic_page": 123,
-      "text": "Janganlah engkau heran, karena Aku berkata kepadamu: Kamu harus dilahirkan"
+      "text": "Janganlah engkau heran, karena Aku berkata kepadamu: Kamu harus dilahirkan",
+      "ref_id": "Yohanes 3:7",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 61,
       "diatessaron_verse": "34",
       "ref": "John 3:7",
       "arabic_page": 124,
-      "text": "kembali."
+      "text": "kembali.",
+      "ref_id": "Yohanes 3:7",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 62,
       "diatessaron_verse": "34",
       "ref": "John 3:8",
       "arabic_page": 124,
-      "text": "Angin bertiup ke mana ia mau, dan engkau mendengar bunyinya, tetapi engkau tidak tahu dari mana ia datang atau ke mana ia pergi. Demikianlah halnya dengan"
+      "text": "Angin bertiup ke mana ia mau, dan engkau mendengar bunyinya, tetapi engkau tidak tahu dari mana ia datang atau ke mana ia pergi. Demikianlah halnya dengan",
+      "ref_id": "Yohanes 3:8",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 26
     },
     {
       "id": 63,
       "diatessaron_verse": "35",
       "ref": "John 3:8",
       "arabic_page": 124,
-      "text": "tiap-tiap orang yang lahir dari Roh.\""
+      "text": "tiap-tiap orang yang lahir dari Roh.\"",
+      "ref_id": "Yohanes 3:8",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 64,
       "diatessaron_verse": "35",
       "ref": "John 3:9",
       "arabic_page": 124,
-      "text": "Nikodemus menjawab, katanya:"
+      "text": "Nikodemus menjawab, katanya:",
+      "ref_id": "Yohanes 3:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 65,
       "diatessaron_verse": "36",
       "ref": "John 3:9",
       "arabic_page": 124,
-      "text": "\"Bagaimanakah mungkin hal itu terjadi?\""
+      "text": "\"Bagaimanakah mungkin hal itu terjadi?\"",
+      "ref_id": "Yohanes 3:9",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 5
     },
     {
       "id": 66,
       "diatessaron_verse": "36",
       "ref": "John 3:10",
       "arabic_page": 124,
-      "text": "Jawab Yesus: \"Engkau adalah pengajar Israel,"
+      "text": "Jawab Yesus: \"Engkau adalah pengajar Israel,",
+      "ref_id": "Yohanes 3:10",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 67,
       "diatessaron_verse": "37",
       "ref": "John 3:10",
       "arabic_page": 124,
-      "text": "dan engkau tidak mengerti hal-hal itu?"
+      "text": "dan engkau tidak mengerti hal-hal itu?",
+      "ref_id": "Yohanes 3:10",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 6
     },
     {
       "id": 68,
       "diatessaron_verse": "37",
       "ref": "John 3:11",
       "arabic_page": 124,
-      "text": "Aku berkata kepadamu, sesungguhnya"
+      "text": "Aku berkata kepadamu, sesungguhnya",
+      "ref_id": "Yohanes 3:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 4
     },
     {
       "id": 69,
       "diatessaron_verse": "38",
       "ref": "John 3:11",
       "arabic_page": 124,
-      "text": "kami berkata-kata tentang apa yang kami ketahui dan kami bersaksi tentang apa yang kami lihat, tetapi kamu tidak menerima kesaksian kami."
+      "text": "kami berkata-kata tentang apa yang kami ketahui dan kami bersaksi tentang apa yang kami lihat, tetapi kamu tidak menerima kesaksian kami.",
+      "ref_id": "Yohanes 3:11",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 21
     },
     {
       "id": 70,
       "diatessaron_verse": "38",
       "ref": "John 3:12",
       "arabic_page": 124,
-      "text": "Kamu tidak percaya, waktu Aku berkata-kata dengan kamu tentang hal-hal duniawi, bagaimana kamu akan percaya, kalau Aku berkata-kata dengan kamu"
+      "text": "Kamu tidak percaya, waktu Aku berkata-kata dengan kamu tentang hal-hal duniawi, bagaimana kamu akan percaya, kalau Aku berkata-kata dengan kamu",
+      "ref_id": "Yohanes 3:12",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 71,
       "diatessaron_verse": "39",
       "ref": "John 3:12",
       "arabic_page": 124,
-      "text": "tentang hal-hal sorgawi?"
+      "text": "tentang hal-hal sorgawi?",
+      "ref_id": "Yohanes 3:12",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 72,
       "diatessaron_verse": "39",
       "ref": "John 3:13",
       "arabic_page": 124,
-      "text": "Tidak ada seorangpun yang telah naik ke sorga, selain dari pada Dia yang telah turun dari sorga, yaitu Anak Manusia."
+      "text": "Tidak ada seorangpun yang telah naik ke sorga, selain dari pada Dia yang telah turun dari sorga, yaitu Anak Manusia.",
+      "ref_id": "Yohanes 3:13",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 20
     },
     {
       "id": 73,
       "diatessaron_verse": "40",
       "ref": "John 3:14",
       "arabic_page": 124,
-      "text": "Dan sama seperti Musa meninggikan ular di padang gurun, demikian juga Anak Manusia"
+      "text": "Dan sama seperti Musa meninggikan ular di padang gurun, demikian juga Anak Manusia",
+      "ref_id": "Yohanes 3:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 74,
       "diatessaron_verse": "41",
       "ref": "John 3:14",
       "arabic_page": 124,
-      "text": "harus ditinggikan,"
+      "text": "harus ditinggikan,",
+      "ref_id": "Yohanes 3:14",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 2
     },
     {
       "id": 75,
       "diatessaron_verse": "41",
       "ref": "John 3:15",
       "arabic_page": 124,
-      "text": "supaya setiap orang yang percaya kepada-Nya beroleh"
+      "text": "supaya setiap orang yang percaya kepada-Nya beroleh",
+      "ref_id": "Yohanes 3:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 7
     },
     {
       "id": 76,
       "diatessaron_verse": "42",
       "ref": "John 3:15",
       "arabic_page": 124,
-      "text": "hidup yang kekal."
+      "text": "hidup yang kekal.",
+      "ref_id": "Yohanes 3:15",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 77,
       "diatessaron_verse": "42",
       "ref": "John 3:16",
       "arabic_page": 124,
-      "text": "Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal."
+      "text": "Karena begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal.",
+      "ref_id": "Yohanes 3:16",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 28
     },
     {
       "id": 78,
       "diatessaron_verse": "43",
       "ref": "John 3:17",
       "arabic_page": 124,
-      "text": "Sebab Allah mengutus Anak-Nya ke dalam dunia bukan untuk menghakimi dunia, melainkan untuk"
+      "text": "Sebab Allah mengutus Anak-Nya ke dalam dunia bukan untuk menghakimi dunia, melainkan untuk",
+      "ref_id": "Yohanes 3:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 13
     },
     {
       "id": 79,
       "diatessaron_verse": "44",
       "ref": "John 3:17",
       "arabic_page": 124,
-      "text": "menyelamatkannya oleh Dia."
+      "text": "menyelamatkannya oleh Dia.",
+      "ref_id": "Yohanes 3:17",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 80,
       "diatessaron_verse": "44",
       "ref": "John 3:18",
       "arabic_page": 124,
-      "text": "Barangsiapa percaya kepada-Nya, ia tidak akan dihukum; barangsiapa tidak percaya, ia telah berada di bawah hukuman, sebab ia tidak percaya dalam nama"
+      "text": "Barangsiapa percaya kepada-Nya, ia tidak akan dihukum; barangsiapa tidak percaya, ia telah berada di bawah hukuman, sebab ia tidak percaya dalam nama",
+      "ref_id": "Yohanes 3:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 22
     },
     {
       "id": 81,
       "diatessaron_verse": "45",
       "ref": "John 3:18",
       "arabic_page": 124,
-      "text": "Anak Tunggal Allah."
+      "text": "Anak Tunggal Allah.",
+      "ref_id": "Yohanes 3:18",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 3
     },
     {
       "id": 82,
       "diatessaron_verse": "45",
       "ref": "John 3:19",
       "arabic_page": 124,
-      "text": "Dan inilah hukuman itu: Terang telah datang ke dalam dunia, tetapi manusia lebih menyukai kegelapan dari pada terang, sebab perbuatan-perbuatan mereka"
+      "text": "Dan inilah hukuman itu: Terang telah datang ke dalam dunia, tetapi manusia lebih menyukai kegelapan dari pada terang, sebab perbuatan-perbuatan mereka",
+      "ref_id": "Yohanes 3:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 21
     },
     {
       "id": 83,
       "diatessaron_verse": "46",
       "ref": "John 3:19",
       "arabic_page": 124,
-      "text": "jahat."
+      "text": "jahat.",
+      "ref_id": "Yohanes 3:19",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 1
     },
     {
       "id": 84,
       "diatessaron_verse": "46",
       "ref": "John 3:20",
       "arabic_page": 124,
-      "text": "Sebab barangsiapa berbuat jahat, membenci terang dan tidak datang kepada"
+      "text": "Sebab barangsiapa berbuat jahat, membenci terang dan tidak datang kepada",
+      "ref_id": "Yohanes 3:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 10
     },
     {
       "id": 85,
       "diatessaron_verse": "47",
       "ref": "John 3:20",
       "arabic_page": 124,
-      "text": "terang itu, supaya perbuatan-perbuatannya yang jahat itu tidak nampak;"
+      "text": "terang itu, supaya perbuatan-perbuatannya yang jahat itu tidak nampak;",
+      "ref_id": "Yohanes 3:20",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 9
     },
     {
       "id": 86,
       "diatessaron_verse": "47",
       "ref": "John 3:21",
       "arabic_page": 124,
-      "text": "tetapi barangsiapa melakukan yang benar, ia datang kepada terang, supaya menjadi nyata, bahwa perbuatan-perbuatannya dilakukan dalam Allah.\""
+      "text": "tetapi barangsiapa melakukan yang benar, ia datang kepada terang, supaya menjadi nyata, bahwa perbuatan-perbuatannya dilakukan dalam Allah.\"",
+      "ref_id": "Yohanes 3:21",
+      "book_code": "yoh",
+      "book_en": "John",
+      "book_id": "Yohanes",
+      "word_count": 17
     }
-  ]
+  ],
+  "title_id": "Pembersihan Bait Allah & Percakapan Nikodemus di Malam Hari",
+  "title_en": "Cleansing the Temple & Night Discourse with Nicodemus",
+  "epoch_id": 5,
+  "total_words": 953,
+  "arabic_page_range": "p. 122 - p. 124",
+  "arabic_pages": [
+    122,
+    123,
+    124
+  ],
+  "stats": {
+    "mat": 6,
+    "mrk": 13,
+    "luk": 15,
+    "yoh": 52,
+    "unk": 0
+  },
+  "footnotes": []
 }
