@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
     <title>Diatessaron-TB — Harmoni Empat Injil oleh Tatianus</title>
 
     <!-- Meta Description & SEO -->
@@ -48,9 +48,10 @@
                     <span class="brand-subtitle">διὰ τεσσάρων</span>
                 </button>
 
-                <button id="chapter-picker-btn" class="chapter-picker-btn" title="Pilih Bab & Bagian Kisah">
+                <button id="chapter-picker-btn" class="chapter-picker-btn" title="Pilih Bab & Bagian Kisah" aria-label="Pilih Bab" aria-haspopup="dialog" aria-expanded="false">
                     <span id="current-chapter-pill">Bab 1</span>
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <span class="pill-total">/ 55</span>
+                    <svg class="chevron-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <polyline points="6 9 12 15 18 9"></polyline>
                     </svg>
                 </button>
@@ -76,12 +77,12 @@
                         <circle cx="11" cy="11" r="8"></circle>
                         <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
                     </svg>
-                    <span>Cari</span>
+                    <span class="search-btn-text">Cari</span>
                     <kbd class="search-kbd">⌘K</kbd>
                 </button>
 
                 <!-- Color Harmony Toggle -->
-                <button id="toggle-color-harmony-btn" class="icon-btn" title="Sorot Warna Harmoni Injil (Matius/Markus/Lukas/Yohanes)" aria-label="Toggle Color Harmony">
+                <button id="toggle-color-harmony-btn" class="icon-btn desktop-tool-btn" title="Sorot Warna Harmoni Injil (Matius/Markus/Lukas/Yohanes)" aria-label="Toggle Color Harmony">
                     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <circle cx="12" cy="12" r="10"></circle>
                         <path d="M12 2a10 10 0 0 1 10 10 10 10 0 0 1-10 10"></path>
@@ -89,7 +90,7 @@
                 </button>
 
                 <!-- Audio TTS Player Trigger -->
-                <button id="audio-toggle-btn" class="icon-btn" title="Dengarkan Narasi (Text-to-Speech)" aria-label="Audio Narration">
+                <button id="audio-toggle-btn" class="icon-btn desktop-tool-btn" title="Dengarkan Narasi (Text-to-Speech)" aria-label="Audio Narration">
                     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
                         <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
@@ -97,22 +98,31 @@
                 </button>
 
                 <!-- Typography / Display Settings -->
-                <button id="display-settings-btn" class="icon-btn" title="Pengaturan Tampilan & Huruf" aria-label="Typography Settings">
+                <button id="display-settings-btn" class="icon-btn desktop-tool-btn" title="Pengaturan Tampilan & Huruf" aria-label="Typography Settings">
                     <span style="font-family: var(--font-serif); font-size: 1.15rem; font-weight: 700;">Aa</span>
                 </button>
 
                 <!-- Theme Switcher -->
-                <button id="theme-toggle-btn" class="icon-btn" title="Ganti Tema (Terang / Kertas Kuno / Sepia / Malam)" aria-label="Toggle Theme">
+                <button id="theme-toggle-btn" class="icon-btn desktop-tool-btn" title="Ganti Tema (Terang / Kertas Kuno / Sepia / Malam)" aria-label="Toggle Theme">
                     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
                     </svg>
                 </button>
 
                 <!-- Inspector Pane Toggle -->
-                <button id="toggle-inspector-btn" class="icon-btn" title="Buka Panel Studi & Eksegesis" aria-label="Toggle Inspector">
+                <button id="toggle-inspector-btn" class="icon-btn desktop-tool-btn" title="Buka Panel Studi & Eksegesis" aria-label="Toggle Inspector">
                     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
                         <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+                    </svg>
+                </button>
+
+                <!-- Mobile More Menu Trigger (⋯) -->
+                <button id="more-menu-btn" class="icon-btn mobile-more-btn" title="Menu Opsi Tambahan" aria-label="Menu Opsi Tambahan" aria-haspopup="menu" aria-expanded="false">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                        <circle cx="12" cy="12" r="2.2"></circle>
+                        <circle cx="19" cy="12" r="2.2"></circle>
+                        <circle cx="5" cy="12" r="2.2"></circle>
                     </svg>
                 </button>
             </div>
@@ -310,10 +320,105 @@
                     <p style="margin-bottom: 1rem;"><strong>Diatessaron</strong> (Yunani: <em>διὰ τεσσάρων</em> - <em>dia tessarōn</em>, secara harfiah: "dari yang empat") adalah karya keselarasan empat Injil tertua dan paling termasyhur dalam sejarah Gereja, yang disusun oleh <strong>Tatianus (± 110–180 M)</strong>, seorang murid dari apologet Yustinus Martir di Mesopotamia Utara.</p>
                     <p style="margin-bottom: 1rem;">Tatianus merajut Injil Matius, Markus, Lukas, dan Yohanes menjadi satu kesatuan kronologis yang utuh. Selama berabad-abad, Diatessaron menjadi teks Injil standar liturgis bagi Gereja Siria kuno sebelum diterjemahkannya versi Peshitta.</p>
                     <p style="margin-bottom: 1rem;">Edisi web ini disadur dari teks terjemahan bahasa Indonesia yang diselaraskan dengan teks LAI-TB (Lembaga Alkitab Indonesia Terjemahan Baru) oleh Sdr. <em>fajaryehuda</em> (SarapanPagi Biblika), berdasarkan susunan naskah terjemahan Diatessaron bahasa Arab dan edisi Hope W. Hogg (<em>Ante-Nicene Fathers</em>, Vol. 9).</p>
-                    <div style="background-color: var(--bg-elevated); padding: 0.75rem 1rem; border-radius: var(--radius-md); font-size: 0.82rem; border-left: 3px solid var(--accent);">
+                    <div style="background-color: var(--bg-elevated); padding: 0.75rem 1rem; border-radius: var(--radius-md); font-size: 0.82rem; border: 1px solid var(--border-subtle);">
                         <strong>Dukungan GitHub Pages:</strong> Aplikasi ini 100% statis, berbobot ringan, berkecepatan tinggi, dan dapat berjalan secara luring tanpa backend tambahan.
                     </div>
                 </div>
+            </div>
+        </div>
+
+        <!-- ====================================================================
+             SHARED APP SCRIM (Backdrop for mobile sidebar, inspector & popovers)
+             ==================================================================== -->
+        <div id="app-scrim" class="app-scrim" aria-hidden="true"></div>
+
+        <!-- ====================================================================
+             CHAPTER JUMP POPOVER / BOTTOM SHEET
+             ==================================================================== -->
+        <div id="chapter-jump-popover" class="chapter-jump-popover" role="dialog" aria-modal="true" aria-labelledby="chapter-jump-title">
+            <div class="chapter-jump-header">
+                <div class="chapter-jump-title-wrap">
+                    <span class="chapter-jump-badge">Harmoni Tatianus</span>
+                    <h3 id="chapter-jump-title" class="chapter-jump-title">Pilih Bab Diatessaron</h3>
+                </div>
+                <button id="chapter-jump-close-btn" class="icon-btn" title="Tutup Pilihan Bab" aria-label="Tutup Pilihan Bab">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="chapter-jump-search-wrap">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+                <input type="text" id="chapter-jump-filter" class="chapter-jump-filter" placeholder="Cari nomor atau judul bab (cth: 1 atau Yohanes)..." autocomplete="off">
+                <button id="chapter-jump-filter-clear" class="chapter-jump-clear-btn" style="display: none;" title="Hapus pencarian">×</button>
+            </div>
+            <div id="chapter-jump-list" class="chapter-jump-list">
+                <!-- Dynamically populated 55 chapters -->
+            </div>
+        </div>
+
+        <!-- ====================================================================
+             MOBILE OVERFLOW MENU POPOVER
+             ==================================================================== -->
+        <div id="more-menu-popover" class="more-menu-popover" role="menu" aria-label="Menu Opsi">
+            <div class="more-menu-group">
+                <button class="more-menu-item" id="more-item-harmony" role="menuitem">
+                    <span class="more-menu-icon">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="12" cy="12" r="10"></circle>
+                            <path d="M12 2a10 10 0 0 1 10 10 10 10 0 0 1-10 10"></path>
+                        </svg>
+                    </span>
+                    <span class="more-menu-label">Warna Harmoni Injil</span>
+                    <span id="more-harmony-status" class="more-menu-badge">Mati</span>
+                </button>
+                <button class="more-menu-item" id="more-item-audio" role="menuitem">
+                    <span class="more-menu-icon">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                            <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+                        </svg>
+                    </span>
+                    <span class="more-menu-label">Narasi Suara (TTS)</span>
+                </button>
+                <button class="more-menu-item" id="more-item-display" role="menuitem">
+                    <span class="more-menu-icon font-icon">Aa</span>
+                    <span class="more-menu-label">Pengaturan Tampilan & Huruf</span>
+                </button>
+                <button class="more-menu-item" id="more-item-theme" role="menuitem">
+                    <span class="more-menu-icon">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                        </svg>
+                    </span>
+                    <span class="more-menu-label">Ganti Tema Bacaan</span>
+                </button>
+                <button class="more-menu-item" id="more-item-inspector" role="menuitem">
+                    <span class="more-menu-icon">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+                            <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+                        </svg>
+                    </span>
+                    <span class="more-menu-label">Panel Studi & Eksegesis</span>
+                </button>
+            </div>
+            <div class="more-menu-divider"></div>
+            <div class="more-menu-group">
+                <button class="more-menu-item" id="more-item-about" role="menuitem">
+                    <span class="more-menu-icon">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="12" cy="12" r="10"></circle>
+                            <line x1="12" y1="16" x2="12" y2="12"></line>
+                            <line x1="12" y1="8" x2="12.01" y2="8"></line>
+                        </svg>
+                    </span>
+                    <span class="more-menu-label">Tentang Diatessaron</span>
+                </button>
             </div>
         </div>
 

@@ -88,7 +88,18 @@
         DOM.readingCanvasWrap = document.getElementById('reading-canvas-wrap');
         DOM.chapterContent = document.getElementById('chapter-content-container');
         DOM.inspectorContent = document.getElementById('inspector-content');
+        DOM.chapterPickerBtn = document.getElementById('chapter-picker-btn');
         DOM.currentChapterPill = document.getElementById('current-chapter-pill');
+        DOM.chapterJumpPopover = document.getElementById('chapter-jump-popover');
+        DOM.chapterJumpFilter = document.getElementById('chapter-jump-filter');
+        DOM.chapterJumpClear = document.getElementById('chapter-jump-filter-clear');
+        DOM.chapterJumpList = document.getElementById('chapter-jump-list');
+        DOM.chapterJumpCloseBtn = document.getElementById('chapter-jump-close-btn');
+
+        DOM.moreMenuBtn = document.getElementById('more-menu-btn');
+        DOM.moreMenuPopover = document.getElementById('more-menu-popover');
+        DOM.moreHarmonyStatus = document.getElementById('more-harmony-status');
+        DOM.appScrim = document.getElementById('app-scrim');
 
         // Gospel Meter
         DOM.meterMat = document.getElementById('meter-mat');
@@ -162,6 +173,7 @@
         State.preferences.colorHarmony = !State.preferences.colorHarmony;
         localStorage.setItem('diatessaron_color_harmony', State.preferences.colorHarmony);
         applyPreferences();
+        updateMoreMenuBadges();
     }
 
     // =========================================================================
@@ -207,7 +219,12 @@
 
     function updateChapterPill(chapter) {
         if (DOM.currentChapterPill) {
-            DOM.currentChapterPill.textContent = `Bab ${chapter.id}: ${chapter.title_id || ''}`;
+            DOM.currentChapterPill.textContent = `Bab ${chapter.id}`;
+        }
+        if (DOM.chapterPickerBtn) {
+            const title = chapter.title_id || chapter.title || '';
+            DOM.chapterPickerBtn.setAttribute('title', `Bab ${chapter.id}: ${title} — Klik untuk pilih bab`);
+            DOM.chapterPickerBtn.setAttribute('aria-label', `Bab ${chapter.id}: ${title}`);
         }
     }
 
@@ -483,11 +500,47 @@
             </div>`;
     }
 
+    function isMobile() {
+        return window.innerWidth <= 768 || window.matchMedia('(max-width: 768px)').matches;
+    }
+
+    function updateScrim() {
+        if (!DOM.appScrim) return;
+        const hasMobileSidebar = DOM.sidebar && DOM.sidebar.classList.contains('mobile-open');
+        const hasMobileInspector = DOM.inspector && DOM.inspector.classList.contains('mobile-open');
+        const hasChapterJump = DOM.chapterJumpPopover && DOM.chapterJumpPopover.classList.contains('active');
+        const hasMoreMenu = DOM.moreMenuPopover && DOM.moreMenuPopover.classList.contains('active');
+
+        if (hasMobileSidebar || hasMobileInspector || (isMobile() && hasChapterJump) || hasMoreMenu) {
+            DOM.appScrim.classList.add('active');
+            if (isMobile() && (hasMobileSidebar || hasMobileInspector || hasChapterJump)) {
+                document.body.style.overflow = 'hidden';
+            }
+        } else {
+            DOM.appScrim.classList.remove('active');
+            document.body.style.removeProperty('overflow');
+        }
+    }
+
+    function closeAllPopoversAndDrawers() {
+        closeChapterJump();
+        closeMoreMenu();
+        if (DOM.sidebar && DOM.sidebar.classList.contains('mobile-open')) {
+            DOM.sidebar.classList.remove('mobile-open');
+        }
+        if (DOM.inspector && DOM.inspector.classList.contains('mobile-open')) {
+            DOM.inspector.classList.remove('mobile-open');
+        }
+        document.querySelectorAll('.modal-overlay.active').forEach(m => m.classList.remove('active'));
+        updateScrim();
+    }
+
     function openInspector() {
         if (DOM.inspector) {
             DOM.inspector.classList.remove('collapsed');
-            if (window.innerWidth <= 768) {
+            if (isMobile()) {
                 DOM.inspector.classList.add('mobile-open');
+                updateScrim();
             }
         }
     }
@@ -496,6 +549,176 @@
         if (DOM.inspector) {
             DOM.inspector.classList.add('collapsed');
             DOM.inspector.classList.remove('mobile-open');
+            updateScrim();
+        }
+    }
+
+    // =========================================================================
+    // CHAPTER JUMP POPOVER / BOTTOM SHEET
+    // =========================================================================
+    let chapterJumpRendered = false;
+
+    function renderChapterJumpList() {
+        if (!DOM.chapterJumpList || !State.indexData) return;
+        let html = '';
+        State.indexData.epochs.forEach(epoch => {
+            const epochChapters = State.indexData.chapters.filter(c => c.epoch_id === epoch.id);
+            if (!epochChapters.length) return;
+
+            html += `
+                <div class="jump-epoch-group" data-epoch-id="${epoch.id}">
+                    <div class="jump-epoch-title">${epoch.title}</div>
+                    <div class="jump-epoch-items">
+            `;
+
+            epochChapters.forEach(ch => {
+                const isActive = ch.id === State.currentChapterId;
+                const searchKeywords = `${ch.id} ${ch.title_id || ''} ${ch.title || ''} ${ch.title_en || ''} ${epoch.title}`.toLowerCase();
+                html += `
+                    <button class="chapter-jump-item ${isActive ? 'active' : ''}" 
+                            data-ch-id="${ch.id}" 
+                            data-search="${searchKeywords}"
+                            onclick="window.DiatessaronApp.navigateToChapter(${ch.id}); window.DiatessaronApp.closeChapterJump();">
+                        <div class="jump-item-left">
+                            <span class="jump-item-num">BAB ${ch.id}</span>
+                            <span class="jump-item-title">${ch.title_id || ch.title}</span>
+                            ${ch.title_en ? `<span class="jump-item-sub">${ch.title_en}</span>` : ''}
+                        </div>
+                        <div class="jump-item-right">
+                            <div class="jump-item-badges">
+                                ${ch.stats.mat ? `<span class="badge-mini mat">Mat</span>` : ''}
+                                ${ch.stats.mrk ? `<span class="badge-mini mrk">Mrk</span>` : ''}
+                                ${ch.stats.luk ? `<span class="badge-mini luk">Luk</span>` : ''}
+                                ${ch.stats.yoh ? `<span class="badge-mini yoh">Yoh</span>` : ''}
+                            </div>
+                            <span class="jump-item-segments">${ch.total_segments} ayat</span>
+                        </div>
+                    </button>
+                `;
+            });
+
+            html += `
+                    </div>
+                </div>
+            `;
+        });
+
+        DOM.chapterJumpList.innerHTML = html;
+        chapterJumpRendered = true;
+    }
+
+    function openChapterJump() {
+        if (!DOM.chapterJumpPopover) return;
+        closeMoreMenu();
+        if (!chapterJumpRendered) {
+            renderChapterJumpList();
+        } else {
+            DOM.chapterJumpList.querySelectorAll('.chapter-jump-item').forEach(item => {
+                const id = parseInt(item.dataset.chId, 10);
+                item.classList.toggle('active', id === State.currentChapterId);
+            });
+        }
+
+        DOM.chapterJumpPopover.classList.add('active');
+        if (DOM.chapterPickerBtn) {
+            DOM.chapterPickerBtn.setAttribute('aria-expanded', 'true');
+            DOM.chapterPickerBtn.classList.add('active');
+        }
+
+        updateScrim();
+
+        if (DOM.chapterJumpFilter) {
+            DOM.chapterJumpFilter.value = '';
+            filterChapterJumpList('');
+            setTimeout(() => {
+                DOM.chapterJumpFilter.focus();
+            }, 60);
+        }
+
+        setTimeout(() => {
+            const activeItem = DOM.chapterJumpList.querySelector('.chapter-jump-item.active');
+            if (activeItem) {
+                activeItem.scrollIntoView({ block: 'center', behavior: 'smooth' });
+            }
+        }, 120);
+    }
+
+    function closeChapterJump() {
+        if (!DOM.chapterJumpPopover) return;
+        DOM.chapterJumpPopover.classList.remove('active');
+        if (DOM.chapterPickerBtn) {
+            DOM.chapterPickerBtn.setAttribute('aria-expanded', 'false');
+            DOM.chapterPickerBtn.classList.remove('active');
+        }
+        updateScrim();
+    }
+
+    function toggleChapterJump() {
+        if (DOM.chapterJumpPopover && DOM.chapterJumpPopover.classList.contains('active')) {
+            closeChapterJump();
+        } else {
+            openChapterJump();
+        }
+    }
+
+    function filterChapterJumpList(query) {
+        if (!DOM.chapterJumpList) return;
+        query = (query || '').trim().toLowerCase();
+        if (DOM.chapterJumpClear) {
+            DOM.chapterJumpClear.style.display = query ? 'inline-flex' : 'none';
+        }
+
+        const groups = DOM.chapterJumpList.querySelectorAll('.jump-epoch-group');
+        groups.forEach(grp => {
+            let visibleCount = 0;
+            const items = grp.querySelectorAll('.chapter-jump-item');
+            items.forEach(item => {
+                const searchStr = item.dataset.search || '';
+                const match = !query || searchStr.includes(query);
+                item.style.display = match ? 'flex' : 'none';
+                if (match) visibleCount++;
+            });
+            grp.style.display = visibleCount > 0 ? 'block' : 'none';
+        });
+    }
+
+    // =========================================================================
+    // MOBILE OVERFLOW "⋯" MENU
+    // =========================================================================
+    function openMoreMenu() {
+        if (!DOM.moreMenuPopover) return;
+        closeChapterJump();
+        updateMoreMenuBadges();
+        DOM.moreMenuPopover.classList.add('active');
+        if (DOM.moreMenuBtn) {
+            DOM.moreMenuBtn.setAttribute('aria-expanded', 'true');
+            DOM.moreMenuBtn.classList.add('active');
+        }
+        updateScrim();
+    }
+
+    function closeMoreMenu() {
+        if (!DOM.moreMenuPopover) return;
+        DOM.moreMenuPopover.classList.remove('active');
+        if (DOM.moreMenuBtn) {
+            DOM.moreMenuBtn.setAttribute('aria-expanded', 'false');
+            DOM.moreMenuBtn.classList.remove('active');
+        }
+        updateScrim();
+    }
+
+    function toggleMoreMenu() {
+        if (DOM.moreMenuPopover && DOM.moreMenuPopover.classList.contains('active')) {
+            closeMoreMenu();
+        } else {
+            openMoreMenu();
+        }
+    }
+
+    function updateMoreMenuBadges() {
+        if (DOM.moreHarmonyStatus) {
+            DOM.moreHarmonyStatus.textContent = State.preferences.colorHarmony ? 'Aktif' : 'Mati';
+            DOM.moreHarmonyStatus.className = `more-menu-badge ${State.preferences.colorHarmony ? 'active' : ''}`;
         }
     }
 
@@ -860,8 +1083,9 @@
         const toggleSidebarBtn = document.getElementById('toggle-sidebar-btn');
         if (toggleSidebarBtn) {
             toggleSidebarBtn.addEventListener('click', () => {
-                if (window.innerWidth <= 768) {
+                if (isMobile()) {
                     DOM.sidebar.classList.toggle('mobile-open');
+                    updateScrim();
                 } else {
                     DOM.sidebar.classList.toggle('collapsed');
                 }
@@ -876,15 +1100,120 @@
             });
         }
 
-        // Chapter Picker Btn -> Open Sidebar Chronology tab
+        // Chapter Picker Btn -> Toggle Chapter Jump Menu
         const pickerBtn = document.getElementById('chapter-picker-btn');
         if (pickerBtn) {
-            pickerBtn.addEventListener('click', () => {
-                DOM.sidebar.classList.remove('collapsed');
-                DOM.sidebar.classList.add('mobile-open');
-                switchSidebarTab('chronology');
+            pickerBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                toggleChapterJump();
             });
         }
+
+        if (DOM.chapterJumpCloseBtn) {
+            DOM.chapterJumpCloseBtn.addEventListener('click', closeChapterJump);
+        }
+
+        if (DOM.chapterJumpFilter) {
+            DOM.chapterJumpFilter.addEventListener('input', (e) => {
+                filterChapterJumpList(e.target.value);
+            });
+        }
+
+        if (DOM.chapterJumpClear) {
+            DOM.chapterJumpClear.addEventListener('click', () => {
+                DOM.chapterJumpFilter.value = '';
+                filterChapterJumpList('');
+                DOM.chapterJumpFilter.focus();
+            });
+        }
+
+        // Mobile More Menu Trigger & Items
+        if (DOM.moreMenuBtn) {
+            DOM.moreMenuBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                toggleMoreMenu();
+            });
+        }
+
+        const moreItemHarmony = document.getElementById('more-item-harmony');
+        if (moreItemHarmony) {
+            moreItemHarmony.addEventListener('click', () => {
+                toggleColorHarmony();
+                closeMoreMenu();
+            });
+        }
+
+        const moreItemAudio = document.getElementById('more-item-audio');
+        if (moreItemAudio) {
+            moreItemAudio.addEventListener('click', () => {
+                closeMoreMenu();
+                toggleAudio();
+            });
+        }
+
+        const moreItemDisplay = document.getElementById('more-item-display');
+        if (moreItemDisplay) {
+            moreItemDisplay.addEventListener('click', () => {
+                closeMoreMenu();
+                DOM.displayModal.classList.add('active');
+            });
+        }
+
+        const moreItemTheme = document.getElementById('more-item-theme');
+        if (moreItemTheme) {
+            moreItemTheme.addEventListener('click', () => {
+                toggleTheme();
+                closeMoreMenu();
+            });
+        }
+
+        const moreItemInspector = document.getElementById('more-item-inspector');
+        if (moreItemInspector) {
+            moreItemInspector.addEventListener('click', () => {
+                closeMoreMenu();
+                if (DOM.inspector && (DOM.inspector.classList.contains('collapsed') || (isMobile() && !DOM.inspector.classList.contains('mobile-open')))) {
+                    openInspector();
+                } else {
+                    closeInspector();
+                }
+            });
+        }
+
+        const moreItemAbout = document.getElementById('more-item-about');
+        if (moreItemAbout) {
+            moreItemAbout.addEventListener('click', () => {
+                closeMoreMenu();
+                DOM.aboutModal.classList.add('active');
+            });
+        }
+
+        // Shared Scrim Click
+        if (DOM.appScrim) {
+            DOM.appScrim.addEventListener('click', closeAllPopoversAndDrawers);
+        }
+
+        // Close popovers on clicking outside
+        document.addEventListener('click', (e) => {
+            if (DOM.chapterJumpPopover && DOM.chapterJumpPopover.classList.contains('active')) {
+                if (!DOM.chapterJumpPopover.contains(e.target) && !DOM.chapterPickerBtn.contains(e.target)) {
+                    closeChapterJump();
+                }
+            }
+            if (DOM.moreMenuPopover && DOM.moreMenuPopover.classList.contains('active')) {
+                if (!DOM.moreMenuPopover.contains(e.target) && !DOM.moreMenuBtn.contains(e.target)) {
+                    closeMoreMenu();
+                }
+            }
+        });
+
+        // Window resize listener
+        window.addEventListener('resize', () => {
+            if (!isMobile()) {
+                if (DOM.sidebar) DOM.sidebar.classList.remove('mobile-open');
+                if (DOM.inspector) DOM.inspector.classList.remove('mobile-open');
+                updateScrim();
+            }
+        });
 
         // Sidebar Tabs
         document.querySelectorAll('.sidebar-tab-btn').forEach(btn => {
@@ -1003,6 +1332,7 @@
             overlay.addEventListener('click', (e) => {
                 if (e.target === overlay) {
                     overlay.classList.remove('active');
+                    updateScrim();
                 }
             });
         });
@@ -1037,13 +1367,9 @@
                 return;
             }
 
-            // Escape -> Close any open modal or inspector
+            // Escape -> Close any open modal, popover, or drawer
             if (e.key === 'Escape') {
-                document.querySelectorAll('.modal-overlay.active').forEach(m => m.classList.remove('active'));
-                if (window.innerWidth <= 768) {
-                    DOM.sidebar.classList.remove('mobile-open');
-                    DOM.inspector.classList.remove('mobile-open');
-                }
+                closeAllPopoversAndDrawers();
                 return;
             }
 
@@ -1104,8 +1430,9 @@
     // =========================================================================
     window.DiatessaronApp = {
         navigateToChapter: (chId) => {
-            if (window.innerWidth <= 768) {
+            if (isMobile()) {
                 DOM.sidebar.classList.remove('mobile-open');
+                updateScrim();
             }
             loadChapter(chId);
         },
@@ -1116,7 +1443,13 @@
         selectVerse,
         copyCitation,
         toggleBookmark,
-        speakSingleVerse
+        speakSingleVerse,
+        openChapterJump,
+        closeChapterJump,
+        toggleChapterJump,
+        openMoreMenu,
+        closeMoreMenu,
+        toggleMoreMenu
     };
 
 })();
